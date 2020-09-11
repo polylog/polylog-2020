@@ -1,0 +1,5 @@
+// Projects - Industries
+
+.sidebar.has-projects {
+  @extend .col-lg-3, .offset-lg-1, .d-flex, .justify-content-center, .d-lg-block, .pt-44, .pt-lg-6;
+}

@@ -1,0 +1,154 @@
+// -----------------------------------------------------------------------------
+// STATS
+// -----------------------------------------------------------------------------
+
+.tile.metric {
+  background-color: $brand-info;
+  color: #fff;
+
+  max-width: 216px;
+
+  // Chevron
+  .icon.forward {
+    border-color: rgba(255, 255, 255, .64);
+    fill: rgba(255, 255, 255, .64);
+    right: 24px;
+    bottom: 16px;
+    z-index: 4;
+  }
+
+  &:hover {
+    .icon.forward {
+      fill: rgb(255, 255, 255);
+    }
+  }
+}
+
+.metric.fluid {
+  max-width: none;
+}
+
+.metric.light {
+  background-color: $blue;
+}
+
+.metric.wide {
+  max-width: 444px;
+}
+
+// Paddings / vertical alignment
+
+.tile.metric .tile-body {
+  padding-right: 2.4rem;
+  padding-left: 2.4rem;
+
+  &.aligned-top {
+    padding-top: 3.1rem;
+  }
+
+  &.aligned-center-2-lines {
+    padding-top: 7.9rem;
+  }
+
+  &.aligned-center-3-lines {
+    padding-top: 6.7rem;
+  }
+
+  &.aligned-center-4-lines {
+    padding-top: 3.7rem;
+  }
+}
+
+// Number
+
+.tile-number {
+  color: #fff;
+  font-family: $headings-font-family;
+  font-size: 6.4rem;
+  font-weight: 200;
+  letter-spacing: -.06em;
+  line-height: 1;
+  padding-bottom: .7rem;
+
+  small {
+    font-family: $font-family-sans-serif;
+    font-size: 1.6rem;
+    margin-left: -.5rem;
+    letter-spacing: 0;
+  }
+
+  .small-valign-middle {
+    vertical-align: middle;
+  }
+}
+
+// End of sentence
+
+.tile-thought-end {
+  display: block;
+
+  &.compact {
+    margin-top: -1.2rem;
+  }
+}
+
+// -----------------------------------------------------------------------------
+
+// SECOND GENERATION
+
+.tile.is-2g {
+  background-color: $blue;
+  text-align: center;
+  margin-bottom: 2px;
+  max-width: none;
+  height: 192px;
+
+  @include media-breakpoint-up(md) {
+    margin-bottom: 12px;
+    height: 252px;
+  }
+}
+
+.tile.is-2g .tile-body {
+  padding-top: 4.4rem;
+  @include media-breakpoint-up(md) {
+    padding-top: 6.7rem;
+  }
+}
+
+// NUMBER
+// Use complex selector to override .vr main.container h2
+.tile.is-2g .tile-number,
+.vr .tile.is-2g .tile-number {
+  font-size: 3.2rem;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+
+  @include media-breakpoint-up(md) {
+    font-size: 6.4rem;
+    font-weight: 200;
+    letter-spacing: -.06em;
+  }
+}
+
+.tile.is-2g .tile-number small {
+  font-size: 1.6rem;
+  margin-left: -.5rem;
+}
+
+// End of sentence
+.tile.is-2g .tile-thought-end {
+  font-size: 1.2rem;
+  line-height: 1.6rem;
+  margin-top: 0;
+
+  @include media-breakpoint-up(md) {
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+    margin-top: -.5rem;
+  }
+}

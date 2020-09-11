@@ -1,0 +1,75 @@
+// -----------------------------------------------------------------------------
+// Columns
+// -----------------------------------------------------------------------------
+
+
+// -----------------------------------------------------------------------------
+// To-do list
+// -----------------------------------------------------------------------------
+
+.list-to-do {
+  padding-left: 0;
+}
+
+
+// -------------------------------------
+// To-do UL
+// -------------------------------------
+
+.list-to-do {
+  @extend .list-unstyled;
+  margin-left: -1rem;
+
+  > .list-to-do-item {
+    background: transparent url('data:image/svg+xml;charset=UTF-8,%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%224%22%20height%3D%224%22%20viewBox%3D%220%2072%204%204%22%3E%3Ccircle%20cx%3D%222%22%20cy%3D%2274%22%20r%3D%222%22%20fill%3D%22%239B9EA2%22%2F%3E%3C%2Fsvg%3E') no-repeat 0 1.1rem;
+    display: inline-block;
+    margin-right: .2rem;
+    padding-left: 1rem;
+    position: relative;
+  }
+
+  > .normal {
+    display: list-item;
+  }
+}
+// -------------------------------------
+// To-do OL
+// -------------------------------------
+
+// It has been using for cycling approach in Services / PR page
+
+// ol.list-to-do {
+//   @extend %ordered-list;
+
+//   list-style-position: inside;
+// }
+
+// .list-to-do[start="8"] {
+//   counter-reset: item 7;
+// }
+
+// .list-to-do[start="11"] {
+//   counter-reset: item 10;
+// }
+
+
+// -----------------------------------------------------------------------------
+// Caption and Icons
+// -----------------------------------------------------------------------------
+
+.list-caption.has-icon {
+  position: relative;
+
+  // Icon
+  &::after {
+    @extend %icon, %icon-md-left;
+
+    left: -5.6rem;
+  }
+}
+
+.list-caption.has-icon.pt-lg-1s::after {
+  @include media-breakpoint-up(lg) {
+    top: $spacer-y;
+  } // lg
+}

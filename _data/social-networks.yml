@@ -1,0 +1,52 @@
+facebook:
+  name:
+    en: Facebook
+    ru: Фейсбук
+  cta_like:
+    en: Facebook Like
+    ru: Фейсбук — Нравится
+  acc: polylog
+
+vk:
+  name:
+    en: Vkontakte
+    ru: Вконтакте
+  api: 5796141
+
+instagram:
+  name:
+    en: Instagram
+    ru: Инстаграм
+  acc: polylogteam
+
+twitter:
+  name:
+    en: Twitter
+    ru: Твиттер
+  acc: '@polylog'
+
+telegram:
+  name:
+    en: Telegram
+    ru: Телеграм
+
+pocket:
+  name:
+    en: Pocket
+    ru: Покет
+
+linkedin:
+  name:
+    en: LinkedIn
+    ru: Линкедин
+  acc: polylog-pr-
+
+email:
+  name:
+    en: Email
+    ru: Почта
+
+# http://pinterest.com/pin/create/button/?url={URI-encoded URL of the page to pin}&media={URI-encoded URL of the image to pin}&description={optional URI-encoded description}"
+# pinterest:
+
+disqus: polylog-pr

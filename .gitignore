@@ -1,0 +1,78 @@
+# A leading slash matches the beginning of the pathname.
+# For example, /*.html matches cat.html but not folder/dog.html
+
+# Trailing slash. foo/ will match a directory foo and paths underneath it,
+# but will not match a regular file or a symbolic link foo
+
+# Nested Folders.
+# products/*.html matches products/soap.html
+# but not products/cars/audi.html or branch/products/soap.html
+# *products*.html matches second and third paths:
+# products/cars/audi.html and branch/products/soap.html
+# the equivalent solution to using /folder/**/*.abc pattern would be
+# placing another .gitignore file into /folder/ and having pattern *.abc
+# there.
+
+# ------------------------------------------------------------------------------
+# JEKYLL & BUILD
+# ------------------------------------------------------------------------------
+
+*.sass-cache*
+.jekyll-cache
+.jekyll-metadata
+.tmp
+sprite.symbol.html
+src/**/*.css
+
+# ------------------------------------------------------------------------------
+# MEDIA FILES
+# ------------------------------------------------------------------------------
+
+/_site/a/video/tutorials/01/01-src.mp4
+/src/**/*.avi
+/src/**/*.doc
+/src/**/*.docx
+/src/**/*.gif
+/src/**/*.jpeg
+/src/**/*.jpg
+/src/**/*.mov
+/src/**/*.mp3
+/src/**/*.mp4
+/src/**/*.mpeg
+/src/**/*.pdf
+/src/**/*.png
+/src/**/*.svg
+/src/**/*.webm
+/src/**/*.webp
+/src/**/*.wmv
+/src/img/
+
+# ------------------------------------------------------------------------------
+# LOCAL DEVELOPMENT
+# ------------------------------------------------------------------------------
+
+# Editors
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+*.code-workspace
+*_notes
+.vscode/*
+
+# Package managers
+.npm
+.yarn-integrity
+jspm_packages
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# All yarn.lock files should be checked into source control
+
+# Optional eslint cache
+.eslintcache
+
+# SYSTEM FILES
+*.DS_Store
+

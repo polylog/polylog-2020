@@ -1,0 +1,113 @@
+---
+layout: default
+---
+
+<main class="container is-grid has-page-header{% unless page.pagination.tag %} collection-index has-article-banner{% endunless %}">
+  <article class="article">
+
+    {% comment %} HEADER {% endcomment %}
+    {% include projects-header.html %}
+
+    {% comment %} FILTER {% endcomment %}
+    <nav aria-label="{{ site.data.projects.filter_projects[page.lang] }}">
+      <ul class="filter is-projects">
+        {% for item in site.data.projects.industries limit:5 %}
+          <li
+            {% if item.slug == 'business-services' %} class="d-none d-md-inline-block"
+            {% elsif item.slug == 'appliances-electronics' %} class="d-none d-lg-inline-block"
+            {% endif %}
+          >
+            <a class="filter__link is-{{ item.slug }}" href="/{{ page.lang }}/projects{% unless item.slug == 'everything' %}/{{ item.slug }}{% endunless %}">
+              {% if item.shortcut %}
+                {{ item.shortcut[page.lang] }}
+              {% else %}
+                {{ item.label[page.lang] }}
+              {% endif %}
+            </a>
+          </li>
+        {% endfor %}
+
+        <li class="dropdown">
+          <a class="filter__dropdown-toggle" id="filtersMore" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            {{ site.data.i18n.labels.more[page.lang] }}
+          </a>
+
+          <div class="dropdown-menu is-projects-filter" aria-labelledby="filtersMore">
+            <h3 class="dropdown__subtitle">{{ site.data.projects.filter_industries[page.lang] }}</h3>
+            <ul class="dropdown__2-columns">
+              {% for item in site.data.projects.industries offset:3 %}
+                <li
+                  {% if item.slug == 'business-services' %} class="dropdown__item d-md-none"
+                  {% elsif item.slug == 'appliances-electronics' %} class="dropdown__item d-lg-none"
+                  {% else %} class="dropdown__item"
+                  {% endif %}
+                >
+                  <a class="dropdown__link is-{{ item.slug }}" href="/{{ page.lang }}/projects/{{ item.slug }}">
+                    {% if item.shortcut %}
+                      {{ item.shortcut[page.lang] }}
+                    {% else %}
+                      {{ item.label[page.lang] }}
+                    {% endif %}
+                  </a>
+                </li>
+              {% endfor %}
+            </ul>
+
+            <h3 class="dropdown__subtitle">{{ site.data.projects.filter_services[page.lang] }}</h3>
+            <ul class="dropdown__2-columns">
+              {% for item in site.data.projects.services %}
+                <li class="dropdown__item">
+                  <a class="dropdown__link is-{{ item.slug }}" href="/{{ page.lang }}/projects/{{ item.slug }}">
+                    {{ item.label[page.lang] }}
+                  </a>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </nav>
+
+    {% comment %} GRID {% endcomment %}
+    <div class="projects row">
+
+      {% assign results = paginator.posts | size %}
+
+      {% comment %} Nothing found {% endcomment %}
+      {% if results == 0 %}
+        <div class="col-md-6">
+          <div class="message" role="alert">
+            <figure class="border">
+              <img class="message__img" src="{{ site.assets }}/img/misc/404-half.jpg" alt="">
+            </figure>
+            <h2 class="message__title">
+              <span>🤷🏻‍♂️</span>
+              {{ site.data.i18n.headings.nothing_found[page.lang] }}
+            </h2>
+            <p class="message__body">
+              {{ site.data.i18n.messages.nothing_found[page.lang] }}
+            </p>
+          </div>
+        </div>
+
+      {% comment %} Loop {% endcomment %}
+      {% else %}
+        {% for post in paginator.posts %}
+          <a class="project" href="{{ post.permalink }}">
+            <img src="{{ site.assets }}/{{ post.thumbnail }}" alt="{{ post.tags[0] }}">
+            <div class="project-caption">
+              <h3 class="project-eyebrow">{{ post.tags[0] }}</h3>
+              <h2 class="project-headline">
+                {{ post.title | strip_html | escape  }}
+              </h2>
+            </div>
+          </a>
+        {% endfor %}
+      {% endif %}
+    </div>
+
+  </article>
+</main>
+
+<!-- PAGINATOR -->
+{% include paginator.html %}

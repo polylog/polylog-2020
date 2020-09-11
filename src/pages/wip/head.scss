@@ -1,0 +1,122 @@
+// stylelint-disable selector-no-qualifying-type
+
+// Bootstrap and plugins styles
+@import './src/base/variables';
+@import './node_modules/bootstrap/scss/variables';
+@import './node_modules/bootstrap/scss/mixins';
+
+.jumbotron.base {
+  // prettier-ignore
+  background-color: rgb(18, 26, 68);
+  background-image:
+    linear-gradient(
+      rgba(0, 0, 0, .5),
+      rgba(0, 0, 0, .5)),
+    url('#{$site-assets}/img/clients/polylog/2019-07-19-hero.jpg?v2');
+  background-repeat: no-repeat;
+  background-size: auto auto;
+
+  @include media-breakpoint-up(md) {
+    // vertical offset for text block
+    padding-top: 16rem;
+  }
+
+  @include media-breakpoint-up(lg) {
+    // stylelint-disable indentation
+    // prettier-ignore
+    background-color: rgb(254, 250, 246);
+    background-image:
+      // linear-gradient(
+      //   rgba(0, 0, 0, .6) 0,
+      //   rgba(0, 0, 0, .3) 33%,
+      //   transparent 100%),
+      linear-gradient(
+        rgba(0, 0, 0, .6) 0%,
+        rgba(0, 0, 0, .18) 50%,
+        rgba(0, 0, 0, .09) 65%,
+        rgba(0, 0, 0, .045) 75.5%,
+        rgba(0, 0, 0, .0222) 82.85%,
+        rgba(0, 0, 0, .0114) 88%,
+        rgba(0, 0, 0, 0) 100%),
+
+      // linear-gradient(
+      //   rgba(7, 93, 169, .3),
+      //   rgba(7, 93, 169, .3)),
+
+      // linear-gradient(
+      //   90deg,
+      //   rgba(7, 93, 169, .8) 0%,
+      //   rgba(7, 93, 169, .4) 33%,
+      //   rgba(7, 93, 169, 0) 100%),
+
+      // radial-gradient(
+      //   circle at 1110px 50%,
+      //   transparent 10%,
+      //   rgba(0, 0, 0, .3) 30%,
+      //   rgba(0, 0, 0, .6) 60%),
+      // linear-gradient(
+      //   rgba(0, 0, 0, .64),
+      //   rgba(0, 0, 0, .64)),
+        url('#{$site-assets}/img/clients/polylog/2019-07-19-hero-lg.jpg?v2');
+    // stylelint-enable indentation
+    background-position: center top;
+    // С верхней шторкой
+    background-size: 100% 160px, auto auto;
+  }
+}
+
+// Box for hero text block
+// .jumbotron-body {
+//   @include media-breakpoint-up(lg) {
+//     background: rgba(0, 0, 0, .72);
+//     box-shadow: 0 24px 48px -12px rgba(0, 0, 0, .4);
+//     border-radius: $border-radius;
+//     padding: 40px 32px 30px;
+//   }
+// }
+
+@include media-breakpoint-up(lg) {
+  .jumbotron-body {
+    padding-top: 0;
+  }
+
+  .jumbotron-eyebrow,
+  .jumbotron-eyebrow:hover,
+  .jumbotron-eyebrow:focus {
+    color: #fff;
+    // text-shadow: 0 1px 0 hsla(0, 0%, 100%, .5);
+  }
+
+  // .jumbotron-headline,
+  // .jumbotron-lead {
+  //   color: hsla(0, 0%, 0%, .7);
+  // }
+
+}
+
+.section.is-photos {
+  margin-top: 3.6rem;
+  padding-top: 0;
+  padding-bottom: .6rem;
+  position: relative;
+
+  @include media-breakpoint-up(md) {
+    margin-top: -12rem;
+  }
+}
+
+.vr .section.is-intro .blockquote {
+  margin-top: 1.4rem;
+}
+
+.section.is-scientific,
+.section.is-practical,
+.section.is-business {
+  padding-bottom: .6rem;
+}
+
+.section.is-exhibition {
+  @include media-breakpoint-up(lg) {
+    padding-bottom: 5.4rem;
+  }
+}

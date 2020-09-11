@@ -1,0 +1,11 @@
+// noindex
+form.form.search(action="/" method="post" role="search")
+  input.search-input(type="text" autocomplete="off" aria-label="Поиск на сайте" placeholder="Поиск: PR, организация мероприятий, IT-решения")
+  button.search-reset(type="reset" aria-label="Очистить" title="Очистить")
+    span.icon.close(role="presentation")
+  button.search-submit(type="submit" aria-label="Искать")
+    svg.icon.is-find(role="presentation"): use(xlink:href="#icon-search")
+  button.search-cancel(type="button") Отменить
+a.search-toggler(href="/ru/search" role="button" aria-haspopup="true" aria-label="Искать на сайте")
+  svg.icon.is-find(role="presentation"): use(xlink:href="#icon-search")
+// /noindex

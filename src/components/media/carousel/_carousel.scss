@@ -1,0 +1,193 @@
+
+// -----------------------------------------------------------------------------
+// Containers
+// -----------------------------------------------------------------------------
+
+// Bootstrap defaults
+
+// .carousel-inner {
+//   overflow: hidden;
+//   position: relative;
+//   width: 100%;
+// }
+
+.carousel > .carousel-inner,
+.carousel-item > ul {
+  @extend .list-unstyled;
+}
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+  align-items: flex-start;
+}
+
+
+// -----------------------------------------------------------------------------
+// Prev & Next
+// -----------------------------------------------------------------------------
+
+// Bootstrap defaults
+
+// .carousel-control {
+//   color: #fff;
+//   font-size: 20px;
+//   text-align: center;
+//   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+//   opacity: 0.5;
+//   position: absolute;
+//   top: 0;
+//   bottom: 0;
+//   left: 0;
+//   width: 15%;
+
+//   &:hover {
+//     color: #fff;
+//     text-decoration: none;
+//     opacity: .9;
+//     outline: 0;
+//   }
+// }
+
+.carousel-control {
+  font-size: 100%;
+  text-shadow: none;
+  position: absolute;
+  top: auto;
+  bottom: 19px;
+  transition: .2s opacity;
+  width: 24px;
+  height: 24px;
+  z-index: 2;
+
+  &:hover {
+    opacity: 1;
+  }
+
+  // Back
+  &.left {
+    left: 19px;
+
+    // On light background
+    &.positive {
+      background: transparent url('data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%3E%3Ccircle%20transform%3D%22translate(12%2012)scale(-1%201)translate(-12%20-12)%22%20cx%3D%2212%22%20cy%3D%2212%22%20r%3D%2212%22%20fill%3D%22%23C1C7CF%22%20%2F%3E%3Cpath%20d%3D%22M2.5-0.7L-1.1-4.7%20-1.7-5.4%20-3.2-4.1%20-2.5-3.3%200.5%200%20-2.5%203.3%20-3.2%204.1%20-1.7%205.4%20-1.1%204.7%202.5%200.7%203.2%200.1%203.1%200%203.2-0.1%202.5-0.7Z%22%20transform%3D%22translate(10.787741%2012.412259)scale(-1%201)%22%20fill%3D%22%23FFF%22%20%2F%3E%3C%2Fsvg%3E') no-repeat;
+    }
+
+    // On dark background
+    &.negative {
+      @extend %chevron-back-white;
+
+      background-position: 43% 50%;
+    }
+  } // back
+
+  // Forward
+  &.right {
+    right: 19px;
+
+    // On light background
+    &.positive {
+      @extend %chevron-forward-in-circle;
+    }
+
+    // On dark background
+    &.negative {
+      @extend %chevron-forward-white;
+
+      background-position: 57% 50%;
+    }
+  } // forward
+
+  // Border on dark backgrounds
+  &.negative {
+    border: 1px solid $negative-hint;
+    border-radius: 50%;
+  }
+}
+
+
+// -----------------------------------------------------------------------------
+// Indicators
+// -----------------------------------------------------------------------------
+
+// Bootstrap default
+
+// .carousel-indicators {
+//   // Use the .carousel-control's width as margin so we don't overlay those
+//   display: flex;
+//   justify-content: center;
+
+//   list-style: none;
+//   margin-left: $carousel-control-width;
+//   margin-right: $carousel-control-width;
+//   padding-left: 0; // override <ol> default
+
+//   position: absolute;
+//   bottom: 10px;
+//   right: 0;
+//   left: 0;
+//   z-index: 15;
+
+//   li {
+//     background-color: rgba($carousel-indicator-active-bg, .5);
+//     cursor: pointer;
+//     flex: 1 0 auto;
+//     height: $carousel-indicator-height;
+//     margin-left: $carousel-indicator-spacer;
+//     margin-right: $carousel-indicator-spacer;
+//     max-width: $carousel-indicator-width;
+//     position: relative;
+//     text-indent: -999px;
+
+//     // Use pseudo classes to increase the hit area by 10px on top and bottom.
+//     &::before {
+//       position: absolute;
+//       top: -10px;
+//       left: 0;
+//       display: inline-block;
+//       width: 100%;
+//       height: 10px;
+//       content: "";
+//     }
+//     &::after {
+//       position: absolute;
+//       bottom: -10px;
+//       left: 0;
+//       display: inline-block;
+//       width: 100%;
+//       height: 10px;
+//       content: "";
+//     }
+//   }
+
+//   .active {
+//     background-color: $carousel-indicator-active-bg;
+//   }
+// }
+
+$carousel-indicator-size:                     10px;
+$carousel-indicator-active-size:              12px;
+
+.carousel-indicators {
+
+  li {
+    background-color: transparent;
+    border-radius: $carousel-indicator-size;
+    border: 1px solid $carousel-indicator-border-color;
+    display: inline-block;
+    flex-grow: 0;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    width: $carousel-indicator-size;
+    height: $carousel-indicator-size;
+  }
+
+  .active {
+    margin-top: 0;
+    margin-bottom: 0;
+    width: $carousel-indicator-active-size;
+    height: $carousel-indicator-active-size;
+  }
+}
+
+

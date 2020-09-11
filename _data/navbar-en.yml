@@ -1,0 +1,47 @@
+- title: <span class="hidden-md-up">PR Services</span><span class="hidden-sm-down">Services</span>
+  url: /en/services
+  name: services
+
+  submenu:
+    - title: <b>Overview</b>
+      url: /en/services
+      index: true
+    - title: Event Management
+      url: /en/services/event-management
+    - title: Public Relations
+      url: /en/services/public-relations
+    - title: Digital Solutions
+      url: /en/services/digital-solutions
+    - title: Fundraising
+      url: /en/services/fundraising
+
+- title: Projects
+  url: /en/projects
+  name: projects
+
+- title: Company
+  url: /en/company
+  name: company
+
+  submenu:
+    - title: About Us
+      url: /en/company
+    - title: Team
+      url: /en/company/management
+    - title: Contacts
+      url: /en/company/contacts
+
+# {% for section in site.data.navbar %}
+#   <li{% if item.url == page.url %}class="is-active"{% endif %}>
+#     {{ section.title }}
+#     {% if site.data.navbar.submenu[0] %}
+#       <ul>
+#         {% for page in section.submenu %}
+#           <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+#         {% endfor %}
+#       </ul>
+#     {% endif %}
+#   </li{%>
+# {% endfor %}
+
+

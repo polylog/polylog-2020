@@ -1,0 +1,104 @@
+// -----------------------------------------------------------------------------
+// Hiding blocks on forms pages
+// -----------------------------------------------------------------------------
+
+.page-form {
+  .navbar-nav,
+  .cta.container,
+  .footer > .row {
+    display: none;
+  }
+
+  @include media-breakpoint-up(md) {
+    .header .search.form,
+    .header__link.is-phone-number,
+    .header__locale-switcher {
+      display: none;
+    }
+  } // md
+}
+
+
+// Hide CTAs on thank you page
+.page-thanks .cta.container,
+.section-company.page-thanks .navbar-cta {
+  display: none;
+}
+
+.page-contact-us .navbar-cta {
+  display: none;
+}
+
+
+// -----------------------------------------------------------------------------
+// Wrappers
+// -----------------------------------------------------------------------------
+
+.page-form .form-wrapper {
+
+  margin: 0 auto;
+  padding-top: 3.8rem;
+  padding-right: 1.6rem;
+  padding-left: 1.6rem;
+
+  @include media-breakpoint-up(md) {
+    padding-top: 14.2rem;
+  }
+
+  @include media-breakpoint-up(lg) {
+    padding-top: 4.6rem;
+  }
+}
+
+// .section-company .form-wrapper {
+//   // 476 plus space for label icon
+//   max-width: 508px;
+// }
+
+// FUNDRAISING FIELDSET (.form-wrapper )
+
+.form__fieldset.is-fundraising,
+.webform-component--fieldset-fundraising,
+.section-company .webform-component--fieldset-fundraising {
+  text-align: left;
+  padding: 0;
+  flex-basis: auto;
+  max-width: none;
+}
+
+.form__fieldset.is-fundraising legend,
+.webform-component--fieldset-fundraising legend {
+  padding: 1.3rem 0 0 32px;
+}
+
+.webform-component--fieldset-fundraising .fieldset-description {
+  padding: 0 0 1.4rem 32px;
+}
+
+
+// @extend .col-lg-7;
+//   flex: 0 0 58.3333%;
+//   max-width: 58.3333%;
+//  padding: 0
+
+
+
+// .page-form .form-wrapper {
+//   margin: 0 auto;
+//   padding-top: 3.8rem;
+//   padding-right: 1.6rem;
+//   padding-left: 1.6rem;
+//
+//   @media (min-width: 768px) {
+//     padding-top: 14.2rem;
+//   }
+
+
+// Disclaimer Tooltip
+
+.page-form .form-disclaimer.tooltip {
+  opacity: 1;
+  position: static;
+  font-size: 100%;
+  text-align: center;
+}

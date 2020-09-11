@@ -1,0 +1,30 @@
+// -----------------------------------------------------------------------------
+// Footer
+// -----------------------------------------------------------------------------
+
+.page.is-blog .footer {
+
+  @include media-breakpoint-down(sm) {
+    border-top: 0;
+    margin-top: 0;
+    padding-top: 0;
+  } // md
+}
+
+
+// -------------------------------------
+// Subscribtion and Quick Links Column
+// -------------------------------------
+
+// In other setions it is hidden on phone and tablets
+
+// In blog it's restored…
+.page.is-blog .footer-last-options {
+  display: block;
+}
+
+// But everything except form are hidden
+.page.is-blog .footer-last-options .footer-heading,
+.page.is-blog .footer-quick-links {
+  @extend .hidden-md-down;
+}

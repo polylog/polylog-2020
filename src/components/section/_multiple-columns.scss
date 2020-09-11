@@ -1,0 +1,38 @@
+// -----------------------------------------------------------------------------
+// Multiple Columns
+// -----------------------------------------------------------------------------
+
+.section-headline.across {
+  column-span: all;
+}
+
+.border-guard {
+  white-space: pre-line;
+}
+
+.columns {
+  column-gap: 40px;
+
+  // Align to sides of grid rows
+  &.row-like {
+    margin-left: -16px;
+    margin-right: -16px;
+  }
+}
+
+// TODO: Vertical rhythm fine tuning
+.row-like.vr-friendly {
+  padding-top: .6rem;
+}
+
+.two-lg.columns {
+  @include media-breakpoint-up(lg) {
+    column-count: 2;
+  } // lg
+}
+
+.two-sm.columns {
+  @include media-breakpoint-up(sm) {
+    column-count: 2;
+  } // sm
+}

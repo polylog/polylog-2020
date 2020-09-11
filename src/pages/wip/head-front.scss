@@ -1,0 +1,66 @@
+// Bootstrap and plugins styles
+@import './src/base/variables';
+@import './node_modules/bootstrap/scss/variables';
+@import './node_modules/bootstrap/scss/mixins';
+
+
+.page-front .jumbotron-wrapper {
+  // vertical offset for text block
+  @include media-breakpoint-up(md) {
+    padding-top: 17.6rem;
+  }
+}
+
+.jumbotron-hero {
+  // prettier-ignore
+  background-image:
+    linear-gradient(
+      rgba(0, 0, 0, .5),
+      rgba(0, 0, 0, .5)),
+    url('#{$site-assets}/img/clients/polylog/2019-07-19-hero.jpg?v2');
+  background-repeat: no-repeat;
+  background-size: auto auto;
+
+  @include media-breakpoint-up(md) {
+    // vertical offset for text block
+    padding-top: 16rem;
+  }
+
+  @include media-breakpoint-up(lg) {
+    // stylelint-disable indentation
+    // prettier-ignore
+    background-image:
+    linear-gradient(
+      rgba(0, 0, 0, .6) 0%,
+      rgba(0, 0, 0, .18) 50%,
+      rgba(0, 0, 0, .09) 65%,
+      rgba(0, 0, 0, .045) 75.5%,
+      rgba(0, 0, 0, .0222) 82.85%,
+      rgba(0, 0, 0, .0114) 88%,
+      rgba(0, 0, 0, 0) 100%),
+      url('#{$site-assets}/img/clients/polylog/2019-07-19-hero-lg.jpg?v2');
+    // stylelint-enable indentation
+    background-position: center top;
+    // С верхней шторкой
+    background-size: 100% 160px, auto auto;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .jumbotron-eyebrow,
+  .jumbotron-eyebrow:hover,
+  .jumbotron-eyebrow:focus {
+    color: #fff;
+    // text-shadow: 0 1px 0 hsla(0, 0%, 100%, .8);
+  }
+
+  // .jumbotron-headline,
+  // .jumbotron-summary {
+  //   color: hsla(0, 0%, 0%, .7);
+  // }
+}
+
+.jumbotron-hero::after {
+  display: none;
+}
+

@@ -1,0 +1,93 @@
+---
+lang: ru
+title: 'Вакансии'
+section: 'Карьера'
+description: 'Нам всегда требуются классные специалисты. Прежде всего — в области event-менеджмента, связей с общественностью, аналитики, информационных технологий, продаж.'
+permalink: /ru/careers/jobs
+image: /img/og/jobs.jpg
+layout: page
+custom-main: true
+banner: /img/s-careers/jobs/header.jpg
+classes: section-careers has-page-header has-article-banner
+cta: cv
+style: |
+  .img-person { top: -3.1rem; margin-bottom: 1.7rem; } .img-person .list-icon { margin-bottom: 0; }
+---
+
+<div class="row gutters-sm pt-66 pb-2">
+  <div class="main-content base">
+    <p class="lead">Нам всегда требуются классные специалисты. Прежде всего&nbsp;— в&nbsp;области event-менеджмента, связей с&nbsp;общественностью, аналитики, информационных технологий, продаж.</p>
+
+    {% if site.data.jobs and site.data.jobs != '' and site.data.jobs != nil %}
+      {% for job in site.data.jobs %}
+        <section class="collapse-wrapper" itemscope itemtype="http://schema.org/JobPosting">
+          <meta itemprop="datePosted" content="{{ job.date }}">
+          <meta itemprop="description" content="В московское PR-агентство требуется {{ job.alias }}">
+          <meta itemprop="hiringOrganization" content="PR-агентство «Полилог»">
+          <div class="sr-only" itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+            <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+              <span itemprop="postalCode">123610</span>,
+              <span itemprop="addressLocality">Москва</span>,
+              <span itemprop="streetAddress"> Краснопресненская наб. 12 (ЦМТ), подъезд 3, этаж 11, офис 1108. </span>
+            </span>
+          </div>
+
+          <h3 class="collapse-headline" data-toggle="collapse" data-target="#job-{{ job.id }}" aria-expanded="false" aria-controls="job-{{ job.id }}" itemprop="title">
+            {{ job.title }}
+          </h3>
+          <div class="collapse" id="job-{{ job.id }}">
+            <div class="collapse-inner">
+              <h4>Функционал:</h4>
+              {{ job.function }}
+
+              <h4>Пожелания и требования:</h4>
+              {{ job.requirements }}
+            </div>
+          </div>
+        </section>
+      {% endfor %}
+    {% endif %}
+
+    <p><strong>Если вы&nbsp;не&nbsp;нашли свою вакансию,</strong> но&nbsp;хотели&nbsp;бы стать частью нашей команды, то&nbsp;<a class="js-contact" href="mailto:hr(at)gmail(dot)com?subject=polylog.ru" title="Написать письмо">направляйте свое резюме вместе с&nbsp;сопроводительным письмом</a> на&nbsp;рассмотрение нашему HR-у и&nbsp;ожидайте обратной связи.</p>
+
+    <h2>Кого мы берём</h2>
+    <p>Мы&nbsp;хотим видеть в&nbsp;нашей команде маркетинговых универсалов&nbsp;— людей готовых достигать поставленных целей, которые могут и&nbsp;хотят учиться новому. Мы&nbsp;приветствуем тех, кто широко и&nbsp;неординарно мыслит, предлагает оригинальные решения и&nbsp;механику их&nbsp;реализации. У&nbsp;нас никаких строгих «функциональных обязанностей». Работа только на&nbsp;результат.</p>
+
+    <h2>Что вы&nbsp;получаете</h2>
+    <ul>
+      <li>Отсутствие бюрократии и&nbsp;участие в&nbsp;принятии ключевых решений.</li>
+      <li>Работа в&nbsp;крупной коммуникационной компании.</li>
+      <li>Возможность быстрого карьерного роста.</li>
+      <li>Работа в&nbsp;дружном коллективе <a href="https://www.instagram.com/polylogteam/" target="_blank" rel="noopener noreferrer">#polylogteam</a>.</li>
+      <li>Программы корпоративного обучения.</li>
+      <li>Оформление по&nbsp;ТК с&nbsp;1&nbsp;рабочего дня.</li>
+      <li>Сертифицированная система менеджмента качества (стандарт ISO 9001:2015).</li>
+      <li>Территориально Краснопресненская набережная, Центр Международной Торговли (метро «Улица 1905&nbsp;года», «Международная», «Деловой центр»).</li>
+      <li>Уровень заработной платы обсуждается на&nbsp;собеседовании.</li>
+    </ul>
+  </div>
+  <div class="col-lg-3 offset-lg-1 mt-2s mt-lg-0">
+    <div class="row">
+      <div class="col-sm-6 col-lg-12 d-flex justify-content-center justify-content-sm-start">
+        <figure class="img-person" itemscope itemtype="http://schema.org/Person"> <img src="{{ site.assets }}/img/people/zhenya-boltack.png" itemprop="image" alt="Евгения Болтак, менеджер по персоналу">
+          <figcaption class="img-person-caption separated"> <b>По&nbsp;любой из&nbsp;вакансий звоните <span itemprop="name">Евгении Болтак</span></b>
+            <ul class="list-icon">
+              <li class="list-icon-item is-phone-xs"> <a class="link is-phone-number" href="tel:+7-495-258-2045" content="+74952582045" itemprop="telephone" title="Звоните">+7 (495) 258-20-45</a> <a class="link is-phone-number" href="tel:+7-965-210-0770" content="+79652100770" itemprop="telephone" title="Звоните">+7 (965) 210-07-70</a></li>
+              <li class="list-icon-item email"> <a class="js-contact" href="mailto:hr(at)gmail(dot)com?subject=polylog.ru" title="Написать письмо">Написать письмо</a> </li>
+            </ul>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="col-sm-6 col-lg-12 text-muted">
+        <p class="mb-0">У&nbsp;нас действует трехуровневая система отбора кандидатов:</p>
+        <ol class="list-ol">
+          <li>собеседование с&nbsp;руководителем&nbsp;HR департамента;</li>
+          <li>собеседование с&nbsp;руководителем профильного департамента и/или бизнес-директором;</li>
+          <li>собеседование с&nbsp;исполнительным директором.</li>
+        </ol>
+        <p>Соискателю может быть предложено выполнить тестовое задание до&nbsp;или после встречи.</p>
+      </div>
+    </div>
+  </div>
+</div>
+

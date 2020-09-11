@@ -1,0 +1,246 @@
+// -----------------------------------------------------------------------------
+// LEGACY
+// -----------------------------------------------------------------------------
+
+// stylelint-disable selector-class-pattern, selector-max-compound-selectors, selector-no-qualifying-type
+
+main.container .list-view,
+.p-news .doc-body > .item_list,
+.p-news-index .doc-body > .item_list,
+ul.news_archive,
+.news .item_list {
+  list-style-image: none;
+  list-style-type: none;
+  margin: 0 0 $spacer-y;
+}
+
+.section-news main.container .list-view > li,
+.p-news .doc-body > .item_list li,
+.p-news-index .doc-body > .item_list li,
+ul.news_archive li,
+.news .item_list li {
+  padding-left: 8rem;
+  position: relative;
+  margin-bottom: $spacer-y / 2;
+}
+
+.section-news .list-view .entry-date,
+.p-news .doc-body > .item_list .date,
+.p-news-index .doc-body > .item_list .date,
+ul.news_archive .date,
+.news .item_list .date {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+ol.unstyled,
+ol.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}
+
+ul.inline {
+  list-style: none;
+  list-style-image: none;
+  padding: 0;
+
+  li {
+    border-right: 1px solid $color-border;
+    display: inline-block;
+    padding: 0 10px 0 5px;
+  }
+}
+
+.list-inline li,
+.vr .container .list-inline li {
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+span.date {
+  color: $color-text-secondary;
+  padding-left: .3em;
+}
+
+// stylelint-enable selector-class-pattern, selector-max-compound-selectors
+
+// -----------------------------------------------------------------------------
+// MODERN
+// -----------------------------------------------------------------------------
+
+// Bootstrap
+// list-inline
+// list-unstyled
+// list-group
+
+// Other options
+// *.{zebra, divided, relaxed}
+// list-action (mdl)
+// list-control (mdl)
+// list-multi-lines
+
+.list-icon,
+.list-check,
+.list-to-do {
+  &.relaxed {
+    > li {
+      padding-bottom: 2.4rem;
+    }
+  }
+}
+
+
+// -----------------------------------------------------------------------------
+// List captions
+// -----------------------------------------------------------------------------
+
+.list-caption {
+  margin-bottom: $spacer-y / 3;
+}
+
+
+// -----------------------------------------------------------------------------
+// Objects
+// -----------------------------------------------------------------------------
+
+dd,
+dl,
+ol,
+p,
+ul {
+  margin: 0 0 $spacer-y;
+}
+
+dt {
+  margin: 0;
+}
+
+
+// -----------------------------------------------------------------------------
+// Article variations
+// -----------------------------------------------------------------------------
+
+// -------------------------------------
+// Ordered lists
+// -------------------------------------
+
+// 1) Create colored numbers
+
+.article-body ol,
+.list-ol {
+  @extend %ordered-list;
+
+  list-style-position: inside;
+
+  ul {
+    list-style-position: outside;
+  }
+}
+
+.list-unstyled li::before {
+  display: none;
+}
+
+.list-ol.outstanding {
+  @extend %ordered-list;
+
+  > li {
+    position: relative;
+
+    &::before {
+      color: rgb(81, 84, 88);
+      position: absolute;
+      top: 0;
+      left: -1.8rem;
+    }
+  }
+}
+
+// -------------------------------------
+// Unordered lists
+// -------------------------------------
+
+.article-body ul,
+.list-ul,
+ul:not([class]) {
+  list-style-image: url('data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%2216%22%20viewBox%3D%220%200%206%2016%22%3E%3Ccircle%20cx%3D%223%22%20cy%3D%2211%22%20r%3D%222%22%20fill%3D%22%238D9093%22%2F%3E%3C%2Fsvg%3E');
+  padding: 0 0 0 16px;
+
+  //min-width
+  @include media-breakpoint-up(md) {
+    padding: 0;
+  }
+}
+
+// -------------------------------------
+// List items
+// -------------------------------------
+
+// 1) Add some space (1/3 line-height) between items.
+//
+// 'Conflict with baseline grids are easier to resolve if you keep in mind this
+// overriding rule: the only purpose of graphic design is to facilitate
+// communication. A grid (or any other design element) is useful an appropriate
+// only if it achieves that purpose.
+//
+// 'The question we can ask of any design choice, especially in typography,
+// is "Will this make the communication easier to grasp, easier to find, or more
+// effective?" Communication is boss, so you immediately know that sticking
+// to the grid is wrong. A single item of information, like an address
+// or the text of a bullet point, must also be a single visual item on the page.
+// It follows that separate items of information must be separate on the page.
+//
+// 'So it's not a matter of whether it's okay to compromise the grid to achieve
+// better communication. Use the rules and techniques of design as much as you
+// want, to make it communicate brilliantly. But never, ever let rules
+// or techniques get in the way of the communication.
+
+.article-body li:not(:last-child),
+.main-content li:not(:last-child) {
+  padding-bottom: $spacer-y / 3; // 1
+}
+
+// Nested lists
+.article-body li ol:not([class]),
+.main-content li ul:not([class]) {
+  margin-bottom: 0;
+  padding: ($spacer-y / 3) 0 0 1.6rem;
+}
+
+
+// -------------------------------------
+// If paragraph needs a bullet
+// -------------------------------------
+
+.pseudo-li {
+  position: relative;
+
+  &::after {
+    background: transparent url('data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%224%22%20height%3D%224%22%20viewBox%3D%220%200%204%204%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ccircle%20fill%3D%22%239B9EA2%22%20cx%3D%222%22%20cy%3D%222%22%20r%3D%222%22%2F%3E%3C%2Fsvg%3E') no-repeat;
+    content: '';
+    display: block;
+    position: absolute;
+    top: 1.1rem;
+    left: -1.4rem;
+    width: 4px;
+    height: 4px;
+  }
+}
+
+// -------------------------------------
+// Completed to-do
+// -------------------------------------
+
+
+.list.is-completed-todo {
+  list-style: none;
+  padding: 0;
+
+  > li {
+    background: url('data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20fill%3D%22%23696%22%20fill-rule%3D%22evenodd%22%20d%3D%22M16.8284271%2C10.4142136%20L10.9142136%2C16.3284271%20L7%2C12.4142136%20L8.41421356%2C11%20L10.9142136%2C13.5%20L15.4142136%2C9%20L16.8284271%2C10.4142136%20Z%20M12%2C22%20C6.4771525%2C22%202%2C17.5228475%202%2C12%20C2%2C6.4771525%206.4771525%2C2%2012%2C2%20C17.5228475%2C2%2022%2C6.4771525%2022%2C12%20C22%2C17.5228475%2017.5228475%2C22%2012%2C22%20Z%20M12%2C20%20C16.418278%2C20%2020%2C16.418278%2020%2C12%20C20%2C7.581722%2016.418278%2C4%2012%2C4%20C7.581722%2C4%204%2C7.581722%204%2C12%20C4%2C16.418278%207.581722%2C20%2012%2C20%20Z%22%2F%3E%3C%2Fsvg%3E') no-repeat 0 .1rem;
+    padding-left: 3.2rem;
+  }
+}
+
+

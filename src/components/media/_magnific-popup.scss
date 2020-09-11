@@ -1,0 +1,168 @@
+.js-mfp {
+  cursor: zoom-in;
+}
+
+.mpf-sm {
+  box-shadow: none;
+  transition: box-shadow .24s cubic-bezier(0.4, 0, 0.2, 1), transform .24s cubic-bezier(0.4, 0, 0.2, 1);
+  transform: translateY(0);
+  margin: 0 auto;
+  max-width: 216px;
+}
+
+.mpf-sm.wide {
+  max-width: 444px;
+}
+
+.mpf-sm:hover {
+  box-shadow: 0 24px 48px -12px rgba(0, 0, 0, 0.4);
+  transform: translateY(-4px);
+}
+
+.mpf-sm.video::before {
+  background: transparent url('data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2248%22%20height%3D%2248%22%20viewBox%3D%220%200%2048%2048%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%3E%3Ctitle%3Evideo%3C%2Ftitle%3E%3Cdefs%3E%3Cpath%20d%3D%22M32.611%2024.531c.519-.313.519-.73%200-1.043L18.83%2015.144c-.414-.313-.829-.105-.829.521v16.689c0%20.521.415.834.933.521l13.678-8.344z%22%20id%3D%22b%22%2F%3E%3Cfilter%20x%3D%22-46.7%25%22%20y%3D%22-27.8%25%22%20width%3D%22193.3%25%22%20height%3D%22177.8%25%22%20filterUnits%3D%22objectBoundingBox%22%20id%3D%22a%22%3E%3CfeOffset%20dy%3D%222%22%20in%3D%22SourceAlpha%22%20result%3D%22shadowOffsetOuter1%22%2F%3E%3CfeGaussianBlur%20stdDeviation%3D%222%22%20in%3D%22shadowOffsetOuter1%22%20result%3D%22shadowBlurOuter1%22%2F%3E%3CfeColorMatrix%20values%3D%220%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200.5%200%22%20in%3D%22shadowBlurOuter1%22%2F%3E%3C%2Ffilter%3E%3C%2Fdefs%3E%3Cg%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%3Ccircle%20fill-opacity%3D%22.5%22%20fill%3D%22%23000%22%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2224%22%2F%3E%3Cg%20fill-rule%3D%22nonzero%22%3E%3Cuse%20fill%3D%22%23000%22%20filter%3D%22url%28%23a%29%22%20xlink%3Ahref%3D%22%23b%22%2F%3E%3Cuse%20fill%3D%22%23FFF%22%20fill-rule%3D%22evenodd%22%20xlink%3Ahref%3D%22%23b%22%2F%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E') no-repeat;
+  display: block;
+  content: '';
+  margin-top: -24px;
+  margin-left: -24px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 48px;
+  height: 48px;
+}
+
+// Close
+
+// .mfp-close {
+//   -webkit-appearance: none;
+//   background: transparent;
+//   border: 0;
+//   box-shadow: none;
+//   color: #fff;
+//   cursor: zoom-out;
+//   display: block;
+//   outline: none;
+//   overflow: visible;
+//   padding-right: 6px;
+//   padding: 0;
+//   right: -6px;
+//   text-align: right;
+//   touch-action: manipulation;
+//   width: 100%;
+//   z-index: 1046;
+// }
+
+// %btn-close {
+//   background: rgba(0, 0, 0, 0) url('data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%3E%3Ccircle%20cx%3D%2212%22%20cy%3D%2212%22%20r%3D%2212%22%20fill%3D%22%23E7EAEE%22%20%2F%3E%3Cpolygon%20points%3D%2211.3%2012%208%208.7%208%208%208.7%208%2012%2011.3%2015.3%208%2016%208%2016%208.7%2012.7%2012%2016%2015.3%2016%2016%2015.3%2016%2012%2012.7%208.7%2016%208%2016%208%2015.3%22%20fill%3D%22%23979797%22%20%2F%3E%3C%2Fsvg%3E%0A') 50% 50% no-repeat;
+//   position: absolute;
+//   width: 36px;
+//   height: 36px;
+// }
+
+.mfp-image-holder .mfp-close,
+.mfp-iframe-holder .mfp-close {
+  @extend %btn-close, .text-hide;
+
+  padding-right: 0;
+  opacity: 1;
+  top: 2.2rem;
+  right: -1.8rem;
+}
+
+.mfp-image-holder .mfp-close {
+  top: 2.2rem;
+}
+
+.mfp-iframe-holder .mfp-close {
+  top: -1.8rem;
+}
+
+// Preloader
+// Content loading is in progress
+
+
+.mfp-preloader::after {
+  @extend %preloader;
+
+  content: '';
+  margin-top: -5.6rem;
+}
+
+// Shadow
+
+.mfp-figure:after,
+.mfp-iframe-scaler iframe {
+  box-shadow: 0 32px 64px -12px rgba(0, 0, 0, .3);
+}
+
+// Hide title
+.mfp-figure figcaption {
+  display: none;
+}
+
+// -----------------------------------------------------------------------------
+// Animation
+// -----------------------------------------------------------------------------
+
+// -------------------------------------
+// Zoom & fade
+// -------------------------------------
+
+// Before-open state
+// 1) Ideally, transition speed should match zoom duration set in media.js
+
+.mfp-zoom,
+.mfp-fade {
+  .mfp-container,
+  &.mfp-bg {
+    backface-visibility: hidden;
+    opacity: 0;
+    transition: all .3s ease-out; // 1
+  }
+}
+
+// Open state
+.mfp-zoom.mfp-ready,
+.mfp-fade.mfp-ready {
+  .mfp-container {
+    opacity: 1;
+  }
+
+  &.mfp-bg {
+    opacity: .64;
+  }
+}
+
+// Closed state
+.mfp-zoom.mfp-removing,
+.mfp-fade.mfp-removing {
+  .mfp-container,
+  &.mfp-bg {
+    opacity: 0;
+  }
+}
+
+.has-enlarge-icon {
+  @extend %has-magnifier-icon;
+
+  &::after {
+    right: -.6rem;
+  }
+}
+
+.has-enlarge-icon.md-left {
+  @include media-breakpoint-down(md) {
+    &::after {
+      right: auto;
+      left: -.6rem;
+    }
+  } // md
+}
+
+.has-enlarge-icon.lg-left {
+  &::after {
+    right: auto;
+    left: -.6rem;
+  }
+}

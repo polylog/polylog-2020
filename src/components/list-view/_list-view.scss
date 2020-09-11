@@ -1,0 +1,44 @@
+.list-view {
+  text-align: left;
+  padding: 0;
+}
+
+// List view in
+
+.list-view.narrow {
+  @extend .col-lg-8;
+}
+
+// -----------------------------------------------------------------------------
+// Compact
+// -----------------------------------------------------------------------------
+
+.list-view.chronology .list-view-item {
+  margin-bottom: $spacer-y;
+  position: relative;
+
+  @include media-breakpoint-up(sm) {
+    padding-left: 8rem;
+  } // sm
+}
+
+.list-view.chronology .list-view-date {
+  color: $color-text-secondary;
+  display: block;
+
+  @include media-breakpoint-up(sm) {
+    position: absolute;
+    top: 0;
+    left: 0;
+  } // sm
+}
+
+
+// -----------------------------------------------------------------------------
+// Typography
+// -----------------------------------------------------------------------------
+
+.list-view-item em,
+.list-view-item i {
+  font-style: normal;
+}

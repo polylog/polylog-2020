@@ -1,0 +1,192 @@
+// -----------------------------------------------------------------------------
+// Legacy
+// -----------------------------------------------------------------------------
+
+.inline { display: inline; }
+
+// !impoerant is used to override BS
+.text-muted { color: $color-text-secondary !important; }
+
+.text-small {
+  font-size: $font-size-sm;
+  line-height: 2rem;
+
+  p {
+    margin-bottom: 2rem;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Modern
+// -----------------------------------------------------------------------------
+
+.nobr { white-space: nowrap; }
+
+// -----------------------------------------------------------------------------
+// Hang leading braces and quotes into the left margin
+// -----------------------------------------------------------------------------
+
+// Using
+// This is <wbr>the<span class="slaquo-h1"> </span> <span class="hlaquo-h1">«</span>Guillemet»
+// <wbr> is optional
+// 1) legacy style
+
+.slaquo-h1 {
+  margin-right: 1.5rem;
+}
+
+.hlaquo-h1,
+.hp { // 1
+  margin-left: -1.5rem;
+} // «
+
+.slaquo-h2 {
+  margin-right: 1.1rem;
+}
+
+.hlaquo-h2,
+.hp { // 2
+  margin-left: -1.1rem;
+} // «
+
+.slaquo-body {
+  margin-right: .7rem;
+}
+
+.hlaquo-body {
+  margin-left: -.7rem;
+} // «
+
+// The technique can not be realized with the :before pseudo element as it
+// is moved to a new line with the parent.
+
+// The same technique can be applied
+// bdquo — „
+// brace — {
+// ldquo — “
+// lsquo — ‘
+
+
+// -----------------------------------------------------------------------------
+// Newlines
+// -----------------------------------------------------------------------------
+
+// .newline-xs-down     display:  block on portrait phones
+// .newline-sm-down                 --||-- phones
+// .newline-md-down                 --||-- phones and tablets
+// .newline-lg-down                 --||-- phones, tablets and small desktops
+// .newline-xl-down                 --||-- all devices
+// .newline-sm-up                   --||-- all devices except portrait phones
+// .newline-md-up                   --||-- tablets and desktops
+// .newline-lg-up                   --||-- small and large desktops
+// .newline-xl-up                   --||-- large desktops
+
+// $grid-breakpoints: (
+//   // Extra small screen / phone
+//   xs: 0,
+//   // Small screen / phone
+//   sm: 544px,
+//   // Medium screen / tablet
+//   md: 768px,
+//   // Tablet landscape / small desktop
+//   lg: 992px,
+//   // Laptops
+//   xl: 1200px,
+//   // Extra large screen / wide desktop
+//   xxl: 1500px
+// );
+
+// Only landscape phones and tablets (min-width: 544px) and (max-width: 991px)
+.newline-sm-md-only {
+  @media (min-width: map-get($grid-breakpoints, 'sm')) and (max-width: map-get($grid-breakpoints, 'lg') - 1) {
+    display: block;
+  }
+}
+
+// Following styles can be set by combinations of standard .hidden-*-up and
+// .hidden-*-down classes. But this solution is shorter
+
+// Line break only on portrait phones
+.br-xs-only {
+  @include media-breakpoint-up(sm) {
+    display: none;
+  }
+}
+
+// Line break on phones and tablets
+.br-up-to-md {
+  @include media-breakpoint-up(lg) {
+    display: none;
+  }
+}
+
+// Line break only on landscape phones only
+.br-sm-only {
+  display: none;
+
+  @include media-breakpoint-only(sm) {
+    display: block;
+  }
+}
+
+// Line break only on tablets
+.br-md-only {
+  display: none;
+
+  @include media-breakpoint-only(md) {
+    display: block;
+  }
+}
+
+// Line break on desktops
+.br-lg-up {
+  display: none;
+
+  @include media-breakpoint-up(lg) {
+    display: block;
+  }
+}
+
+.br-multi-coumns-lg-up {
+  @include media-breakpoint-up(lg) {
+    display: block;
+  }
+}
+
+
+.mt-m6 {
+  margin-top: -.6rem !important;
+}
+
+
+// -----------------------------------------------------------------------------
+// Vertical rhythm fine tuning
+// -----------------------------------------------------------------------------
+
+.text-block.vr-friendly {
+  padding-top: .6rem;
+  padding-bottom: .6rem;
+  margin-bottom: 1.2rem;
+}
+
+// -----------------------------------------------------------------------------
+// Misc
+// -----------------------------------------------------------------------------
+
+::selection {
+  background: $brand-primary;
+  color: #fff;
+  text-shadow: none;
+}
+
+.text-md-capitalize {
+  @include media-breakpoint-down(md) {
+    text-transform: capitalize;
+  } // md
+}
+
+.lowercase {
+  text-transform: none;
+}
+
+

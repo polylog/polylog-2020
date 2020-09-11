@@ -1,0 +1,44 @@
+---
+
+lang: en
+title: 'Team'
+description: 'The members of the Polylog management team bring together a vital combination of leadership skills, extensive PR and event management experience.'
+permalink: /en/company/management
+hreflang-ru: /ru/company/management
+layout: page
+custom-main: true
+classes: section-company has-page-header
+style: |
+  @media (min-width: 1016px) { .br-flex { flex-basis: 100%; overflow: hidden; width: 0; height: 0; } }
+---
+
+
+<div class="page-lead d-flex justify-content-center text-center pt-6 mb-42">
+  <p class="col-lg-7">The&nbsp;agency employs over 90&nbsp;people. But&nbsp;clients mainly communicate with&nbsp;management and&nbsp;leading employees. Let’s&nbsp;get&nbsp;acquainted.</p>
+</div>
+
+<div class="management row">
+  {% for person in site.data.persons %}
+  <figure class="img-person" itemscope itemtype="http://schema.org/Person">
+    <img src="{{ site.assets }}/img/people/{{ person.slug }}.png" srcset="{{ site.assets }}/img/people/{{ person.slug }}.png 1x, {{ site.assets }}/img/people/{{ person.slug }}@2x.png 2x" itemprop="image" alt="{{ person.name }}">
+    <figcaption>
+      {% if person.email %}
+      <a class="img-person-contact js-contact" href="mailto:{{ person.email }}(at)gmail(dot)com?subject=polylog.ru" itemprop="email" title="Write to Me">
+        <span itemprop="name">{{ person.name_en }}</span>
+      </a>
+      {% else %}
+      <span class="img-person-name" itemprop="name">
+        {{ person.name_en }}
+      </span>
+      {% endif %}
+      <span itemprop="jobTitle">{{ person.job_en }}</span>
+      {% if person.is-phone %}
+      <a class="link is-phone-number" href="tel:{{ person.is-phoneLink }}" content="{{ person.is-phoneSchema }}" itemprop="telephone" title="Call Me">{{ person.is-phone }}</a>
+      {% endif %}
+    </figcaption>
+  </figure>
+  {% if person.breakEn %}
+  <div class="br-flex"></div>
+  {% endif %}
+  {% endfor %}
+</div>

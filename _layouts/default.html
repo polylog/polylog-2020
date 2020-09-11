@@ -1,0 +1,43 @@
+---
+layout: base
+---
+
+{% include alerts.html %}
+
+{% include header.html %}
+
+{{ content }}
+
+{% if page.lang == 'ru' %}
+  {% if page.cta == 'blog' %}
+    {% include cta/blog.html %}
+  {% elsif page.cta == 'cv' %}
+    {% include cta/cv.html %}
+  {% elsif page.cta == 'internship' %}
+    {% include cta/internship.html %}
+  {% elsif page.cta == 'it-contacts' %}
+    {% include cta/it-contacts.html.html %}
+  {% elsif page.cta == 'jobs' %}
+    {% include cta/jobs.html %}
+  {% elsif page.cta == 'main' %}
+    {% unless page.contacts %}
+    {% include cta/main.html %}
+    {% endunless %}
+  {% endif %}
+{% endif %}
+
+{% if page.cta and page.lang == 'en' %}
+  {% unless page.contacts %}
+  {% include cta/main-en.html %}
+  {% endunless %}
+{% endif %}
+
+{% if page.lang == 'ru' %}
+  {% include footer.html %}
+{% elsif page.lang == 'en' %}
+  {% include footer-en.html %}
+{% endif %}
+
+{% include navbar.html %}
+{% include modal.html %}
+{% include inline-svg.html %}

@@ -1,0 +1,4 @@
+# Disallow crawling of all content
+User-agent: *
+Disallow: /
+Noindex: /

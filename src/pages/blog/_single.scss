@@ -1,0 +1,49 @@
+// -----------------------------------------------------------------------------
+// Centered
+// -----------------------------------------------------------------------------
+
+%blog-centered {
+  @include media-breakpoint-up(lg) {
+    max-width: 636px;
+  } // lg
+}
+
+.page.is-blog {
+  .article-eyebrow,
+  .tutorial-eyebrow,
+  .article-headline,
+  .article-lead,
+  .article-body,
+  .mosaic-caption,
+  .article-footer,
+  .figure.has-video {
+    @extend %blog-centered;
+  }
+}
+
+// Add space for social buttons
+.page.is-blog .article-lead,
+.page.is-blog .article-body {
+  @include media-breakpoint-up(lg) {
+    padding-right: (636px - 498px);
+  }
+}
+
+
+// -----------------------------------------------------------------------------
+// Body
+// -----------------------------------------------------------------------------
+
+.page.is-blog .article-lead {
+  position: relative;
+}
+
+
+// -----------------------------------------------------------------------------
+// Comments
+// -----------------------------------------------------------------------------
+
+.page.is-blog .comments {
+  @extend %blog-centered;
+}
+

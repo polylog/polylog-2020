@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<main class="container">
+  <article class="article">
+    <header class="article-eyebrow meta">
+      {{ site.data.i18n.headings.projects[page.lang] }}
+    </header>
+
+    <h1 class="article-headline">
+      {{ page.title }}
+    </h1>
+
+    <div class="article-body">
+      {{ content }}
+    </div>
+
+    <footer class="article-footer meta">
+      {% include date.html %}
+    </footer>
+  </article>
+</main>
+
+

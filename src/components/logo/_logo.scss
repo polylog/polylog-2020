@@ -1,0 +1,32 @@
+.logo {
+  @extend %text-hide;
+
+  background: url('#{$site-assets}/img/logo/polylog-logo.svg') no-repeat;
+}
+
+.header .logo {
+  background-position: 0 0;
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  height: 40px;
+  width: 40px;
+  z-index: 1;
+
+  @include media-breakpoint-up(sm) {
+    width: 142px;
+  }
+
+  @include media-breakpoint-up(md) {
+    position: fixed;
+    top: 44px;
+    left: 23px;
+    width: 40px;
+  }
+
+  @include media-breakpoint-up(xl) {
+    top: 45px;
+    left: 24px;
+    width: 142px;
+  }
+}

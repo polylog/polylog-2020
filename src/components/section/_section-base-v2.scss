@@ -1,0 +1,244 @@
+// -----------------------------------------------------------------------------
+// Base
+// -----------------------------------------------------------------------------
+
+.section {
+  text-align: left;
+  padding-top: ($size-line * 3) - .7rem;
+  padding-bottom: $size-line;
+}
+
+.section.container {
+  padding-right: 0;
+  padding-left: 0;
+
+  @include media-breakpoint-up(lg) {
+    padding-right: 8px;
+    padding-left: 8px;
+  } // lg
+}
+
+
+// -----------------------------------------------------------------------------
+// Padding
+// -----------------------------------------------------------------------------
+
+.section.in-box {
+  padding-top: 7rem;
+  padding-bottom: 4.2rem;
+}
+
+.section.in-box.has-interior-box {
+  padding-top: 4.8rem;
+}
+
+.section.is-photos {
+  padding-top: 0;
+}
+
+
+// -----------------------------------------------------------------------------
+// Typography
+// -----------------------------------------------------------------------------
+
+// Eyebrow
+.section-eyebrow {
+  color: $color-text-secondary;
+  font-weight: normal;
+  margin-bottom: 1rem;
+  padding-left: 2.4rem;
+  position: relative;
+
+  .icon {
+    position: absolute;
+    top: .1rem;
+    left: 0;
+    width: 18px;
+    height: 18px;
+  }
+}
+
+
+// Title
+
+.section-headline {
+  font-size: $font-size-h2;
+  font-weight: 400;
+  line-height: 1.5;
+  padding-bottom: .8rem;
+
+  &.secondary,
+  small {
+    font-weight: 300;
+  }
+
+  small {
+    color: $color-text-secondary;
+    font-size: 100%;
+  }
+
+  b, strong {
+    font-weight: 500;
+  }
+
+  // TODO: Vertical rhythm fine tuning
+  &.compact {
+    line-height: 1;
+    padding-bottom: 1.4rem;
+  }
+
+  &.next-is-text {
+    padding-bottom: 2rem;
+
+    @include media-breakpoint-up(lg) {
+      padding-bottom: 5.6rem;
+    } // lg
+  }
+
+  &.next-is-box {
+    padding-bottom: 3.8rem;
+
+    @include media-breakpoint-up(lg) {
+      padding-bottom: 5rem;
+    } // lg
+  }
+
+  &.next-is-icon {
+    padding-bottom: 2.8rem;
+
+    @include media-breakpoint-up(lg) {
+      padding-bottom: 3rem;
+    } // lg
+  }
+}
+
+// TODO: Vertical rhythm fine tuning
+.section-headline.vr-friendly {
+  // a relative value gives an inaccurate result
+  line-height: 3.2rem;
+  padding-bottom: 1.6rem;
+
+  + dl,
+  + ol,
+  + p,
+  + ul {
+    padding-top: .6rem;
+    padding-bottom: .6rem;
+    margin-bottom: .6rem;
+  }
+}
+
+// Light weight headline
+.section-headline.light {
+  font-weight: 300;
+
+  b {
+    font-weight: 500;
+  }
+}
+
+
+// BODY
+.section-intro {
+  margin-bottom: $spacer-y;
+}
+
+.section-body p:last-of-type {
+  margin-bottom: 1.2rem;
+}
+
+// Testimonials and Awards
+
+.section.awards,
+.section.testimonials {
+  text-align: center;
+}
+
+
+// Align the left side of the mosaic which width is limited
+.section.under-mosaic {
+  @include media-breakpoint-only(md) {
+    padding-left: 1.7rem;
+  } // md
+}
+
+
+// -----------------------------------------------------------------------------
+// Themes
+// -----------------------------------------------------------------------------
+
+
+// Dark / Negative
+
+.section.dark {
+  color: #fff;
+
+  .section-headline,
+  .section-headline small,
+  .list-check {
+    color: #fff;
+  }
+
+  a:not([class]) {
+    color: rgb(204, 204, 255);
+
+    &:hover {
+      color: #fff;
+      text-decoration: underline;
+    }
+  }
+
+  ul:not([class]) {
+    list-style-image: url('data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%225%22%20height%3D%228%22%20viewBox%3D%220%200%205%208%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20id%3D%22Symbols%22%20stroke%3D%22none%22%20stroke-width%3D%221%22%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%20fill-opacity%3D%220.5%22%3E%3Ccircle%20cx%3D%222.5%22%20cy%3D%222.5%22%20r%3D%222.5%22%20fill%3D%22%23fff%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E%0A');
+  }
+}
+
+.text-muted-negative {
+  color: rgba(255, 255, 255, .7);
+}
+
+.section.dark .list-check-item {
+  &::after {
+    @extend %icon-check-white;
+  }
+}
+
+
+
+// Light
+
+.section.light {
+  .section-headline small,
+  .ul-list {
+    color: $color-text-primary;
+  }
+}
+
+
+// Lighter
+
+.section.lighter {
+  background-image: linear-gradient(rgb(241, 244, 248), #fff);
+  background-size: auto 330px;
+  background-repeat: repeat-x;
+}
+
+
+// -----------------------------------------------------------------------------
+// Modifications
+// -----------------------------------------------------------------------------
+
+.section.outstanding {
+  @include media-breakpoint-up(lg) {
+    margin-right: -201px;
+    margin-left: -201px;
+  }
+}
+
+.is-full-bleed {
+  @include media-breakpoint-up(lg) {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    width: 100vw;
+  }
+}

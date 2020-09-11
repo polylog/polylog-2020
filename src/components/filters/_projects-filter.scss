@@ -1,0 +1,204 @@
+.filter {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: .6rem 0 0;
+
+  @include media-breakpoint-up(sm) {
+    justify-content: center;
+  }
+
+  @include media-breakpoint-up(md) {
+    padding-top: $size-2 + 1.2rem;
+  }
+}
+
+// Links and dropdown toggle
+.filter__link,
+.filter__dropdown-toggle {
+  color: color-ink(muted);
+  display: inline-block;
+  padding: $size-1;
+  transition: all $duration-sm $easing;
+
+  &:hover {
+    color: color-ink(normal);
+  }
+
+  @include media-breakpoint-up(md) {
+    padding: $size-1 $size-2;
+  }
+}
+
+.page.is-index .filter__link.is-everything,
+.page.is-auto .filter__link.is-auto,
+.page.is-agriculture .filter__link.is-agriculture,
+.page.is-business-services .filter__link.is-business-services,
+.page.is-appliances-electronics .filter__link.is-appliances-electronics,
+.page.is-business-services .dropdown__link.is-business-services,
+.page.is-appliances-electronics .dropdown__link.is-appliances-electronics,
+.page.is-state-corporations .dropdown__link.is-state-corporations,
+.page.is-childrens-goods .dropdown__link.is-childrens-goods,
+.page.is-health-care .dropdown__link.is-health-care,
+.page.is-fashion .dropdown__link.is-fashion,
+.page.is-technology .dropdown__link.is-technology,
+.page.is-beauty .dropdown__link.is-beauty,
+.page.is-real-estate .dropdown__link.is-real-estate,
+.page.is-nonprofit .dropdown__link.is-nonprofit,
+.page.is-fmcg .dropdown__link.is-fmcg,
+.page.is-large-scale .dropdown__link.is-large-scale,
+.page.is-regional-authorities .dropdown__link.is-regional-authorities,
+.page.is-tourism .dropdown__link.is-tourism,
+.page.is-oil-gas-energy .dropdown__link.is-oil-gas-energy,
+.page.is-government .dropdown__link.is-government,
+.page.is-finance .dropdown__link.is-finance,
+.page.is-event-management .dropdown__link.is-event-management,
+.page.is-public-relations .dropdown__link.is-public-relations,
+.page.is-fundraising .dropdown__link.is-fundraising,
+.page.is-digital .dropdown__link.is-digital {
+  background: $color-background-secondary;
+  border-radius: $border-radius;
+  color: color-ink(normal);
+  cursor: default;
+  pointer-events: none;
+}
+
+// Dropdown
+.filter__dropdown-toggle {
+  background: url('data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2212%22%20height%3D%227%22%20viewBox%3D%22445%2021%2012%207%22%3E%3Cpolygon%20points%3D%22452.3%2026.5%20456.6%2023%20455.3%2021.6%20451.1%2025%20447%2021.6%20445.6%2023%20449.9%2026.5%20451%2027.6%20451.1%2027.5%20451.3%2027.6%22%20fill%3D%22%23DDE0E4%22%2F%3E%3C%2Fsvg%3E') no-repeat right center;
+  padding-right: $size-2;
+}
+
+.filter.is-projects .dropdown-menu {
+  margin-bottom: $size-line;
+  right: -$size-2;
+  left: auto;
+  width: $panel-width;
+
+  @include media-breakpoint-up(sm) {
+    right: 0;
+  }
+
+  @include media-breakpoint-up(lg) {
+    padding: $size-3 - .1rem;
+    width: $panel-width-md;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// LEGACY
+// -----------------------------------------------------------------------------
+
+// ROWS
+
+// 1) Rewrite Bootstrap styles for complex selector
+
+#views-exposed-form-projects-page,
+#views-exposed-form-projects-en-page {
+  > div {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -6px;
+    margin-left: -6px;
+  }
+
+  select { // 1
+    height: 48px;
+  }
+}
+
+// Under header
+.row.filter,
+#views-exposed-form-projects-page > div,
+#views-exposed-form-projects-en-page > div  {
+  @extend %gutters-sm;
+
+  padding-top: 4.2rem;
+  padding-bottom: 2.6rem;
+
+  @include media-breakpoint-up(md) {
+    padding-top: 2.4rem;
+  } // md
+
+  @include media-breakpoint-up(lg) {
+    padding-top: 4.8rem;
+  } // lg
+
+
+}
+
+// Under the carousel
+.page-header-carousel {
+  + .row.filter,
+  + #views-exposed-form-projects-page > div,
+  + #views-exposed-form-projects-en-page > div {
+
+    @include media-breakpoint-up(md) {
+      padding-top: 3rem;
+    } // md
+  }
+}
+
+
+// COLUMNS
+
+.row.filter {
+  @include media-breakpoint-up(md) {
+    > [class*='col-'] {
+      @include gutters-sm-col();
+    }
+  } // md
+} // / .gutters-sm
+
+.form-item-services,
+.form-item-industries,
+.form-item-period,
+.form-type-button {
+  @extend .col-sm-6, .col-lg-3;
+
+  @include media-breakpoint-up(md) {
+    @include gutters-sm-col();
+  } // md
+}
+
+.form-item-services,
+.form-item-period {
+  @extend .hidden-xs-down;
+}
+
+
+// SELECTS
+
+.form-select { //1
+  @extend %form-control;
+
+  // Chevron
+  background: #fff url('data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2212%22%20height%3D%227%22%20viewBox%3D%22445%2021%2012%207%22%3E%3Cpolygon%20points%3D%22452.3%2026.5%20456.6%2023%20455.3%2021.6%20451.1%2025%20447%2021.6%20445.6%2023%20449.9%2026.5%20451%2027.6%20451.1%2027.5%20451.3%2027.6%22%20fill%3D%22%23DDE0E4%22%2F%3E%3C%2Fsvg%3E') no-repeat;
+  background-position: right 1.7rem top 2.1rem;
+  color: $color-text-secondary;
+  padding: 1.2rem 4rem 1rem 1.9rem;
+  margin-bottom: 1.2rem;
+
+
+  &:focus {
+    color: $color-text-primary;
+  }
+
+  // @include media-breakpoint-up(md) {
+  //   background-position: right 2.5rem top 2.1rem;
+  // } // md
+}
+
+
+// BUTTON
+
+.form-type-button.projects-filter .form-submit {
+  @extend %btn, %btn-primary;
+  width: 100%;
+}
+
+.form-type-button.disabled .form-submit {
+  cursor: not-allowed;
+  opacity: .64;
+  pointer-events: none;
+}

@@ -1,0 +1,146 @@
+// stylelint-disable selector-list-comma-newline-after, selector-no-qualifying-type
+
+// -----------------------------------------------------------------------------
+// Legacy
+// -----------------------------------------------------------------------------
+
+h2.media-caption { margin-bottom: .733em; }
+
+h3.media-caption { margin-bottom: $spacer-y; }
+
+
+// -----------------------------------------------------------------------------
+// Modern
+// -----------------------------------------------------------------------------
+
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4 {
+  margin: 0;
+}
+
+h1, h2 {
+  // OpenType ligatures and kerning
+  font-feature-settings: 'kern' 1, 'liga' 1;
+  letter-spacing: -.02em;
+}
+
+// Hedaing 1
+// Weight is default $headings-font-weight
+h1:not([class]) {
+  @extend %headline-large; // 24
+
+  a:visited { color: $link-color; }
+
+  b,
+  strong {
+    font-weight: 500;
+  }
+
+  // Tablets and Destops
+  @include media-breakpoint-up(md) {
+    font-size: $font-size-h1; // 36
+    line-height: $line-height-h1; // 36 / 32
+  }
+}
+
+// Heading 2
+// Weight is default $headings-font-weight
+h2:not([class]),
+.subhead {
+  @extend %headline-medium; // 20 / 24
+
+  padding: 2.3rem 0 2.5rem;
+  // padding-bottom: 2.3rem;
+
+  a,
+  a:visited { color: $headings-color; }
+
+  b {
+    font-weight: 500;
+  }
+
+  @include media-breakpoint-up(md) {
+    font-size: $font-size-h2;  // 24
+    line-height: 1;
+    padding: 2.2rem 0 2.6rem;
+  }
+}
+
+.subhead.loose {
+  @include media-breakpoint-up(md) {
+    line-height: 1.5;
+    padding-bottom: .8rem;
+  }
+}
+
+// Top padding
+div, dl, figure, ol,
+p, section, table, ul {
+  + h2:not([class]),
+  + .subhead {
+    padding-top: 2.3rem;
+
+    @include media-breakpoint-up(md) {
+      padding-top: 4.6rem;
+    }
+  }
+}
+
+// Top padding
+div, dl, figure, ol,
+p, section, table, ul {
+  + .subhead.loose {
+    @include media-breakpoint-up(md) {
+      padding-top: 4rem;
+    }
+  }
+}
+
+.row + h2:not([class]),
+.sec-composite + h2:not([class]) {
+  padding-top: 0;
+}
+
+.col-1of2 > h2,
+.col-2of2 > h2 {
+  padding-top: 2.3rem;
+
+  @include media-breakpoint-up(md) {
+    padding-top: 4.6rem;
+  }
+}
+
+
+// Headings 3 and 4
+
+h3, .h3,
+h4, .h4 {
+  font-family: $font-family-sans-serif;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+h3:not([class]), .h3,
+h4:not([class]), .h4 {
+  font-weight: bold;
+  line-height: 1.5;
+  padding-top: 2.4rem;
+  margin-bottom: 2.4rem;
+}
+
+h3:not([class]) {
+  color: $body-color;
+}
+
+h4:not([class]),
+.h4 {
+  color: $brand-success;
+}
+
+h3:not([class]) + h4:not([class]),
+.h3 + .h4 {
+  margin-top: $spacer-y;
+}

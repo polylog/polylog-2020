@@ -1,0 +1,9 @@
+# www.robotstxt.org/
+
+User-agent: *
+Disallow: /projects/
+Disallow: /admin/
+Disallow: /maintenance.html
+
+Host: https://www.polylog.ru
+Sitemap: https://www.polylog.ru/sitemap.xml

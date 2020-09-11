@@ -1,0 +1,94 @@
+<div class="form-wrapper">
+  <h2 class="form-headline">{{ site.data.i18n.headings.form[page.lang] }}</h2>
+  {% if page.lang == 'ru' or page.lang == 'en' %}
+  <p class="form-subhead">{{ site.data.i18n.headings.form_subtitle[page.lang] }}</p>
+  {% endif %}
+
+  <form class="form" id="form-contact" action="https://formspree.io/mzbrbyza" method="post" accept-charset="UTF-8" enctype="multipart/form-data">
+
+    <div class="form-group has-icon user">
+      <label for="form-name">{{ site.data.i18n.labels.form_name[page.lang] }} *</label>
+      <input class="form-control" id="form-name" name="name" type="text" required placeholder="{{ site.data.i18n.labels.form_name[page.lang] }} *">
+    </div>
+
+    <div class="form-group has-icon email">
+      <label for="form-email">{{ site.data.i18n.labels.form_email[page.lang] }} *</label>
+      <input class="form-control" id="form-email" name="email" type="email" required placeholder="{{ site.data.i18n.labels.form_email[page.lang] }} *">
+    </div>
+
+    {% if page.lang == 'ru' or page.lang == 'en' %}
+    <div class="form-group has-icon is-phone">
+      <label for="form-phone">{{ site.data.i18n.labels.form_phone[page.lang] }}</label>
+      <input class="form-control" id="form-phone" name="phone" type="tel" placeholder="{{ site.data.i18n.labels.form_phone[page.lang] }}">
+    </div>
+
+    <div class="form-group select has-icon services">
+      <label for="form-services">{{ site.data.i18n.labels.form_phone[page.lang] }} *</label>
+      <select class="form-control form-select" id="form-services" name="services">
+        <option value="value" selected="selected">{{ site.data.i18n.labels.form_interest[page.lang] }} *</option>
+        <option value="{{ site.data.i18n.labels.form_event[page.lang] }}">{{ site.data.i18n.labels.form_event[page.lang] }}</option>
+        <option value="PR">{{ site.data.i18n.labels.form_pr[page.lang] }}</option>
+        <option value="{{ site.data.i18n.labels.form_fundraising[page.lang] }}">{{ site.data.i18n.labels.form_fundraising[page.lang] }}</option>
+        <option value="{{ site.data.i18n.labels.form_digital[page.lang] }}">{{ site.data.i18n.labels.form_digital[page.lang] }}</option>
+      </select>
+    </div>
+    {% endif %}
+    {% if page.lang == 'ru' %}
+    <fieldset class="form__fieldset is-fundraising">
+      <legend>С&nbsp;этого момента поподробнее</legend>
+      <p class="fieldset-description">Для оформления заявки на&nbsp;сбор средств нам понадобится дополнительная информация.</p>
+
+      <div class="form-group has-icon company">
+        <label for="form-company">Компания / организация</label>
+        <input class="form-control is-optional-required" id="form-company" name="company" type="text" placeholder="Ваша компания / организация *">
+      </div>
+
+      <div class="form-group has-icon position">
+        <label for="form-position">Должность</label>
+        <input class="form-control is-optional-required" id="form-position" name="position" type="text" placeholder="Ваша должность *">
+      </div>
+
+      <div class="form-group has-icon project-group">
+        <label for="form-project-group">Проектная группа</label>
+        <textarea class="form-control form-textarea" id="form-project-group" name="project_group" cols="40" rows="4" placeholder="Проектная группа: количество человек и функционал"></textarea>
+      </div>
+
+      <div class="form-group has-icon money">
+        <label for="form-money">Сумма</label>
+        <input class="form-control is-optional-required" id="form-money" name="money" type="text" placeholder="Какую сумму планируете привлечь? *">
+      </div>
+
+      <div class="form-group has-icon terms">
+        <label for="form-terms">Сроки</label>
+        <input class="form-control is-optional-required" id="form-terms" name="terms" type="text" placeholder="Сроки реализации проекта *">
+      </div>
+
+      <div class="form-group is-upload">
+        <label class="form__label has-icon" for="form-upload">Презентационные материалы проекта и&nbsp;спонсорские пакеты (если есть)</label>
+        <div class="form__description">Максимальный размер файла: 21 МБ.<br>Допустимые типы файлов: pdf doc docx ppt pptx xls xlsx jpg jpeg png avi mov zip.</div>
+        <div>
+          <input class="form__file" type="file" id="form-upload" name="upload" size="22">
+          <input class="form-submit" id="form-upload-button" name="form_upload_button" type="submit" value="Закачать">
+        </div>
+      </div>
+    </fieldset>
+    {% endif %}
+    <div class="form-group has-icon message">
+      <label for="form-message">{{ site.data.i18n.labels.form_message[page.lang] }} *</label>
+      <textarea class="form-control form-textarea" id="form-message" name="message" cols="40" rows="8" required placeholder="{{ site.data.i18n.labels.form_message[page.lang] }} *"></textarea>
+    </div>
+
+    <input name="_language" type="hidden" value="{{ page.lang }}">
+    <input name="_cc" type="hidden" value="nickysheen@yandex.ru">
+    <input name="_subject" type="hidden" value="polylog.ru">
+
+    <div class="form-actions">
+      <div class="g-recaptcha" data-sitekey="6LdJ-tMUAAAAAFhu6emGk5O6ck4042vGSedCsvsr"></div>
+      <div class="form__feedback" id="form-contact-status"></div>
+      <button class="form__submit is-primary" id="form-contact-button" type="submit">{{ site.data.i18n.labels.form_submit[page.lang] }}</button>
+      {% if page.lang == 'ru' or page.lang == 'en' %}
+      <p class="form-disclaimer">{{ site.data.i18n.labels.form_disclaimer[page.lang] }}</p>
+      {% endif %}
+    </div>
+  </form>
+</div>

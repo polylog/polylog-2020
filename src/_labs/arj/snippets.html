@@ -1,0 +1,44 @@
+{% comment %} Фильтрация проектов #1 {% endcomment %}
+{% if page.industry %}
+  {% assign posts = paginator.posts | where_exp: 'item', 'item.industry contains page.title' %}
+{% elsif page.service %}
+  {% assign posts = paginator.posts | where_exp: 'item', 'item.services contains page.title' %}
+{% else %}
+  {% assign posts = paginator.posts %}
+{% endif %}
+
+{% for post in paginator.posts %}
+  <a class="project" href="{{ post.permalink }}">
+    <img src="{{ site.assets }}/{{ post.thumbnail }}" alt="{{ post.client }}">
+    <div class="project-caption">
+      <h3 class="project-eyebrow">{{ post.client }}</h3>
+      <h2 class="project-headline">
+        {{ post.title | escape }}
+      </h2>
+    </div>
+  </a>
+{% endfor %}
+
+
+{% comment %} Фильтрация проектов #2 {% endcomment %}
+{% for post in paginator.posts %}
+  {% if post.industry contains page.title %}
+    {% include project-card.html %}
+  {% endif %}
+{% endfor %}
+
+{% comment %} Фильтрация проектов #3 {% endcomment %}
+{% for post in paginator.posts %}
+  {% if post.industry == 'Госкорпорации' %}
+    <a class="project" href="{{ post.permalink }}">
+      <img src="{{ site.assets }}/{{ post.thumbnail }}" alt="{{ post.client }}">
+      <div class="project-caption">
+        <h3 class="project-eyebrow">{{ post.client }}</h3>
+        <h2 class="project-headline">
+          {{ post.title | escape }}
+        </h2>
+      </div>
+    </a>
+  {% endif %}
+{% endfor %}
+

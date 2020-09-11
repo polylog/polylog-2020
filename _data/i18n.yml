@@ -1,0 +1,172 @@
+company:
+  title:
+    en: 'Polylog PR Agency'
+    ru: 'PR-агентство «Полилог»'
+    ja: 'PR代理店「ポリログ」'
+    zh: '公关机构“Polylog”'
+  street:
+    en: '12&nbsp;Krasnopresnenskaya Naberezhnaya (WTC), Office&nbsp;1108'
+    ru: 'Краснопресненская наб. 12 (ЦМТ), подъезд 3, этаж 11, офиc 1108'
+  city:
+    en: 'Moscow'
+    ru: 'Москва'
+  postal_code: 123610
+  country:
+    en: 'Russia'
+    ru: 'Россия'
+  phone: +7 (495) 258-20-45
+  phone_link: +74952582045
+  email: service-request(at)gmail(dot)com
+  area_served: RU
+  opening_hours: Mo, Tu, We, Th, Fr 10:00-18:00
+  price_range:
+    en: $3,500 and up
+    ru: от 200 тыс. руб.
+  latitude: ''
+  longitude: ''
+
+# ------------------------------------------------------------------------------
+# Headings and Labels
+# ------------------------------------------------------------------------------
+# region
+
+headings:
+  news_arj:
+    en: 'News Archive'
+    ru: 'Архив новостей'
+  form:
+    en: 'Contact Us'
+    ru: 'Обратная связь'
+    ja: 'お問い合わせ'
+    zh: '联系我们'
+  form_subtitle:
+    en: 'Write to&nbsp;us or&nbsp;leave a&nbsp;number. We&nbsp;want to&nbsp;hear from you.'
+    ru: 'Напишите нам или оставьте номер&nbsp;— свяжемся'
+  nothing_found:
+    en: 'Nothing found'
+    ru: 'Ничего не&nbsp;найдено'
+  projects:
+    en: '<a class="meta-link is-return-to-index" href="/en/projects">Projects</a>'
+    ru: '<a class="meta-link is-return-to-index" href="/ru/projects">Проекты</a>'
+
+labels:
+  logo:
+    en: 'Логотип PR-агентства «Полилог»'
+    ru: 'Polylog PR Logo'
+  search:
+    en: 'Search'
+    ru: 'Поиск'
+  find:
+    en: 'Find'
+    ru: 'Найти'
+  search_label:
+    en: 'Search for...'
+    ru: 'Поиск по сайту'
+  search_placeholder:
+    en: 'Search PR, event management and digital solutions'
+    ru: 'Поиск: PR, организация мероприятий, IT-решения'
+  clear:
+    en: 'Clear'
+    ru: 'Очистить'
+  close:
+    en: 'Close'
+    ru: 'Закрыть'
+  cancel:
+    en: 'Cancel'
+    ru: 'Отменить'
+  back:
+    en: 'Back'
+    ru: 'Назад'
+  call:
+    en: 'Call us'
+    ru: 'Позвонить'
+  menu:
+    en: 'Menu'
+    ru: 'Меню'
+  write:
+    en: 'Get In Touch'
+    ru: 'Пишите'
+  home:
+    en: 'Home'
+    ru: 'Главная'
+  more:
+    en: 'More'
+    ru: 'Ещё'
+
+  # CTA
+  cta_help:
+    en: 'How can we help<span class="hidden-lg-up">?</span><small>your business?</small>'
+    ru: 'Нужен PR? Event? IT? <small>Составить смету?</small>'
+  cta_contact:
+    en: '<span class="hidden-lg-up">Contact</span><span class="hidden-md-down">Get in Touch</span>'
+    ru: 'Пишите'
+
+  # Social Tools
+  share_cta:
+    en: 'Share'
+    ru: 'Поделиться'
+
+  #Form
+  form_name:
+    en: 'Your Name'
+    ru: 'Ваше имя'
+    ja: 'お名前'
+    zh: '您的名字'
+  form_email:
+    en: 'Email'
+    ru: 'Email'
+    ja: 'Email'
+    zh: 'Email'
+  form_phone:
+    en: 'Phone Number'
+    ru: 'Опишите задачу'
+  form_interest:
+    en: 'Select an Interest'
+    ru: 'Выберите услугу'
+  form_event:
+    en: 'Event Management'
+    ru: 'Организация мероприятий'
+  form_pr:
+    en: 'Public Relations'
+    ru: 'PR-поддержка, PR-кампания'
+  form_digital:
+    en: 'Digital Solutions'
+    ru: 'IT-решения в&nbsp;госсекторе'
+  form_fundraising:
+    en: 'Fundraising'
+    ru: 'Фандрайзинг'
+  form_message:
+    en: 'Describe the task'
+    ru: 'Опишите задачу'
+    ja: 'メッセージ'
+    zh: '讯息'
+  form_submit:
+    en: 'Get in Touch'
+    ru: 'Оставить заявку'
+    ja: '提出する'
+    zh: '提交'
+  form_subscribe:
+    en: 'Subscribe'
+    ru: 'Получать заметки по почте'
+# endregion
+
+# ------------------------------------------------------------------------------
+# System messages
+# ------------------------------------------------------------------------------
+
+messages:
+  js_disabled:
+    en: 'JavaScript is currently disabled. The site requires JavaScript to function correctly. Please <a href="http://enable-javascript.com/" target="_blank" rel="noopener noreferrer nofollow">enable Javascript in your browser</a>.'
+    ru: 'В вашем браузере выключен JavaScript. Поэтому не работает основная навигация, не открываются окна дополнительной информации. <a href="https://yandex.ru/support/mail/tech-glossary.html#js-enable" target="_blank" rel="noopener noreferrer nofollow">Включите Javascript</a>.'
+  form_thanks:
+    en: '<div class="alert is-success" role="alert"><svg class="icon" role="presentation" focusable="false"><use xlink:href="{{ site.assets }}/img/graphics/sprite.svg#icon-success"></use></svg>Thanks. The message should already be&nbsp;in&nbsp;our&nbsp;inbox. We&nbsp;will contact you shortly.</div>'
+    ru: '<div class="alert is-success" role="alert"><svg class="icon" role="presentation" focusable="false"><use xlink:href="{{ site.assets }}/img/graphics/sprite.svg#icon-success"></use></svg>Спасибо. Сообщение уже должно попасть в&nbsp;наш почтовый ящик. Мы&nbsp;свяжемся с&nbsp;вами в&nbsp;ближайшее время.</div>'
+  form_error:
+    en: '<div class="alert is-error" role="alert"><svg class="icon" role="presentation" focusable="false"><use xlink:href="{{ site.assets }}/img/graphics/sprite.svg#icon-error"></use></svg>Oops! There was a problem. Please make sure all required fields are filled out correctly.</div>'
+    ru: '<div class="alert is-error" role="alert"><svg class="icon" role="presentation" focusable="false"><use xlink:href="{{ site.assets }}/img/graphics/sprite.svg#icon-error"></use></svg>Ошибка… Проверьте, пожалуйста, всё&nbsp;ли вы&nbsp;правильно заполнили.</div>'
+  form_disclaimer:
+    en: 'By&nbsp;clicking the button, you <a href="/en/company/privacy-policy#consent" target="_blank" rel="noopener noreferrer">consent to&nbsp;the collection, processing and use of&nbsp;your data</a>'
+    ru: 'Нажимая на&nbsp;кнопку, вы&nbsp;даете <a href="/ru/company/privacy-policy#consent" target="_blank" rel="noopener noreferrer">согласие на&nbsp;обработку персональных данных</a>'
+  nothing_found:
+    en: 'Look <span class="nobr">on the <a href="/en">homepage</a></span>, in&nbsp;the&nbsp;main menu, or&nbsp;use the&nbsp;search in&nbsp;the&nbsp;header'
+    ru: 'Поищите еще <a href="/">на&nbsp;главной</a>, в&nbsp;основном меню или воспользуйтесь поиском в&nbsp;&laquo;шапке&raquo;'

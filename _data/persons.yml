@@ -1,0 +1,125 @@
+- name: Олег Карпилов
+  name_en: Oleg Karpilov
+  slug: oleg
+  job: генеральный директор
+  job_en: CEO
+
+- name: Максим Сучков
+  name_en: Maxim Suchkov
+  slug: max
+  job: первый заместитель генерального директора
+  job_en: First Deputy CEO
+  email: suchkov
+
+- name: Надежда Первова
+  name_en: Nadezhda Pervova
+  slug: nadya-pervova
+  job: заместитель генерального директора по&nbsp;PR
+  job_en: <span class="nowrap">Deputy CEO, PR</span>
+  email: pervova
+  break: true
+
+- name: Валерия Исакова
+  name_en: Valeriya Isakova
+  slug: valeriya-isakova
+  job: пресс-секретарь
+  job_en: Spokesperson
+  email: isakova
+
+- name: Евгения Болтак
+  name_en: Evgeniya Boltak
+  slug: zhenya-boltack
+  job: руководитель <span class="nowrap">HR-департамента</span>
+  job_en: Chief Human Resources Officer
+  email: hr
+
+- name: Александр Молчанов
+  name_en: Alexander Molchanov
+  slug: alexander-molchanov
+  job: руководитель департамента мероприятий
+  job_en: Head of&nbsp;the&nbsp;Event Management Division
+  email: molchanov
+
+- name: Людмила Богатырева
+  name_en: Lyudmila Bogatyreva
+  slug: lyuda-bogatyreva
+  job: руководитель департамента цифровых решений
+  job_en: Head of&nbsp;the&nbsp;Digital Division
+  email: bogatyreva
+
+- name: Роман Моложон
+  name_en: Roman Molozhon
+  slug: roman-molozhon
+  job: руководитель департамента спецпроектов
+  job_en: Head of&nbsp;the&nbsp;Special Projects Division
+  email: molozhon
+
+- name: Анна Белоусова
+  name_en: Anna Belousova
+  slug: anna-belousova
+  job: руководитель департамента мероприятий
+  job_en: Head of&nbsp;the&nbsp;Event Management Division
+  email: belousova
+
+- name: Елизавета Слёзкина
+  name_en: Elizabeth Slyozkina
+  slug: liza-slyozkina
+  job: руководитель департамента по&nbsp;развитию бизнеса
+  job_en: Head of&nbsp;Business Development
+  email: slezkina
+
+- name: Лиля Драмбян
+  name_en: Lilya Drambyan
+  slug: lylia-drambyan
+  job: руководитель <span class="nowrap">PR-департамента</span>
+  job_en: Head of&nbsp;the&nbsp;PR Division
+  email: drambyan
+
+- name: Екатерина Вески
+  name_en: Ekaterina Veski
+  slug: ekaterina-veski
+  job: руководитель департамента мониторинга
+  job_en: Head of&nbsp;the&nbsp;Monitoring Department
+  email: veski
+
+- name: Родион Зорин
+  name_en: Rodion Zorin
+  slug: rodion-zorin
+  job: <span class="nowrap">и. о. руководителя</span> <span class="nowrap">PR-департамента</span>
+  job_en: Acting Head of&nbsp;the&nbsp;PR Division
+  email: zorin
+
+- name: Андрей Макеев
+  name_en: Andrey Makeev
+  slug: andrey-makeev
+  job: заместитель департамента цифровых решений
+  job_en: Deputy Head of&nbsp;the&nbsp;Digital Division
+  email: makeev
+
+- name: Никита Сетов
+  name_en: Nikita Setov
+  slug: nikita-setov
+  job: заместитель руководителя департамента спецпроектов
+  job_en: Deputy Head of&nbsp;the&nbsp;Special Projects Division
+  email: setov
+
+- name: Светлана Платонова
+  name_en: Svetlana Platonova
+  slug: svetlana-platonova
+  job: заместитель руководителя департамента спецпроектов
+  job_en: Deputy Head of&nbsp;the&nbsp;Special Projects Division
+  email: platonova
+
+- name: Александра Колединская
+  name_en: Alexandra Koledinskaya
+  slug: aleksandra-koledinskaya
+  job: заместитель руководителя департамента мероприятий
+  job_en: Deputy Head of&nbsp;the&nbsp;Event Management Division
+  email: koledinskaya
+
+- name: Дарья Меньшова
+  name_en: Daria Menshova
+  slug: daria-menshova
+  job: заместитель руководителя департамента мероприятий
+  job_en: Deputy Head of&nbsp;the&nbsp;Event Management Division
+  email: menshova
