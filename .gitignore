@@ -51,6 +51,8 @@ src/**/*.css
 # LOCAL DEVELOPMENT
 # ------------------------------------------------------------------------------
 
+robots_.txt
+
 # Editors
 !.vscode/extensions.json
 !.vscode/launch.json
