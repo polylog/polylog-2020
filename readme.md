@@ -1,3 +1,3 @@
 # Веб-сайт пиар-агентства «Полилог»
 
-![Логотип агентства](/a/img/logo/polylog-logo.svg)
+![Логотип агентства](_site/a/img/logo/polylog-logo.svg)
