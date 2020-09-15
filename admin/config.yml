@@ -2,8 +2,8 @@ backend:
   name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
   branch: master # Branch to update (optional; master is default, do we can leave this line out)
 
-# media_folder: 'a/upload/blog'
-media_folder: 'src/img/blog'
+media_folder: 'a/upload/blog'
+# media_folder: 'src/img/blog'
 
 # Prevent timezones conflicts
 future: true
