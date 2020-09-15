@@ -23,6 +23,8 @@
 .tmp
 sprite.symbol.html
 src/**/*.css
+/_site/*
+!/_site/a/*
 
 # ------------------------------------------------------------------------------
 # MEDIA FILES
@@ -54,13 +56,13 @@ src/**/*.css
 robots_.txt
 
 # Editors
+*.code-workspace
+*_notes
+.vscode/*
 !.vscode/extensions.json
 !.vscode/launch.json
 !.vscode/settings.json
 !.vscode/tasks.json
-*.code-workspace
-*_notes
-.vscode/*
 
 # Package managers
 .npm
@@ -77,4 +79,5 @@ yarn-error.log*
 
 # SYSTEM FILES
 *.DS_Store
+
 
