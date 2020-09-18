@@ -30,5 +30,5 @@ date: 2012-10-04
 
 Обязательно начинайте с указания даты и места. Когда в вашем тексте появляются имена, обязательно указывайте их должность, и, если необходимо, отношение к мероприятию или факту, который вы описываете.
 
-По материалам <a href="http://bonnieelgiepr.com/blog/2012/09/27/back-to-the-pr-basics-general-writing-tips/">Bonnie Elgie PR </a>
+По материалам <a href="https://bonnieelgiepr.com/blog/2012/09/27/back-to-the-pr-basics-general-writing-tips/">Bonnie Elgie PR </a>
 

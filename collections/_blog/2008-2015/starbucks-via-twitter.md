@@ -14,5 +14,5 @@ date: 2013-11-25
 
 Теперь можно соединить свою карточку клиента Старбакс и аккаунт в твиттере, и используя специальный хэштег, отправить кофе кому-то кого вы читаете в твиттере, может быть даже кому-то кого вы не встречали в реальности.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/social-media-marketing/starbucks-tweet-coffee-campaign-allows-users-gift-via-twitter/"> Creative Guerrilla Marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/social-media-marketing/starbucks-tweet-coffee-campaign-allows-users.gift-via-twitter/"> Creative Guerrilla Marketing</a>
 

@@ -46,5 +46,5 @@ date: 2014-06-25
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_hEzW1WRFTg" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://www.printsome.com/blog/2014/ambush-marketing-10-creative-guerrilla-campaigns/">PrintSome</a>
+По материалам <a href="https://www.printsome.com/blog/2014/ambush-marketing-10-creative-guerrilla-campaigns/">PrintSome</a>
 

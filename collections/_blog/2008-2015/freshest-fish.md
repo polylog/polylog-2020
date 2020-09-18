@@ -14,5 +14,5 @@ date: 2012-06-12
 
 <img src="{{ site.assets }}/upload/fish3.jpg" alt="" class="post__img" width="580" height="189">
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/gomes_da_costa_fresh_fish?size=_original">ads of the world</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/gomes_da_costa_fresh_fish?size=_original">ads of the world</a>
 

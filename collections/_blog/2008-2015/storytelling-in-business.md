@@ -28,5 +28,5 @@ date: 2013-04-23
 
 Кроме того, необходимо максимально облегчить потребителю распространение позитивных отзывов. Сейчас есть широкий выбор социальных медиа, которые при достаточно небольшом вложении труда и интеллекта, становятся не только удобными, но и провоцирующими разговор средствами.
 
-По материалам <a href="http://saydaily.com/2013/04/using-storytelling-to-ignite-word-of-mouth-marketing.html">SayDaily</a>
+По материалам <a href="https://saydaily.com/2013/04/using-storytelling-to-ignite-word-of-mouth-marketing.html">SayDaily</a>
 

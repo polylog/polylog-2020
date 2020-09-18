@@ -46,7 +46,7 @@ date: 2009-02-18
 
 <dt><strong>Микроблоггинг</strong> (англ. micro-blogging) —</dt>
 
-<dd>Ведение интернет-дневников, допускающих только короткие (до 200 символов) записи. Публиковаться на сайтах микроблоггинга можно не только через их формы, но также с помощью SMS, email и программ мгновенного обмена сообщениями, вроде ICQ. Крупнейшая и известнейшая служба микроблоггинга — <a href="http://twitter.com/" target="_blank" rel="noopener noreferrer">Twitter</a>.</dd>
+<dd>Ведение интернет-дневников, допускающих только короткие (до 200 символов) записи. Публиковаться на сайтах микроблоггинга можно не только через их формы, но также с помощью SMS, email и программ мгновенного обмена сообщениями, вроде ICQ. Крупнейшая и известнейшая служба микроблоггинга — <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">Twitter</a>.</dd>
 
 <dt><strong>Трафик</strong> (англ. traffic — дорожное движение) —</dt>
 
@@ -90,7 +90,7 @@ date: 2009-02-18
 
 <dt><strong>Мэшап</strong> (англ. mashup) —</dt>
 
-<dd>Веб-приложение, объединяющее данные из нескольких источников в один интегрированный инструмент. Например, гибрид карт <a href="http://ru.wikipedia.org/wiki/Google_Maps" title="Google Maps" target="_blank" rel="noopener noreferrer">Google</a> с объявлениями с <a href="http://ru.wikipedia.org/w/index.php?title=Craigslist&amp;action=edit&amp;redlink=1" title="Craigslist (страница отсутствует)" target="_blank" rel="noopener noreferrer">Craigslist</a>.</dd>
+<dd>Веб-приложение, объединяющее данные из нескольких источников в один интегрированный инструмент. Например, гибрид карт <a href="https://ru.wikipedia.org/wiki/Google_Maps" title="Google Maps" target="_blank" rel="noopener noreferrer">Google</a> с объявлениями с <a href="https://ru.wikipedia.org/w/index.php?title=Craigslist&amp;action=edit&amp;redlink=1" title="Craigslist (страница отсутствует)" target="_blank" rel="noopener noreferrer">Craigslist</a>.</dd>
 
 <dt><strong>Семантическая паутина</strong> —</dt>
 
@@ -98,7 +98,7 @@ date: 2009-02-18
 
 <dt><strong>Лайфстрим-службы</strong> (англ. lifestream — поток жизни) —</dt>
 
-<dd>Веб-службы, объединяющие записи о деятельности человека в различных социальных сетях. Пример — <a href="http://friendfeed.com/" target="_blank" rel="noopener noreferrer">FriendFeed</a>.</dd>
+<dd>Веб-службы, объединяющие записи о деятельности человека в различных социальных сетях. Пример — <a href="https://friendfeed.com/" target="_blank" rel="noopener noreferrer">FriendFeed</a>.</dd>
 
 <dt><strong>Лайфкастинг</strong> (англ. livecasting — жизнь в прямом эфире) —</dt>
 
@@ -112,7 +112,7 @@ date: 2009-02-18
 
 <dd>Молодой человек, не приученный к традиционным СМИ, и получающий, создающий и активно обменивающийся информацией с помощью интернета и мобильных сетей.</dd>
 
-<dt><strong><a href="http://www.plugoo.com/" target="_blank" rel="noopener noreferrer">Plugoo</a></strong> —</dt>
+<dt><strong><a href="https://www.plugoo.com/" target="_blank" rel="noopener noreferrer">Plugoo</a></strong> —</dt>
 
 <dd>Виджет, с помощью которого посетители сайта, могут писать его владельцу в ICQ и в подобные программы мгновенного обмена сообщениями.</dd>
 
@@ -122,8 +122,8 @@ date: 2009-02-18
 
 <dt><strong>Карта обсуждения</strong> —</dt>
 
-<dd><a href="http://www.briansolis.com/2009/02/top-social-brands-of-2008-whats-your.html" target="_blank" rel="noopener noreferrer">Иерархическая схема интернет-сообществ</a>, влияющих на формирование бренда.</dd>
+<dd><a href="https://www.briansolis.com/2009/02/top-social-brands-of-2008-whats-your.html" target="_blank" rel="noopener noreferrer">Иерархическая схема интернет-сообществ</a>, влияющих на формирование бренда.</dd>
 
 </dl>
-<p>По материалам <a href="http://slovari.yandex.ru/dict/internet" target="_blank" rel="noopener noreferrer">Интернетско-русского разговорника</a>, <a href="http://ru.wikipedia.org/" target="_blank" rel="noopener noreferrer">Википедии</a> и блога <a href="http://deirdrebreakenridge.com/2009/01/new-pr-vocabulary/" target="_blank" rel="noopener noreferrer">Дейдры Брейкенридж</a></p>
+<p>По материалам <a href="https://slovari.yandex.ru/dict/internet" target="_blank" rel="noopener noreferrer">Интернетско-русского разговорника</a>, <a href="https://ru.wikipedia.org/" target="_blank" rel="noopener noreferrer">Википедии</a> и блога <a href="https://deirdrebreakenridge.com/2009/01/new-pr-vocabulary/" target="_blank" rel="noopener noreferrer">Дейдры Брейкенридж</a></p>
 

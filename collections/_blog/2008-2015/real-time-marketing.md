@@ -20,5 +20,5 @@ date: 2014-12-25
 
 Интересные темы и события  не закончатся никогда, и понимание этого позволит вам легче относится к ситуации выбора, когда и как реагировать.
 
-По материалам <a hhref="http://socialfresh.com/real-time-marketing-data/">Social Fresh</a>
+По материалам <a hhref="https://socialfresh.com/real-time-marketing-data/">Social Fresh</a>
 

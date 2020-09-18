@@ -28,5 +28,5 @@ date: 2015-10-05
 
 Бизнес-блоги заводят по разным причинам: кто-то хочет привлечь внимание к марке, кто-то старается расширить базу подписчиков. Какой бы ни была ваша причина, вам необходимо регулярно отслеживать результаты вашего ведения блога. Если этого не делать, вы никогда не узнаете, насколько успешна ваша тактика. Поэтому находите время на изучение аналитики по вашему блогу и изучайте, что приносит результат, а что нуждается в улучшении.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/social-media-marketing/5-business-blogging-mistakes-to-look-out-for/">Creative Guerrilla Marketing </a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/social-media-marketing/5-business-blogging-mistakes-to-look-out-for/">Creative Guerrilla Marketing </a>
 

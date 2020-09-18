@@ -16,5 +16,5 @@ date: 2015-10-25
 
 С самого первого дня кампания привлекла внимание прессы, и люди отзывались о кампании очень хорошо.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/traffic_is_life_missed_signs">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/traffic_is_life_missed_signs">Ads of the World</a>
 

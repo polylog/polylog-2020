@@ -16,5 +16,5 @@ date: 2009-04-23
 
 <img src="{{ site.assets }}/upload/keyboard_namecard.jpg" alt="" class="post__img" width="264" height="600">
 
-По материалам <a href="http://www.adsoftheworld.com">Ads of the World</a>
+По материалам <a href="https://www.adsoftheworld.com">Ads of the World</a>
 

@@ -14,5 +14,5 @@ date: 2013-01-13
 
 Цифры успеха могут показаться слишком маленькими - 39 порций равиоли продано за месяц,  52 пиццы, 27 тирамису... Но эти небольшие цифры составляют рост в 1000% по сравнению с предыдущим месяцем, когда кофейня продала 5 порций равиоли и две пиццы...
 
-По материалам <a href="http://adsoftheworld.com/media/outdoor/caffe_negra_you_are_on_the_right_way?size=original">ads of the world</a>
+По материалам <a href="https://adsoftheworld.com/media/outdoor/caffe_negra_you_are_on_the_right_way?size=original">ads of the world</a>
 

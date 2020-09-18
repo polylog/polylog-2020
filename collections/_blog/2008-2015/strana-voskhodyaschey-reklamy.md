@@ -19,5 +19,5 @@ date: 2010-08-12
  <img src="{{ site.assets }}/upload/2_barcodes_mizou_.jpg" alt="" class="post__img" width="360" height="750"></li>
 </ul>
 
-По материалам <a href="http://adsofjapan.com">Ads of Japan</a>
+По материалам <a href="https://adsofjapan.com">Ads of Japan</a>
 

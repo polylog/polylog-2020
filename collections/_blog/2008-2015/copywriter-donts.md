@@ -48,5 +48,5 @@ Cамая большая ошибка в историях успеха и при
 
 Наш контент – это способ продемонстрировать и поделиться нашей человечностью, и в этом процессе случаются жалобные или возмущенные тирады. Но если люди видят от вас сплошной негатив, рано или поздно они отвернутся и найдут кого-то еще. Поддерживайте общий тон позитивным и никогда не возмущайтесь в адрес ваших клиентов или команды.
 
-По материалам <a href="http://www.business2community.com/content-marketing/10-things-successful-content-marketers-never-0874093.html#!MeB9b#eHD4Dd2ziMPy6TQq.97”">Resonance Content Marketing</a>
+По материалам <a href="https://www.business2community.com/content-marketing/10-things-successful-content-marketers-never-0874093.html#!MeB9b#eHD4Dd2ziMPy6TQq.97”">Resonance Content Marketing</a>
 

@@ -46,5 +46,5 @@ date: 2014-03-19
 
 <img src="{{ site.assets }}/upload/4f1082830d460133de444f79faa4b4a1.jpg" alt="" class="post__img" width="467" height="277">
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/denver-big-ambient-advertising-bring-awareness-water-consumption/">CreativeGuerrillaMarketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/denver-big-ambient-advertising-bring-awareness-water-consumption/">CreativeGuerrillaMarketing</a>
 

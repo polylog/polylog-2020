@@ -8,7 +8,7 @@ date: 2013-12-09
 
 Benadryl, бренд производящий лекарства для борьбы с аллергией. решил на базе Гугл Карт создать карту концентрации пыльцы в Лондоне. Прекрасная идея, которая однако, была в неожиданном ключе использована горожанами....
 
-<img src="http://assets.econsultancy.com/images/0004/0669/Benadryl.png" alt="" width="300">
+<img src="https://assets.econsultancy.com/images/0004/0669/Benadryl.png" alt="" width="300">
 
 Кто сказал что инстинкт рисования на заборах проходит у взрослых людей?
 
@@ -22,7 +22,7 @@ British Airways, выходя в Твиттер, явно не была гото
 
 "поскольку мы такой классный аэропорт... вот от чего мы вас защищаем, когда идет снег. Ю-ххуу!"
 
-<img src="http://assets.econsultancy.com/images/0004/0674/luton_airport.jpg" alt="" width="400">
+<img src="https://assets.econsultancy.com/images/0004/0674/luton_airport.jpg" alt="" width="400">
 
 Это крушение имело место в реальной жизни, и среди пострадавших был ребенок, так что люди отреагировали очень быстро. Единственный плюс - твит быстро убрали.
 
@@ -30,11 +30,11 @@ British Airways, выходя в Твиттер, явно не была гото
 
 Ураган Сэнди - плохой повод для продвижения своей еды. И в любом случае, текст смотрится очень странно: "Бостон, наши сердца с вами. Нам всем пригодится хорошая тарелочка энергии на завтрак".
 
-<img src="http://assets.econsultancy.com/images/resized/0004/0676/epicurious-blog-full.jpeg" alt="" width="400">
+<img src="https://assets.econsultancy.com/images/resized/0004/0676/epicurious-blog-full.jpeg" alt="" width="400">
 
 Даже если у компании все хорошо и с продукцией, и с публичным имиджем, могут найтись несколько человек, которые по каким-либо причинам (или просто так) нахулиганят. Безопасность аккаунта в социальных сетях - такое же серьезное дело, как безопасность бухгалтерской базы данных. Иначе однажды можно прочитать в своем же твиттере, что вашу компанию купил МакДональдс, как это недавно произошло с компанией Бургер Кинг: хакеры взломали аккаунт компании в твиттере, поменяли логотип на логотип МакДональдса, и написали что компания теперь куплена...
 
-<img src="http://assets.econsultancy.com/images/resized/0004/0691/bk-blog-full.jpg" alt="" width="400">
+<img src="https://assets.econsultancy.com/images/resized/0004/0691/bk-blog-full.jpg" alt="" width="400">
 
-По материалам <a href="http://econsultancy.com/ru/blog/63901-the-top-16-social-media-fails-of-2013">Econsultancy</a>
+По материалам <a href="https://econsultancy.com/ru/blog/63901-the-top-16-social-media-fails-of-2013">Econsultancy</a>
 

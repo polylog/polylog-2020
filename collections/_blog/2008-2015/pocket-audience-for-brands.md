@@ -18,5 +18,5 @@ date: 2014-05-03
 
 Самое главное для любого бренда будет набрать первоначальную аудиторию, пусть не самую большую, но максимально активную. Люди ищут общения, и там, где оно интенсивно, даже не так важна тема: люди приходят.
 
-По материалам <a href="http://www.adweek.com/news/advertising-branding/time-brands-build-their-own-social-sites-158038">AD week</a>
+По материалам <a href="https://www.adweek.com/news/advertising-branding/time-brands-build-their-own-social-sites-158038">AD week</a>
 

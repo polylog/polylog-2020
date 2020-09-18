@@ -24,5 +24,5 @@ date: 2015-11-26
 
 Эта функция твиттера неоправданно редко используется. Но мы живем в визуалном мире, и видео контент сейчас очень хорошо воспринимается. Снимайте клипы о своих мероприятиях, что угодно смешное и короткое. Не обязательно со словами, не обязателно профессионально снятое.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/social-media-marketing/7-killer-twitter-tactics-for-2016/">Creative Guerrilla Marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/social-media-marketing/7-killer-twitter-tactics-for-2016/">Creative Guerrilla Marketing</a>
 

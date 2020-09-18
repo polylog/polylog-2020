@@ -20,5 +20,5 @@ date: 2008-04-25
 
 И еще раз – помните о читателе. Не давайте вашим иллюзиям убаюкать ваше внимание – постоянно спрашивайте себя, действительно ли вы знаете, для кого пишете рассылку, внимательно следите за реакцией пользователя.
 
-По материалам <a href="http://www.newsletter-europa.com/newsletters/the-8-biggest-newsletter-marketing-mistakes-23.php">Newsletter-Europa.com</a>
+По материалам <a href="https://www.newsletter-europa.com/newsletters/the-8-biggest-newsletter-marketing-mistakes-23.php">Newsletter-Europa.com</a>
 

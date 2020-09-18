@@ -10,7 +10,7 @@ date: 2008-09-02
 
 <strong>Клиент</strong>:	Siemens
 
-<strong>Агентство</strong>:	<a href="http://www.webershandwick.com/" target="_blank" rel="noopener noreferrer">Weber Shandwick</a>
+<strong>Агентство</strong>:	<a href="https://www.webershandwick.com/" target="_blank" rel="noopener noreferrer">Weber Shandwick</a>
 
 Корпорация Siemens запустила стратегическую коммуникационную кампанию по внедрению новых способов построения инфраструктур, отвечающих требованиям 21 века.  Кампания повысила узнаваемость бренда и его новаторских решений.
 
@@ -54,5 +54,5 @@ Siemens и Weber Shandwick применили следующие тактики:
 
 Возрос спрос на экспертов от Siemens, так что компания была вынуждена ввести бизнес-тренинги по выступлениям в СМИ и проведению презентаций в обязательную программу для всех специалистов.
 
-По материалам <a href="http://www.ipra.org/detail.asp?articleid=264">IPRA.org</a>
+По материалам <a href="https://www.ipra.org/detail.asp?articleid=264">IPRA.org</a>
 

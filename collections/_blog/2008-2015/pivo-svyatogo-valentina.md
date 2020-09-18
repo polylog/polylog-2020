@@ -42,5 +42,5 @@ date: 2010-02-18
 
 "Два часа делаю что хочу"
 
-По материалам <a href="http://www.adsoftheworld.com"> Ads of the World </a>
+По материалам <a href="https://www.adsoftheworld.com"> Ads of the World </a>
 

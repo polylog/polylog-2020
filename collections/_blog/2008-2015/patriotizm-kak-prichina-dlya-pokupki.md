@@ -20,5 +20,5 @@ date: 2011-05-12
 
 <img src="{{ site.assets }}/upload/rom-5.jpg" alt="" class="post__img" width="366" height="243">
 
-По материалам <a href="http://adsoftheworld.com">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com">Ads of the World</a>
 

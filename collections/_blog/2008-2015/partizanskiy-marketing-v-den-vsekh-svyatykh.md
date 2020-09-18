@@ -14,5 +14,5 @@ date: 2011-11-10
 
 Кроме того, праздник - прекрасный повод вспомнить о благотворительности. Можно устроить костюмированный марафон или автопробег, организовать сбор одежды или средств в районе.
 
-По материалам <a href="http://www.joshwhitford.com/2008/10/10/halloween-marketing-ideas/">Josh Whitford</a> и  <a href="http://microbusiness.vistaprint.com/2011/halloween-marketing-tips/">Microbusiness</a>
+По материалам <a href="https://www.joshwhitford.com/2008/10/10/halloween-marketing-ideas/">Josh Whitford</a> и  <a href="https://microbusiness.vistaprint.com/2011/halloween-marketing-tips/">Microbusiness</a>
 

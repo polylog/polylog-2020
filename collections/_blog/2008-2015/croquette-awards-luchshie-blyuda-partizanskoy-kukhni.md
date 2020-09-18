@@ -16,7 +16,7 @@ date: 2010-10-15
 
 Результат: более 100 мировых медиа-платформ опубликовали видео с этой кампанией.
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/qgxUtLcWRrE?fs=1&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qgxUtLcWRrE?fs=1&amp;hl=ru_RU" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385"><param name="movie" value="https://www.youtube.com/v/qgxUtLcWRrE?fs=1&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/qgxUtLcWRrE?fs=1&amp;hl=ru_RU" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
-По материалам <a href='http://www.croquetteawards.com/'> Croquette Awards </a>
+По материалам <a href='https://www.croquetteawards.com/'> Croquette Awards </a>
 

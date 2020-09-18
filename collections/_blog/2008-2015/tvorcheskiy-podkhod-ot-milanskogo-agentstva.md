@@ -18,5 +18,5 @@ date: 2008-07-10
 
 Переезд салона диванов вообще был превращен в городское шоу - часть мебели, конечно, отправилась обычным путем, обернутая в целлофан, в грузовиках, а часть - встала на специальные колесики и поехала по городу сама.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/MNe--R1D2pU&hl=en&fs=1"> <param name="wmode" value="transparent"> <embed src="http://www.youtube.com/v/MNe--R1D2pU&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/MNe--R1D2pU&hl=en&fs=1"> <param name="wmode" value="transparent"> <embed src="https://www.youtube.com/v/MNe--R1D2pU&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="344"></embed></object>
 

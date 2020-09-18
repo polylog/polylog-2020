@@ -44,5 +44,5 @@ date: 2011-03-20
 
 В конце концов это приведет к дальнейшему стиранию границ, когда все виды взаимодействий будут называться P2P - people-to-people.
 
-По материалам <a href="http://blog.mynewsdesk.com/2010/11/19/pr-communication-and-marketing-trends-2011-part-1/">MyNewsDesk</a>
+По материалам <a href="https://blog.mynewsdesk.com/2010/11/19/pr-communication-and-marketing-trends-2011-part-1/">MyNewsDesk</a>
 

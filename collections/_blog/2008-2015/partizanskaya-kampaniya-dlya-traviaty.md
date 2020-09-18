@@ -12,5 +12,5 @@ date: 2008-09-26
 
 В ходе кампании использовались меловые силуэты людей на асфальте и перронах станций, а также меловые разбитые сердечки и другие символы несчастной любви. Чуть поодаль теми же мелками писалось название оперы. Кампания привлекала огромное внимание молодежи.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Xb2fQIVK02A&hl=ru&fs=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/Xb2fQIVK02A&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/Xb2fQIVK02A&hl=ru&fs=1"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/Xb2fQIVK02A&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
 

@@ -13,5 +13,5 @@ date: 2009-04-20
 
 Результат: количество посещений сайта немецкого отделения международной организации по правам человека выросло на 28%, и на 50% выросло количество запросов на литературу и информацию о  цензуре.
 
-По материалам <a href="http://adsoftheworld.com/media/dm/igfmishr_international_society_for_human_rights_blacklighter?size=_original">  Ads of the world </a>
+По материалам <a href="https://adsoftheworld.com/media/dm/igfmishr_international_society_for_human_rights_blacklighter?size=_original">  Ads of the world </a>
 

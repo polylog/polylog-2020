@@ -14,7 +14,7 @@ date: 2012-06-27
 
 Безработица - общая проблема. Но пока весь мир борется за то, чтобы найти работу, в Пуэрто Рико не хватает людей, которые бы хотели работать. 60% населения живут на государственном пособии, и это стало обычным. Этот факт даже отмечен в популярной песне в стиле сальса, пуэрториканской классике под названием  “No Hago Más Ná,” что значит "я ничего не делаю". Псокольку успех и имидж крупнейшего банка Пуэрто-Рико напрямую зависит от экономического положения и образа страны,   Banco Popular решил вложиться в общее развитие. Банк решил убедить популярного исполнителя этого самого хита переписать историю - 16 августа 2011  El Gran Combo выступил на телевидении и радио в прямом эфире с новой версией этой песни, с измененными словами. Песня стала хитом и символом кампании, которой удалось поднять индекс популярности банка до 80%.
 
-<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/EaNjCIfIGF8?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/EaNjCIfIGF8?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="420" height="315"><param name="movie" value="https://www.youtube.com/v/EaNjCIfIGF8?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/EaNjCIfIGF8?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 Описание задачи:
 
@@ -24,5 +24,5 @@ Banco Popular хотел изменить общественное мнение 
 
 Песня быстро вошла в пуэрториканскую культуру, стала ассоциироваться с брендом банка, даже несмотря на то что его имя не было упомянуто. Этот мгновенный успех сподвиг банк организовать бесплатный концерт  El Gran Combo для 60 тысяч слушателей.  Популярность песни переросла в целое общественное движение, в котором к банку присоединились более 100 корпораций и общественных организаций, которые объединили свои усилия в том, чтобы свести вместе работодателей и работников Пуэрто-Рико.
 
-По материалам <a href="http://adsoftheworld.com/">ads of the world</a>
+По материалам <a href="https://adsoftheworld.com/">ads of the world</a>
 

@@ -12,5 +12,5 @@ date: 2015-06-29
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2fhjKNAnxmA" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/honey_beer_bee_drones">Ads of the world</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/honey_beer_bee_drones">Ads of the world</a>
 

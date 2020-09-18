@@ -30,5 +30,5 @@ date: 2014-02-15
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/efAUCG9oTb8" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://www.fastcompany.com/3026329/most-innovative-companies-2014/the-worlds-top-10-most-innovative-companies-in-advertising">Fast Company </a>
+По материалам <a href="https://www.fastcompany.com/3026329/most-innovative-companies-2014/the-worlds-top-10-most-innovative-companies-in-advertising">Fast Company </a>
 

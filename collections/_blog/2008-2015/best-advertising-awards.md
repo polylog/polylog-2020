@@ -34,7 +34,7 @@ date: 2014-04-19
 
 Продолжение следует
 
-По материалам <a href="http://advertising.about.com/od/advertisingglossarya/a/The-Advertising-Awards-That-Matter.htm">
+По материалам <a href="https://advertising.about.com/od/advertisingglossarya/a/The-Advertising-Awards-That-Matter.htm">
 
 Вторая часть материала <a href="/ru/pr-blog/best-advertising-awards-2">- C&A, CLIO и ADDYs</a>
 

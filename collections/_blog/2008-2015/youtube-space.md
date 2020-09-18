@@ -10,5 +10,5 @@ date: 2015-02-15
 
 Для того, чтобы подать заявку на доступ туда, нужно просто написать  на youtube.com/space. Те, кого отберет компания, получат три месяца использования аппаратов (камер, освещения) и программного обеспечения комнат.
 
-По материалам <a href="http://techcrunch.com/2013/02/13/youtube-creator-space-tokyo/">TechCrunch</a>
+По материалам <a href="https://techcrunch.com/2013/02/13/youtube-creator-space-tokyo/">TechCrunch</a>
 

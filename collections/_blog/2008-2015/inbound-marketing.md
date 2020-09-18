@@ -26,5 +26,5 @@ date: 2012-04-03
 
 Разумеется, для такого маркетинга нужно знать, что ищут те, кому интересен ваш продукт, как они ведут себя, и даже в какое время бывают в сети и какими поисковыми сервисами пользуются. И, зная это, вы уже можете предложить им что-то просто так.
 
-по материалам <a href="http://www.stumbleupon.com/su/2O3OOr/:fqmSAH!d:KBy12q+./socialmediatoday.com/feldmancreative/480843/inbound-marketing-works-copywriter-s-success-story/">StumbleUpon</a>
+по материалам <a href="https://www.stumbleupon.com/su/2O3OOr/:fqmSAH!d:KBy12q+./socialmediatoday.com/feldmancreative/480843/inbound-marketing-works-copywriter-s-success-story/">StumbleUpon</a>
 

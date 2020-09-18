@@ -20,5 +20,5 @@ date: 2009-11-18
 
 Вебсайт посвященный проекту посетили люди из 150 стран, 68% родившихся в указанную в конкурсе дату детей получили футболки, интерес к команде возрос на 18%.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/48Wz4DBUvrU&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/48Wz4DBUvrU&amp;hl=ru_RU&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/48Wz4DBUvrU&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/48Wz4DBUvrU&amp;hl=ru_RU&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 

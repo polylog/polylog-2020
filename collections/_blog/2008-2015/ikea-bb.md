@@ -24,5 +24,5 @@ date: 2015-06-26
 
 Кампании подобного рода не всегда могут обернуться успехом. В их основе лежит спонтанность, из-за которой рекламу рискуют не заметить или быстро забыть. В этот раз Икеа успешно справилась с балансированием на грани и создала новую положительную ассоциацию со знаменитой торговой маркой.
 
-По материалам сайтов <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/ikea-creates-pop-breakfast-bed-experience/">Creative Guerrilla Marketing</a>, <a href="http://www.adweek.com/adfreak/ikea-pop-store-serves-breakfast-bed-lucky-londoners-164894">Adweek</a> и <a href="http://www.dailymail.co.uk/femail/food/article-3086095/IKEA-opened-cafe-Shoreditch-London-eat-breakfast-bed.html">Daily mail</a>
+По материалам сайтов <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/ikea-creates-pop-breakfast-bed-experience/">Creative Guerrilla Marketing</a>, <a href="https://www.adweek.com/adfreak/ikea-pop-store-serves-breakfast-bed-lucky-londoners-164894">Adweek</a> и <a href="https://www.dailymail.co.uk/femail/food/article-3086095/IKEA-opened-cafe-Shoreditch-London-eat-breakfast-bed.html">Daily mail</a>
 

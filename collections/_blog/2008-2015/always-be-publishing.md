@@ -36,5 +36,5 @@ date: 2012-07-20
 
 Ваша конечная цель - чтобы люди начали говорить о вас и передавать друг другу ваши новости и информацию. кроме того, что стоит взаимодействовать с людьми, используя социальные сети Facebook и Twitter, вы можете пригласить других внести свою лепту в вашу бренд-журналистику. Пусть люди пишут статьи в ваш блог, на ваш сайт: это принесет пользу и вам, и авторам. Они приведут к вам новых читателей, освежат содержание ваших страниц, а вы поможете молодым экспертам и пишущим людям появиться в общем поле внимания.
 
-По материалам <a href="http://www.youngentrepreneur.com/blog/always-be-publishing-brand-journalism-and-how-it-can-help-your-startup/">young enterpreneur</a>
+По материалам <a href="https://www.youngentrepreneur.com/blog/always-be-publishing-brand-journalism-and-how-it-can-help-your-startup/">young enterpreneur</a>
 

@@ -16,5 +16,5 @@ date: 2011-04-27
 
 Идея оправдала себя - в надежде на благодарность владельца фотоаппарата, тысячи людей из целевой аудитории добровольно распространяли фотографии. Проблема потерянной камеры и фотографии моделей широко обсуждались в блогах, на сайтах и форумах. Задача выполнена: марка Sloggi стала модной у молодежи.
 
-<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/j8GkIkpB1IE?fs=1&hl=ru_RU&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/j8GkIkpB1IE?fs=1&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="480" height="390"><param name="movie" value="https://www.youtube.com/v/j8GkIkpB1IE?fs=1&hl=ru_RU&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/j8GkIkpB1IE?fs=1&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 

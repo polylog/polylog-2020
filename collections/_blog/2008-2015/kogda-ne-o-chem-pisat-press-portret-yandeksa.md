@@ -5,5 +5,5 @@ permalink: /ru/pr-blog/kogda-ne-o-chem-pisat-press-portret-yandeksa
 date: 2008-12-16
 
 ---
-<p>Первая мысль после беглого <a href="http://yandex.ru/yandsearch?text=%ED%E8%EA%E8%F8%E8%ED" target="_blank" rel="noopener noreferrer">знакомства с результатами</a>: а многие ли коллеги знают о такой замечательной вещи в «Яндексе», как «<a href="http://news.yandex.ru/people/" target="_blank" rel="noopener noreferrer">пресс-портрет</a>»? Руководители отделов, конечно, в курсе. Но вот рядовым пиарщикам, напомнить, думаю, нелишне</a>. Проект запущен два года назад, и до сих пор остается лучшей русскоязычной интернет-службой для PR-консультанта.</p>
+<p>Первая мысль после беглого <a href="https://yandex.ru/yandsearch?text=%ED%E8%EA%E8%F8%E8%ED" target="_blank" rel="noopener noreferrer">знакомства с результатами</a>: а многие ли коллеги знают о такой замечательной вещи в «Яндексе», как «<a href="https://news.yandex.ru/people/" target="_blank" rel="noopener noreferrer">пресс-портрет</a>»? Руководители отделов, конечно, в курсе. Но вот рядовым пиарщикам, напомнить, думаю, нелишне</a>. Проект запущен два года назад, и до сих пор остается лучшей русскоязычной интернет-службой для PR-консультанта.</p>
 

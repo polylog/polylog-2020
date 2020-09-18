@@ -26,5 +26,5 @@ date: 2012-11-08
 
 В другом случае - нас ожидает скучная маркетинговая драма снижения цен, аналитики рынка и прочее. Стандартный сценарий.
 
-По материалам <a href="http://www.forbes.com/sites/jonathansalembaskin/2012/11/17/pgs-social-media-orthodoxy-could-sink-its-innovation-progress/">Forbes </a>
+По материалам <a href="https://www.forbes.com/sites/jonathansalembaskin/2012/11/17/pgs-social-media-orthodoxy-could-sink-its-innovation-progress/">Forbes </a>
 

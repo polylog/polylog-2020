@@ -22,5 +22,5 @@ date: 2009-06-22
 <img src="{{ site.assets }}/upload/original_cnn_turk-3_ddb&amp;co.jpg" alt="" class="post__img" width="470" height="305"></li>
 </ul>
 
-По материалам <a href="http://adofdamonth.com">Ad of a Month</a>
+По материалам <a href="https://adofdamonth.com">Ad of a Month</a>
 

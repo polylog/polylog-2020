@@ -22,5 +22,5 @@ date: 2008-06-10
 
 Часто говорят, что все новые технологии PR неприменимы в России - однако это уже звучит как анахронизм и признание банальной несостоятельности агентств, привыкших работать по стандартной схеме. Сама же экономическая ситуация подтверждает <a href="/ru/pr-blog/review/2008/05-13">безусловную необходимость освоения нового PR-пространства для российского бизнеса</a>.
 
-По материалам <a href="http://www.searchenginehelp.org/social-media/suh-wing-and-a-miss/">Search Engine Help</a>
+По материалам <a href="https://www.searchenginehelp.org/social-media/suh-wing-and-a-miss/">Search Engine Help</a>
 

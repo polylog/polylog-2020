@@ -16,5 +16,5 @@ ABJ Genius, Сеул, Корея, разработало для UNICEF инте�
 
 В конце истории предлагалось изменить чью-то жизнь вот этой самой монеткой, которой вы только что изменили напечатанную историю.
 
-По материалам <a href="http://adsoftheworld.com/media/dm/unicef_change_childs_life_story_with_coins?size=_original"> Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/dm/unicef_change_childs_life_story_with_coins?size=_original"> Ads of the World</a>
 

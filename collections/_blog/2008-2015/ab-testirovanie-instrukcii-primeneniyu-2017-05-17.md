@@ -16,8 +16,8 @@ date: 2017-05-17
 <p>Такой анализ предполагает принятие решений на основе собранных статистических данных. Это особенно важно, поскольку маркетинг должен отойти от интуиции и преобразиться в математически точное направление деятельности.</p>
 <p>По материалам:</p>
 <p><a href="https://habrahabr.ru/post/233911/" target="_blank" rel="noopener noreferrer">habrahabr.ru</a></p>
-<p><a href="http://boosta.ru/ab-testirovanie-what-is-it/" target="_blank" rel="noopener noreferrer">boosta.ru</a></p>
+<p><a href="https://boosta.ru/ab-testirovanie-what-is-it/" target="_blank" rel="noopener noreferrer">boosta.ru</a></p>
 <p><a href="https://texterra.ru/blog/kak-provodit-a-b-testirovanie.html" target="_blank" rel="noopener noreferrer">texterra.ru</a></p>
-<p><a href="http://www.kameleoon.com/ru/ab-testing" target="_blank" rel="noopener noreferrer">kameleoon.com</a></p>
+<p><a href="https://www.kameleoon.com/ru/ab-testing" target="_blank" rel="noopener noreferrer">kameleoon.com</a></p>
 <p><a href="https://www.optimizely.com/ab-testing/" target="_blank" rel="noopener noreferrer">optimizely.com</a></p>
 

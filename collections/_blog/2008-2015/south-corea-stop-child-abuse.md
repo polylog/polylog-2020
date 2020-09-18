@@ -16,5 +16,5 @@ date: 2014-11-28
 
 Слоган кампании "Вы можете предотвратить насилие над детьми", а около телефонного номера еще один, помельче "Станьте героем для этого ребенка".
 
-По материалам <a href="http://twistedsifter.com/2014/12/psa-shows-that-you-can-help-prevent-child-abuse/">Twisted Sifter</a>
+По материалам <a href="https://twistedsifter.com/2014/12/psa-shows-that-you-can-help-prevent-child-abuse/">Twisted Sifter</a>
 

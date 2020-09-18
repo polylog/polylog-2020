@@ -16,5 +16,5 @@ date: 2012-04-13
 
 Результат: из 18 клиентов, получивших этот подарок, пять заключили контракты с Alpha 245, а остальные клиенты  оставили теплые отзывы и выразили интерес к сотрудничеству.
 
-По материалам <a href="http://www.adspftheworld.com">ads of the World</a>
+По материалам <a href="https://www.adspftheworld.com">ads of the World</a>
 

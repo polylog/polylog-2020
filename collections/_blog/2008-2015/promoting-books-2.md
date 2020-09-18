@@ -12,5 +12,5 @@ date: 2013-01-24
 
 9. Когда книга написана и издается  - подумайте о том, чтобы выпустить следом еще одну, связанную с первой - ее сокращенный вариант, ключевые моменты для занятого топ-менеджера. Вам придется обсудить это с издателем, но обычно они не против такого изменения планов, они знают что такие версии книг хорошо продаются.
 
-По материалам <a href="http://www.frugalmarketing.com/dtb/ten-tips-for-promoting-books.shtml">Frugal Marketing</a>
+По материалам <a href="https://www.frugalmarketing.com/dtb/ten-tips-for-promoting-books.shtml">Frugal Marketing</a>
 

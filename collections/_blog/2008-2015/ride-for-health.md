@@ -12,5 +12,5 @@ date: 2014-05-17
 
 Получившийся велосипед можно назвать вершиной дизайнерского мастерства - в нем очень легко угадывается инвалидное кресло.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/ride_for_heart_heart_bike?size=original">Ads of the World </a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/ride_for_heart_heart_bike?size=original">Ads of the World </a>
 

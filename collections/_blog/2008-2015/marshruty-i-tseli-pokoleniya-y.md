@@ -20,5 +20,5 @@ date: 2009-10-16
 
    <li>Женщины более склонны к тому, чтобы делиться в социальных сетях своим опытом от пользования каким-либо товаром, высказывать отношение к бренду. </li></ul>
 
-По материалам <a href="http://blog.ogilvypr.com/2009/10/understanding-generation-y-through-social-media/">Ogilvy PR</a>
+По материалам <a href="https://blog.ogilvypr.com/2009/10/understanding-generation-y-through-social-media/">Ogilvy PR</a>
 

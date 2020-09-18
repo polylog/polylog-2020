@@ -24,5 +24,5 @@ date: 2013-02-15
 
 Задавайте как можно больше вопросов. Конференция для того и предназначена, чтобы люди сообщали друг другу новую информацию и разъясняли непонятные места.
 
-По материалам <a href="http://scottberkun.com/essays/24-how-to-get-the-most-out-of-conferences/">Scott Berkun.com</a>
+По материалам <a href="https://scottberkun.com/essays/24-how-to-get-the-most-out-of-conferences/">Scott Berkun.com</a>
 

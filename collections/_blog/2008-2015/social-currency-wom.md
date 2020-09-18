@@ -32,5 +32,5 @@ date: 2013-04-28
 
 Если хотите чтобы люди о вас говорите – дайте им способность выглядеть лучше. Сделайте так, чтобы они почувствовали себя особенными, избранными – и они точно расскажут об этом другим.
 
-По материалам <a href="http://www.linkedin.com/today/post/article/20130409204531-5670386-viral-s-secret-formula-trk=mp-details-rr-rmpost">  LinkedIn - Jonah Berger </a>
+По материалам <a href="https://www.linkedin.com/today/post/article/20130409204531-5670386-viral-s-secret-formula-trk=mp-details-rr-rmpost">  LinkedIn - Jonah Berger </a>
 

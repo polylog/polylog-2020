@@ -20,7 +20,7 @@ date: 2017-06-26
 <p><b>3. Инвестируйте в кадры</p></b>
 <p>Агентства и корпорации набирают пиарщиков с одного и того же рынка. Людей, способных написать пресс-релиз много. Инвестируйте в творческих людей, способных раздвинуть границы возможностей традиционных инструментов.</p>
 <p>По материалам:</p>
-<p><a href="http://mediabitch.ru/pr-trends-golin/" target="_blank" rel="noopener noreferrer">Media Bitch</a></p>
-<p><a href="http://golin.com/digital/" target="_blank" rel="noopener noreferrer">golin.com</a></p>
-<p><a href="http://annenberg.usc.edu/sites/default/files/USC_REPORT_New.pdf" target="_blank" rel="noopener noreferrer">USC Report</a></p>
-<p><a href="http://annenberg.usc.edu/sites/default/files/KOS_2017_GCP_April6.pdf" target="_blank" rel="noopener noreferrer">KOS Report</a></p>
+<p><a href="https://mediabitch.ru/pr-trends-golin/" target="_blank" rel="noopener noreferrer">Media Bitch</a></p>
+<p><a href="https://golin.com/digital/" target="_blank" rel="noopener noreferrer">golin.com</a></p>
+<p><a href="https://annenberg.usc.edu/sites/default/files/USC_REPORT_New.pdf" target="_blank" rel="noopener noreferrer">USC Report</a></p>
+<p><a href="https://annenberg.usc.edu/sites/default/files/KOS_2017_GCP_April6.pdf" target="_blank" rel="noopener noreferrer">KOS Report</a></p>

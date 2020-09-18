@@ -30,5 +30,5 @@ In fact, studies have shown that today’s business buyers have already complete
 
 In summary, effective content marketing addresses both the intellectual and emotional issues of most concern to your sales prospects. The intellectual component can be addressed through your detailed knowledge of business processes, technology, change management or any other aspect of business that your solution impacts. The emotional component is usually most effectively addressed by empathizing with your prospects personal and professional fears. Empathy is the single most powerful sales tool in the world when used correctly. However, it is not enough to simply understand, you must also unequivocally demonstrate the business acumen and proven expertise to both understand and present a solution that addresses the root cause of the fear. If you can accomplish that, you have created a truly powerful content marketing program.
 
-По материалам <a href="http://www.business2community.com/content-marketing/the-psychology-of-content-marketing-0136059">Business to Community</a>
+По материалам <a href="https://www.business2community.com/content-marketing/the-psychology-of-content-marketing-0136059">Business to Community</a>
 

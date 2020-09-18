@@ -20,5 +20,5 @@ date: 2015-05-28
 
 Глава Института спасения на воде, Энди Мэйо, говорит: «Мы полагаемся на пожертвования граждан, которые позволят нам оставаться на воде, спасать всех кому нужна наша помощь. Так что мы просим их тоже попробовать оставаться на одной воде 10 дней! А наш временный бар – забавный и дешевый способ вовлечь лондонцев в кампанию и распространить информацию о ней».
 
-по материалам <a href="http://www.dailymail.co.uk/femail/food/article-3100519/East-London-s-latest-pop-bar-Shoreditch-serves-tap-water-thirsty-punters.html">Daily Mail</a>
+по материалам <a href="https://www.dailymail.co.uk/femail/food/article-3100519/East-London-s-latest-pop-bar-Shoreditch-serves-tap-water-thirsty-punters.html">Daily Mail</a>
 

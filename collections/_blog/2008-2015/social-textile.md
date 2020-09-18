@@ -16,9 +16,9 @@ date: 2015-07-14
 
 Суть технологии в том, что на ткань наносится печать термохроматическими  чернилами, а а под ними – тонкая мембрана с электросхемой. Электросхема связана с вашим телефоном через Bluetooth, и если рядом с вами находятся люди со сходными интересами, воротник футболки завибрирует.
 
-<img src="http://e.fastcompany.net/multisite_files/fastcompany/slideshow/2015/02/3042387-slide-s-4a-mit-invents-a-social-network-you-can-wear.gif" alt="">
+<img src="https://e.fastcompany.net/multisite_files/fastcompany/slideshow/2015/02/3042387-slide-s-4a-mit-invents-a-social-network-you-can-wear.gif" alt="">
 
 Более того, если вы дотронетесь друг до друга: похлопаете по плечу или пожмете руку, сенсоры в футболке это отметят, и на ваших футболках загорятся буквы, обозначающие общий интерес: например что вы оба любите определенную музыку или учитесь в одном и том же университете.
 
-По материалам <a href="http://fluid.media.mit.edu/social-textiles">MIT</a>
+По материалам <a href="https://fluid.media.mit.edu/social-textiles">MIT</a>
 

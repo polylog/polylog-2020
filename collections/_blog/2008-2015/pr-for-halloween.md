@@ -32,5 +32,5 @@ Trick or treat:
 
 А как вы использовали Хэллоуин для своего бизнеса?
 
-По материалам <a href="http://publicrelationssydney.com.au/?p=2394">PR Sydney</a>
+По материалам <a href="https://publicrelationssydney.com.au/?p=2394">PR Sydney</a>
 

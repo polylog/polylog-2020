@@ -37,5 +37,5 @@ date: 2009-03-03
 
 Суммируя, можно сказать что самое главное в планировании – <strong>расстановка приоритетов</strong>. Это касается и  определения дедлайнов, и распределения бюджета, и отслеживания информации. Руководителю мероприятия не обязательно знать детали меню, но о них должен знать тот, кто отвечает за питание гостей. <br>
 
-По материалам <a href="http://www.theprussianblue.biz/event-organizer-tips/99-creating-an-effective-event-timeline.html">Prussian Blue </a>
+По материалам <a href="https://www.theprussianblue.biz/event-organizer-tips/99-creating-an-effective-event-timeline.html">Prussian Blue </a>
 

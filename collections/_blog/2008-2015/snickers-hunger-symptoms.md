@@ -20,5 +20,5 @@ date: 2015-10-18
 
 «Сникерс» не в первый раз меняет свой знаменитый логотип в виде параллелограмма. В рамках рекламной кампании 2006 года в печати и наружной рекламе слово «Сникерс» на логотипе заменили на слова «голодной» тематики вроде “Hungerectomy” (Голодотомия), “Satisfectellent” (Великопитательно) и “Nougatocity” (Нугаград).
 
-По материалам <a href="http://www.adweek.com/adfreak/snickers-swaps-out-its-brand-name-hunger-symptoms-painfully-honest-packaging-167061">AdWeek</a>
+По материалам <a href="https://www.adweek.com/adfreak/snickers-swaps-out-its-brand-name-hunger-symptoms-painfully-honest-packaging-167061">AdWeek</a>
 

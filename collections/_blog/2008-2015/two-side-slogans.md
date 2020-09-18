@@ -40,5 +40,5 @@ date: 2013-06-18
 
 "Хорошо сделано. Действительно отражает ситуацию, когда человек в депрессии говорит что у него все в порядке "
 
-По материалам <a href="http://imgur.com/gallery/hERRH">imgur.com</a>
+По материалам <a href="https://imgur.com/gallery/hERRH">imgur.com</a>
 

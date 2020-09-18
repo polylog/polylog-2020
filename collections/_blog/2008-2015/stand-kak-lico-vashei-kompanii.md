@@ -20,7 +20,7 @@ date: 2017-02-08
 <p>В мире выставочных стендов последним трендом является минимализм. Очень важно обеспечить максимально эффективную эргономику застраиваемой площади, а также не перегрузить стенд информацией. Все больше набирает популярность обтекаемая форма деталей стенда, застройщики стараются избегать острых углов и деталей, уходят от привычного &laquo;квадратного&raquo; мышления.</p>
 <p>Наиболее популярными материалами становятся алюминий, пластик, оргстекло. Технологичность данных материалов в сочетании с удачным цветовым решением способствует запоминаемости стенда и бренда в рамках выставки.</p>
 <p>По материалам:</p>
-<p><a href="http://www.expocentr.ru/ru/articles-of-exhibitions/vidy-vystavochnyh-stendov/" target="_blank" rel="noopener noreferrer">Expocentr</a></p>
-<p><a href="http://www.canlook.ru/articals/122-etapi-razrabotki-vistavochnogo-stenda" target="_blank" rel="noopener noreferrer">CanLook</a></p>
-<p><a href="http://www.mrstand.ru/service.html" target="_blank" rel="noopener noreferrer">MrStand</a></p>
+<p><a href="https://www.expocentr.ru/ru/articles-of-exhibitions/vidy-vystavochnyh-stendov/" target="_blank" rel="noopener noreferrer">Expocentr</a></p>
+<p><a href="https://www.canlook.ru/articals/122-etapi-razrabotki-vistavochnogo-stenda" target="_blank" rel="noopener noreferrer">CanLook</a></p>
+<p><a href="https://www.mrstand.ru/service.html" target="_blank" rel="noopener noreferrer">MrStand</a></p>
 

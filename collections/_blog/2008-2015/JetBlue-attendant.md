@@ -20,5 +20,5 @@ date: 2015-06-15
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NVDsMt1Ues8?rel=0" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://www.adweek.com/news/technology/check-out-how-jetblues-window-display-avatar-awesomely-duped-passersby-165296">Adweek</a>
+По материалам <a href="https://www.adweek.com/news/technology/check-out-how-jetblues-window-display-avatar-awesomely-duped-passersby-165296">Adweek</a>
 

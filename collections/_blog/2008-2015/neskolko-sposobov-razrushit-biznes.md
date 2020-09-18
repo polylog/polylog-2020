@@ -33,5 +33,5 @@ date: 2008-09-22
 <li>Подбирайте персонал из себе подобных</li>
 </ol>
 
-По материалам <a href="http://sethgodin.typepad.com/seths_blog/files/101WaystoDestroyYourTribe.pdf">101 Ways</a>
+По материалам <a href="https://sethgodin.typepad.com/seths_blog/files/101WaystoDestroyYourTribe.pdf">101 Ways</a>
 

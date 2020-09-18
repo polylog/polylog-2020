@@ -14,5 +14,5 @@ date: 2016-01-04
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rxkrYZOFKq4" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://www.huffingtonpost.com/2014/10/28/learning-and-attention-issues-ad_n_6061810.html">Huffington post</a>
+По материалам <a href="https://www.huffingtonpost.com/2014/10/28/learning-and-attention-issues-ad_n_6061810.html">Huffington post</a>
 

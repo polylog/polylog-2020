@@ -20,5 +20,5 @@ date: 2014-07-24
 
 Когда само мероприятие окончено – самое время воспользоваться теми данными, которые собрали сотрудники, и таким образом скорректировать стратегию общения с партнерами.
 
-По материалам <a href="http://adage.com/article/guest-columnists/triple-trade-show-marketing-results/294357/">AdAge</a>
+По материалам <a href="https://adage.com/article/guest-columnists/triple-trade-show-marketing-results/294357/">AdAge</a>
 

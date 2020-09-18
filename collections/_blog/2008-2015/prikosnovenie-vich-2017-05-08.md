@@ -28,5 +28,5 @@ date: 2015-07-29
 
 Слоган кампании – «Эта проблема в ваших руках». В англоязычном варианте присутствует игра слов: isuue  - издание и проблема, вопрос.
 
-По материалам <a href="http://saatchi.com/en-us/news/vangardist-magazine-confronts-hiv-head-on-with-blood-infused-ink/">Saatchi.Com</a>
+По материалам <a href="https://saatchi.com/en-us/news/vangardist-magazine-confronts-hiv-head-on-with-blood-infused-ink/">Saatchi.Com</a>
 

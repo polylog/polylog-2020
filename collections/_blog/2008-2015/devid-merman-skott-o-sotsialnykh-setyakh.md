@@ -34,5 +34,5 @@ date: 2010-04-09
 
 Есть сотни способов измерять ROI при активности в социальных сетях. Ваше место в поисковиках, количество комментариев, положительные или негативные отзывы.  Здесь очень многое можно измерить, и довольно точно.
 
-http://cindykimblog.wordpress.com/2009/06/11/pr-marketing-pros-unlearn-your-trade-to-succeed-or-get-out-of-the-way/
+https://cindykimblog.wordpress.com/2009/06/11/pr-marketing-pros-unlearn-your-trade-to-succeed-or-get-out-of-the-way/
 

@@ -14,5 +14,5 @@ date: 2014-12-25
 
 Кроме того, кампания проводила прямую поведенческую аналогию, с использованием конкретных образов и даже предметов. Человек видит бездомного - человек достает монетку.... Только в случае с игральным автоматом ему еще и сообщается грустная правда - эти деньги никому не помогают по-настоящему.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/crane-game-encourages-donations-help-homeless-people-unique-way/">Creative Guerrilla Marketing </a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/crane-game-encourages-donations-help-homeless-people-unique-way/">Creative Guerrilla Marketing </a>
 

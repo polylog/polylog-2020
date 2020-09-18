@@ -12,5 +12,5 @@ date: 2014-07-14
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/feXKh8thh3E" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://www.chimpmarketing.com/allianzs-drunk-mirror-ambient-marketing/">Chimp Marketing</a>
+По материалам <a href="https://www.chimpmarketing.com/allianzs-drunk-mirror-ambient-marketing/">Chimp Marketing</a>
 

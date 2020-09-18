@@ -28,5 +28,5 @@ date: 2014-12-24
 
 В том случае, если у вас недостаточно средств на масштабную кампанию, стратегический подход нужен вам вдвойне.
 
-По материалам <a href="http://www.forbes.com/sites/kateharrison/2014/01/15/3-simple-ways-to-get-free-pr-for-your-startup/2/">Forbes</a>
+По материалам <a href="https://www.forbes.com/sites/kateharrison/2014/01/15/3-simple-ways-to-get-free-pr-for-your-startup/2/">Forbes</a>
 

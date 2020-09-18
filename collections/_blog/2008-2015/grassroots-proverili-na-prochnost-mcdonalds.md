@@ -10,5 +10,5 @@ date: 2008-06-19
 
 Остается только догадываться, являются ли такие акции проявлением народной любви к сети ресторанов быстрого питания, или же эта акция спланирована и инициирована самим McDonald's. Впрочем, скорее всего и то и другое - маркетологи компании правильно уловили и сумели использовать имеющиеся в обществе тенденции. Акция получила большое освещение в СМИ.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/AoJPJAKILbo&hl=en"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/AoJPJAKILbo&amp;hl=en" type="application/x-shockwave-flash" width="425" height="344" wmode="transparent"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/AoJPJAKILbo&hl=en"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/AoJPJAKILbo&amp;hl=en" type="application/x-shockwave-flash" width="425" height="344" wmode="transparent"></embed></object>
 

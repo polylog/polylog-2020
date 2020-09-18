@@ -18,5 +18,5 @@ date: 2014-09-07
 
 Из интернет-рекламы проще всего измерять эффективность баннерной рекламы. Но это не гарантия того, что результаты измерений будут вдохновляющими, и что сама реклама будет работать. А многие бренды попадают в эту ловушку: из желания представить красивый и понятный отчет, маркетологи выбирают именно легко измеримую рекламу, вместо той, которая могла бы действительно сработать…
 
-По материалам <a href="http://www.mediapost.com/publications/article/236360/brands-must-get-beyond-fixation-on-measurable-medi.html">Mediapost.com</a>
+По материалам <a href="https://www.mediapost.com/publications/article/236360/brands-must-get-beyond-fixation-on-measurable-medi.html">Mediapost.com</a>
 

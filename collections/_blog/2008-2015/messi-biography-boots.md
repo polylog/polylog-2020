@@ -18,5 +18,5 @@ Preuss und Preuss, Берлин, Германия, придумало неорд
 
 Результат не заставил себя ждать: книга быстро стала бестселлером и одной из самых популярных футбольных биографий.
 
-По материалам <a href="http://adsoftheworld.com/media/dm/edel_books_shoe_insert_reading_sample?size=original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/dm/edel_books_shoe_insert_reading_sample?size=original">Ads of the World</a>
 

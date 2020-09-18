@@ -22,5 +22,5 @@ date: 2014-03-05
 
 Рекламиуйте лучшее что есть в вашей компании, но не рекламируйте свои надежды и мечты. По определению, мечты и надежды - это обещания, выполнение которых вы не можете гарантировать и которое не зависит от вас. Иначе бы они назывались планами.
 
-По материалам <a href="http://www.tsnn.com/news-blogs/dont-do-these-same-4-mistakes-trade-show-exhibitors-make">TSNN</a>
+По материалам <a href="https://www.tsnn.com/news-blogs/dont-do-these-same-4-mistakes-trade-show-exhibitors-make">TSNN</a>
 

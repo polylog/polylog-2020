@@ -21,5 +21,5 @@ date: 2008-04-24
 <li><strong>Фальшивый эксклюзив:</strong> конечно, блоггеру будет приятно получить какую-то эксклюзивную информацию, только она должна быть на самом деле уникальной. Если потом выяснится что такой же пресс-релиз получили еще 50 человек, вашей репутации это не на пользу. </li>
 </ol>
 
-По материалам <a href="http://www.theblogmedic.com/public-relations/marketing-ethics-ten-ways-to-piss-off-a-blogger/">the Blog Medic</a>
+По материалам <a href="https://www.theblogmedic.com/public-relations/marketing-ethics-ten-ways-to-piss-off-a-blogger/">the Blog Medic</a>
 

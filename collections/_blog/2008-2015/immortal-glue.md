@@ -22,5 +22,5 @@ date: 2012-08-15
 
 Коллекция "Бессмертных" сувениров (к ним прилагался тюбик клея бесплатно) была продана за три недели. Ее упомянули в сотнях блогов и постов в социальных сетях. Переходы на сайт клея "секунда" возросли в шесть раз. Вложения в кампанию составили 20 тысяч долларов, количество упоминаний в СМИ оценивается равным 250 тысячам долларов.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/sekunda_glue_the_immortal_collection?size=_original">Ads of the world</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/sekunda_glue_the_immortal_collection?size=_original">Ads of the world</a>
 

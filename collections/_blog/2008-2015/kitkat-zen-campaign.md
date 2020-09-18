@@ -16,5 +16,5 @@ date: 2015-12-17
 
 Рекламу предложило агентство J. Walter Thompson, Лондон. Жаль, что компания не решилась сделать рекламный ролик совершенно пустым, но с другой стороны, возможно, люди бы решили что  у них сломался телевизор...
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/viral-marketing/kitkat-creates-tv-ad-showing-absolutely-nothing/">CreativeGuerrillaMarketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/viral-marketing/kitkat-creates-tv-ad-showing-absolutely-nothing/">CreativeGuerrillaMarketing</a>
 

@@ -16,5 +16,5 @@ date: 2009-04-27
 
 Также, этот инцидент отразился и на имидже работающих в Apple людей. Некоторые PR_специалисты отказывались отвечать на вопросы журналистов, честно признаваясь, что они не хотят, чтобы их имя всплыло в сочетании с этим делом, так как это негативно отразится на карьере. <br><br><br>
 
-По материалам <a href="http://www.technewsworld.com/story/Apple-Shakes-Baby-Kills-Freedom-of-Speech-66902.html">Tech News World </a>
+По материалам <a href="https://www.technewsworld.com/story/Apple-Shakes-Baby-Kills-Freedom-of-Speech-66902.html">Tech News World </a>
 

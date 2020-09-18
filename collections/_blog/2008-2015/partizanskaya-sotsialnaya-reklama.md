@@ -6,7 +6,7 @@ date: 2008-07-17
 
 ---
 
-<object width="425" height="344"><param name="movie" value=" http://www.youtube.com/v/PXiky0j0j9U&hl=en&fs=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/PXiky0j0j9U&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344" wmode="transparent"></embed></object>
+<object width="425" height="344"><param name="movie" value=" https://www.youtube.com/v/PXiky0j0j9U&hl=en&fs=1"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/PXiky0j0j9U&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344" wmode="transparent"></embed></object>
 
 Тем не менее, в комментариях в этой кампании встречаются как позитивные оценки, так и критика. Например, утверждается что эффект от такой кампании будет краткосрочным. Что лицо бездомного, напечатанное крупным планом, вызывает эмоциональное напряжение, и  поэтому кто-то может и не подойти к такому баку, а выкинуть небольшой мусор просто рядом, что для города, конечно, катастрофа. Кроме того, эта реклама отчасти закрепляет в сознании стереотип бомжа, как человека, который питается отбросами, усиливается ассоциация "отбросы общества", что для долгосрочного социального планирования также не является плюсом.
 

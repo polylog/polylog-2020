@@ -23,5 +23,5 @@ date: 2009-05-14
 
 <img src="{{ site.assets }}/upload/SecretTweet.com-1.jpg" alt="" class="post__img" width="273" height="84"></li></ol>
 
-по материалам <a href="http://www.ignitesocialmedia.com/5-interesting-uses-twitter/">IgniteSocialMedia</a>
+по материалам <a href="https://www.ignitesocialmedia.com/5-interesting-uses-twitter/">IgniteSocialMedia</a>
 

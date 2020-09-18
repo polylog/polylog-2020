@@ -14,9 +14,9 @@ date: 2013-06-08
 
 Создатель кампании, Giovanni Landi, решил совместить известный логотип со старыми и новыми технологиями партизанского маркетинга. Логотип был напечатан на множестве стильных наклеек, и одновременно разработано приложение для мобильных устройств, которое при сканировании этой наклейки запускало игру. Элементы игры накладывались на данные видеокамеры, и таким образом совмещались с изображением окружающей реальности. В игре можно было заработать скидки на покупку одежды в магазине.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/TIwBYvJ92-8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TIwBYvJ92-8" frameborder="0" allowfullscreen></iframe>
 
 Наклейки распространяли по всему городу, в тех местах где собирается потенциальная аудитория бренда: скейтеры, уличные танцоры, паркурщики.
 
-По материалам <a href="http://augmentedworldexpo.com/gold-ar-guerrilla-marketing-campaign/">Augmented World Expo</a>
+По материалам <a href="https://augmentedworldexpo.com/gold-ar-guerrilla-marketing-campaign/">Augmented World Expo</a>
 

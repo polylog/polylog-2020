@@ -8,7 +8,7 @@ date: 2015-02-25
 
 94% маркетингового бюджета тратится на то, чтобы потребитель вам позвонил, и только 6% бюджета тратится на корректную обработку звонка, когда он получен! Очевидно, что тут что-то не складывается.
 
-Немного статистики от <a href="http://cubemediamaster.com/">CUBE</a>
+Немного статистики от <a href="https://cubemediamaster.com/">CUBE</a>
 
 70% деловых звонков удерживаются на линии какое-то время
 
@@ -30,5 +30,5 @@ date: 2015-02-25
 
 <strong>Выбирайте музыку с умом</strong>.  Выбор музыки должен базироваться на предпочтениях вашей целевой аудитории. кроме того, лучше если она меняется, а не повторяется по кругу. Смена музыки должна происходить каждые 30-40 секунд.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/infographic-harnassing-power-hold-marketing/">Creative Guerrilla Marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/infographic-harnassing-power-hold-marketing/">Creative Guerrilla Marketing</a>
 

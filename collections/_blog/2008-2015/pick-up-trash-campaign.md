@@ -22,5 +22,5 @@ date: 2013-03-01
 
 Результаты кампании были ошеломительны: количество участников борьбы за чистый город выросло в три раза, и центральный район Токио (Эбису) - очищен от мелкого мусора.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/npo_reflection_project_trash"> Ads of the World </a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/npo_reflection_project_trash"> Ads of the World </a>
 

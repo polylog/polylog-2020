@@ -20,5 +20,5 @@ date: 2012-10-10
 
 Бросайте купить сегодня.
 
-По материалам <a href="http://adsoftheworld.com/media/outdoor/secretaria_de_saude_de_pernambuco_rolled_up_poster?size=_original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/outdoor/secretaria_de_saude_de_pernambuco_rolled_up_poster?size=_original">Ads of the World</a>
 

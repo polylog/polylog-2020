@@ -20,5 +20,5 @@ Ad Age: Чему большие компании могут у вас научи
 
 Хирабаяши: Ну, например, мы используем СМС чтобы начать разговор  молодежной аудиторией, они доверяют этому средству информации. Мы очень осторожно относимся к составлению сообщений. Сейчас повсюду звучит слово «аутентичность», но это и правда важно. Потребители и пользователи все более осознанны и аккуратны, и чуют недобросовестную информацию за версту.
 
-По материалам <a href="http://adage.com/article/cmo-interviews/marketing-budget-slow-dosomething/243644/?utm_source=CMO%20Strategy&amp;utm_medium=feed&amp;utm_campaign=Feed:+AdvertisingAge/CMO%20Strategy">AdAge.com</a>
+По материалам <a href="https://adage.com/article/cmo-interviews/marketing-budget-slow-dosomething/243644/?utm_source=CMO%20Strategy&amp;utm_medium=feed&amp;utm_campaign=Feed:+AdvertisingAge/CMO%20Strategy">AdAge.com</a>
 

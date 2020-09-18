@@ -30,5 +30,5 @@ date: 2014-04-22
 
 Есть еще несколько более специализированных премий, например OBIE. Это очень особенная премия, которая рассматривает только наружную рекламу. Есть PROMAX, который отмечает только видео-контент.
 
-По материалам <a href="http://advertising.about.com/od/advertisingglossarya/a/The-Advertising-Awards-That-Matter.htm">Advertising.About.Com</a>
+По материалам <a href="https://advertising.about.com/od/advertisingglossarya/a/The-Advertising-Awards-That-Matter.htm">Advertising.About.Com</a>
 

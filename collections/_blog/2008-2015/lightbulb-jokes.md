@@ -42,5 +42,5 @@ date: 2015-08-05
 
  - Нисколько, они отдадут это на аутсорс
 
-По материалам <a href="http://www.prdaily.com/Main/Articles/A_PR_pro_walks_into_a_bar_12143.aspx">PR Daily</a>
+По материалам <a href="https://www.prdaily.com/Main/Articles/A_PR_pro_walks_into_a_bar_12143.aspx">PR Daily</a>
 

@@ -18,5 +18,5 @@ date: 2012-03-13
 
 Сила президентских собак остается прежней. Взять например, собаку нынешнего президента США, Бо. Эта порода (португальская водная собака) была на 80м месте по популярности в 2000 году. В 2008, когда Бо появился в президентской семье, порода заняла 60 место, а в 2010 - 55.
 
-По материалам <a href="http://www.prnewswire.com/news-releases/petmd-recognizes-the-power-of-presidential-pets-on-dogs-in-politics-day-130436318.html">PR Newswire</a>, <a href="http://www.newyorker.com/online/blogs/closeread/2012/03/what-presidents-talk-about-when-they-talk-about-dogs.html">New Yorker</a>
+По материалам <a href="https://www.prnewswire.com/news-releases/petmd-recognizes-the-power-of-presidential-pets-on-dogs-in-politics-day-130436318.html">PR Newswire</a>, <a href="https://www.newyorker.com/online/blogs/closeread/2012/03/what-presidents-talk-about-when-they-talk-about-dogs.html">New Yorker</a>
 

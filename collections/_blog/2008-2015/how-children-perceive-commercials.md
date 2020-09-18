@@ -36,5 +36,5 @@ date: 2016-01-06
 
 Повторение. Эта техника направлена прежде всего на то, чтобы увеличить шанс распознавания продукта в магазине.
 
-По материалам <a href="http://www.acrwebsite.org/search/view-conference-proceedings.aspx?Id=7725">Association for consumer research</a>
+По материалам <a href="https://www.acrwebsite.org/search/view-conference-proceedings.aspx?Id=7725">Association for consumer research</a>
 

@@ -50,5 +50,5 @@ date: 2010-09-27
 
 Предложение: Я пастор Райан Хеллер и я хоч улично пригласить вас присоединиться к нам в это воскресенье.
 
-По материалам <a href="http://truthadvertising.org/blog/?p=12">TruthAdvertising</a>
+По материалам <a href="https://truthadvertising.org/blog/?p=12">TruthAdvertising</a>
 

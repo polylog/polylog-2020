@@ -23,5 +23,5 @@ date: 2009-03-10
 <li>Внимание на мелочи – улыбка, приветствие, отглаженный галстук.</li>
 <li>Не выбрасывайте клиента из своей жизни после совершения покупки.</li></ul>
 
-По материалам <a href="http://www.gmarketingblog.com/">Guerrilla Marketing Blog </a>
+По материалам <a href="https://www.gmarketingblog.com/">Guerrilla Marketing Blog </a>
 

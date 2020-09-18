@@ -34,5 +34,5 @@ date: 2008-09-11
 
 В целом кампания отличается творческим подходом и верным попаданием в целевую аудиторию, однако некоторая слабина присутствует на этапе "действия". На плакатах  и весах был просто слоган и логотип Science World British Columbia. Возможно, стоило бы разместить там же адрес сайта компании?
 
-По материалам <a href="http://funk-funketo.blogspot.com/2008/09/we-can-explain.html">TrendWatcher</a>
+По материалам <a href="https://funk-funketo.blogspot.com/2008/09/we-can-explain.html">TrendWatcher</a>
 

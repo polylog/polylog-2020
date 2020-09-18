@@ -17,5 +17,5 @@ date: 2010-08-26
 <img src="{{ site.assets }}/upload/upsexpress.jpg" alt="" class="post__img" width="317" height="400"></li>
 </ul>
 
-По материалам <a href="http://blog.guerrillacomm.com/">Blog Guerrila Comm</a>
+По материалам <a href="https://blog.guerrillacomm.com/">Blog Guerrila Comm</a>
 

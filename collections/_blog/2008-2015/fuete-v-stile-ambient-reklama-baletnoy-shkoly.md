@@ -8,5 +8,5 @@ date: 2008-09-03
 
 <img src="{{ site.assets }}/upload/135584180_d65a7c6f77.jpg" alt="Ballet School by Saatchi" title="реклама балетной школы"  class="post__img" width="324" height="500"></span>
 
-По материалам <a href="http://commercial-archive.com/node/129481">Commercial-archive.com</a>
+По материалам <a href="https://commercial-archive.com/node/129481">Commercial-archive.com</a>
 

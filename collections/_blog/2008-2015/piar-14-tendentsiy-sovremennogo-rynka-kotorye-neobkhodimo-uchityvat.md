@@ -51,5 +51,5 @@ date: 2008-05-15
 Раньше большие компании хотели работать с другими большими компаниями, а теперь они хотят чтобы их показали на  YouTube.</li>
 </ol>
 
-По материалам <a href="http://brandorganizer.com/blog/2008/04/28/the-14-trends-of-new-marketing-that-your-brand-cant-ignore/">Brand Organizer</a>
+По материалам <a href="https://brandorganizer.com/blog/2008/04/28/the-14-trends-of-new-marketing-that-your-brand-cant-ignore/">Brand Organizer</a>
 

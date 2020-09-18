@@ -44,5 +44,5 @@ Getting customer testimonials seems so simple, however many people forget to inc
 
 Set aside some time to either ring or email your customers to ask if they would mind writing a brief testimonial. If they are short for time, ask them quickly to explain what they most like about your service or product and offer to write it up for them
 
-По материалам <a href="http://publicrelationssydney.com.au/?p=1688">Public Relations Sydney</a>
+По материалам <a href="https://publicrelationssydney.com.au/?p=1688">Public Relations Sydney</a>
 

@@ -32,5 +32,5 @@ date: 2012-10-26
 
 Паула: я думаю, что дело в том,чтобы напоминать людям о том, что темы шоу все еще актуальны сейчас, также, как и тогда, когда пьесы создавались. Важно, чтобы люди болтали о пьесе между собой, и ответы в Твиттере на "Кошку на раскаленной крыше" были просто замечательные.
 
-По материалам <a href="http://www.guardian.co.uk/culture-professionals-network/culture-professionals-blog/2012/oct/30/theatre-marketing-tips-west-yorkshire-playhouse">the Guardian</a>
+По материалам <a href="https://www.guardian.co.uk/culture-professionals-network/culture-professionals-blog/2012/oct/30/theatre-marketing-tips-west-yorkshire-playhouse">the Guardian</a>
 

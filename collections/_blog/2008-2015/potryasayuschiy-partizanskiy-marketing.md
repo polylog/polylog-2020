@@ -10,9 +10,9 @@ date: 2008-07-25
 
 Также в процессе партизанской кампании были потрясены: стойки с дисками, деревце в кадке, манекен, руки прохожих, кабинка для мгновенных фотографий, тарелка с едой и много других полезных вещей.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/jEocjTA1DW4&hl=en&fs=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/jEocjTA1DW4&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344" wmode="transparent"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/jEocjTA1DW4&hl=en&fs=1"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/jEocjTA1DW4&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344" wmode="transparent"></embed></object>
 
 Партизанская кампания породила сильную волну слухов, и несколько ответных видео, например, видео с рискованной попыткой молодых специалистов потрясти босса.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/RyrYwItEit8&hl=en&fs=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/RyrYwItEit8&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344" wmode="transparent"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/RyrYwItEit8&hl=en&fs=1"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/RyrYwItEit8&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344" wmode="transparent"></embed></object>
 

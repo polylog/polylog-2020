@@ -16,5 +16,5 @@ Google - еще один гигант онлайн-маркетинга, кот�
 
 Таким образом, вложение в мобильный маркетинг становится все более верным вложением средств.
 
-По материалам <a href="http://www.rylanclayne.com/mobile-marketing/essential-tips-for-mobile-marketing">Rylanclayne</a>
+По материалам <a href="https://www.rylanclayne.com/mobile-marketing/essential-tips-for-mobile-marketing">Rylanclayne</a>
 

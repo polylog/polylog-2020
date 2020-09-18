@@ -22,5 +22,5 @@ date: 2015-06-17
 
 Продолжение следует.
 
-По материалам <a href="http://shirleyanderson.hubpages.com/hub/-Advertising#">Hubpages</a>
+По материалам <a href="https://shirleyanderson.hubpages.com/hub/-Advertising#">Hubpages</a>
 

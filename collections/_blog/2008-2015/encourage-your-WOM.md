@@ -68,5 +68,5 @@ date: 2012-07-12
 
 –John Harthorne, MassChallenge
 
-По материалам <a href="http://www.business2community.com/startups/12-ways-to-encourage-word-of-mouth-referrals-0209445">Business 2 community </a>
+По материалам <a href="https://www.business2community.com/startups/12-ways-to-encourage-word-of-mouth-referrals-0209445">Business 2 community </a>
 

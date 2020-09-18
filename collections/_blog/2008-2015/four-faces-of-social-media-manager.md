@@ -26,5 +26,5 @@ date: 2013-09-17
 
 Еще один лик, необходимый для менеджера проектов в социальных сетях  - это тот, кто ищет новые возможности, шансы, заводит новые знакомства. Первые три поддерживают имеющийся образ и обогащают его, этот последний - ищет пути по которым бренд будет изменяться.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/social-media-marketing/4-personalities-good-social-media-manager/">Creative Guerrilla Marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/social-media-marketing/4-personalities-good-social-media-manager/">Creative Guerrilla Marketing</a>
 

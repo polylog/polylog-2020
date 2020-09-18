@@ -5,13 +5,13 @@ permalink: /ru/pr-blog/nayti-rabotu-piarschika-legche-chem-rabotu-zhurnalista
 date: 2008-08-12
 
 ---
-<p><a href="http://www.indeed.com/jobtrends?q=%22public+relations%2C+marketing%2C+journalism%2C+advertising"><img width="540" height="300" src="http://www.indeed.com/trendgraph/jobgraph.png?q=%22public+relations%2C+marketing%2C+journalism%2C+advertising" alt="Тенденции спроса на PR-специалистов, маркетологов, рекламщиков и журналистов"></a></p>
+<p><a href="https://www.indeed.com/jobtrends?q=%22public+relations%2C+marketing%2C+journalism%2C+advertising"><img width="540" height="300" src="https://www.indeed.com/trendgraph/jobgraph.png?q=%22public+relations%2C+marketing%2C+journalism%2C+advertising" alt="Тенденции спроса на PR-специалистов, маркетологов, рекламщиков и журналистов"></a></p>
 <p>Несколько иначе обстоят дела на крупнейших российских сайтах трудоустройства. На нашем рынке понятие рекламщика более размыто (этим словом называют и промоутеров и директоров), и, возможно, потому рекламщики у нас пока теснят маркетологов.</p>
 <table cellspacing="0" class="num">
 
 <caption>
 
-Результаты поиска 12 августа на <a href="http://www.superjob.ru/" target="_blank" rel="noopener noreferrer">SuperJob</a>. Похожую картину можно увидеть на <a href="http://hh.ru/" target="_blank" rel="noopener noreferrer">HeadHunter</a> и <a href="http://www.job.ru/" target="_blank" rel="noopener noreferrer">Джоб.ру</a>
+Результаты поиска 12 августа на <a href="https://www.superjob.ru/" target="_blank" rel="noopener noreferrer">SuperJob</a>. Похожую картину можно увидеть на <a href="https://hh.ru/" target="_blank" rel="noopener noreferrer">HeadHunter</a> и <a href="https://www.job.ru/" target="_blank" rel="noopener noreferrer">Джоб.ру</a>
 
 </caption>
 

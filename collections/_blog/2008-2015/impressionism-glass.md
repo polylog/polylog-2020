@@ -14,5 +14,5 @@ date: 2012-09-07
 
 Некоторые получившиеся таким образом живые картины были запечатлены на фотографиях и выставлены в той же галерее.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/vue_privee_gallery_impressionist_windows?size=_original">Ads of the world</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/vue_privee_gallery_impressionist_windows?size=_original">Ads of the world</a>
 

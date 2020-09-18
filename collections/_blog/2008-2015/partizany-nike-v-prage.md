@@ -8,5 +8,5 @@ date: 2009-05-05
 
 Реакция на кампанию была неоднозначной. Часть людей была возмущена таким вмешательством рекламщиков в частную жизнь - автовладельцы вообще плохо переносят любые манипуляции с их машинами.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/yFFMdi1-t6Q&hl=ru&fs=1"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/yFFMdi1-t6Q&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/yFFMdi1-t6Q&hl=ru&fs=1"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="https://www.youtube.com/v/yFFMdi1-t6Q&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 

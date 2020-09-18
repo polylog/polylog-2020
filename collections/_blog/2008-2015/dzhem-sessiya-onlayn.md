@@ -44,7 +44,7 @@ Skank  - одна из самых популярных групп Бразили
 
 Более 15 известных бразильских музыкантов присоединились к проекту, записав свою версию песни и таким образом привлекли дополнительное внимание СМИ
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/TEsg88mP6bs?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/TEsg88mP6bs?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/TEsg88mP6bs?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/TEsg88mP6bs?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-По материалам <a href="http://www.canneslions.com">CannesLions</a>
+По материалам <a href="https://www.canneslions.com">CannesLions</a>
 

@@ -16,5 +16,5 @@ date: 2014-02-28
 
 Агентство: L&CR, Шанхай, Китай.
 
-По материалам <a href="http://adsoftheworld.com/media/dm/lawyers_association_china_demolition?size=original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/dm/lawyers_association_china_demolition?size=original">Ads of the World</a>
 

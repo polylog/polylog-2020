@@ -58,5 +58,5 @@ date: 2014-05-20
 
 Почему заботиться друг о друге важно? Это позволяет людям показать себя с лучшей стороны. Это позволяет людям чувствовать эмоциональный комфорт – а настоящее развитие невозможно если люди не доверяют друг другу, чувствуют стресс от рабочего места, от общения с коллегами.
 
-По материалам <a href="http://www.forbes.com/sites/ruthblatt/2014/07/17/what-rockers-can-teach-entrepreneurs/">Forbes</a>
+По материалам <a href="https://www.forbes.com/sites/ruthblatt/2014/07/17/what-rockers-can-teach-entrepreneurs/">Forbes</a>
 

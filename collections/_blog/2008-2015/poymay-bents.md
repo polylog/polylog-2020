@@ -40,5 +40,5 @@ PR-агентство: JUNG von MATT Hamburg, GERMANY
 
 Кампания "Поймай Бенц" была направлена на создание диалога об идее "Лучшее или ничего" в социальных сетях и нетрадиционных медиа.
 
-По материалам <a href="http://www.canneslions.com">CannesLions</a>
+По материалам <a href="https://www.canneslions.com">CannesLions</a>
 

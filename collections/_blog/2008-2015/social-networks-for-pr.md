@@ -24,5 +24,5 @@ date: 2013-06-25
 
 Для того, чтобы  действовать в социальной сети, необходимо отказаться от идеи того, что месячные или полугодовые продажи напрямую связаны с вашей активностью. Вы можете все делать правильно, но просто не попадать на нужных людей. А можете вести несистематическую деятельность и случайно зацепиться с несколькими лидерами мнений.
 
-По материалам <a href="http://www.socialmediaexplorer.com/social-media-marketing/why-marketers-get-social-media-wrong/">Social Media Explorer</a>
+По материалам <a href="https://www.socialmediaexplorer.com/social-media-marketing/why-marketers-get-social-media-wrong/">Social Media Explorer</a>
 

@@ -20,5 +20,5 @@ date: 2015-11-07
 
 Мы конечно, будем планировать и осуществлять большие интегрированные кампании, но необходимо всегда держать в голове тот факт, что большинство людей запомнят что-то одно.
 
-По материалам <a href="http://adage.com/article/agency-viewpoint/agencies-learn-music-industry/301373/">AdAge</a>
+По материалам <a href="https://adage.com/article/agency-viewpoint/agencies-learn-music-industry/301373/">AdAge</a>
 

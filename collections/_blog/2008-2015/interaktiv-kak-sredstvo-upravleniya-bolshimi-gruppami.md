@@ -14,5 +14,5 @@ date: 2011-09-08
 
 - принудительное ознакомление с идеями. Например - голосование за лучшую идею, чтобы каждый участник по крайней мере просмотрел идеи других и например, наклеил звездочку на понравившиеся ему варианты.
 
- По материалам <a href="http://performancemanagementcompanyblog.wordpress.com/tag/large-event-management/">Performance and Management</a>
+ По материалам <a href="https://performancemanagementcompanyblog.wordpress.com/tag/large-event-management/">Performance and Management</a>
 

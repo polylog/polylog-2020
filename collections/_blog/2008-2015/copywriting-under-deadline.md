@@ -56,5 +56,5 @@ date: 2012-07-18
 
 Что касается второго вопроса, то на каком бы языке вы не писали, призыв к действию должен быть позитивным. "подпишитесь" или "зарегистрируйтесь" - немного негативные призывы, слишком похожие на приказ, а "перейдите по ссылке", "кликните здесь" - нейтральный призыв.
 
-По материалам <a href="http://www.seo-e.com/copywriting-seo-content-development/copywriting-on-tight-deadlines-telling-your-story-part-ii.htm">SEO-E</a>
+По материалам <a href="https://www.seo-e.com/copywriting-seo-content-development/copywriting-on-tight-deadlines-telling-your-story-part-ii.htm">SEO-E</a>
 

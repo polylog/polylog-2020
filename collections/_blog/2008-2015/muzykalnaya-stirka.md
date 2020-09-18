@@ -28,7 +28,7 @@ date: 2011-02-22
 
 Результаты: количество посетителей магазина возросло на 88%, более 10 тысяч человек посетили Музыкальную прачечную за 4 дня. 60 тысяч дискуссий в сети посвящены это теме. Количество посетителе сайта Levi's возросло на 100%. Продажи джинсов в специальных упаковках возросло на 125%.
 
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/Vb2FsvCV5gE" frameborder="0" allowfullscreen></iframe>
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/Vb2FsvCV5gE" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://www.ibelieveinadv.com/category/ambient-outdoor/">I believe in Adv</a>
+По материалам <a href="https://www.ibelieveinadv.com/category/ambient-outdoor/">I believe in Adv</a>
 

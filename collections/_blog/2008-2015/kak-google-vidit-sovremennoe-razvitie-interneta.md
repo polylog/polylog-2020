@@ -12,7 +12,7 @@ date: 2008-05-22
 
 Также рассказывается о вирусной рекламной кампании посвященной раскрутке сервиса Google Mail.
 
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/VsvfAUaKiwo&hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/VsvfAUaKiwo&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+<object width="425" height="355"><param name="movie" value="https://www.youtube.com/v/VsvfAUaKiwo&hl=en"></param><param name="wmode" value="transparent"></param><embed src="https://www.youtube.com/v/VsvfAUaKiwo&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
 
 В целом из видео можно понять некоторые принципы пиара главного поисковика интернета на сегодняшний день. И главный принцип - это тиражирование правды, искренних сообщений. Особенно четко понимаешь, что пиар начинается с производственного процесса, с хорошего отношения к сотрудникам и желания сделать хорошо свою работу.
 

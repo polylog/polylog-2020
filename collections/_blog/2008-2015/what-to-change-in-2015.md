@@ -20,5 +20,5 @@ date: 2015-01-23
 
 5. Распределите ответственность.
 
-По материалам <a href="http://adage.com/article/digitalnext/break-social-media-chain-2015/296237/">Ad Age</a>
+По материалам <a href="https://adage.com/article/digitalnext/break-social-media-chain-2015/296237/">Ad Age</a>
 

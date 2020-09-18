@@ -36,5 +36,5 @@ date: 2013-02-12
 
 <a href="/ru/pr-blog/conference-attendance-planning-2">Читать продолжение</a>
 
-По материалам <a href="http://scottberkun.com/essays/24-how-to-get-the-most-out-of-conferences/">ScottBerkun.com</a>
+По материалам <a href="https://scottberkun.com/essays/24-how-to-get-the-most-out-of-conferences/">ScottBerkun.com</a>
 

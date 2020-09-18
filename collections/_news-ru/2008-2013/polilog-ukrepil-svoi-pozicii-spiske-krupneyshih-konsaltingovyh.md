@@ -44,7 +44,7 @@ date: 2008-04-08
     </tr>
     <tr>
       <td><strong>5</strong></td>
-      <td><a href="http://www.raexpert.ru/database/companies/polilog/"><strong>"Полилог"</strong></a></td>
+      <td><a href="https://www.raexpert.ru/database/companies/polilog/"><strong>"Полилог"</strong></a></td>
       <td><strong>90</strong></td>
       <td><strong>83973</strong></td>
     </tr>

@@ -18,5 +18,5 @@ date: 2008-06-20
 <li>С точки зрения связи со спортом, шоу-бизнесом, социальной проблематикой: отличается ли бренд от своих конкурентов или делает то же, что и они?</li>
 <li>Как повлияет на восприятие бренда то, что от его деятельности получают пользу определенные группы лиц (спортсмены, музыканты, бездомные, итд)?</li></ol>
 
-По материалам <a href="http://elab.vanderbilt.edu/research/papers/How%20Social-Cause%20Marketing%20Affects%20Consumer%20Perceptions%20%5BBloom,%20Hoeffler,%20Keller,%20Meza%5D.pdf">Vanderbilt Elab</a>
+По материалам <a href="https://elab.vanderbilt.edu/research/papers/How%20Social-Cause%20Marketing%20Affects%20Consumer%20Perceptions%20%5BBloom,%20Hoeffler,%20Keller,%20Meza%5D.pdf">Vanderbilt Elab</a>
 

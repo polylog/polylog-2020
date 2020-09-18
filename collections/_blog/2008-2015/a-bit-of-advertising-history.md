@@ -10,7 +10,7 @@ date: 2012-08-27
 
 <img src="{{ site.assets }}/upload/032%20-%20Election%20Advertising,%20Excavations%20of%20Pompeii.jpg" alt="" class="post__img" width="580" height="385">
 
-Имена кандидатов на местных выборах, раскопки в Помпеях. Источник <a href="http://www.raffer.it/italyphotos/campania/pompei/032%20-%20Election%20Advertising,%20Excavations%20of%20Pompeii_jpg_orig.html"> raffer.it</a>
+Имена кандидатов на местных выборах, раскопки в Помпеях. Источник <a href="https://www.raffer.it/italyphotos/campania/pompei/032%20-%20Election%20Advertising,%20Excavations%20of%20Pompeii.jpg_orig.html"> raffer.it</a>
 
 В Средние Века рекламное пространство наводнили листовки и постеры, которые прикреплялись к стенам домов. На них всегда были картинки, которые по смыслу дублировали текст: немногие умели читать. Эти объявления уже сообщали о продаже конкретных товаров.
 
@@ -22,7 +22,7 @@ date: 2012-08-27
 
 О развитии уличной рекламы мы можем судить по известному закону, принятому в Лондоне в начале XVIII века: "Запрещается вешать знаки на улице, чтобы они закрывали доступ к воздуху и свету".
 
-На сайте <a href="http://www.nonlineagency.com/multimedia/the_history_of_advertising/">NonlineAgency</a> можно ознакомиться с историей рекламы - в кратком и наглядном виде. Также на таблице отмечены основные этапы в создании и совершенствовании средств связи, так как это неизбежно влияет на рекламу и PR.
+На сайте <a href="https://www.nonlineagency.com/multimedia/the_history_of_advertising/">NonlineAgency</a> можно ознакомиться с историей рекламы - в кратком и наглядном виде. Также на таблице отмечены основные этапы в создании и совершенствовании средств связи, так как это неизбежно влияет на рекламу и PR.
 
 Начинается таблица за 3 тысячи лет до нашей эры, с глиняных табличек цивилизации шумеров - так как реклама невозможна без письменности. В 79 году нашей эры зарегистрирован первый PR-факт, который составители таблицы назвали "звуковым логотипом": обычай греческих проституток барабанить ногтями по своей обуви, как знак, что они подзывают клиента.
 
@@ -30,5 +30,5 @@ date: 2012-08-27
 
 Конечно, большая часть событий приходится на XX век, и уже немало отмечено за последнее десятилетие.
 
-По материалам <a href="http://www.trivia-library.com/a/history-of-advertising-ancient-history-middle-ages-and-the-early-days.htm">trivia-library</a>
+По материалам <a href="https://www.trivia-library.com/a/history-of-advertising-ancient-history-middle-ages-and-the-early-days.htm">trivia-library</a>
 

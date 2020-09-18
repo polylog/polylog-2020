@@ -16,13 +16,13 @@ date: 2010-02-10
 
 Слова, которые набирали с помощью этого устройства, превращались в  специальный код, который сохранялся в сети. Код - это 50 слогов (вся японская азбука), каждый из которых имеет свою "душу". Эта "душа" выражается как свет и текстура шарика, и специальный индивидуальный звук.
 
-Посмотреть, как работает эта система, вы можете на сайте <a href="http://coto-tama.jp/">Coto-Tama</a>.
+Посмотреть, как работает эта система, вы можете на сайте <a href="https://coto-tama.jp/">Coto-Tama</a>.
 
 Создав свое собственное "слово с душой", можно разместить его на сайте, где его увидят остальные посетители, можно сделать с ним постер или майку, можно скачать его на рабочий стол компьютера или телефона. Можно было читать сообщения других пользователей, созданные с помощью coto-tama, и отвечать на них. кроме того, с помощью кото-тама размещалась некоторая организхаторская информация о фестивале.
 
 Так было создано новое сообщество любителей современного  цифрового искусства.
 
-  <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/1CxIjGVWZP8&hl=ru_RU&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/1CxIjGVWZP8&amp;hl=ru_RU&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+  <object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/1CxIjGVWZP8&hl=ru_RU&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/1CxIjGVWZP8&amp;hl=ru_RU&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 Результаты:
 

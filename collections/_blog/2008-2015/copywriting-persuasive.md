@@ -27,6 +27,6 @@ date: 2013-04-29
 <h2>4. Начинайте разговор с «да-вопросов»</h2>
 <p>«Устали вычитывать текст вручную?», «Нет времени осваивать Corel Draw?». Если на ваш первый вопрос пользователь отвечает «Да» — он чувствует интерес, он чувствует взаимопонимание. </p>
 <p>В одном исследовании, респондентов просили прослушать речь Барака Обамы или МакКейна, а потом смотрели ролик с рекламой  Тойоты. Республиканцы, которые слушали речь МакКейна, также как и демократы, слушавшие речь Обамы, заявили что реклама была достаточно убедительна, тогда как те, кто слушал выступление лидера "не своей" партии, были настроены куда более критически. Люди более готовы согласиться с чем-то, если они до этого послушали или прочли что-то что совпадает с их убеждениями.
-<p>По материалам <a href="http://www.wordstream.com/blog/ws/2013/05/02/persuasive-copywriting-tips">Wordstream.com</a></p>
-<p>P.S. Спасибо Дмитрию Бергштейну (компания <a href="http://one2team.ru/" target="_blank" rel="noopener noreferrer">ONE2TEAM</a>) за <a href="http://one2team.ru/blog/shrift-roboto-i-kirillitsa" target="_blank" rel="noopener noreferrer">исправления шрифта Roboto Light</a>, который мы используем в наших заголовках.</p>
+<p>По материалам <a href="https://www.wordstream.com/blog/ws/2013/05/02/persuasive-copywriting-tips">Wordstream.com</a></p>
+<p>P.S. Спасибо Дмитрию Бергштейну (компания <a href="https://one2team.ru/" target="_blank" rel="noopener noreferrer">ONE2TEAM</a>) за <a href="https://one2team.ru/blog/shrift-roboto-i-kirillitsa" target="_blank" rel="noopener noreferrer">исправления шрифта Roboto Light</a>, который мы используем в наших заголовках.</p>
 

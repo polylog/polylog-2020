@@ -10,5 +10,5 @@ date: 2008-06-17
 
 Такое построение мероприятия спровоцировало распространение контента среди пользователей, таким образом промо-акция перешла в вирусный маркетинг.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/QaV9kgdzc4Y&hl=en"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/QaV9kgdzc4Y&amp;hl=en" type="application/x-shockwave-flash" width="425" height="344" wmode="transparent"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/QaV9kgdzc4Y&hl=en"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/QaV9kgdzc4Y&amp;hl=en" type="application/x-shockwave-flash" width="425" height="344" wmode="transparent"></embed></object>
 

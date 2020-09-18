@@ -14,5 +14,5 @@ date: 2013-08-22
 
 В результате Converse Bride Collection завладела вниманием публики, через фэшн-блоги информация разошлась по другим сетям, попала к журналистам, и в результате о новой модели узнало больше миллиона людей, и это при нулевых вложениях в прессу.
 
-По материалам <a href="http://adsoftheworld.com/media/dm/converse_bride_collection?size=original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/dm/converse_bride_collection?size=original">Ads of the World</a>
 

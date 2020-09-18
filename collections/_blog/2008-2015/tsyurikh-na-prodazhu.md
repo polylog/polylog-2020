@@ -20,5 +20,5 @@ Cabaret Voltaire - ночной клуб в Цюрихе, основанный �
 
 Сайт www.alles-ist-kunst.ch получил более 13 тысяч посетителей, продано более 400 объектов, и кабаре выиграло голосование - 65% голосов за место рождения дадаизма.
 
-По материалам <a href="http://www.coloribus.com/adsarchive/prints/cabaret-voltaire-zurichs-being-sold-315351/">Coloribus.com</a>
+По материалам <a href="https://www.coloribus.com/adsarchive/prints/cabaret-voltaire-zurichs-being-sold-315351/">Coloribus.com</a>
 

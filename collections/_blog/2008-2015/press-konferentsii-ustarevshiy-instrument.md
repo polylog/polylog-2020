@@ -15,8 +15,8 @@ date: 2017-03-14
 <p>Для создания информационного вакуума интервью спикеров со СМИ нежелательны до пресс-конференции. Интервью возможно только в качестве эксклюзивного материала с топовыми СМИ. Пост-релиз выступает в роли главного рабочего инструмента после пресс-конференции. Пресс-папку, пост-релиз и ссылку на фотобанк должны получить даже приглашенные, но неучаствовавшие представители СМИ. После follow-up не забудьте поблагодарить редакцию за размещение материала, поскольку это укрепит ваши отношения со СМИ.</p>
 <p>Никакие виртуальные источники информации, пресс-релизы или онлайн-конференции не обеспечивают коммуникацию с представителями ТВ и радио. Пресс-конференция &ndash; незаменимый PR инструмент, позволяющий правильно позиционировать бренд, распространить необходимую информацию или поднять общественно значимый вопрос. Важно лишь правильно сформулировать информационный повод, организовать пригласительную кампанию и обеспечить организационно-техническую поддержку мероприятия.</p>
 <p>По материалам:</p>
-<p><a href="http://www.investopedia.com/terms/p/press-conference.asp" target="_blank" rel="noopener noreferrer">Investopedia</a></p>
-<p><a href="http://www.armstat.am/file/doc/99487138.pdf" target="_blank" rel="noopener noreferrer">Armstat</a></p>
-<p><a href="http://ec.europa.eu/research/science-society/science-communication/mediarelations3_en.htm" target="_blank" rel="noopener noreferrer">ec.europa.eu</a></p>
-<p><a href="http://smallbusiness.chron.com/organize-successful-press-conference-39875.html" target="_blank" rel="noopener noreferrer">smallbusiness.chron.com</a></p>
+<p><a href="https://www.investopedia.com/terms/p/press-conference.asp" target="_blank" rel="noopener noreferrer">Investopedia</a></p>
+<p><a href="https://www.armstat.am/file/doc/99487138.pdf" target="_blank" rel="noopener noreferrer">Armstat</a></p>
+<p><a href="https://ec.europa.eu/research/science-society/science-communication/mediarelations3_en.htm" target="_blank" rel="noopener noreferrer">ec.europa.eu</a></p>
+<p><a href="https://smallbusiness.chron.com/organize-successful-press-conference-39875.html" target="_blank" rel="noopener noreferrer">smallbusiness.chron.com</a></p>
 

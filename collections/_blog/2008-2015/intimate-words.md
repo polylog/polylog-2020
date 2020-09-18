@@ -16,5 +16,5 @@ date: 2015-07-26
 
 Кампания получила отличные отзывы в СМИ, а также  - Гран-при на Каннских Львах 2015, первое гран-при для Мексики.
 
-По материалам <a href="http://www.leoburnett.com/articles/news/leo-burnett-mexico-takes-home-grand-prix-at-cannes-lions-health-awards/">Leo Burnett </a>
+По материалам <a href="https://www.leoburnett.com/articles/news/leo-burnett-mexico-takes-home-grand-prix-at-cannes-lions-health-awards/">Leo Burnett </a>
 

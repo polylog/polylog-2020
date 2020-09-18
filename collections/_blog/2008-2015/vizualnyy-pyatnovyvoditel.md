@@ -10,5 +10,5 @@ Hygiene Color Bleach. Решение простое для восприятия,
 
 <img src="{{ site.assets }}/upload/hygiene_beach.jpeg" alt="" class="post__img" width="470" height="635">
 
-По материалам <a href="http://www.adsoftheworld.com">Ads of the World</a>
+По материалам <a href="https://www.adsoftheworld.com">Ads of the World</a>
 

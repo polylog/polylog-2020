@@ -38,5 +38,5 @@ date: 2009-08-31
 
 Так что социальные сети - это не мода, это фундаментальное изменение способа общения. Успешная кампания в социальной сети - это сначала слушать, а потом продавать. кампания в социальной сети - это планирование события, сбор информации и создание контента, а не традиционная реклама.
 
-<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/sIFYPQjYhv8&hl=ru&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/sIFYPQjYhv8&amp;hl=ru&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+<object width="560" height="340"><param name="movie" value="https://www.youtube.com/v/sIFYPQjYhv8&hl=ru&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/sIFYPQjYhv8&amp;hl=ru&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
 

@@ -12,5 +12,5 @@ date: 2012-06-15
 
 Прием выбран простой и однозначный: под слоганом "не бывает мелкого вандализма" были изготовлены гигантские окурки и жевательные резинки, и размещены там, где люди мусорят чаще всего. в таком масштабе эти вещи выглядят действительно отвратительно.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/sncf_incivility?size=_original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/sncf_incivility?size=_original">Ads of the World</a>
 

@@ -12,5 +12,5 @@ date: 2015-12-19
 
 На интерактивном биллборде было лицо женщины, покрытое следами ударов.  В то же время, камеры с функцией распознавания лиц, встроенные в биллборд, отмечали, сколько человек и в течение какого времени смотрели на изображение. Чем больше людей смотрели - тем быстрее пропадали страшные следы.
 
-По материалам <a href="http://www.adweek.com/adfreak/bruised-woman-billboard-heals-faster-more-passersby-look-her-163297">AdWeek.com</a>
+По материалам <a href="https://www.adweek.com/adfreak/bruised-woman-billboard-heals-faster-more-passersby-look-her-163297">AdWeek.com</a>
 

@@ -25,7 +25,7 @@ date: 2008-08-12
 </ul>
 <p>У нас нет проигравших, все участники конкурса приобретут уникальный опыт создания собственного портала!</p>
 <ul>
-  <li><a href="http://www.myintranet.ru/ru/competition/">Официальный сайт конкурса</a></li>
+  <li><a href="https://www.myintranet.ru/ru/competition/">Официальный сайт конкурса</a></li>
   <li>Оргкомитет конкурса:
     <ul>
       <li>Слесарева Марина: тел. 797-60-20 # 1273, <a href="mailto:mslesareva@armd.ru">mslesareva@armd.ru</a></li>

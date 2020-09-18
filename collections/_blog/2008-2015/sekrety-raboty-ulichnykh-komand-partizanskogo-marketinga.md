@@ -16,5 +16,5 @@ date: 2008-10-03
 
  - лучше проводить кампанию по распространению флаеров ночью
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/zP5qO6jYccA&hl=ru&fs=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/zP5qO6jYccA&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/zP5qO6jYccA&hl=ru&fs=1"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/zP5qO6jYccA&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
 

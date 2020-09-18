@@ -24,5 +24,5 @@ date: 2013-09-08
 
 Кампании этого года показали глубокое понимание музыки как искусства: «Все комфортабельное – на пляже» от  Southern Comfort, «Промах или попадание» от Odetta и другие.
 
-По материалам <a href="http://popsop.com/2013/06/four-creative-trends-for-cannes-lions-2013-by-leo-burnett-real-time-engagement-power-of-social-media-cultural-reach-music-performance/">Popsop.com</a>
+По материалам <a href="https://popsop.com/2013/06/four-creative-trends-for-cannes-lions-2013-by-leo-burnett-real-time-engagement-power-of-social-media-cultural-reach-music-performance/">Popsop.com</a>
 

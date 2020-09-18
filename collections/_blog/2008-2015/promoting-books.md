@@ -16,5 +16,5 @@ date: 2013-01-21
 
 7. Разговаривайте с людьми напрямую: собирайте мастер-классы, семинары, открытые чтения, беседы. Вы удивитесь, насколько людям сейчас не хватает живого общения, как охотно они приходят на такие творческие вечера. Хорошие традиции живут долго.
 
-По материалам <a href="http://www.frugalmarketing.com/dtb/ten-tips-for-promoting-books.shtml">Frugal Marketing</a>
+По материалам <a href="https://www.frugalmarketing.com/dtb/ten-tips-for-promoting-books.shtml">Frugal Marketing</a>
 

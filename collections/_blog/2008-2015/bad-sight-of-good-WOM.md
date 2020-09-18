@@ -30,5 +30,5 @@ date: 2013-07-31
 
 Но в любом случае это будет ваш осознанный выбор, а не попытка сохранить репутацию – в ущерб себе, развитию своего дела, себя как профессионала.
 
-По материалам <a href="http://www.freshbooks.com/blog/2013/08/01/word-of-mouth/">Freshbooks.com</a>
+По материалам <a href="https://www.freshbooks.com/blog/2013/08/01/word-of-mouth/">Freshbooks.com</a>
 

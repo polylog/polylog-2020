@@ -8,8 +8,8 @@ date: 2008-11-28
 
 <p class="list-caption">Почему так?</p>
 <ul>
-<li>Только 13% американцев узнают новости из газет и журналов; 32% — из телепрограмм; и 40% — из интернет-изданий (источник — <a href="http://www.zogby.com/" target="_blank" rel="noopener noreferrer">Центр изучения общественного мнения Zogby</a>; в России, думается, пропорции несколько иные, но общая тенденция, конечно, прослеживается и у нас).</li>
-<li>По данным <a href="http://www.pewinternet.org/" target="_blank" rel="noopener noreferrer">Исследовательского центра Pew</a>, каждый пятый интернет-пользователь ежедневно смотрит потоковое видео в Сети.</li>
+<li>Только 13% американцев узнают новости из газет и журналов; 32% — из телепрограмм; и 40% — из интернет-изданий (источник — <a href="https://www.zogby.com/" target="_blank" rel="noopener noreferrer">Центр изучения общественного мнения Zogby</a>; в России, думается, пропорции несколько иные, но общая тенденция, конечно, прослеживается и у нас).</li>
+<li>По данным <a href="https://www.pewinternet.org/" target="_blank" rel="noopener noreferrer">Исследовательского центра Pew</a>, каждый пятый интернет-пользователь ежедневно смотрит потоковое видео в Сети.</li>
 </ul>
 
 <p class="list-caption">Преимущества, которые дают PR-кампании мультимедийные решения:</p>
@@ -17,8 +17,8 @@ date: 2008-11-28
 <li>Картинки, видео- и аудиоматериалы, публикуемые на сайте или включенные в пресс-релизы, могут заинтересовать радио- и тележурналистов.</li>
 <li>Они могут также заинтересовать радио- и телепродюсеров, подыскивающих специалистов для оценки текущих событий в той или иной области.</li>
 <li>Они облегчают восприятие ключевых сообщений PR-кампаний.</li>
-<li>Они открывают новые каналы коммуникации: <a href="http://www.youtube.com/" target="_blank" rel="noopener noreferrer">YouTube</a> и <a href="http://www.flickr.com/" target="_blank" rel="noopener noreferrer">Flickr</a>.</li>
-<li>Ролики, публикуемые на YouTube, также эффективны как традиционные <a href="http://en.wikipedia.org/wiki/Satellite_media_tour" target="_blank" rel="noopener noreferrer">медиатуры</a> (экспертные выступления для телепрограмм, снятые собственными силами), но гораздо дешевле в производстве.</li>
+<li>Они открывают новые каналы коммуникации: <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">YouTube</a> и <a href="https://www.flickr.com/" target="_blank" rel="noopener noreferrer">Flickr</a>.</li>
+<li>Ролики, публикуемые на YouTube, также эффективны как традиционные <a href="https://en.wikipedia.org/wiki/Satellite_media_tour" target="_blank" rel="noopener noreferrer">медиатуры</a> (экспертные выступления для телепрограмм, снятые собственными силами), но гораздо дешевле в производстве.</li>
 <li>Публикация мультимедийного содержания в YouTube или Flickr является одним из способов привлечения посетителей на корпоративный сайт. А использование в подписях к видео и фотографиям ключевых для компании слов способно повысить трафик с поисковых систем.</li>
 <li>Распространяемые компанией видео- и аудиоролики улучшают ее образ. Бренд, поддерживаемый современными средствами, наделяется ими актуальностью.</li>
 </ol>
@@ -30,8 +30,8 @@ date: 2008-11-28
 <li>Откройте учетные записи на YouTube и Flickr, публикуйте на них снятое видео и фотоиллюстрации. В тегах используйте ключевые для отрасли слова. </li>
 <li>Опубликуйте свои видеоролики с YouTube на корпоративном сайте: веб-мастеру надо будет просто скопировать и вставить фрагменты html-кода.</li>
 <li>Если вам пришла в голову идея «<a href="/ru/help/viral-marketing">вирусного</a>» видео, прежде чем где-либо размещать, протестируйте его (для начала  — сценарий) на небольших фокус-группах — подобные проекты очень рискованны для репутации.</li>
-<li>Рассылайте помимо обычных, еще и <a href="http://en.wikipedia.org/wiki/Video_news_release" target="_blank" rel="noopener noreferrer">видео пресс-релизы</a> или ссылки на неотредактированные видеоматериалы (так называемые, b-roll).</li>
+<li>Рассылайте помимо обычных, еще и <a href="https://en.wikipedia.org/wiki/Video_news_release" target="_blank" rel="noopener noreferrer">видео пресс-релизы</a> или ссылки на неотредактированные видеоматериалы (так называемые, b-roll).</li>
 </ol>
-<p><a href="/ru/pr-blog/tutorials">Пример использования видео в PR-целях</a>: как это делаем мы. <a href="http://www.youtube.com/watch?v=RU6Xc6GKBaw" target="_blank" rel="noopener noreferrer">Этот же видеоролик на YouTube</a>.</p>
-<p>По материалам <a href="http://www.mpdailyfix.com/2007/11/four_tips_for_adding_multimedi.html" target="_blank" rel="noopener noreferrer">Marketing Profs Daily Fix Blog</a></p>
+<p><a href="/ru/pr-blog/tutorials">Пример использования видео в PR-целях</a>: как это делаем мы. <a href="https://www.youtube.com/watch?v=RU6Xc6GKBaw" target="_blank" rel="noopener noreferrer">Этот же видеоролик на YouTube</a>.</p>
+<p>По материалам <a href="https://www.mpdailyfix.com/2007/11/four_tips_for_adding_multimedi.html" target="_blank" rel="noopener noreferrer">Marketing Profs Daily Fix Blog</a></p>
 

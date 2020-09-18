@@ -8,15 +8,15 @@ date: 2008-07-28
 
 Например, прыжки в высоту на мотоцикле. 11 июля 2008 Ронни Реннер установил мировой рекорд в прыжках в высоту на мотоцикле - 59,2 фута.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/rTTib4o0tU4&hl=en&fs=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/rTTib4o0tU4&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/rTTib4o0tU4&hl=en&fs=1"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/rTTib4o0tU4&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
 
 И конечно, со слоганом "Red Bull окрыляет", компания не могла обойтись без летного средства. Пилот вертолета Eurocopter BO-105 CBS 4 вытворяет в небе чудеса "аэробатики" - в том числе считавшийся невозможным для вертолета "полный кувырок назад". Эти чудеса были засняты, ролик выложен на YouTube, и за год набрал 762 тысячи промсотров, чем заслужил восьмое место в категории "наиболее просматриваемый ролик" в категории "автомобили и другие машины", причем в десятке лучших это единственный вертолет - все остальные ролики посвящены автомобилям.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/RGu45s1_QPU&hl=en&fs=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/RGu45s1_QPU&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/RGu45s1_QPU&hl=en&fs=1"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/RGu45s1_QPU&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
 
 Кроме таких несомненно серьезных проектов, Red Bull уделяет внимание юмористическим гонкам - так называемым"гонкам в мыльнице", где важна не столько скорость и умение пилота, сколько творческий подход к изготовлению транспортного средства и костюмов.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/zIRxMDLrCT8&hl=en&fs=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/zIRxMDLrCT8&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/zIRxMDLrCT8&hl=en&fs=1"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/zIRxMDLrCT8&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
 
 Всего на YouTube выложены 232 видео от компании RedBull.
 
@@ -30,9 +30,9 @@ date: 2008-07-28
 
 Взаиморасположение энергетиков на рынке примерно отражает их реальную эффективность.
 
- <a href="http://rpod.ru/search.html?searchfor=%F2%E0%F3%F0%E8%ED">Главная составляющая энергетиков - аминокислота таурин</a>. Его содержание самое высокое в напитке Adrenaline rush - 399 милиграмм на 100 милилитров. Вещество таурин стимулирует гормон роста, так что хорошо известно бодибилдерам. Также он стимулирует усвоение глюкозы, она эффективнее накапливается в клетках головного мозга, что положительно влияет на усвоение информации и помогает бороться со стрессом. Кроме того, таурин способствует расщеплению жиров, что делает его средством для борьбы с болезнями сердечно-сосудистой системы.
+ <a href="https://rpod.ru/search.html?searchfor=%F2%E0%F3%F0%E8%ED">Главная составляющая энергетиков - аминокислота таурин</a>. Его содержание самое высокое в напитке Adrenaline rush - 399 милиграмм на 100 милилитров. Вещество таурин стимулирует гормон роста, так что хорошо известно бодибилдерам. Также он стимулирует усвоение глюкозы, она эффективнее накапливается в клетках головного мозга, что положительно влияет на усвоение информации и помогает бороться со стрессом. Кроме того, таурин способствует расщеплению жиров, что делает его средством для борьбы с болезнями сердечно-сосудистой системы.
 
 Кроме таурина, энергетики также содержат кофеин, витамины, экстракт гуараны или чая мате, и различаются по количеству калорий. Так что условно можно разделить потребителей этих продуктов на два вида: одни в основном занимаются умственной работой, и им нужна постоянная концентрация внимания и возбужденное состояние нервной системы, другие занимаются спортом, и им нужен хороший мышечный тонус, эффективное использование ресурсов организма. Пока что именно в этом сегменте рынка Red Bull единственный, так как его конкуренты продвигаются как клубные напитки.
 
-По материалам <a href="http://www.redbullusa.com"> Red Bull </a>
+По материалам <a href="https://www.redbullusa.com"> Red Bull </a>
 

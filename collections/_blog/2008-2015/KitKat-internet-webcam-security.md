@@ -10,5 +10,5 @@ date: 2014-01-21
 
 Kit Kat тут же предложил свое решение, замечательно удобное и замечательно маркетинговое: блокиратор веб-камеры. Устройство простое: это кусочек картона, который крепится к монитору таким образом, что полностью закрывает обзор веб-камеры. При этом вебкамера показывает надпись "Передохни. Съешь КитКат".
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/kit_kat_webcam_blocker?size=original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/kit_kat_webcam_blocker?size=original">Ads of the World</a>
 

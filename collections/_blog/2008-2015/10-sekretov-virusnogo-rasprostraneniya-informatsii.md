@@ -32,5 +32,5 @@ date: 2011-04-08
 
 10. Рачпространять ваш контент должно быть удобно, поэтому тщательно изучите все способы, которыми вы предполагаете, ваш контент будет распространяться.
 
-По материалам <a href="http://www.businessinsider.com/here-are-10-tips-from-buzzfeed-to-make-your-content-go-viral-2011-4">Business Insider</a>
+По материалам <a href="https://www.businessinsider.com/here-are-10-tips-from-buzzfeed-to-make-your-content-go-viral-2011-4">Business Insider</a>
 

@@ -18,5 +18,5 @@ date: 2014-09-20
 
 В течение двух недель кампании значительно увеличилось число посещений сайта организации, где завязалась дискуссия  проблемы.
 
-По материалам <a href="http://adsoftheworld.com">Ads of the World </a>
+По материалам <a href="https://adsoftheworld.com">Ads of the World </a>
 

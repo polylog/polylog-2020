@@ -20,5 +20,5 @@ date: 2015-08-28
 
 Отзыв критика снят на видео, и хотя  первые три минуты смотреть довольно скучно, но потом начинаешь наслаждаться.
 
-По материалам <a href="http://www.adweek.com/news/advertising-branding/ad-day-esteemed-literary-critic-reviews-ikea-catalog-166530">ADweek.com</a>
+По материалам <a href="https://www.adweek.com/news/advertising-branding/ad-day-esteemed-literary-critic-reviews-ikea-catalog-166530">ADweek.com</a>
 

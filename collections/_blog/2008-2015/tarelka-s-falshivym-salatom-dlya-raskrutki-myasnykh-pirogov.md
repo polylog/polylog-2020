@@ -34,7 +34,7 @@ Four'n'Twenty-  производитель мясных пирогов, кото
 
 Так что в рамках кампании была создана "Чудо-тарелка" - обыкновенная пластиковая тарелка, только с имитацией лежащего на ней салата. Так что те, кто кладет на такую тарелку мясной пирог, выглядят так, как будто заботятся о своем здоровье и едят вместе с ним и салат.
 
-<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/CIYC1gLSSq0&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/CIYC1gLSSq0&amp;hl=ru_RU&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+<object width="560" height="340"><param name="movie" value="https://www.youtube.com/v/CIYC1gLSSq0&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/CIYC1gLSSq0&amp;hl=ru_RU&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
 
 В ролике рабочие используют тарелку для привлечения девушек, которым нравятся мужчины, которые следят за своей диетой.
 
@@ -46,5 +46,5 @@ Four'n'Twenty-  производитель мясных пирогов, кото
 
 В сети про эту тарелку блоггеры писали множество раз, в основном с тэгами "прикол", "шутка", "смешная тарелка", так что можно утверждать, что чувство юмора создателей кампании и аудитории - совпало. В отзывах кампанию называли образцом типичного австралийского юмора.
 
-По материалам <a href="http://www.effies.com.au/attachments/ce765871-4d95-42a3-a7c6-a0d70759fe04.pdf">Effies.com</a>
+По материалам <a href="https://www.effies.com.au/attachments/ce765871-4d95-42a3-a7c6-a0d70759fe04.pdf">Effies.com</a>
 

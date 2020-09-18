@@ -14,5 +14,5 @@ date: 2015-05-22
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/waqIuNFcZfY" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://prexamples.com/">PR examples</a>
+По материалам <a href="https://prexamples.com/">PR examples</a>
 

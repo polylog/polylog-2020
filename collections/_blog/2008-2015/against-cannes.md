@@ -6,7 +6,7 @@ date: 2012-09-16
 
 ---
 
-Группа рекламистов и PR-щиков, недовольных политикой проводимой на фестивале "Каннские Львы" и ее негативным влиянием на отрасль, создала кампанию <a href="http://fuckcanneslions.com/">"К черту Каннских Львов"</a>.
+Группа рекламистов и PR-щиков, недовольных политикой проводимой на фестивале "Каннские Львы" и ее негативным влиянием на отрасль, создала кампанию <a href="https://fuckcanneslions.com/">"К черту Каннских Львов"</a>.
 
 <img src="{{ site.assets }}/upload/fuckcanneslions-3.jpg" alt="" class="post__img" width="580" height="771">
 
@@ -24,5 +24,5 @@ date: 2012-09-16
 
 Также у кампании есть <a href="https://www.facebook.com/FCLREVOLUTION">страница на Facebook</a>, где все кто участвует в этом движении, предлагают своих кандидатов на самую несправедливую победу в знаменитом конкурсе.
 
-По материалам <a href="http://adsoftheworld.com/">Ads of the World.Blog</a>
+По материалам <a href="https://adsoftheworld.com/">Ads of the World.Blog</a>
 

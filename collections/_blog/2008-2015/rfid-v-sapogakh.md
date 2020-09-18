@@ -10,7 +10,7 @@ date: 2011-06-09
 
 Возможности использования такой технологии для вовлечения потребителя в новые отношения с продукцией бренда, безграничны. коврик-ридер может отправлять на страничку пользователя информацию о местонахождении, сфотографировать его и отправить фото на flickr, сообщить о том что пользователю нравятся какие-то товары, услуги, мероприятия, эта технология может использоваться вместо традиционных билетов на концерты, для добавления друзей на Facebook - для этого достаточно наступить на один коврик двум владельцам обуви с RFID-чипами.
 
-<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/f7wM_Dfz9IM?version=3&amp;hl=ru_RU&amp;rel=0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/f7wM_Dfz9IM?version=3&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" width="640" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="640" height="390"><param name="movie" value="https://www.youtube.com/v/f7wM_Dfz9IM?version=3&amp;hl=ru_RU&amp;rel=0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="https://www.youtube.com/v/f7wM_Dfz9IM?version=3&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" width="640" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-По материалам <a href="http://www.marketing-alternatif.com/category/conceptuel/">Marketing-Alternatif</a>
+По материалам <a href="https://www.marketing-alternatif.com/category/conceptuel/">Marketing-Alternatif</a>
 

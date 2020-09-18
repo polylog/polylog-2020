@@ -58,5 +58,5 @@ date: 2015-01-20
 
 1. Dove: Campaign for Real Beauty
 
-По материалам <a href="http://adage.com/lp/top15/">AdAge</a>
+По материалам <a href="https://adage.com/lp/top15/">AdAge</a>
 

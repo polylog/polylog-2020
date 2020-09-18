@@ -40,5 +40,5 @@ date: 2008-09-16
 
 <strong>VideoEgg</strong>: Главное - неизбежна стандартизация, даже если какие-то методы сейчас как кажется, не предполагают точного измерения.
 
-По материалам <a href="http://www.marketersstudio.com/2008/09/alternative-soc.html">MarketerStudio</a>
+По материалам <a href="https://www.marketersstudio.com/2008/09/alternative-soc.html">MarketerStudio</a>
 

@@ -18,11 +18,11 @@ date: 2008-09-25
 
 Туалетная тема получила продолжение в работе агентства Lowe, Уругвай.  В мужских  туалетах самых модных клубов были расклеены стикеры с реалистичным изображением женского белья. Основной мессадж кампании - "Только Axe может заставить девчонок забыть свое белье в мужском туалете"
 
-<a href="http://adsoftheworld.com/media/ambient/axe_lingerie_stickers?size=_original"><img src="{{ site.assets }}/upload/lenceria.jpg" alt="Продвижение Axe от Lowe, Уругвай" title="Продвижение Axe от Lowe, Уругвай"  class="post__img" width="470" height="326"></a>
+<a href="https://adsoftheworld.com/media/ambient/axe_lingerie_stickers?size=_original"><img src="{{ site.assets }}/upload/lenceria.jpg" alt="Продвижение Axe от Lowe, Уругвай" title="Продвижение Axe от Lowe, Уругвай"  class="post__img" width="470" height="326"></a>
 
 Но рекламой Axe занимается не только агентство Lowe - например, копирайтер Род Хенрикес разработал для дезодоранта партизанскую рекламу, основнную на древнем принципе "уравнений". Правда, некоторые критики этой кампании заметили, что сообщение может быть прочитано и иначе - "вода и Axe позволят вам превратиться в трех женщин". Но это довольно редкая интерпретация, так как фигурки женщин сделаны похожими на боевые трафареты, которые наносятся на военные самолеты, чтобы обозначить количество сбитых самолетов противника и боевых вылетов. Так что ассоциация с мужскими победами очевидна.
 
-<a href="http://adsoftheworld.com/media/ambient/axe_shower_gel_stickers?size=_original"><img src="{{ site.assets }}/upload/1203370241.jpg" alt="Партизанская кампания от Рода Хенрикеса" title="Партизанская кампания от Рода Хенрикеса"  class="post__img" width="470" height="412"></a>
+<a href="https://adsoftheworld.com/media/ambient/axe_shower_gel_stickers?size=_original"><img src="{{ site.assets }}/upload/1203370241.jpg" alt="Партизанская кампания от Рода Хенрикеса" title="Партизанская кампания от Рода Хенрикеса"  class="post__img" width="470" height="412"></a>
 
-По материалам <a href="http://adsoftheworld.com">Ads of the World </a>
+По материалам <a href="https://adsoftheworld.com">Ads of the World </a>
 

@@ -30,5 +30,5 @@ MapPoint - продукт от Microsoft, помогает визуализир�
 
 Ответ, как всегда, лежит в области контента: знайте своих потребителей и дайте им нужную информацию в доступной форме - при этом не нарушая правил Google.
 
-По материалам <a href="http://fly4change.wordpress.com/2008/10/29/mapping-out-your-strategy-using-maps-as-a-means-for-marketing/">Fly4Change.com </a>, <a href="http://blog.befoundmarketing.com/tag/google-maps-marketing/">blog.befoundmarketing.com</a>
+По материалам <a href="https://fly4change.wordpress.com/2008/10/29/mapping-out-your-strategy-using-maps-as-a-means-for-marketing/">Fly4Change.com </a>, <a href="https://blog.befoundmarketing.com/tag/google-maps-marketing/">blog.befoundmarketing.com</a>
 

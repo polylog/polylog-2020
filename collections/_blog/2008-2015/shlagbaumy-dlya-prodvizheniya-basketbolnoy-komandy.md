@@ -16,5 +16,5 @@ date: 2009-03-26
 
 <img src="{{ site.assets }}/upload/JUMPKINGSMedia.jpg" alt="" class="post__img" width="470" height="245">
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/ryuku_golden_kings_parking">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/ryuku_golden_kings_parking">Ads of the World</a>
 

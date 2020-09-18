@@ -24,5 +24,5 @@ date: 2013-09-30
 
 Так что несколько секунд тишины и два предложения возможно, спасли несколько жизней. Не так мало.
 
-По материалам <a href="http://adsoftheworld.com/media/dm/or_yarok_association_for_safe_driving_the_silent_accident?size=original">Ads of the world</a>
+По материалам <a href="https://adsoftheworld.com/media/dm/or_yarok_association_for_safe_driving_the_silent_accident?size=original">Ads of the world</a>
 

@@ -12,5 +12,5 @@ date: 2011-02-20
 
 Результатом кампании стали самые хорошие продажи новой линии духов, которые вообще наблюдались в Израиле - все духи были распроданы за 3 дня.
 
-<iframe class="youtube-player" type="text/html" width="480" height="415" src="http://www.youtube.com/embed/J6b-dBj5SxU?autoplay=" frameborder="0"></iframe>
+<iframe class="youtube-player" type="text/html" width="480" height="415" src="https://www.youtube.com/embed/J6b-dBj5SxU?autoplay=" frameborder="0"></iframe>
 

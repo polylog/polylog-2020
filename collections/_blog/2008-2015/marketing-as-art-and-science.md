@@ -40,5 +40,5 @@ date: 2013-05-16
 
 А для вас маркетинг - это наука или искусство?
 
-По материалам <a href="http://webhuckstergroup.com/uncategorized/4-principles-of-marketing-as-a-science/">Web huckster group</a>
+По материалам <a href="https://webhuckstergroup.com/uncategorized/4-principles-of-marketing-as-a-science/">Web huckster group</a>
 

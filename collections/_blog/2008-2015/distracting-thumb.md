@@ -18,5 +18,5 @@ date: 2015-01-14
 
 К ветровым стеклам автомобилей на парковках прикрепляли изображения большого пальца, закрывающего вид дороги почти полностью.
 
-По материалам <a href="http://adsoftheworld.com/media/dm/digi_distracting_thumb?size=original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/dm/digi_distracting_thumb?size=original">Ads of the World</a>
 

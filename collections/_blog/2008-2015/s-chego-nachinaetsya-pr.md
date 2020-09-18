@@ -15,5 +15,5 @@ date: 2009-05-29
 
 Если вы сомневаетесь, правильно ли вы себя ведете – проведите простой эксперимент, описанный в третьем пункте. Сыграйте сами роль клиента, а другой сотрудник пусть сыграет роль техподдержки, выдавая ответы в вашем стиле и в вашем ритме. <br><br>
 
-По материалам <a href="http://freelancefolder.com/do-you-hate-your-customers/">Freelancefolder</a>
+По материалам <a href="https://freelancefolder.com/do-you-hate-your-customers/">Freelancefolder</a>
 

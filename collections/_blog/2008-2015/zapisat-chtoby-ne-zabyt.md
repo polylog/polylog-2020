@@ -50,5 +50,5 @@ Post-it часто фигурируют в рекламных кампаниях
 
 Post-it участвовали и в кампании для "Врачей мира". Были выпущены специальные серии Post-it, с логотипом "Врачей мира", и продавались в благотворительных целях.
 
-<a href="http://adsoftheworld.com/media/ambient/doctors_of_the_world_postit">Видео о кампании</a>.
+<a href="https://adsoftheworld.com/media/ambient/doctors_of_the_world_postit">Видео о кампании</a>.
 

@@ -20,5 +20,5 @@ Just Do It  - один из самых известных слоганов, то
 
 <img src="{{ site.assets }}/upload/yesterday-you-said-tomorrow.jpg" alt="" class="post__img" width="580" height="752">
 
-П оматериалам <a href="http://en.wikipedia.org/wiki/Just_Do_It">Wikipedia</a>
+П оматериалам <a href="https://en.wikipedia.org/wiki/Just_Do_It">Wikipedia</a>
 

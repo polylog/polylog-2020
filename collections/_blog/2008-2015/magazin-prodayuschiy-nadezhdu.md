@@ -24,9 +24,9 @@ date: 2009-12-23
 
 Открытие магазина посетили сотни людей. В первый день открытия магазин вошел в десятку лучших магазинов торгового центра.
 
-<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/ZA5KPT7iVoI&border=1&color1=0xd6d6d6&color2=0xf0f0f0&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/ZA5KPT7iVoI&amp;border=1&amp;color1=0xd6d6d6&amp;color2=0xf0f0f0&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="349"></embed></object>
+<object width="425" height="349"><param name="movie" value="https://www.youtube.com/v/ZA5KPT7iVoI&border=1&color1=0xd6d6d6&color2=0xf0f0f0&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="https://www.youtube.com/v/ZA5KPT7iVoI&amp;border=1&amp;color1=0xd6d6d6&amp;color2=0xf0f0f0&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="349"></embed></object>
 
 В промо-видео  говорится "когда вы покидали магазин, ваши руки были пустыми, но сердца - полными".
 
-По материалам <a href="http://directdaily.blogspot.com/2009/06/red-cross-store-store-that-sells-hope.html">DirectDaily</a>
+По материалам <a href="https://directdaily.blogspot.com/2009/06/red-cross-store-store-that-sells-hope.html">DirectDaily</a>
 

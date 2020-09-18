@@ -30,7 +30,7 @@ date: 2008-06-23
 <li>Сан-Диего – «City with Sol» (слоган непереводим из-за богатства ассоциативных связей слова Sol – это и отсылка к библейскому персонажу Соломону, и к библейскому же выражению «соль земли», а также при определенных фонетических допущениях – понятие «душа» (soul) и «почва» (soil))</li>
 </ul>
 
-По материалам <a href="http://www.pe.com/localnews/inland/stories/PE_News_Local_S_branding22.3d0d685.html">PE.com
+По материалам <a href="https://www.pe.com/localnews/inland/stories/PE_News_Local_S_branding22.3d0d685.html">PE.com
 
 </a>
 

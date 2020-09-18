@@ -34,5 +34,5 @@ date: 2010-12-09
 
 Поэтому несмотря на нередкое внешнее сходство результатов, работа PR-агентства, PR-специалиста, отличается от работы рекламного агенства и рекламного специалиста.
 
-<a href="http://www.ereleases.com/prfuel/pr-mythbusting-3-pr-facts/">Ereleases</a>
+<a href="https://www.ereleases.com/prfuel/pr-mythbusting-3-pr-facts/">Ereleases</a>
 

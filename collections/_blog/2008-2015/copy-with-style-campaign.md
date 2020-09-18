@@ -24,5 +24,5 @@ date: 2015-09-03
 
 Эта кампания показала, как творческое мышление помогает выиграть у конкурента.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/scoot-airlines-helps-competitors-copy-bold-marketing-strategy/">CreativeGuerrilla Marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/scoot-airlines-helps-competitors-copy-bold-marketing-strategy/">CreativeGuerrilla Marketing</a>
 

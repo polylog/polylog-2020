@@ -34,5 +34,5 @@ date: 2013-10-05
 
 В любом случае, стоит иногда вспоминать слова Уинстона Черчилля - "Как бы ни была красива стратегия, надо иногда поглядывать на результаты".
 
-По материалам <a href="http://smartdatacollective.com/matillion/150351/3-secrets-successful-business-intelligence-strategy"> Smart Data Collective </a>
+По материалам <a href="https://smartdatacollective.com/matillion/150351/3-secrets-successful-business-intelligence-strategy"> Smart Data Collective </a>
 

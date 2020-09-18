@@ -16,7 +16,7 @@ date: 2011-07-29
 
 Компания-номинант: JUNG von MATT AG , Гамбург, Германия
 
-<iframe width="560" height="349" src="http://www.youtube.com/embed/MzY4SGgEB7g" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="349" src="https://www.youtube.com/embed/MzY4SGgEB7g" frameborder="0" allowfullscreen></iframe>
 
 Каждый день на бумагу  вырубаются целые леса. А на этой бумаге публикуются документы, большая часть которых затем летит в мусорные корзины и отправляется на свалки.
 
@@ -24,5 +24,5 @@ WWF разработал свой собственный формат - WWF, а�
 
 Более 53 тысяч пользователей уже скачали и установили приложение для сохранения документов в "лесосберегающем" формате.
 
-По материалам <a href="http://www.saveaswwf.com/en/what-is-it.html">Save as WWF</a>, <a href="http://www.canneslions.com/work/promo/entry.cfm">Cannes Lions</a>
+По материалам <a href="https://www.saveaswwf.com/en/what-is-it.html">Save as WWF</a>, <a href="https://www.canneslions.com/work/promo/entry.cfm">Cannes Lions</a>
 

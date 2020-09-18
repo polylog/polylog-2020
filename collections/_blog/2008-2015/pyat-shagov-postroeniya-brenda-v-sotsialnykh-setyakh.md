@@ -16,5 +16,5 @@ date: 2011-05-05
 
 5. Вовлечение. Когда вы упрочили свое присутствие и установили контакт, вы уже готовы вовлекаться и вовлекать других. Теперь уже можно сообщать о распродажах, специальных предложениях, событиях,конкурсах. Сразу эта информация вызвала бы отторжение.  .
 
-По материалам <a href="http://kherize5.com/small-business-branding-5-steps-to-brand-introduction-in-social-media/">Kherize5</a>
+По материалам <a href="https://kherize5.com/small-business-branding-5-steps-to-brand-introduction-in-social-media/">Kherize5</a>
 

@@ -10,7 +10,7 @@ date: 2011-09-02
 
 Пользователи создавали свой контент в сети - тексты, фотографии -, и эти новости печатались на обороте газеты, и распространялись как обычно. Этот проект был назван Iwatte - почти как название префектуры, только с двумя "t". Это слово значит - "празднуй вместе со мной!".
 
-<object width="560" height="345"><param name="movie" value="http://www.youtube.com/v/ps2sA-hTjDU?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ps2sA-hTjDU?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="345" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="345"><param name="movie" value="https://www.youtube.com/v/ps2sA-hTjDU?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/ps2sA-hTjDU?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="345" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 Результатом кампании тало то, что газет не потеряла читателей, а сайт проекта посетили более 2 миллионов человек. Также, исследования показывают, что узнаваемость газеты возросла на 151%. Оборот газеты вырос на 20% по сравнению с прошедшим финансовым годом. Даже молодежь, которая редко читает газеты, высказывали благодарность за этот проект.
 

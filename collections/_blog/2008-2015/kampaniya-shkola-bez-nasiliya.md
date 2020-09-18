@@ -62,5 +62,5 @@ date: 2008-09-01
 
 7. получена поддержка властей: президента Польши, главы Сейма, детского омбудсмена.
 
-По материалам <a href="http://www.ipra.org/detail.asp?articleid=259">IPRA.org</a>
+По материалам <a href="https://www.ipra.org/detail.asp?articleid=259">IPRA.org</a>
 

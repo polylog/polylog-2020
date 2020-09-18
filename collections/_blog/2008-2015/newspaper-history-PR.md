@@ -18,5 +18,5 @@ Yediot - ежедневная газета, существующая с 1939 г�
 
 Популярность газеты возросла на 1,6%, покрывая разрыв между "Yediot" и  ее ближайшим конкурентом "Israel Today"
 
-По материалам <a href="http://adsoftheworld.com/media/outdoor/yediot_aharonot_history?size=original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/outdoor/yediot_aharonot_history?size=original">Ads of the World</a>
 

@@ -48,5 +48,5 @@ Small Business Computing выяснил мнение сотрудников ко
 
 Обязательно продумайте критерии оценки эффективности вашей кампании. Количество кликов на сайт, количество звонков.
 
-по материалам <a href="http://www.smallbusinesscomputing.com/news/article.php/3920386/Top-7-Email-Marketing-Trends--Tips-for-2011.htm">SmallBusinessComputing</a>
+по материалам <a href="https://www.smallbusinesscomputing.com/news/article.php/3920386/Top-7-Email-Marketing-Trends--Tips-for-2011.htm">SmallBusinessComputing</a>
 

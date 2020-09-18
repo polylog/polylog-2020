@@ -14,5 +14,5 @@ date: 2011-10-15
 
 <img src="{{ site.assets }}/upload/01-toyazda-610x305.jpg" alt=""  width="580">
 
-По материалам <a href="http://www.ufunk.net/category/publicite/">Ufunk.net</a>
+По материалам <a href="https://www.ufunk.net/category/publicite/">Ufunk.net</a>
 

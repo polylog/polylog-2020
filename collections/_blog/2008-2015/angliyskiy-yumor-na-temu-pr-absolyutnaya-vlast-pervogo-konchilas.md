@@ -7,8 +7,8 @@ date: 2008-08-29
 ---
 <p>События в 12-серийном телевизионном фильме разворачиваются в лондонском PR-агентстве «Прентисс Маккейб». Основатели компании, Чарльз Прентисс (его играет Стивен Фрай — Дживс из знаменитой экранизации П. Г. Вудхауза) и Мартин Маккейб, — образцовые пиарщики «широкого профиля»: умные, беспринципные, со связями. Берутся почти за любую, хорошо оплачиваемую работу: один клиент из знаменитостей избил девушку под камерой видеонаблюдения, британцы бойкотируют американские гамбургеры из-за войны в Ираке, шейх по фамилии Бен Ладен хочет купить British Airways... И всё в том же духе.</p>
 <p>Весело и познавательно.</p>
-<p><object height="344" width="425"><param name="movie" value="http://www.youtube.com/v/RyrYwItEit8&amp;hl=en&amp;fs=1"><param name="wmode" value="transparent">
+<p><object height="344" width="425"><param name="movie" value="https://www.youtube.com/v/RyrYwItEit8&amp;hl=en&amp;fs=1"><param name="wmode" value="transparent">
 
-<embed src="http://www.youtube.com/v/awhWSSIGGRc&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" wmode="transparent" height="344" width="425"></embed></object></p>
+<embed src="https://www.youtube.com/v/awhWSSIGGRc&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" wmode="transparent" height="344" width="425"></embed></object></p>
 <p>Телевизионной версии ситкома, кстати, предшествовала весьма удачная радиопостановка.</p>
 

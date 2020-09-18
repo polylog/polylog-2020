@@ -34,5 +34,5 @@ date: 2010-09-10
 
 <img src="{{ site.assets }}/upload/fun_with404_errors_27_uphaa_com.jpg" alt="" class="post__img" width="450" height="327">
 
-По материалам <a href="http://www.uphaa.com/blog/index.php/funny-404-error/">Uphaa.com</a>
+По материалам <a href="https://www.uphaa.com/blog/index.php/funny-404-error/">Uphaa.com</a>
 

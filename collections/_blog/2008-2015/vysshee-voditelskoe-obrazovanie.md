@@ -14,7 +14,7 @@ PR/рекламное агентство: SANCHO BBDO Bogotá, COLOMBIA
 
 В Боготе, столице Колумбии, 100 тысяч такси. И никто из водителей не знает толком, чем именно является его профессия, что она дает им лично, их семьям и обществу. Не знают, потому что их никто этому не учил.
 
-<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/LFvbXFaIylo?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/LFvbXFaIylo?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="420" height="315"><param name="movie" value="https://www.youtube.com/v/LFvbXFaIylo?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/LFvbXFaIylo?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 Описание кампании:
 

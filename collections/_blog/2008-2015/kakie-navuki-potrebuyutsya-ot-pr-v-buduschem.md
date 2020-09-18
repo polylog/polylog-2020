@@ -16,6 +16,6 @@ date: 2017-04-12
 <p><strong>Навык №4</strong>&nbsp;Прогнозирование</p>
 <p><strong>Навык №5</strong>&nbsp;PESO PR</p>
 <p>По материалам:</p>
-<p><a href="http://spinsucks.com/social-media/big-question-future-pr-skills/" target="_blank" rel="noopener noreferrer">spinsucks.com</a></p>
-<p><a href="http://mediabitch.ru/peso/" target="_blank" rel="noopener noreferrer">mediabitsch.ru</a></p>
+<p><a href="https://spinsucks.com/social-media/big-question-future-pr-skills/" target="_blank" rel="noopener noreferrer">spinsucks.com</a></p>
+<p><a href="https://mediabitch.ru/peso/" target="_blank" rel="noopener noreferrer">mediabitsch.ru</a></p>
 

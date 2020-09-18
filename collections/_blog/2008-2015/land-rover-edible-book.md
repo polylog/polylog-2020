@@ -12,5 +12,5 @@ date: 2012-05-10
 
 Издание было разослано 5 тысячам покупателей, его раздавали вместе с инструкцией к машине, также можно было бесплатно взять в спортивных магазинах. Отклики были очень позитивные. Заказчик попросил включить книгу в качестве вкладыша в следующий выпуск журнала про машины, тиражом 70 тысяч.
 
-По материалам <a href="http://adsoftheworld.com/media/dm/land_rover_edible_desert_survival_guide?size=_original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/dm/land_rover_edible_desert_survival_guide?size=_original">Ads of the World</a>
 

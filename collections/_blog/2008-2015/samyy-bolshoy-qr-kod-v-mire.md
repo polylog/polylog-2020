@@ -10,7 +10,7 @@ Skanz, компании по работе с социальными сетями
 
 Те, кто не склонен к такому экстриму, могут просканировать код, показанный на видео, и тем самым принять участие в розыгрыше билетов на турне  Jay-Z и Кании Веста “Watch The Throne”.
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/zo6-J4_Ovd0?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/zo6-J4_Ovd0?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/zo6-J4_Ovd0?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/zo6-J4_Ovd0?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-По материалам <a href="http://www.creativeguerrillamarketing.com">CreativeGuerrillaMarketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com">CreativeGuerrillaMarketing</a>
 

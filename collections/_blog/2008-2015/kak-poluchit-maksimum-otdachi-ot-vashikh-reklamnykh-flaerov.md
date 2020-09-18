@@ -30,5 +30,5 @@ date: 2009-03-31
 
 <img src="{{ site.assets }}/upload/94034446_008925dbb2.jpg" alt="" class="post__img" width="469" height="245">
 
-По материалам <a href="http://www.isnare.com/?aid=362894&amp;ca=Marketing">ISNARE</a>
+По материалам <a href="https://www.isnare.com/?aid=362894&amp;ca=Marketing">ISNARE</a>
 

@@ -22,5 +22,5 @@ date: 2014-09-23
 
 Государственная разведка и бизнес-разведка не так сильно отличаются друг от друга. за тем исключением что первая куда более разработанная область чем вторая. Однако бизнес может всегда воспользоваться накопленными знаниями и методиками работы.
 
-По материалам <a href"http://blogs.wsj.com/cio/2014/09/24/what-business-can-learn-from-intelligence/">Blogs.wsj.com</a>
+По материалам <a href"https://blogs.wsj.com/cio/2014/09/24/what-business-can-learn-from-intelligence/">Blogs.wsj.com</a>
 

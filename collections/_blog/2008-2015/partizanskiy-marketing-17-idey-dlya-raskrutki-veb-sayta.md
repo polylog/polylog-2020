@@ -28,5 +28,5 @@ date: 2008-04-10
 <li>Носите URL на себе. <strong>Закажите кепки, майки, или футболки с капюшоном с адресом сайта на них</strong>. Это будет хорошим поводом для начала разговора на данную тему.</li>
 </ol>
 <p>А вы - использовали когда-нибудь нетрадиционные методы для продвижения собственного сайта?</p>
-<p>По материалам <a href="http://www.dailybits.com/17-guerrilla-marketing-ideas-for-your-website/" target="_blank" rel="noopener noreferrer">DailyBits.com</a></p>
+<p>По материалам <a href="https://www.dailybits.com/17-guerrilla-marketing-ideas-for-your-website/" target="_blank" rel="noopener noreferrer">DailyBits.com</a></p>
 

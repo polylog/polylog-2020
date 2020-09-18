@@ -17,5 +17,5 @@ date: 2010-08-11
 <img src="{{ site.assets }}/upload/Acao-Santa-casa-ING.jpg" alt="" class="post__img" width="469" height="300"></li>
 </ul>
 
-По материалам <a href="http://www.adsoftheworld.com">Ads of the World</a>
+По материалам <a href="https://www.adsoftheworld.com">Ads of the World</a>
 

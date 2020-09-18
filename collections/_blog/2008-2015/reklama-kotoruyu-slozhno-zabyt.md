@@ -44,5 +44,5 @@ Lego. Увлечение этим конструктором - уже давно
 
  <img src="{{ site.assets }}/upload/lego_fullsize.jpg" alt="" class="post__img" width="470" height="173">
 
-По материалам <a href="http://www.toxel.com/inspiration/2008/06/28/24-unforgettable-advertisements/">Toxel.com</a>
+По материалам <a href="https://www.toxel.com/inspiration/2008/06/28/24-unforgettable-advertisements/">Toxel.com</a>
 

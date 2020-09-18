@@ -16,5 +16,5 @@ date: 2013-11-04
 
 Для этого самые обычные автобусные остановки были превращены в пункты сбора пластика - призывающие к действию и одновременно дающие возможность это действие совершить, присоединяясь таким образом к движению Vip Ecomotivation.
 
-По материалам <a href="http://adsoftheworld.com/media/outdoor/vip_mobile_eco_city_light?size=original"> Ads of the World </a>
+По материалам <a href="https://adsoftheworld.com/media/outdoor/vip_mobile_eco_city_light?size=original"> Ads of the World </a>
 

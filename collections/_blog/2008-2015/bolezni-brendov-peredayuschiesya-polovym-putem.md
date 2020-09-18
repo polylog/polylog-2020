@@ -18,5 +18,5 @@ date: 2009-02-24
 <li>маркетинг — это процесс создания образа компании, резонирующего потребностям потребителей и вдохновляющего коллектив;</li>
 <li>реклама не должна стимулировать продажи в ущерб брендингу.</li>
 </ol>
-<p>По материалам <a href="http://ries.typepad.com/ries_blog/2009/02/sex-is-easy-but-cheap.html" target="_blank" rel="noopener noreferrer">Ries' Pieces</a></p>
+<p>По материалам <a href="https://ries.typepad.com/ries_blog/2009/02/sex-is-easy-but-cheap.html" target="_blank" rel="noopener noreferrer">Ries' Pieces</a></p>
 

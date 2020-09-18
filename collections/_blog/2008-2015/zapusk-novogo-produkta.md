@@ -26,7 +26,7 @@ date: 2009-05-19
 
 Ну, и шестая, дополнительная цель – увеличение прибыли!
 
-По материалам <a href="http://www.gotoguyenterprises.com/ablog/28/product-launch-secrets-the-big-picture/">Go to Guy Enterprises </a>
+По материалам <a href="https://www.gotoguyenterprises.com/ablog/28/product-launch-secrets-the-big-picture/">Go to Guy Enterprises </a>
 
 <a href="/ru/case-studies/">Примеры решений задачи запуска нового продукта на российском рынке</a>
 

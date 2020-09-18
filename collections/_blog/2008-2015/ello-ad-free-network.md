@@ -22,5 +22,5 @@ Facebook и Twitter отказались прокомментировать эт
 
 Facebook, кстати, собирается запустить новый продукт под названием Atlas. Он будет следить за поведением людей в сети и привязывать эти данные к профайлам на Фэйсбук. Возможно, что от того как пользователи примут это нововведение, зависит и популярность сети Ello.
 
-По материалам <a href="http://blogs.wsj.com/cmo/2014/09/25/meet-ello-the-social-network-that-dislikes-advertising/">Blogs.wjs.com</a>
+По материалам <a href="https://blogs.wsj.com/cmo/2014/09/25/meet-ello-the-social-network-that-dislikes-advertising/">Blogs.wjs.com</a>
 

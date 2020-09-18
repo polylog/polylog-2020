@@ -22,5 +22,5 @@ date: 2014-07-28
 
 <iframe src="https://player.vimeo.com/video/30483592" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-По материалам <a href="http://citiesnext.com/project/mo-urban-mobility-system/">Cities Next </a>
+По материалам <a href="https://citiesnext.com/project/mo-urban-mobility-system/">Cities Next </a>
 

@@ -30,5 +30,5 @@ date: 2014-10-24
 
 Вам может понадобиться достаточно много времени чтобы настроиться не только на контент, но и на тон, форму, в которой он должен быть подан, и даже с какой частотой.
 
-По материалам <a href="http://www.forbes.com/sites/allbusiness/2014/05/16/tips-and-tricks-to-manage-your-social-media-campaigns-like-a-pro/">Forbes</a>
+По материалам <a href="https://www.forbes.com/sites/allbusiness/2014/05/16/tips-and-tricks-to-manage-your-social-media-campaigns-like-a-pro/">Forbes</a>
 

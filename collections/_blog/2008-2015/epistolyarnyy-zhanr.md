@@ -54,5 +54,5 @@ date: 2010-05-05
 
 Но мониторинг – не единственная необходимая вам вещь, нужны также качественные показатели, - мнение ваших клиентов.
 
-По материалам <a href="http://www.smallbusinesscomputing.com/biztools/article.php/3879861">smallBusinessComputing</a>
+По материалам <a href="https://www.smallbusinesscomputing.com/biztools/article.php/3879861">smallBusinessComputing</a>
 

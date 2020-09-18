@@ -20,5 +20,5 @@ date: 2014-06-10
 
 И последнее – это истории. Никто сейчас уже не может недооценивать значимость истории, сказки, легенды для формирования бренда. Бергер говорит: «Никто не рассказывает факты на ночь. Рассказывают на ночь сказку, историю»
 
-По материалам <a href="http://wealthmanagement.com/careers/science-word-mouth">WealthManagement </a>
+По материалам <a href="https://wealthmanagement.com/careers/science-word-mouth">WealthManagement </a>
 

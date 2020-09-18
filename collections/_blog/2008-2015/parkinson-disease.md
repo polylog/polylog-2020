@@ -10,11 +10,11 @@ date: 2012-09-26
 
 Для того, чтобы распространить информацию об этом заболевании и даже заставить жителей города почувствовать себя на месте больных этой болезнью, были созданы специальные маленькие деревянные клинышки, вроде тех, которые используют ,чтобы заклинить дверь. На этих клинышках был напечатан девиз кампании "Паркинсон - это не только тремор", а с другой стороны - "Каждый день тридцати Австралийцам ставят диагноз "болезнь Паркинсона". Но эта болезнь влияет на куда большее количество людей, от семьи до друзей. Вы можете помочь бороться с этим на сайте shakeitup.org.au"
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/OdhhsPpIbOY?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OdhhsPpIbOY?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/OdhhsPpIbOY?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/OdhhsPpIbOY?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 Затем эти клинышки подкладывались под ножки столов в кафе, и камеры записывали реакцию людей на шатающиеся столы, пролитый кофе, и конечно, реакцию на сообщение, которое они читали, наконец обнаружив источник неприятностей.
 
 Кампания была нацелена на создание общественного диалога о проблеме Паркинсона.
 
-По материалам <a href="http://www.frederiksamuel.com/blog/2012/08/shake-it-up-parkinson.html">Frederik Samuel</a>
+По материалам <a href="https://www.frederiksamuel.com/blog/2012/08/shake-it-up-parkinson.html">Frederik Samuel</a>
 

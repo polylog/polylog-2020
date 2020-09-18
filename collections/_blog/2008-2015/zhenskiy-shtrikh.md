@@ -48,7 +48,7 @@ date: 2010-04-14
 
 Когда кампания уже набрала значительные обороты, состоялось выступление министра образования Ливана – госпожи Бахия Харири, на котором она призывала женщин бороться за свои права, и сама поставила «касру» под словом «ваши права».
 
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/KEEeWUI_Z38&border=1&color1=0xd6d6d6&color2=0xf0f0f0&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/KEEeWUI_Z38&amp;border=1&amp;color1=0xd6d6d6&amp;color2=0xf0f0f0&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="385"></embed></object>
+<object width="640" height="385"><param name="movie" value="https://www.youtube.com/v/KEEeWUI_Z38&border=1&color1=0xd6d6d6&color2=0xf0f0f0&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="https://www.youtube.com/v/KEEeWUI_Z38&amp;border=1&amp;color1=0xd6d6d6&amp;color2=0xf0f0f0&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="385"></embed></object>
 
-По материалам <a href="http://theinspirationroom.com/daily/2009/hariri-foundation-khede-kasra/">the Inspiration Room </a>
+По материалам <a href="https://theinspirationroom.com/daily/2009/hariri-foundation-khede-kasra/">the Inspiration Room </a>
 

@@ -22,5 +22,5 @@ date: 2013-03-03
 
 <img src="{{ site.assets }}/upload/%D0%91%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-3.jpg" alt="" class="post__img" width="257" height="713">
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/sinvino_java_tea_play_table_in_the_sky"> Ads of the World </a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/sinvino_java_tea_play_table_in_the_sky"> Ads of the World </a>
 

@@ -28,7 +28,7 @@ date: 2015-02-04
 
 А также кампания «Команда мечты» от Sun:
 
-<iframe src="https://player.vimeo.com/video/112178750" width="500" height="284" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/112178750">The Sun - Dream Team Campaign</a> from <a href="http://vimeo.com/user32069735">Wunderman UK</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/112178750" width="500" height="284" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/112178750">The Sun - Dream Team Campaign</a> from <a href="https://vimeo.com/user32069735">Wunderman UK</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-По материалам <a href="http://sellorelse.ogilvy.com/2015/01/14/organic-reach-smart-data/">Ogilvy.com</a>
+По материалам <a href="https://sellorelse.ogilvy.com/2015/01/14/organic-reach-smart-data/">Ogilvy.com</a>
 

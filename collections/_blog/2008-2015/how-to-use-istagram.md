@@ -46,5 +46,5 @@ Instagram – социальная сеть, а значит, как в Twitter 
 
 Всплывающая подсказка  - «Скайдайверы делают это лучше #HarlemShake », и ссылка на YouTube видео с группой скайдайверов, которые, собственно, делают Harlem Shake.  Пользователи предложили много новых видео, а также много раз перепостили эти фотографии и видео. Почти под каждым фото есть комментарии в духе «Вау, я тоже хочу так сделать», что замечательно согласуется с основным посланием компании, призывающей людей везде искать вдохновение.
 
-По материалам <a href="http://www.switchreports.com/3-important-things-to-remember-when-marketing-with-instagram/"> SwitcherPorts</a>
+По материалам <a href="https://www.switchreports.com/3-important-things-to-remember-when-marketing-with-instagram/"> SwitcherPorts</a>
 

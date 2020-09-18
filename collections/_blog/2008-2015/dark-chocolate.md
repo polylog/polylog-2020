@@ -20,5 +20,5 @@ BBR Saatchi & Saatchi объединилось с израильской мар�
 
 Участие детей в этой кампании сделало ее вирусной, что вместе с простой и милой идеей обеспечило успех агентству и торговой марке. Вы ведь захотели кусочек шоколада?
 
-По материалам сайта <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/kids-react-tasting-dark-chocolate-first-time/">Creative Guerrilla Marketing</a>
+По материалам сайта <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/kids-react-tasting-dark-chocolate-first-time/">Creative Guerrilla Marketing</a>
 

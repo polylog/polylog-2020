@@ -12,5 +12,5 @@ date: 2012-04-20
 
 Кампания будет длиться с апреля по декабрь, при поддержке Министерства Здоровья.
 
-По материалам <a href="http://www.adhugger.net/2012/04/20/image-pr-and-romanian-medicine-producers-launched-a-csr-campaign-pills-arent-candies/">Ad Hugger</a>
+По материалам <a href="https://www.adhugger.net/2012/04/20/image-pr-and-romanian-medicine-producers-launched-a-csr-campaign-pills-arent-candies/">Ad Hugger</a>
 

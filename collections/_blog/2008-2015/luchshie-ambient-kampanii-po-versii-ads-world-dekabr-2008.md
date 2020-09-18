@@ -24,5 +24,5 @@ date: 2009-03-04
 
 <img src="{{ site.assets }}/upload/dino.jpg" alt="" class="post__img" width="470" height="349"><br>
 
-По материалам <a href="http://adsoftheworld.com/blog/ivan/2009/feb/12/ads_of_the_world_december_2008_winners">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/blog/ivan/2009/feb/12/ads_of_the_world_december_2008_winners">Ads of the World</a>
 

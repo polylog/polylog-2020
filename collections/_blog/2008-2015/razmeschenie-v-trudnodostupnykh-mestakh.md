@@ -10,5 +10,5 @@ date: 2011-05-10
 
 <img src="{{ site.assets }}/upload/signal_presentation_a2_def_fr_en.jpg" alt="" class="post__img" width="470" height="478">
 
-По материалам <a href="http://www.adsoftheworld.com">Ads of the world</a>
+По материалам <a href="https://www.adsoftheworld.com">Ads of the world</a>
 

@@ -24,5 +24,5 @@ date: 2011-11-17
 
 Что касается источников этих самых популярных статей, то здесь уверенное первое место занимает Yahoo - целых 12 статей из опубликованных на этом ресурсе, попали в топ-40. На втором месте - сайт CNN - 10 статей, далее идут New York Times  и Huffington Post - по 7 публикаций.
 
-Полностью список можно посмотреть <a href="http://www.facebook.com/notes/facebook-media/most-shared-articles-on-facebook-in-2011/283221585046671">здесь</a>.
+Полностью список можно посмотреть <a href="https://www.facebook.com/notes/facebook-media/most-shared-articles-on-facebook-in-2011/283221585046671">здесь</a>.
 

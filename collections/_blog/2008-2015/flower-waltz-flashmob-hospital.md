@@ -12,5 +12,5 @@ date: 2013-09-20
 
 Флэшмоб-маркетинг - это прежде всего развлечение. Этот флэшмоб развлек и пациентов, и врачей, и посетителей, и конечно, показал всем насколько талантливы студенты Академии Музыки.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/flashmob-orchestra-strikes-wows-hospital-audience/">Creative Guerrilla Marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/flashmob-orchestra-strikes-wows-hospital-audience/">Creative Guerrilla Marketing</a>
 

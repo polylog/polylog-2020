@@ -16,13 +16,13 @@ date: 2010-05-07
 
 <strong>Снижаем скорость</strong>
 
-<img src="http://www.thecoolhunter.net/images/stories/2007pics/slowdown.jpg" alt="">
+<img src="https://www.thecoolhunter.net/images/stories/2007pics/slowdown.jpg" alt="">
 
 Биллборды, выстроившиеся вдоль дороги, изображают слайды человеческой жизни. Чем быстрее едешь - тем быстрее жизнь заканчивается.
 
 <strong>Повышаем внимание</strong>
 
-<img src="http://www.thecoolhunter.net/images/stories/_2007/bankad.jpg" alt="">
+<img src="https://www.thecoolhunter.net/images/stories/_2007/bankad.jpg" alt="">
 
 Isbank, турецкий банк, создал плакат с читаемым текстом - просто подъезжающему кажется, что за плакатом спрятана полицейская машина, и все водители тормозят. И тогда уже могут прочесть надпись "Оплачивайте ваши штрафы без очереди.  isbank.com.tr".
 

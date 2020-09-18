@@ -8,7 +8,7 @@ date: 2011-03-17
 
 зритель может выбрать, какой из них остановит грабителей. Причем в каждом из сюжетов центральную роль играет именно Samsung Galaxy Player.
 
-<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/XS39NmzXVw0?fs=1&amp;hl=ru_RU&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/XS39NmzXVw0?fs=1&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="390"></embed></object>
+<object width="640" height="390"><param name="movie" value="https://www.youtube.com/v/XS39NmzXVw0?fs=1&amp;hl=ru_RU&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/XS39NmzXVw0?fs=1&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="390"></embed></object>
 
 Очкарик пугает грабителей, включив на плеере звук милицейской сирены - правда, сначала он ошибается и плеер издает мычание. Девушка использует оружие женского очарования, и с помощью плеера запускает на телевизоре видеозапись с прекрасной женщиной  главной роли. Медленный танец, яркое платье... Грабители смотрят ролик, как зачарованные (вместе с продавцом), а в это время прибегают бравые защитники прекрасного пола, и скручивают грабителей.
 
@@ -20,5 +20,5 @@ date: 2011-03-17
 
 В конце каждого из роликов герой распахивает на груди одежду, и под не видна майка с надписью в стиле "Супермена" - Galaxy Player 50.
 
-По материалам <a href="http://viad.tv/video-9511/samsung-galaxy-player-50-interactive-story-of-robbery/">VIAD.tv</a>
+По материалам <a href="https://viad.tv/video-9511/samsung-galaxy-player-50-interactive-story-of-robbery/">VIAD.tv</a>
 

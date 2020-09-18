@@ -24,5 +24,5 @@ date: 2008-07-28
 
 Экспериментальный маркетинг, ивент-маркетинг становится все более популярным - в начале 2008 года 75% крупных компаний Европы и Америки заявили, что планируют увеличить долю организации событий в продвижении.
 
-По материалам <a href="http://www.streetdirectory.com/travel_guide/5618/marketing/10_beer_budget_event_marketing_tips.html"> StreetDirectory.com </a>
+По материалам <a href="https://www.streetdirectory.com/travel_guide/5618/marketing/10_beer_budget_event_marketing_tips.html"> StreetDirectory.com </a>
 

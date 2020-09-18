@@ -22,7 +22,7 @@ date: 2012-08-19
 
 Кампания вызвала большой отклик, люди подходили и фотографировали "живые биллборды", было много отзывов в социальных сетях и Weibo (китайский аналог Твиттера). Общий денежный эквивалент освещения в СМИ оценивается в 2,5 миллиона долларов. Количество новых регистраций на JiaYan возросло на четверть по сравнению с прошлым годом.
 
-<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/kotMcaEnRgs?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/kotMcaEnRgs?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="420" height="315"><param name="movie" value="https://www.youtube.com/v/kotMcaEnRgs?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/kotMcaEnRgs?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-По материалам <a href="http://adsoftheworld.com/">Ads of the world</a>
+По материалам <a href="https://adsoftheworld.com/">Ads of the world</a>
 

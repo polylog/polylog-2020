@@ -16,5 +16,5 @@ date: 2013-10-10
 
 Так что помните, когда бы вы ни использовали статистику, пусть она и кажется вам красноречивой сама по себе-  постарайтесь взглянуть на ситуацию глазами читателя, причем не такого, который изначально заинтересован в вашей информации. Если кому-то по личным причинам интересно содержание жира в попкорне, он это узнает и без вас. Ваша задача - сделать это интересным для тех, кто вообще об этом не задумывался.
 
-По материалам <a href="http://www.business2community.com/content-marketing/keys-copywriting-humanize-statistics-using-analogies-0630500">Business2Community</a>
+По материалам <a href="https://www.business2community.com/content-marketing/keys-copywriting-humanize-statistics-using-analogies-0630500">Business2Community</a>
 

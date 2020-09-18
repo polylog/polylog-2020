@@ -28,5 +28,5 @@ date: 2015-04-21
 
 Если же ваша статья содержит список, ею скорее будут делиться. Такие статьи, к тому же, легче читаются с экрана мобильно устройства.
 
-По материалам <a href="http://www.prdaily.com/Main/Articles/5_pieces_of_content_every_brand_manager_can_create_18420.aspx">PR Daily</a>
+По материалам <a href="https://www.prdaily.com/Main/Articles/5_pieces_of_content_every_brand_manager_can_create_18420.aspx">PR Daily</a>
 

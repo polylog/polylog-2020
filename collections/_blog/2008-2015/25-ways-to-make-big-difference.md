@@ -48,5 +48,5 @@ date: 2012-04-28
 
 19) Пусть на сайте появляются все новости, в режиме реального времени. Кто сейчас выступает на какой сессии, какие изменения происходят.
 
-По материалам <a href="http://blog.hubspot.com/blog/tabid/6307/bid/32681/25-Little-Details-That-Will-Make-a-BIG-Difference-at-Your-Next-Event.aspx"> Blog.Hubspot </a>
+По материалам <a href="https://blog.hubspot.com/blog/tabid/6307/bid/32681/25-Little-Details-That-Will-Make-a-BIG-Difference-at-Your-Next-Event.aspx"> Blog.Hubspot </a>
 

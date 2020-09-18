@@ -8,7 +8,7 @@ date: 2010-10-19
 
 Исполнители:  Pascale Beaudin(сопрано), Etienne Dupuis (баритон), Emma Parkinson (меццо) et Riccardo Iannello (тенор).
 
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/B13k7U-WyK0?fs=1&amp;hl=ru_RU"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/B13k7U-WyK0?fs=1&amp;hl=ru_RU" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+<object width="640" height="385"><param name="movie" value="https://www.youtube.com/v/B13k7U-WyK0?fs=1&amp;hl=ru_RU"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="https://www.youtube.com/v/B13k7U-WyK0?fs=1&amp;hl=ru_RU" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
 
 Видео получило 187 тысяч просмотров, а среди комментариев - комментарии от оперы Монреаля, которая благодарит всех за внимание.
 

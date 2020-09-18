@@ -18,5 +18,5 @@ date: 2014-05-02
 
 Так что после этой кампании большая часть ауддитории твиттера в курсе, что Сузуки Селерио дает ощущение простора.
 
-По материалам <a href="http://adsoftheworld.com/media/online/suzuki_celerio_twitter_280?size=original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/online/suzuki_celerio_twitter_280?size=original">Ads of the World</a>
 

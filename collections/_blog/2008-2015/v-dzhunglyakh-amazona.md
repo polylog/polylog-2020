@@ -45,5 +45,5 @@ date: 2010-12-02
 
 В любом случае, будьте готовы к тому, что продвижение через сеть займет довольно много вашего времени и вашей эмоциональной энергии. Нужно быть активным и внимательным, нужно комментировать, нужно давать советы и задавать вопросы. Но конечно, можно нанять для этого PR-агентство.
 
-По материалам <a href="http://blog.marketingtipsforauthors.com/2010/12/review-how-to-sell-more-books-on-amazon.html">Marketing Tips for Authrs</a>, <a href="http://www.spacejock.com.au/MarketingYourBookOnline.html">Spacejock.com</a>
+По материалам <a href="https://blog.marketingtipsforauthors.com/2010/12/review-how-to-sell-more-books-on-amazon.html">Marketing Tips for Authrs</a>, <a href="https://www.spacejock.com.au/MarketingYourBookOnline.html">Spacejock.com</a>
 

@@ -48,5 +48,5 @@ date: 2012-07-09
 
 Оставайтесь собой и общайтесь со своей аудиторией также, как вы общаетесь с людьми наедине. а если вы ошиблись - признайте это, извинитесь, но не старайтесь спрятать ее, оправдаться или переложить вину.
 
-По материалам <a href="http://www.business2community.com/branding/branding-5-steps-in-creating-a-personal-brand-0214023">business2community </a>
+По материалам <a href="https://www.business2community.com/branding/branding-5-steps-in-creating-a-personal-brand-0214023">business2community </a>
 

@@ -60,5 +60,5 @@ date: 2013-12-15
 
 С таким соусом люди порой читают даже то, что им в общем не интересно. И для восприятия существует большая разница между "Новые данные  о популяции пчел в Европе" и "Пчелы снова удивили ученых".
 
-По материалам <a href="http://www.searchenginejournal.com/8-simple-copywriting-tips-backed-science/81305/">Search Engine Journal </a>
+По материалам <a href="https://www.searchenginejournal.com/8-simple-copywriting-tips-backed-science/81305/">Search Engine Journal </a>
 

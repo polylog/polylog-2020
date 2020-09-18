@@ -14,5 +14,5 @@ date: 2014-01-23
 
 Сообщение было понято и услышано: за выходные которые последовали за кампанией, прирост продаж составил 22%
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/euronics_winter_weekend_sale?size=original">Ads of the world</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/euronics_winter_weekend_sale?size=original">Ads of the world</a>
 

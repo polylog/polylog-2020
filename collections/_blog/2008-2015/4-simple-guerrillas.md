@@ -28,5 +28,5 @@ date: 2014-02-26
 
 Если бюджет позволяет - вложитесь в проектор. Ночью любой светящийся объект привлекает внимание. Если нет - вспомните про флюоресцентные краски. Все любят светящиеся в темноте звездочки.
 
-По материалам <a href="http://smallbusiness.yahoo.com/advisor/4-realistic-guerrilla-marketing-ideas-budget-043728436.html">SmallBusiness</a>
+По материалам <a href="https://smallbusiness.yahoo.com/advisor/4-realistic-guerrilla-marketing-ideas-budget-043728436.html">SmallBusiness</a>
 

@@ -28,5 +28,5 @@ date: 2016-01-14
 
 •	 “Никто не помнит, сколько рекламы вы пускаете в эфир, понят только впечатление ,которое вы создаете» Билл Бернбах
 
-По материалам <a href="http://www.contentfac.com/damn-i-wish-id-said-that-50-of-our-favorite-pr-quotes/">ContentFac</a>
+По материалам <a href="https://www.contentfac.com/damn-i-wish-id-said-that-50-of-our-favorite-pr-quotes/">ContentFac</a>
 

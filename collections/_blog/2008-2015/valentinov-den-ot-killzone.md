@@ -14,7 +14,7 @@ date: 2009-09-18
 
 Специалисты скажут, что это событие было направлено не на ту аудиторию... Зато смешная и визуально привлекательная акция была освещена в СМИ как событие.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/6s1y2_TUYEQ&hl=ru&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/6s1y2_TUYEQ&amp;hl=ru&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/6s1y2_TUYEQ&hl=ru&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/6s1y2_TUYEQ&amp;hl=ru&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
 Также разработчик игры разослал электронную открытку со слоганом "Кровавого дня Валентина!"
 

@@ -20,5 +20,5 @@ date: 2013-11-06
 
 Кампания была очень успешной, многие люди обратили на нее внимание, она получила широкое освещение в прессе, а также привлекла внимание маркетологов, потому что это прекрасный пример использования минимальных средств с максимальной эффективностью.
 
-По материалам <a href="http://agbeat.com/business-marketing/guerrilla-marketing-campaign-makes-graffiti-breast-cancer/">AG beat</a>
+По материалам <a href="https://agbeat.com/business-marketing/guerrilla-marketing-campaign-makes-graffiti-breast-cancer/">AG beat</a>
 

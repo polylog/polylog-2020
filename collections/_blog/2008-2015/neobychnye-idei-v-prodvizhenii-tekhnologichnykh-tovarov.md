@@ -60,5 +60,5 @@ date: 2009-05-13
 
 <img src="{{ site.assets }}/upload/Nokiahandsfree.jpg" alt="" class="post__img" width="469" height="262">
 
-По материалам <a href=''http://www.adsoftheworld.com">Ads of the world</a>
+По материалам <a href=''https://www.adsoftheworld.com">Ads of the world</a>
 

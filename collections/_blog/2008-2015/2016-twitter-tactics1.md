@@ -24,5 +24,5 @@ date: 2015-11-24
 
 Когда вы размещаете у себя чей-то контент, внимательно смотрите, у кого вы его берете, кто читает этих людей, какие о них отзывы. Кроме того, хорошо если этот человек также расположен делать ретвиты и перепосты. Тогда вы можете помочь друг другу, и аудитория некоторых постов вырастет в два раза или более за счет правильных перепостов.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/social-media-marketing/7-killer-twitter-tactics-for-2016/">Creative Guerrilla Marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/social-media-marketing/7-killer-twitter-tactics-for-2016/">Creative Guerrilla Marketing</a>
 

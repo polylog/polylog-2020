@@ -24,5 +24,5 @@ date: 2014-06-05
 
 Дисней - бренд создававшийся более чем полвека назад, остается таким же узнаваемым и сейчас, но шагает в ногу со временем. Компания без труда освоила новые форматы, цифровые носители, и при этом сохранила свою идентичность. Опыт остался тем же - переживание доброй сказки, нестрашных опасностей, красивой романтики, но средства идут в ногу со временем.
 
-По материалам <a href="http://www.business2community.com/strategy/disney-can-teach-entrepreneurs-0914772#Wwc3wDTrCS1hSMRk.99">Business2Community</a>
+По материалам <a href="https://www.business2community.com/strategy/disney-can-teach-entrepreneurs-0914772#Wwc3wDTrCS1hSMRk.99">Business2Community</a>
 

@@ -16,5 +16,5 @@ date: 2014-04-30
 
 Эти прищепки  раздавали в подарок всем покупателям.
 
-По материалам <a href="http://adsoftheworld.com/media/dm/aquamatic_fresh_scents_detergent_nosepins">Ads of the world </a>
+По материалам <a href="https://adsoftheworld.com/media/dm/aquamatic_fresh_scents_detergent_nosepins">Ads of the world </a>
 

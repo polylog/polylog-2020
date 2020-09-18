@@ -10,5 +10,5 @@ date: 2010-09-21
 
 <img src="{{ site.assets }}/upload/KLEENEX-FLUSHABLE-WIPES.jpg" alt="" class="post__img" width="470" height="388">
 
-По материалам <a href="http://www.adsoftheworld.com">Ads of the World</a>
+По материалам <a href="https://www.adsoftheworld.com">Ads of the World</a>
 

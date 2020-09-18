@@ -18,5 +18,5 @@ date: 2012-12-03
 
 Результат кампании: во время проведения кампании, 30% курильщиков тушили свои сигареты не докурив, общее число курильщиков снизилось до 60%.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/china_environmental_protection_foundation_no_smoking_baby?size=original">Ads of the World </a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/china_environmental_protection_foundation_no_smoking_baby?size=original">Ads of the World </a>
 

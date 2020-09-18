@@ -76,5 +76,5 @@ Electrolux собирает мусор из океана с помощью сп�
 
 • Презентация продукции Vac
 
-По материалам <a href="http://www.canneslions.com">Cannes Lions</a>
+По материалам <a href="https://www.canneslions.com">Cannes Lions</a>
 

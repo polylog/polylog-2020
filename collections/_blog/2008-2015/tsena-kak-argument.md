@@ -22,5 +22,5 @@ date: 2009-06-15
 
 Например, OMO, лидирующий бренд в области моющих средств в Китае, сейчас сделал своим основным сообщением «мы отчищаем  больше разных пятен, чем остальные – 99 типов пятен!»
 
-По материалам <a href="http://www.brandingstrategyinsider.com/2009/06/defying-the-genericizing-of-brands-.html">Branding Strategy Insider </a>
+По материалам <a href="https://www.brandingstrategyinsider.com/2009/06/defying-the-genericizing-of-brands-.html">Branding Strategy Insider </a>
 

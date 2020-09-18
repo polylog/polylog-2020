@@ -12,11 +12,11 @@ date: 2008-09-29
 
 Например, вот эту красоту делает японское агентство <strong>Catchyoo</strong>, дисплей разработан для телекоммуникационной компании Soft Bank:
 
-<object width="420" height="339"><param name="movie" value="http://www.dailymotion.com/swf/k1LFqvEbKlWqJ3dGzi"><param name="wmode" value="transparent"><embed src="http://www.dailymotion.com/swf/k1LFqvEbKlWqJ3dGzi" type="application/x-shockwave-flash" width="420" height="339"></embed></object>
+<object width="420" height="339"><param name="movie" value="https://www.dailymotion.com/swf/k1LFqvEbKlWqJ3dGzi"><param name="wmode" value="transparent"><embed src="https://www.dailymotion.com/swf/k1LFqvEbKlWqJ3dGzi" type="application/x-shockwave-flash" width="420" height="339"></embed></object>
 
 Агентство iM3, азиатский дистрибьютор компании <strong>LM3LABS,</strong> разработало специальный дисплей, который реагирует не на прикосновение, а на движение руки в определенной области. С помощью дисплея можно было ознакомиться со всеми возможностями нового телефона  от Samsung - Omnia SGH i900. Люди выстраивались в очередь, чтобы самим поиграть с такой новинкой.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/5Bv0Ty6zukA&hl=ru&fs=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/5Bv0Ty6zukA&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash"width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/5Bv0Ty6zukA&hl=ru&fs=1"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/5Bv0Ty6zukA&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash"width="425" height="344"></embed></object>
 
 Но высокий уровень вовлечения может быть достигнут и без таких технологических затрат. Бельгийское агентство LG&F разработало <strong>концепцию продвижения для производителя напитков для спортсменов, Aquarius</strong>. В городе были установлены два плаката «интерактивной наружной рекламы», которые представляли собой просто плакаты, на которых нужно было нажать большим пальцем на определенный сенсор, а потом за 10 минут найти другой такой же плакат и дотронуться до него – на обороте первого была карта с указанием расположения финиша. При этом вторая инсталляция получала информацию от первой о времени «регистрации» и отпечаток большого пальца. Тем, кто укладывался в срок, вторая инсталляция выдавала три бутылки минерализованного напитка.
 

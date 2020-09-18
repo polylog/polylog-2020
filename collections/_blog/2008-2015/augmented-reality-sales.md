@@ -18,5 +18,5 @@ date: 2013-03-20
 
 Главное, чтобы само приложение не отвлекало на себя много внимания.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/augmented-reality/how-augmented-reality-mobile-apps-help-shopping-online/">Creative Guerrilla Marketing </a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/augmented-reality/how-augmented-reality-mobile-apps-help-shopping-online/">Creative Guerrilla Marketing </a>
 

@@ -24,5 +24,5 @@ date: 2015-03-28
 
 В целом, всегда важно помнить что краудфандинг, как и любой PR, - это процесс который начинается задолго до того как вы выпускаете продукт или оказываете услугу, и продолжается долго после того, как «основное» событие закончилось.
 
-По материалам <a href="http://ignitiondeck.com/id/10-crowdfunding-secrets/">IgnitionDeck</a>
+По материалам <a href="https://ignitiondeck.com/id/10-crowdfunding-secrets/">IgnitionDeck</a>
 

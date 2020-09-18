@@ -22,5 +22,5 @@ date: 2011-01-12
 
 Ладно, я признаюсь - я всегда хотел писать песни в стиле кантри. Но к счастью для всех музыкальных фанатов, у меня есть работа в рекламном агентстве.
 
-По материалам <a href="http://adage.com/smallagency/post?article_id=148277">AdAge.com</a>
+По материалам <a href="https://adage.com/smallagency/post?article_id=148277">AdAge.com</a>
 

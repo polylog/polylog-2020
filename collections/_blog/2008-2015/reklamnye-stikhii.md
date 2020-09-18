@@ -18,5 +18,5 @@ date: 2009-05-12
 
 <img src="{{ site.assets }}/upload/curb 2.jpg" alt="" class="post__img" width="469" height="149">
 
-По матриелам <a href="http://www.ready2spark.com/">Ready to Spark </a>
+По матриелам <a href="https://www.ready2spark.com/">Ready to Spark </a>
 

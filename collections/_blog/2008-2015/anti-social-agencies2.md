@@ -18,5 +18,5 @@ date: 2012-07-05
 
 Том Тобин, президент Ignite Social Media, напротив, говорит что ему очень нравится понятие "социальных медиа", и что ему кажетс ычто этот термин объединяет в себе много всяких технологий - и SEO, и работу с аудиторией, и рекламу, и PR.
 
-По материалам <a href="http://www.adweek.com/news/technology/agencies-start-get-really-anti-social-141724"> ADweek</a>
+По материалам <a href="https://www.adweek.com/news/technology/agencies-start-get-really-anti-social-141724"> ADweek</a>
 

@@ -30,5 +30,5 @@ date: 2014-09-05
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hrq9lQgnsRw" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://www.bbc.com/news/blogs-trending-27191333">BBC</a>
+По материалам <a href="https://www.bbc.com/news/blogs-trending-27191333">BBC</a>
 

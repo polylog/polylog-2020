@@ -42,5 +42,5 @@ date: 2014-08-06
 
 Магазин снабдил примерочные комнаты iPad-ами, большими тачскринами вмонтированными в стену, и фотокамерой. Идея была в том, чтобы потребители фотографировались и делились с друзьями своей подборкой одежды через социальные сети.
 
-По материалам <a href="http://www.forbes.com/sites/johnrampton/2014/07/24/5-unusual-marketing-ideas-for-startups/">Forbes </a>
+По материалам <a href="https://www.forbes.com/sites/johnrampton/2014/07/24/5-unusual-marketing-ideas-for-startups/">Forbes </a>
 

@@ -30,5 +30,5 @@ date: 2014-09-28
 
 И на каждом мероприятии обязательно должна быть своя фишка, то что отличает вас от других празднований Хэллоуина. Например, будка мгновенных фотографий, которая позволяет отправлять фото в фэйсбук.
 
-По материалам <a href="http://sendible.com/insights/6-spookily-effective-halloween-social-media-marketing-tricks/#ixzz3Hu76VR6E">Sendible.com</a>
+По материалам <a href="https://sendible.com/insights/6-spookily-effective-halloween-social-media-marketing-tricks/#ixzz3Hu76VR6E">Sendible.com</a>
 

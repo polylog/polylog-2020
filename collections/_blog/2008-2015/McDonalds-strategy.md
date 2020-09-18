@@ -24,5 +24,5 @@ date: 2015-08-10
 
 Многие согласятся с тем, что меню нуждается в обновлении. Но бургер должен оставаться в центре бренд-идентичности, даже если бренд двигается в сторону более здоровой пищи.
 
-По материалам <a href="http://www.adweek.com/news/advertising-branding/here-are-5-tips-making-mcdonalds-modern-progressive-burger-brand-165265">Ad Week</a>
+По материалам <a href="https://www.adweek.com/news/advertising-branding/here-are-5-tips-making-mcdonalds-modern-progressive-burger-brand-165265">Ad Week</a>
 

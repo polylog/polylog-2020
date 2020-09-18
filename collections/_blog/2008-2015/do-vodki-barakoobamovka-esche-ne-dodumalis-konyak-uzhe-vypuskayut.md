@@ -50,5 +50,5 @@ date: 2009-02-06
 
 <br></li>
 </ol>
-<p>По материалам <a href="http://www.telegraph.co.uk/news/picturegalleries/worldnews/4357596/Barack-Obama-marketing-executives-jump-on-the-Barack-Obama-brand-wagon.html" target="_blank" rel="noopener noreferrer">The Daily Telegraph</a></p>
+<p>По материалам <a href="https://www.telegraph.co.uk/news/picturegalleries/worldnews/4357596/Barack-Obama-marketing-executives-jump-on-the-Barack-Obama-brand-wagon.html" target="_blank" rel="noopener noreferrer">The Daily Telegraph</a></p>
 

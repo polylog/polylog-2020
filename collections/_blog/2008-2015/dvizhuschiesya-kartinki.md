@@ -14,5 +14,5 @@ date: 2011-11-25
 
 Последнюю страничку можно оторвать и использовать как обычную визитку.
 
-По материалам <a href="http://www.adsoftheworld.com">Ads of the World</a>
+По материалам <a href="https://www.adsoftheworld.com">Ads of the World</a>
 

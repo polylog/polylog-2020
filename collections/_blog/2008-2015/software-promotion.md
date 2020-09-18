@@ -14,7 +14,7 @@ https://sourceforge.net
 
 https://codeplex.com
 
-http://freecode.com
+https://freecode.com
 
 https://www.ohloh.net
 
@@ -26,5 +26,5 @@ https://www.ohloh.net
 
 И разумеется, в начале любой деятельности по продвижению необходимо разработать систему критериев и механизм их отслеживания: установить аналитику на сайт, попробовать купить какую-то контекстную рекламу и смотреть на ее эффективность.
 
-По материалам обсуждения на<a href="http://discuss.joelonsoftware.com/default.asp?biz.5.851757.14"> Discuss@JoelonSoftware.com</a>
+По материалам обсуждения на<a href="https://discuss.joelonsoftware.com/default.asp?biz.5.851757.14"> Discuss@JoelonSoftware.com</a>
 

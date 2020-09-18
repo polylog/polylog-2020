@@ -20,5 +20,5 @@ date: 2015-06-24
 
 Поскольку реклама ориентирована на потребителя, желающим сделать карьеру в этой области крайне необходимо понимать, как используются современные технологии. Компании без этого понимания останутся позади. Прогресс движется так быстро, что сегодняшние технологии могут устареть к завтрашнему дню, и рекламные агентства должны искать способы быстро адаптироваться к изменениям. Как мы можем видеть, маркетинг постоянно открывает новые пути.
 
-По материалам сайта <a href="http://www.creativeguerrillamarketing.com/advertising/mad-men-careers-advertising-changed.html">Сreative Guerrilla Marketing </a>
+По материалам сайта <a href="https://www.creativeguerrillamarketing.com/advertising/mad-men-careers-advertising-changed.html">Сreative Guerrilla Marketing </a>
 

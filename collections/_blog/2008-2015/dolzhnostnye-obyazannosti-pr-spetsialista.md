@@ -14,5 +14,5 @@ date: 2008-06-17
 <li><strong>Упреждать. </strong>Нужно не только уметь реагировать на ситуацию, но и предвидеть ее, а в идеале - контролировать ее развитие. Вам необходима не только внимательность к деталям, но и видение всех процессов в целом.</li>
 </ul>
 
-По материалам <a href="http://www.vault.com/articles/Job-Responsibilities-in-Public-Relations-24026729.html">Vault.com</a>
+По материалам <a href="https://www.vault.com/articles/Job-Responsibilities-in-Public-Relations-24026729.html">Vault.com</a>
 

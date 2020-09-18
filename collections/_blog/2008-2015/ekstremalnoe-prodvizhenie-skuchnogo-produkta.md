@@ -18,15 +18,15 @@ date: 2008-09-26
 
 Утка на доске
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/tLiaG2kZW6Q&hl=ru&fs=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/tLiaG2kZW6Q&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/tLiaG2kZW6Q&hl=ru&fs=1"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/tLiaG2kZW6Q&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
 
 Утки на эскалаторе
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/KLd-rJMoeko&hl=ru&fs=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/KLd-rJMoeko&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/KLd-rJMoeko&hl=ru&fs=1"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/KLd-rJMoeko&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
 
 Боевые перестроения
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/OypIYvnDqH8&hl=ru&fs=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/OypIYvnDqH8&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/OypIYvnDqH8&hl=ru&fs=1"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/OypIYvnDqH8&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
 
  Эти видео очень быстро стали вирусом – сейчас количество просмотров на youTube более 2,7 млн, огромное количество запросов «surfing duck» в Google. Затем был запущен веб-сайт и создан специальный телефонный номер для «сообщений о ненормальном поведении уток». Затем было дано объяснение этому поведению – утки вели себя так энергично потому, что их кормили этим новым хлебом. Эти сведения были вывешены на сайте и распространялись рассылкой.
 
@@ -36,5 +36,5 @@ date: 2008-09-26
 
 Новость попала в New York Times, прошла на сайте телеканала Sky News и газеты Daily Telegraph. 10 000 людей скачали себе специальный рингтон со звуком, отпугивающим уток, с сайта кампании. За первую неделю компания продала хлеба на сумму одного миллиона австралийских долларов.
 
-По материалам <a href="http://www.adsoftheworld.com">Ads of the World</a>
+По материалам <a href="https://www.adsoftheworld.com">Ads of the World</a>
 

@@ -36,5 +36,5 @@ date: 2012-11-20
 
 Эти советы представлены Стэйси Вичелхаус, владелицей PR-компании с вольным названием "Привет, крошка!" (Hello Cupcake Public Relations).
 
-По материалам <a href="http://weddinglovely.com/blog/hello-cupcake-pr-tips-101-dos-donts-of-branding-yourself/">WeddingLovely</a>
+По материалам <a href="https://weddinglovely.com/blog/hello-cupcake-pr-tips-101-dos-donts-of-branding-yourself/">WeddingLovely</a>
 

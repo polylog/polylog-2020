@@ -44,5 +44,5 @@ date: 2013-07-27
 
 Понятно, что нужно приспосабливаться к среде, потому что пару дней после больших событий  медиапространству будет не до вас.
 
-По материалам <a href="http://venturebeat.com/2013/07/19/5-reasons-your-startup-is-failing-at-pr/"> Venture Beat </a>
+По материалам <a href="https://venturebeat.com/2013/07/19/5-reasons-your-startup-is-failing-at-pr/"> Venture Beat </a>
 

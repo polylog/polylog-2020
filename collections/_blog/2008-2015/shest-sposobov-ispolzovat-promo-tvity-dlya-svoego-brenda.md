@@ -48,7 +48,7 @@ Research upcoming events that could impact traffic to Twitter in your area of in
 
 Если вы придумали горячую тему или хороший мем - остановитесь и подумайте еще раз. подумайте о том, не обидит ли это кого-то. А если да, то как вы будете реагировать. Очень многие темы могут вызвать негативную реакцию, и вам важно снизить ущерб от возможных негативных реакций. Иначе ваша промо-кампания может стать причиной больших проблем.
 
-По материалам <a rhef="http://searchenginewatch.com/article/2121052/6-Tips-for-Using-Promoted-Tweets-to-Boost-Your-Brands-Visibility">SearchEngine Watch</a>
+По материалам <a rhef="https://searchenginewatch.com/article/2121052/6-Tips-for-Using-Promoted-Tweets-to-Boost-Your-Brands-Visibility">SearchEngine Watch</a>
 
 Summary
 

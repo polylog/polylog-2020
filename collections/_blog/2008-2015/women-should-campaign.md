@@ -28,5 +28,5 @@ date: 2014-08-22
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IkNlGuW-0g8" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://www.adforum.com/award/showcase/6650183/2014/ad/34496574">AdForum</a>
+По материалам <a href="https://www.adforum.com/award/showcase/6650183/2014/ad/34496574">AdForum</a>
 

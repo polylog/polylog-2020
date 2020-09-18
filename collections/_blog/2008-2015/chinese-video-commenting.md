@@ -24,5 +24,5 @@ date: 2015-11-10
 
 Эта мода распространилась сейчас и в кинотеатры: зрители могут посылать свои комментарии на большой экран.
 
-По материалам <a href="http://adage.com/article/global-news/china-people-cover-brands-onlilne-videos-snark/300560/">AdAge</a>
+По материалам <a href="https://adage.com/article/global-news/china-people-cover-brands-onlilne-videos-snark/300560/">AdAge</a>
 

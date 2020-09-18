@@ -16,5 +16,5 @@ date: 2015-10-21
 
 Компания получила 40 писем и более 100 сообщений на Фэйсбуке, но о количестве нанятых специалистов пока что не сообщается.
 
-По материалам <a href="http://adsoftheworld.com/media/online/ogilvyone_worldwide_africa_a_halloween_murder_mystery?size=original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/online/ogilvyone_worldwide_africa_a_halloween_murder_mystery?size=original">Ads of the World</a>
 

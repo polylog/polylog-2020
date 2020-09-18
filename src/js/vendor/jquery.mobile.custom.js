@@ -1,10 +1,10 @@
 /*
 * jQuery Mobile v1.4.5
-* http://jquerymobile.com
+* https://jquerymobile.com
 *
 * Copyright 2010, 2014 jQuery Foundation, Inc. and other contributors
 * Released under the MIT license.
-* http://jquery.org/license
+* https://jquery.org/license
 *
 */
 

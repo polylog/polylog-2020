@@ -6,7 +6,7 @@ date: 2012-02-20
 
 ---
 
-<img src="http://qph.cf.quoracdn.net/main-qimg-38e3ec85e061da846c784c0ab91f4a62" alt="">
+<img src="https://qph.cf.quoracdn.net/main-qimg-38e3ec85e061da846c784c0ab91f4a62" alt="">
 
 Новая кампания директ-маркетинга была разработана для Avis агентством Saatchi & Saatchi.
 
@@ -14,11 +14,11 @@ date: 2012-02-20
 
 По почте были отправлены письма, оформленные так, чтобы максимально походить на электронные, однако содержание каждого письма было очень личным, и написано было вручную.
 
-<img src="http://adsoftheworld.com/files/images/mailing_adsoftheworld.jpg" alt="">
+<img src="https://adsoftheworld.com/files/images/mailing_adsoftheworld.jpg" alt="">
 
 Таким образом, письмо ярко выделялось среди других конвертов реальной почты за счет своего виртуального вида, а своим очень личтым содержимым - из стандартного содержания оффлайнового спама.
 
 Хороший пример решения в стиле "переверни все с ног на голову".
 
-по материалам <a href="http://adsoftheworld.com/media/dm/avis_offlinemailing?size=_original">Ads of the World</a>
+по материалам <a href="https://adsoftheworld.com/media/dm/avis_offlinemailing?size=_original">Ads of the World</a>
 

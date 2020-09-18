@@ -22,5 +22,5 @@ date: 2015-06-29
 
 В пересчете на цифры, успех персонализированных журналов привел к увеличению времени на чтение на 1200%, и 100% пассажиров забрали свои журналы с собой после полета. Подобный креативный способ создания запоминающегося переживания лишний раз подчеркивает важность персонализации рекламных кампаний. Сосредотачиваясь на каждом конкретном потребителе, такая реклама дает им почувствовать себя уникальными и значимыми.
 
-По материалам сайта <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/tam-airlines-creates-personalized-ownboard-magazine/">Creative guerrilla marketing </a>
+По материалам сайта <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/tam-airlines-creates-personalized-ownboard-magazine/">Creative guerrilla marketing </a>
 

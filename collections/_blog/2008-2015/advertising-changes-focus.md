@@ -80,5 +80,5 @@ Red Bull был первым энергетическим напитком на 
 
 Al Ries
 
-http://adage.com/article/al-ries/humanity-latest-ad-trend-replace-fashioned-focus/293210/
+https://adage.com/article/al-ries/humanity-latest-ad-trend-replace-fashioned-focus/293210/
 

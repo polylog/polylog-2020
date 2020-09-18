@@ -20,5 +20,5 @@ date: 2011-12-25
 
 Rjulf ds hfccrfpsdftnt eКогда вы рассказываете историю, всегда есть явное и скрытое. Также и в продажах, есть большое и малое. Нужно соблюдать баланс между большими программами и маленькими шагами к успеху.
 
-По материалам <a href="http://www.cbsnews.com/8301-505183_162-57342506-10391735/land-your-biggest-sale-in-2012-part-3-size-matters/?tag=nl.e808">CBS News</a>
+По материалам <a href="https://www.cbsnews.com/8301-505183_162-57342506-10391735/land-your-biggest-sale-in-2012-part-3-size-matters/?tag=nl.e808">CBS News</a>
 

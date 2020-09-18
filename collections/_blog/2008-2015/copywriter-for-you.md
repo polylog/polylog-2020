@@ -38,5 +38,5 @@ date: 2014-11-26
 
 Очень важную информацию вы можете получить на самом первом этапе установления контакта, первого обмена письмами. То, как человек реагирует, какие вопросы задает, как его письмо оформлено, расскажет вам многое о нем.
 
-По материалам <a href="http://www.business2community.com/communications/7-ways-spot-epic-copywriters-site-01070179">Business 2 Cummunity</a>
+По материалам <a href="https://www.business2community.com/communications/7-ways-spot-epic-copywriters-site-01070179">Business 2 Cummunity</a>
 

@@ -26,5 +26,5 @@ date: 2014-05-30
 
 Существует великое множество рекламных стратегий, подходящих для так называемых "скучных" продуктов. Если присмотреться, многие из этих стратегий вдохновляются идеями от более "интересных" брендов. Самое главное - помнить, что торговая марка скучна настолько, насколько неинтересна ее рекламная кампания, а ту, в свою очередь, делает скучной ее производитель.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/4-creative-tips-market-everyday-products/">Creative guerrilla marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/4-creative-tips-market-everyday-products/">Creative guerrilla marketing</a>
 

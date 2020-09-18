@@ -28,5 +28,5 @@ date: 2015-04-12
 
 Ваш логотип можно не только носить как одежду или татуировку, его можно даже съесть. Чем проще логотип и регулярнее его форма, тем проще будет кондитеру нанести этот рисунок на пончики, тартинки и все, что пожелаете. Здесь сильнее всего выигрывают бренды с простыми логотипами в естественных и теплых цветах.
 
-По материалам <a href="http://blog.attend.com/interactive-branding-event-ideas-nonprofits-reunions">Blog.Attend.com</a>
+По материалам <a href="https://blog.attend.com/interactive-branding-event-ideas-nonprofits-reunions">Blog.Attend.com</a>
 

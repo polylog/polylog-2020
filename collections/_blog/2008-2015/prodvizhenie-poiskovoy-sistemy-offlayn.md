@@ -12,5 +12,5 @@ date: 2008-10-13
 
 В результате кампании посещаемость сайта возросла на 40%, а рекламодателей стало больше на 52%.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Dc5Smq2sJ90&color1=0xb1b1b1&color2=0xcfcfcf&fs=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/Dc5Smq2sJ90&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/Dc5Smq2sJ90&color1=0xb1b1b1&color2=0xcfcfcf&fs=1"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/Dc5Smq2sJ90&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
 

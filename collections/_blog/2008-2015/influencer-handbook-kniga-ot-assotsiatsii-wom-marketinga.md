@@ -20,5 +20,5 @@ date: 2010-03-03
 
 Для работы с агентами влияния очень полезно умение удивлять – не нужно бояться патетики, красивых жестов. Также очень важны «моменты истины», ваши искренние слова об ошибках.
 
-По материалам <a href="http://womma.org/membercenter/influencerhandbook.php">WOMMA.org</a>
+По материалам <a href="https://womma.org/membercenter/influencerhandbook.php">WOMMA.org</a>
 

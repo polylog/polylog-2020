@@ -42,5 +42,5 @@ date: 2014-12-23
 
 Даже если вы нашли какую-то работающую стратегию, не позволяйте себе почивать на лаврах. Мир развивается, рынок развивается, клиенты меняются. А рисковать тяжелее всего ,когда есть что терять и кажется, что все работает как часы. Конечно. Не надо резать курицу, несущую золотые яйца, но нужно закладывать в бюджет траты на разработку новых методик, на риски.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/15-psychologically-based-facts-guerrilla-marketing-works/">Creative Guerrilla Marketing </a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/15-psychologically-based-facts-guerrilla-marketing-works/">Creative Guerrilla Marketing </a>
 

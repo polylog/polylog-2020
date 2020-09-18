@@ -62,5 +62,5 @@ date: 2014-05-26
 
 Эффективный брендинг может стать решающим фактором в том, побьет ли ваше приложение рекорд по продажам или канет в забытье. Не стоит недооценивать эту часть разработки марки и, возможно, вы создадите новый хит на стремительно развивающемся рынке приложений.
 
-По материалам <a href="http://www.huffingtonpost.com/ashish-toshniwal/what-to-do-and-what-to-av_b_5333268.html">Huffington post</a>
+По материалам <a href="https://www.huffingtonpost.com/ashish-toshniwal/what-to-do-and-what-to-av_b_5333268.html">Huffington post</a>
 

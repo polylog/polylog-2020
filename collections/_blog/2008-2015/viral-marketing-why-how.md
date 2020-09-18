@@ -36,5 +36,5 @@ date: 2014-06-27
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ev-R0tsreBw" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/viral-marketing/5-great-viral-marketing-campaigns-worked/">Creative Guerrilla Marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/viral-marketing/5-great-viral-marketing-campaigns-worked/">Creative Guerrilla Marketing</a>
 

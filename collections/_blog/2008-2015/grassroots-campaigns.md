@@ -46,5 +46,5 @@ Squirl.co – сервис для поиска новых книг в ближа
 
 Mophie – компания по производству батареек. Для  очередной PR-кампании они создали «спасательную станцию» с очаровательными щенками сенбернаров, с батарейками в традиционных «бочонках» на шее. Кампания была также направлена на привлечение средств в фонд помощи сенбернарам. Эта станция перемещалась по городу, а место можно было узнать в социальных сетях.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/7-best-grassroots-marketing-campaigns-sxsw-2015/">Creative Guerrilla Marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/7-best-grassroots-marketing-campaigns-sxsw-2015/">Creative Guerrilla Marketing</a>
 

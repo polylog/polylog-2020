@@ -32,5 +32,5 @@ date: 2012-07-26
 
 Случалдось ли вам брать или давать интервью? Что вам понравилось или не понравилось в этом  процессе, что вам хотелось бы улучшить? Какие вещи вы считаете основными?
 
-По материалам <a href="http://www.rohitbhargava.com/2012/06/how-to-interview-anyone-5-lessons-from-amazing-interviewers.html">rohitbhargava.com</a>
+По материалам <a href="https://www.rohitbhargava.com/2012/06/how-to-interview-anyone-5-lessons-from-amazing-interviewers.html">rohitbhargava.com</a>
 

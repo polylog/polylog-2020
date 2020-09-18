@@ -12,7 +12,7 @@ date: 2010-11-28
 
 Было выпущено видео, в котором подробно рассказывалось о том, как именно использовать эту гитару
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/z8VweGquGJk?fs=1&amp;hl=ru_RU"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/z8VweGquGJk?fs=1&amp;hl=ru_RU" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385"><param name="movie" value="https://www.youtube.com/v/z8VweGquGJk?fs=1&amp;hl=ru_RU"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="https://www.youtube.com/v/z8VweGquGJk?fs=1&amp;hl=ru_RU" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
 Кроме того, проводились открытые школы по разбиванию гитар, где молодое рок-поколение училось на примере легендарных предшественников.
 
@@ -22,5 +22,5 @@ date: 2010-11-28
 
 Название компании стало самым частым поисковым запросом в одной из крупнейших поисковых систем японского интернета - goo. Достигнуто первое место в продажах на Аммазон.ком, в разделе "новые продукты".  Гитара Smash  стала темой No.1 в японских социальных сетях, оепредив Олимпиаду и ipad. Первое место в рейтинге "Вещи которые я хочу больше всего" в журнале Mono, самом популярном журнале о покупках. Марти Фридман, бывших гитарист Megadeth, сказал что Smash - идеальная рок-гитара. Количество уходов с сайта компании после просмотра первой страницы снизилось до 1,5%.  MTV сняло программу о концерте.
 
-По материалам <a href="http://www.adsoftheworld.com">Ads of the World</a>
+По материалам <a href="https://www.adsoftheworld.com">Ads of the World</a>
 

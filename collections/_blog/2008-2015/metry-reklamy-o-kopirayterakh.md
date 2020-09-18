@@ -50,5 +50,5 @@ date: 2008-09-17
 
 <strong>Россер Ривз</strong>
 
-По материалам <a href="http://www.spotlightideas.co.uk/?p=217">SpotLightIdeas</a>
+По материалам <a href="https://www.spotlightideas.co.uk/?p=217">SpotLightIdeas</a>
 

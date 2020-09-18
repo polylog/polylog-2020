@@ -10,5 +10,5 @@ date: 2016-01-28
 
 <img src="{{ site.assets }}/upload/mini_aotw.jpg" alt="" class="post__img" width="580" height="821">
 
-По материалам <a href="http://adsoftheworld.com/media/outdoor/mini_traffic_lights?size=original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/outdoor/mini_traffic_lights?size=original">Ads of the World</a>
 

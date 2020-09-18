@@ -16,6 +16,6 @@ date: 2017-03-28
 <p>6. Контактная информация для дополнительной информации обязательна к размещению в релизе</p>
 <p>7. Лучший пресс-релиз &ndash; изложенный на одной странице, две страницы &ndash; максимальная длина текста</p>
 <p>По материалам:</p>
-<p><a href="http://www.huffingtonpost.com/zach-cutler/press-release-tips_b_2120630.html" target="_blank" rel="noopener noreferrer">Huffington Post</a></p>
+<p><a href="https://www.huffingtonpost.com/zach-cutler/press-release-tips_b_2120630.html" target="_blank" rel="noopener noreferrer">Huffington Post</a></p>
 <p><a href="https://www.theguardian.com/small-business-network/2014/jul/14/how-to-write-press-release" target="_blank" rel="noopener noreferrer">The Guardian</a></p>
 

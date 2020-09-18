@@ -18,5 +18,5 @@ date: 2010-01-11
 
 <img src="{{ site.assets }}/upload/ao_layout.jpg" alt="" class="post__img" width="469" height="397">
 
-По материалам <a href="http://adsoftheworld.com">Ads of the world</a>
+По материалам <a href="https://adsoftheworld.com">Ads of the world</a>
 

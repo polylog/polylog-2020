@@ -62,5 +62,5 @@ date: 2009-12-16
 
 его называют нейтральным, поскольку это среднее между черным и белым. Он не так привлекает внимание как любой из ярких цветов. Слишком много серого дает унылое ощущение, но этот цвет незаменим для создания  изысканных сочетаний, например ярко-красного со светло-серым.
 
-По материалам <a href="http://blogswithwings.com/index.php/articles/color-psychology-for-blog-aamp-web-design">Blogs with Wings</a>
+По материалам <a href="https://blogswithwings.com/index.php/articles/color-psychology-for-blog-aamp-web-design">Blogs with Wings</a>
 

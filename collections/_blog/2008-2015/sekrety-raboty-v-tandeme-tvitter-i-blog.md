@@ -20,5 +20,5 @@ date: 2010-05-01
 
     * Выберите аватар, который будет узнаваем и поможет визуально иджентифицировать ваш бренд. Это непростая задача, так как аватары в твиттере очень маленькие.
 
-По материалам <a href="http://blog.dropshipaccess.com/bid/32560/Social-Media-Marketing-Top-Twitter-Tips-for-Business-Bloggers"> DropShipAccess</a>
+По материалам <a href="https://blog.dropshipaccess.com/bid/32560/Social-Media-Marketing-Top-Twitter-Tips-for-Business-Bloggers"> DropShipAccess</a>
 

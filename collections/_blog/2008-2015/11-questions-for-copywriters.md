@@ -72,7 +72,7 @@ date: 2013-07-29
 
 Что можно безболезненно из этого списка вычеркнуть?
 
-По материалам <a href="http://www.copywritercafe.com/copywriting-success-in-11-steps.html"
+По материалам <a href="https://www.copywritercafe.com/copywriting-success-in-11-steps.html"
 
 ”>Copywriter Café</a>
 

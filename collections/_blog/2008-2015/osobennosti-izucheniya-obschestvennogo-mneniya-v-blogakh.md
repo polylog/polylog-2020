@@ -19,5 +19,5 @@ date: 2008-07-11
 
 Учитывая все вышесказанное, в изучении общественного мнения на основании блогов нужно быть предельно осторожным.  Однако и упускать такую возможность получения информации об обществе нельзя.
 
-По материалам <a href="http://topify.wordpress.com/2008/06/03/extracting-the-public-opinion-from-blogs/">TOPify.Wordpress</a>
+По материалам <a href="https://topify.wordpress.com/2008/06/03/extracting-the-public-opinion-from-blogs/">TOPify.Wordpress</a>
 

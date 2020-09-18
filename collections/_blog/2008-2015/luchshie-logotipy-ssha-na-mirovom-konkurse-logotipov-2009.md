@@ -32,5 +32,5 @@ Score: 53
 
 <span class="inline inline-left"><img src="{{ site.assets }}/upload/300_1902.jpg" alt="" class="post__img" width="300" height="300"></span>
 
-По материалам <a href="http://www.wolda.org">WOLDA</a>
+По материалам <a href="https://www.wolda.org">WOLDA</a>
 

@@ -30,7 +30,7 @@ date: 2013-01-16
 
 Ставка на гипер-релевантный контекст окупилась. Узнавание кампании было в три раза выше чем в среднем бывает у биллборд-кампаний. О ней говорили: более четверти опрошенных говорили, что они рассказывали кому-то об этой кампании. Но самое важное, люди меняли свое поведение: количество запросов "голосовой поиск" в Гугле увеличилось в Лондоне в два раза по сравнению с остальной страной, большая часть посетителей  пришли используя смартфоны, таким образом подтверждая что Google достучался до целевой аудитории.
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/EV5YnRFiCeI?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/EV5YnRFiCeI?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/EV5YnRFiCeI?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/EV5YnRFiCeI?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-По материалам <a href="http://www.canneslions.com/inspiration/past_grands_prix_advert.cfm?sub_channel_id=309">CannesLions</a>
+По материалам <a href="https://www.canneslions.com/inspiration/past_grands_prix_advert.cfm?sub_channel_id=309">CannesLions</a>
 

@@ -34,5 +34,5 @@ date: 2014-01-19
 
 Слушателям не нужна группа, которая  просто зарабатывает деньги на аудитории. Им нужен постоянный диалог, стабильное присутствие и внимание с вашей стороны.
 
-По материалам <a href="http://www.musicthinktank.com/blog/7-music-marketing-truths-all-musicians-should-know.html">Music Think Tank</a>
+По материалам <a href="https://www.musicthinktank.com/blog/7-music-marketing-truths-all-musicians-should-know.html">Music Think Tank</a>
 

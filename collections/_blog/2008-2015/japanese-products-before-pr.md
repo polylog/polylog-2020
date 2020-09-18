@@ -52,5 +52,5 @@ date: 2012-08-28
 
 Интересно, какие еще вещи можно настолько же успешно продавать вместе?
 
-По материалам блога <a href="http://jonellepatrick.me/category/weird-japanese-products/page/6/">Weird Japanese Products</a>
+По материалам блога <a href="https://jonellepatrick.me/category/weird-japanese-products/page/6/">Weird Japanese Products</a>
 

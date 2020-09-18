@@ -7,5 +7,5 @@ date: 2009-02-18
 ---
 <p>С другой стороны, профессионалы не рассчитывают на SMM и PR в деле стимулирования сбыта и наладки внутренних коммуникаций.</p>
 <p><img src="{{ site.assets }}/img/blog/09-02/18.png" alt="Результаты исследования" width="460" height="406"></p>
-<p>По материалам <a href="http://www.marketingsherpa.com/article.php?ident=31048" target="_blank" rel="noopener noreferrer">MarketingSherpa</a></p>
+<p>По материалам <a href="https://www.marketingsherpa.com/article.php?ident=31048" target="_blank" rel="noopener noreferrer">MarketingSherpa</a></p>
 

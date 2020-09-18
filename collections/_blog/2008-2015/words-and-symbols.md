@@ -38,5 +38,5 @@ date: 2015-08-12
 
 Продолжение следует...
 
-По материалам <a href="http://www.forbes.com/sites/theyec/2015/04/01/pink-unicorns-and-the-power-of-symbols-to-transform-your-business/3/">Forbes.com</a>
+По материалам <a href="https://www.forbes.com/sites/theyec/2015/04/01/pink-unicorns-and-the-power-of-symbols-to-transform-your-business/3/">Forbes.com</a>
 

@@ -28,5 +28,5 @@ date: 2013-07-28
 
 Скорее всего, даже если исследователи рекламы и изобретут название для всей отрасли, вряд ли у этого термина будет много поклонников среди специалистов.
 
-По материалам <a href="http://www.carltonassociatesinc.com/wp1.cfm?id=65">Carlton Associate</a>
+По материалам <a href="https://www.carltonassociatesinc.com/wp1.cfm?id=65">Carlton Associate</a>
 

@@ -5,7 +5,7 @@ permalink: /ru/pr-blog/kak-vybrat-pr-agentstvo
 date: 2009-02-19
 
 ---
-<p>Развитие интернета (а за рубежом — еще и <a href="http://www.alexa.com/browse/general?mode=general&amp;Path=Top/Business/Publishing_and_Printing/Publishing/Self-Publishing/On_Demand" target="_blank" rel="noopener noreferrer">инфраструктуры «самиздата»</a>) кардинальным образом изменило журналистику: профессия превратилась в повальное хобби. Независимо от этого процесса, но одновременно с ним изрядно вырос спрос на упоминаемость в СМИ: media coverage стала массовой потребностью. Само собой, данные явления влияют на нашу отрасль, на PR: они открывают возможности и диктуют новые правила. Мы собрали нормы ключевых процедур в табличку.</p>
+<p>Развитие интернета (а за рубежом — еще и <a href="https://www.alexa.com/browse/general?mode=general&amp;Path=Top/Business/Publishing_and_Printing/Publishing/Self-Publishing/On_Demand" target="_blank" rel="noopener noreferrer">инфраструктуры «самиздата»</a>) кардинальным образом изменило журналистику: профессия превратилась в повальное хобби. Независимо от этого процесса, но одновременно с ним изрядно вырос спрос на упоминаемость в СМИ: media coverage стала массовой потребностью. Само собой, данные явления влияют на нашу отрасль, на PR: они открывают возможности и диктуют новые правила. Мы собрали нормы ключевых процедур в табличку.</p>
 <table cellspacing="0">
 
 <thead>
@@ -137,5 +137,5 @@ date: 2009-02-19
 </tbody>
 
 </table>
-<p>По материалам <a href="http://www.stagetwoconsulting.com/wordpress/how-to-pick-a-pr-firm-234/" target="_blank" rel="noopener noreferrer">Stage Two</a></p>
+<p>По материалам <a href="https://www.stagetwoconsulting.com/wordpress/how-to-pick-a-pr-firm-234/" target="_blank" rel="noopener noreferrer">Stage Two</a></p>
 

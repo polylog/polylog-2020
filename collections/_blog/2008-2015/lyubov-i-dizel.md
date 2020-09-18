@@ -18,7 +18,7 @@ date: 2011-06-04
 
 Таким образом, рассказывая о  себе, пользователи рассказывали также о продукции, и информация быстро распространялась.
 
-<iframe src="http://player.vimeo.com/video/24315112?title=0&amp;byline=0&amp;portrait=0" width="400" height="233" frameborder="0"></iframe><p><a href="http://vimeo.com/24315112">Diesel QR</a> from <a href="http://vimeo.com/user2613261">Doc News</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/24315112?title=0&amp;byline=0&amp;portrait=0" width="400" height="233" frameborder="0"></iframe><p><a href="https://vimeo.com/24315112">Diesel QR</a> from <a href="https://vimeo.com/user2613261">Doc News</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-По материалам <a href="http://www.marketing-alternatif.com/category/ambient/">Marketing Alternatif</a>
+По материалам <a href="https://www.marketing-alternatif.com/category/ambient/">Marketing Alternatif</a>
 

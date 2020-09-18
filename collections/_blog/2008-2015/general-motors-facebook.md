@@ -24,5 +24,5 @@ date: 2012-05-15
 
 Так что Facebook придется приложить некоторые усилия, чтобы стать популярным инструментом маркетинга, придумать и провести в жизнь определенные инновации.
 
-По материалам <a href="http://www.forbes.com/sites/roberthof/2012/05/15/the-real-reasons-why-brands-like-gm-still-dont-like-facebook-advertising/2/">Forbes.com</a>
+По материалам <a href="https://www.forbes.com/sites/roberthof/2012/05/15/the-real-reasons-why-brands-like-gm-still-dont-like-facebook-advertising/2/">Forbes.com</a>
 

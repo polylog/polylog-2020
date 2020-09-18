@@ -34,5 +34,5 @@ date: 2012-08-17
 
 Количество обращений в фонд резко возросло, увеличились посещения сайта, в фонд обратились множество новых волонтеров.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/international_fund_for_animal_welfare_free_the_moon_bear">Ads of the world</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/international_fund_for_animal_welfare_free_the_moon_bear">Ads of the world</a>
 

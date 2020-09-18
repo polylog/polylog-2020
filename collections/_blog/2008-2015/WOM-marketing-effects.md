@@ -22,5 +22,5 @@ date: 2012-04-07
 
 The difference is that these experiences are related to things that have a specific purpose; they tend to be more cognitive than emotional.
 
-По материалам <a href="http://www.dnaindia.com/scitech/report_how-word-of-mouth-makes-happy-memories-less-special_1677183">DNA India</a>
+По материалам <a href="https://www.dnaindia.com/scitech/report_how-word-of-mouth-makes-happy-memories-less-special_1677183">DNA India</a>
 

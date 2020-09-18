@@ -24,5 +24,5 @@ date: 2015-05-18
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/inKhOxmFIR8" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://adsoftheworld.com/media/outdoor/ministry_of_religious_affairs_language_matters">Ads of te World </a>
+По материалам <a href="https://adsoftheworld.com/media/outdoor/ministry_of_religious_affairs_language_matters">Ads of te World </a>
 

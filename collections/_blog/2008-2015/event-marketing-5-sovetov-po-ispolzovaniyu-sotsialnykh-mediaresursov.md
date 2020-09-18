@@ -10,7 +10,7 @@ date: 2008-11-18
 
 <h3>Блог и Twitter  необходимы, но они  не заменяют письма, пресс-релизы и печатные материалы.</h3>
 
-<p class="list-caption">Удивительно, но не все люди на земле зарегистрированы в <a href="http://ru.wikipedia.org/wiki/Twitter" target="_blank" rel="noopener noreferrer">Twitter</a>, и не все читают блоги.  Поэтому наряду с новомодными каналами коммуникации используйте старые, проверенные:</p>
+<p class="list-caption">Удивительно, но не все люди на земле зарегистрированы в <a href="https://ru.wikipedia.org/wiki/Twitter" target="_blank" rel="noopener noreferrer">Twitter</a>, и не все читают блоги.  Поэтому наряду с новомодными каналами коммуникации используйте старые, проверенные:</p>
 <ul>
 <li>почтовую рассылку</li>
 <li>печатные листовки</li>
@@ -23,11 +23,11 @@ date: 2008-11-18
 
 <p class="list-caption">Учетная запись в <span class="caption">Twitter</span> и почтовые рассылки — это еще не все. Вы должны быть там, где собираются более-менее крупные группы интернет-сообщества:</p>
 <ul>
-<li><a href="http://odnoklassniki.ru/" target="_blank" rel="noopener noreferrer">Одноклассники</a></li>
-<li><a href="http://www.vkontakte.ru/" target="_blank" rel="noopener noreferrer">В контакте</a></li>
-<li><a href="http://www.facebook.com/" target="_blank" rel="noopener noreferrer">Facebook</a> </li>
-<li><a href="http://ru.myspace.com/" target="_blank" rel="noopener noreferrer">MySpace</a></li>
-<li><a href="http://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn </a></li>
+<li><a href="https://odnoklassniki.ru/" target="_blank" rel="noopener noreferrer">Одноклассники</a></li>
+<li><a href="https://www.vkontakte.ru/" target="_blank" rel="noopener noreferrer">В контакте</a></li>
+<li><a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">Facebook</a> </li>
+<li><a href="https://ru.myspace.com/" target="_blank" rel="noopener noreferrer">MySpace</a></li>
+<li><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn </a></li>
 <li>Малые сообщества (блоги, форумы, чаты)</li>
 </ul>
 </li>
@@ -44,5 +44,5 @@ date: 2008-11-18
 <h3>Это ваша основная работа </h3>
 <p>Для того чтобы продвигать пресс-конференцию или презентацию вам  нужно будет в течение пары-тройки недель каждый день рассылать письма, обновлять блог, проф. страницы в соц. сетях, общаться с людьми по различным темам.</p></li>
 </ol>
-<p>По материалам <a href="http://climbtothestars.org/archives/2008/06/14/5-lessons-in-promoting-events-using-social-media-back-to-basics/" target="_blank" rel="noopener noreferrer">Climb to the Stars</a></p>
+<p>По материалам <a href="https://climbtothestars.org/archives/2008/06/14/5-lessons-in-promoting-events-using-social-media-back-to-basics/" target="_blank" rel="noopener noreferrer">Climb to the Stars</a></p>
 

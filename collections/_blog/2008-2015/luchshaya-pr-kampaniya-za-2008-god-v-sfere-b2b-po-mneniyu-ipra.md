@@ -1,6 +1,6 @@
 ---
 title: 'Запуск канала Virgin1 как пример PR-кампании B2B'
-description: 'Международная ассоциация общественных отношений (International Public Relations Association) ежегодно проводит отбор лучших кампаний в разных номинациях. В 2008 году в области B2B была отмечена золотом (Golden World Award) кампания агентства <a href="http://www.eulogy.co.uk/" target="_blank" rel="noopener noreferrer">Eulogy!</a>, Великобритания, для Virgin Media Television и ее нового канала Virgin1.'
+description: 'Международная ассоциация общественных отношений (International Public Relations Association) ежегодно проводит отбор лучших кампаний в разных номинациях. В 2008 году в области B2B была отмечена золотом (Golden World Award) кампания агентства <a href="https://www.eulogy.co.uk/" target="_blank" rel="noopener noreferrer">Eulogy!</a>, Великобритания, для Virgin Media Television и ее нового канала Virgin1.'
 permalink: /ru/pr-blog/luchshaya-pr-kampaniya-za-2008-god-v-sfere-b2b-po-mneniyu-ipra
 date: 2008-09-19
 
@@ -50,5 +50,5 @@ Virgin Media – первая компания в Британии, котора
 
 В период между объявлением о канале и собственно открытием virgin каждую неделю присутствовала в новостях. Круглый стол был освещен в 122 публикациях в целевых медиа, что примерно составляет  17 тысяч читателей.  Более 80% публикаций содержали базовые сообщения кампании.
 
-По материалам <a href="http://www.ipra.org/detail.asp?articleid=822">IPRA</a>
+По материалам <a href="https://www.ipra.org/detail.asp?articleid=822">IPRA</a>
 

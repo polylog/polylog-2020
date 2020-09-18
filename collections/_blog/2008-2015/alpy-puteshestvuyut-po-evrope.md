@@ -12,7 +12,7 @@ date: 2009-06-16
 
 Также продаются сувениры, и специальные серийные шоколадки. Можно сфотографироваться у фирменного картонного стенда.   <br>
 
-По материалам <a href="http://www.milka.com/alpinetour/downloads/general_Information_milka_alpine_tour_eng.pdf">официального пресс-релиза мероприятия</a><br><br>
+По материалам <a href="https://www.milka.com/alpinetour/downloads/general_Information_milka_alpine_tour_eng.pdf">официального пресс-релиза мероприятия</a><br><br>
 
 Продолжение о том, <a href="/ru/news/2009/05-22">как Milka продвигается сейчас в России, вы можете прочитать здесь</a>.
 

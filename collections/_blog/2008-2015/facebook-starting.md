@@ -26,5 +26,5 @@ date: 2013-05-14
 
 И конечно, одна из самых главных вещей, особенно на начальных этапах - это отслеживать все отзывы на ваши посты и материалы. все упоминания о вас и ваших продуктах или услугах.
 
-По материалам <a href="http://searchenginewatch.com/article/2266182/22-Facebook-PR-Secrets-Every-Community-Manager-Should-Know">Search engine Watch</a>, <a href="http://www.qwaya.com/blog/2013-05-08/a-scientific-approach-to-facebook-advertising/">Qwaya.com</a>
+По материалам <a href="https://searchenginewatch.com/article/2266182/22-Facebook-PR-Secrets-Every-Community-Manager-Should-Know">Search engine Watch</a>, <a href="https://www.qwaya.com/blog/2013-05-08/a-scientific-approach-to-facebook-advertising/">Qwaya.com</a>
 

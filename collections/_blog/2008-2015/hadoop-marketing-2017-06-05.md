@@ -15,6 +15,6 @@ date: 2017-06-05
 <p>Hadoop ПО применимо в data mining, целью которого является раскрытие ранее невидимых взаимосвязей. Такая информация является бесценной в маркетинге, поскольку обеспечивает более чем трехмерное видение закономерностей.</p>
 <p>Тем не менее, Hadoop маркетинг имеет тенденцию упускать из вида общую картину и акцентирует все внимание на отдельных выборочных корреляциях. Если в двух словах, то Hadoop-аналитика дает широкую выборку линейных зависимостей, но не пока не позволяет делать интегрированные маркетинговые исследования. </p>
 <p>По материалам:</p>
-<p><a href="http://www.taskdata.com/index.php?option=com_content&amp;view=article&amp;id=26&amp;Itemid=5&amp;lang=ru"target="_blank" rel="noopener noreferrer">Task Data</a></p>
-<p><a href="http://www.colemanmgt.com/hadoop-marketing/"target="_blank" rel="noopener noreferrer">colemanmgt.com</a></p>
+<p><a href="https://www.taskdata.com/index.php?option=com_content&amp;view=article&amp;id=26&amp;Itemid=5&amp;lang=ru"target="_blank" rel="noopener noreferrer">Task Data</a></p>
+<p><a href="https://www.colemanmgt.com/hadoop-marketing/"target="_blank" rel="noopener noreferrer">colemanmgt.com</a></p>
 

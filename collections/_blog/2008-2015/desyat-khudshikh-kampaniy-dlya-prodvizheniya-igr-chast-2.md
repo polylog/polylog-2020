@@ -10,7 +10,7 @@ Sega Genesis  - конкурент Super nintendo, и конкурент про�
 
 После запуска этой рекламы весь игровой мир стал задаваться вопросом – а что такое, собственно, этот Blast Processing? Это выражение стало легендарным и теперь означает «непонятное нововведение которое не приносит никаких улучшений».
 
-<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/zlulSyBI2aY?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/zlulSyBI2aY?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="480" height="390"><param name="movie" value="https://www.youtube.com/v/zlulSyBI2aY?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/zlulSyBI2aY?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 4. Battle Cruiser 3000/Evony
 
@@ -24,7 +24,7 @@ Sega Genesis  - конкурент Super nintendo, и конкурент про�
 
 Проблема с высокохудожественной рекламой в том, что дизайнер может легко промахнуться мимо стиля, и получится в лучшем случае дурновкусие, в худшем – то что получилось с кампанией Sony «Вот это жизнь» -  “This is Living”.  Эта кампания была совершенно оторвана от потребителей и рынка игр своего времени. Длинный ролик, снятый в стиле гангстерских фильмов, со странным сюжетом об отеле, где постояльцы  попали под действие наркотика находящегося в водопроводной воде (привет Станиславу Лему!)  совершенно не похож на рекламу чего бы то ни было, и ни один из персонажей не похож на потребителя.
 
-<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/psd8oVToS8k?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/psd8oVToS8k?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="480" height="390"><param name="movie" value="https://www.youtube.com/v/psd8oVToS8k?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/psd8oVToS8k?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 2. PSP Черное и белое
 
@@ -40,7 +40,7 @@ Sega Genesis  - конкурент Super nintendo, и конкурент про�
 
 В этой кампании было провально все – рекламирование технической характеристики, которой нет и которая к тому же не является важной, назойливость, подача информации, обилие цифр. Уникальный случай.
 
-<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/nxuna944dls?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nxuna944dls?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="480" height="390"><param name="movie" value="https://www.youtube.com/v/nxuna944dls?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/nxuna944dls?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-По материалам <a href="http://calmdowntom.com/2011/03/top-10-embarrassingly-bad-moments-in-videogame-marketing/">CalmDown</a>
+По материалам <a href="https://calmdowntom.com/2011/03/top-10-embarrassingly-bad-moments-in-videogame-marketing/">CalmDown</a>
 

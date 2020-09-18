@@ -18,5 +18,5 @@ date: 2013-07-09
 
 Возможно, это станет началом использования нового инструмента в брендинге, и Solve Media здесь не единственная компания, их самый большой конкурент -  ReCaptcha.
 
-По материалам <a href="http://www.ad-exchange.fr/branding-solve-media-leve-6-m-pour-transformer-les-captchas-en-publicite-5047/"> AD-exchange.fr</a>
+По материалам <a href="https://www.ad-exchange.fr/branding-solve-media-leve-6-m-pour-transformer-les-captchas-en-publicite-5047/"> AD-exchange.fr</a>
 

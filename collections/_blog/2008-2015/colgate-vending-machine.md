@@ -14,5 +14,5 @@ date: 2014-08-20
 
 Рекламное агентство - Y&R Пуэрто-Рико
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/colgate-vending-machine-dispenses-free-samples-every-sweet-treat/">Creative Guerrilla Marketing </a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/colgate-vending-machine-dispenses-free-samples-every-sweet-treat/">Creative Guerrilla Marketing </a>
 

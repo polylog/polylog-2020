@@ -18,5 +18,5 @@ date: 2015-05-26
 
 Наверное, никогда раньше в истории маркетинга не было такого количества моделей того, как можно впихнуть свое сообщение между пользователем и интересным ему контентом.
 
-По материалам <a href="http://www.radiointelligence.com/advertising-is-dead-long-live-advertising/">Radiointelligence</a>
+По материалам <a href="https://www.radiointelligence.com/advertising-is-dead-long-live-advertising/">Radiointelligence</a>
 

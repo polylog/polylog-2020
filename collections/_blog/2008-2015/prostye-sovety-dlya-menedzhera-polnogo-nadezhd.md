@@ -30,5 +30,5 @@ date: 2010-10-14
 
         * Андре Глусман, Meetup.com: Экспериментируйте. Учитесь распознавать и вознаграждайте то поведение, которе вам на руку. Искореняйте то, что вам не нужно.
 
-По материалам <a href="http://mashable.com/2010/08/21/community-manager-jobs/">Mashable.com</a>
+По материалам <a href="https://mashable.com/2010/08/21/community-manager-jobs/">Mashable.com</a>
 

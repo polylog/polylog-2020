@@ -14,5 +14,5 @@ date: 2012-11-26
 
 Простой способ  принести пользу людям и кое-что от этого выиграть самому!
 
-По материалам <a href="http://adsoftheworld.com/media/dm/bronx_skate_store_business_card?size=_original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/dm/bronx_skate_store_business_card?size=_original">Ads of the World</a>
 

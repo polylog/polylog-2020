@@ -16,5 +16,5 @@ date: 2009-06-24
 
 <img src="{{ site.assets }}/upload/childrenslostletters.jpg" alt="" class="post__img" width="470" height="527"></li></ul>
 
-По материалам <a href="http://www.adsoftheworld.com">Ads of the World</a>
+По материалам <a href="https://www.adsoftheworld.com">Ads of the World</a>
 

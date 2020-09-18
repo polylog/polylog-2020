@@ -22,5 +22,5 @@ date: 2015-05-24
 
 PR - специалистам определенно стоит обратить  внимание на этот новый тренд.
 
-По материалам <a href="http://prexamples.com/2015/05/its-been-a-quackers-week-for-duck-campaigns/">PR examples </a>
+По материалам <a href="https://prexamples.com/2015/05/its-been-a-quackers-week-for-duck-campaigns/">PR examples </a>
 

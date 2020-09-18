@@ -54,7 +54,7 @@ date: 2011-02-11
 
 Ведете блог? Почему бы не брать ежемесячно (раз в два месяца, в полгода) не брать оттуда 10-20 самых лучших статей, и не печатать специальную бесплатную газету? Разложите ее там, где бывают ваши потенциальные клиенты. Внутри газеты можно напечатать скидочные купоны.
 
-По материалам <a href="http://www.guerrillafreelancing.com/guerrilla-marketing-tactics-for-freelancers/">Guerrilla Freelancing</a>
+По материалам <a href="https://www.guerrillafreelancing.com/guerrilla-marketing-tactics-for-freelancers/">Guerrilla Freelancing</a>
 
 Продолжение следует
 

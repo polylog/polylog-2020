@@ -52,5 +52,5 @@ date: 2014-06-15
 
 Платформа только-только стартовала, и еще будет развиваться, например, явно будет развиваться и усложняться алгоритм ранжирования авторов.
 
-По материалам <a href="http://www.forbes.com/sites/jaysondemers/2014/06/20/google-authorship-and-personal-branding-why-the-individual-beats-the-corporate/">Forbes</a>
+По материалам <a href="https://www.forbes.com/sites/jaysondemers/2014/06/20/google-authorship-and-personal-branding-why-the-individual-beats-the-corporate/">Forbes</a>
 

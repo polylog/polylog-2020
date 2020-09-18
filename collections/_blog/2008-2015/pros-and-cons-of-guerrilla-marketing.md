@@ -26,5 +26,5 @@ date: 2014-10-12
 
 Возможность ответного удара. Если вас разгадали, вам могут высказать претензии по поводу вашей кампании. Нужно быть к этому готовым.
 
-По материалам <a href="http://www.business2community.com/marketing/guerrilla-marketing-20-examples-strategies-stand-01014915">Business to community </a>
+По материалам <a href="https://www.business2community.com/marketing/guerrilla-marketing-20-examples-strategies-stand-01014915">Business to community </a>
 

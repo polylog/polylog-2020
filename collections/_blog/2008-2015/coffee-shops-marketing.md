@@ -24,5 +24,5 @@ Stumptown Coffee Roasters
 
 «Stumptown Coffee Roasters» обязана своим успехом сотрудничеству с другими компаниями, имеющими отношения к этой марке. Например, партнером «Stumptown» стала «Ace Hotel group», сеть роскошных бутик-отелей, расположенных во многих крупных городах Америки. В каждом из этих отелей подают кофе «Stumptown Coffee Roasters» или в вестибюле есть кафе этой компании. Сотрудничество с компанией, имеющей постоянный приток клиентов со всего мира, дало «Stumptown» возможность быстрого роста. Их сервис подписки позволяет тем клиентам, кто не может посещать кофейни «Stumptown», получать ежемесячную доставку кофе. Сайт компании предлагает заинтересованным потребителям бесплатный образец для дегустации и возможность еженедельной доставки цельнозернового кофе избранной обжарки. Все эти опции позволили «Stumptown Coffee Roasters» прочно занять нишу в прибыльной отрасли.
 
-По материалам сайта <a href="http://www.creativeguerrillamarketing.com/advertising/4-coffee-shops-that-ace-marketing">Creative Guerrilla Marketing</a>
+По материалам сайта <a href="https://www.creativeguerrillamarketing.com/advertising/4-coffee-shops-that-ace-marketing">Creative Guerrilla Marketing</a>
 

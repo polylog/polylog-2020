@@ -32,5 +32,5 @@ date: 2008-08-05
 <li><q>«Реклама — это добрый дух, прекративший Америку в место комфорта, роскоши и простоты для миллионов»</q>. Уильям Аллен Уайт</li>
 <li><q>«Реклама — важный экономический фактор, так как это самый дешевый способ продать товар, особенно бесполезный товар»</q>. Синклер Льюис</li>
 </ol>
-<p>По материалам <a href="http://blog.calmasylum.com/2008/07/adverstising-is/" target="_blank" rel="noopener noreferrer">Calm Asylum Communcations</a></p>
+<p>По материалам <a href="https://blog.calmasylum.com/2008/07/adverstising-is/" target="_blank" rel="noopener noreferrer">Calm Asylum Communcations</a></p>
 

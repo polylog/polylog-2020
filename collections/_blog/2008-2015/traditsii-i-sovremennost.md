@@ -18,5 +18,5 @@ date: 2009-10-26
 
 Само  понятие традиционных СМИ в последнее время начало расширяться. Сейчас же можно сказать, что TechCrunch, YouTube - это довольно традиционные СМИ. Но среди всех привычных источников информации есть самые старые. Придающие информации материальность.
 
-По материалам <a href="http://davefleet.com/2009/10/mainstream-media-still-matters/">DaveFleet</a>
+По материалам <a href="https://davefleet.com/2009/10/mainstream-media-still-matters/">DaveFleet</a>
 

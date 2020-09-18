@@ -34,5 +34,5 @@ date: 2013-09-24
 
 Кроме того, вы сами сэкономите на съемке, монтаже и обработке видео.
 
-По материалам <a href="http://www.business2community.com/customer-experience/4-strategies-getting-customer-testimonials-0640278"> Business to Community </a>
+По материалам <a href="https://www.business2community.com/customer-experience/4-strategies-getting-customer-testimonials-0640278"> Business to Community </a>
 

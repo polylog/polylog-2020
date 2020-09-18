@@ -24,5 +24,5 @@ date: 2015-12-31
 
 Что нас ждет на Рождество в следующем году? Одно из двух – либо бренды продолжат прежнюю линию поведения, и эффективность рождественской рекламы упадет еще ниже, либо мы увидим какие-то принципиально новые решения.
 
-По материалам  <a href="http://www.theguardian.com/media-network/2015/dec/17/christmas-advertising-overuse-emotion">the Guardian </a>
+По материалам  <a href="https://www.theguardian.com/media-network/2015/dec/17/christmas-advertising-overuse-emotion">the Guardian </a>
 

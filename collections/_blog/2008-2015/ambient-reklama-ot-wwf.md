@@ -14,5 +14,5 @@ date: 2008-06-18
 
  <img src="{{ site.assets }}/upload/swwfgunalley.jpg" alt="WWF Beijing" title="WWF Beijing"  class="post__img" width="450">
 
-По материалам <a href="http://commercial-archive.com/node/144194">Commercial-Archive</a>
+По материалам <a href="https://commercial-archive.com/node/144194">Commercial-Archive</a>
 

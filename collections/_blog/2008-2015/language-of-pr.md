@@ -24,5 +24,5 @@ date: 2015-03-09
 
  - Не забывайте  о званиях. Даже если вы очень спешите  или ограничены в количестве знаков, проставьте ученые степени, другие звания. Если пространство и время позволяют, постарайтесь кратко представить каждого из людей, о которых вы говорите. Лучше, если это не просто название должности и компании, хотя и это тоже важно, - а что-то из достижений этого человека. "Автор книги", "создатель методики".
 
-По материалам <a href="http://www.prnewswire.com/blog/grammar-hammer-writing-tips-from-the-ap-stylebook-twitter-account-11958.html">PR Newswire</a>
+По материалам <a href="https://www.prnewswire.com/blog/grammar-hammer-writing-tips-from-the-ap-stylebook-twitter-account-11958.html">PR Newswire</a>
 

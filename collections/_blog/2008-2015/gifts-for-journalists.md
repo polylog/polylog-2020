@@ -62,5 +62,5 @@ iPod версия ультра-лайт. Обычные листочки для 
 
 "Дорогуша, не сегодня, у меня дедлайн"
 
-По материалам <a href="http://www.squidoo.com/gifts-for-journalists">Squidoo.com</a>, <a href="http://www.mediabistro.com/10000words/30-holiday-gifts-for-journalists_b8424">Mediabistro.com</a>
+По материалам <a href="https://www.squidoo.com.gifts-for-journalists">Squidoo.com</a>, <a href="https://www.mediabistro.com/10000words/30-holiday.gifts-for-journalists_b8424">Mediabistro.com</a>
 

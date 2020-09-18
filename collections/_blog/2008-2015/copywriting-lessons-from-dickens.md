@@ -26,5 +26,5 @@ date: 2012-02-07
 
 И в заключение, Диккенс был хорош в продвижении себя самого. Он работал над тем, чтобы избежать зависти коллег по цеху, он постоянно работал над поддержанием своей известности. Практика копирайтинга состоит в том, чтобы получать заказы и оплату за них. Однако большинство копирайтеров на удивление не умеют продвигать свои собственные услуги.
 
-По материалам <a href="http://maximumresultscopywriting.com/copywriting/copywriters-learn-charles-dickens">Maximum Results Copywriting</a>
+По материалам <a href="https://maximumresultscopywriting.com/copywriting/copywriters-learn-charles-dickens">Maximum Results Copywriting</a>
 

@@ -14,5 +14,5 @@ date: 2013-08-21
 
 Всего было сделано 30 тысяч подставок под кружки, они разошлись по барам Гонкога. В результате кампании было собрано 20 с половиной гонконгских долларов, которые отправились на помощь людям в засушливых районах.
 
-По материалам <a href="http://adsoftheworld.com/media/dm/a_drop_of_life_words_from_water?size=original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/dm/a_drop_of_life_words_from_water?size=original">Ads of the World</a>
 

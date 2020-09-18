@@ -20,5 +20,5 @@ date: 2011-04-18
 
 <img src="{{ site.assets }}/upload/dabang3.jpg" alt="" class="post__img" width="470" height="673">
 
-По материалам <a href="http://www.suite101.com/content/advertising-to-teens-a14289#ixzz1KEY3pAtV">Suite101</a>
+По материалам <a href="https://www.suite101.com/content/advertising-to-teens-a14289#ixzz1KEY3pAtV">Suite101</a>
 

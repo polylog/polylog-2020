@@ -6,7 +6,7 @@ date: 2009-05-08
 
 ---
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/8bF9HNZzpkk&color1=0xb1b1b1&color2=0xcfcfcf&hl=it&feature=player_embedded&fs=1"><param name="allowFullScreen" value="true"><embed src="http://www.youtube.com/v/8bF9HNZzpkk&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=it&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/8bF9HNZzpkk&color1=0xb1b1b1&color2=0xcfcfcf&hl=it&feature=player_embedded&fs=1"><param name="allowFullScreen" value="true"><embed src="https://www.youtube.com/v/8bF9HNZzpkk&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=it&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
 
 Другая амбиент-кампания за права человека и против побивания камнями, до сих пор существующего в качестве наказания в шариатских государствах, разработана агентством  Leo Burnett, Франкфурт. В кампании были использованы рамки, наклеивающиеся на каменные и кирпичные стены, на булыжные мостовые. В каждую рамку помещалось 20 камней или кирпичей, и слоган говорил - "Столько камней убили Халега". Хотя выяснить, кто такой этот Халег, мне не удалось...
 
@@ -20,5 +20,5 @@ date: 2009-05-08
 
 <img src="{{ site.assets }}/upload/greenbelgiummailing.jpg" alt="" class="post__img" width="470" height="333">
 
-По материалам <a href="http://www.ibelieveinadv.com/category/ambient-outdoor/page/3/"> I believe in adv </a>
+По материалам <a href="https://www.ibelieveinadv.com/category/ambient-outdoor/page/3/"> I believe in adv </a>
 

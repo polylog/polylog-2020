@@ -24,5 +24,5 @@ date: 2015-12-21
 
  Мультикультурализм - это суровая необходимость и требование времени. Толерантность и открытост – не просто плюсы и бонус, но базовая  потребность любого контента.
 
-По материалам <a href="http://www.adweek.com/news/advertising-branding/six-tips-talking-post-generation-163046">Adweek.com</a>
+По материалам <a href="https://www.adweek.com/news/advertising-branding/six-tips-talking-post-generation-163046">Adweek.com</a>
 

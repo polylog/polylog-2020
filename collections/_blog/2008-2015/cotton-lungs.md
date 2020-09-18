@@ -12,5 +12,5 @@ date: 2013-08-24
 
 Для продвижения горного курорта MK Mountain Resort, агентство McCann, Белград, решило сделать очевидным для всех загрязненность  городского воздуха, вывесив на самой оживленной улице макет человеческих легких из белого пушистого хлопка. Через три дня хлопок был уже совсем не таким белым и пушистым, и люди, которые каждый день ездили на работу по этой улице, получили наглядное представление о том, чем они дышат
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/mk_mountain_resort_cotton_lungs?size=original"> Ads of the World </a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/mk_mountain_resort_cotton_lungs?size=original"> Ads of the World </a>
 

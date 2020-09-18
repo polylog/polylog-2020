@@ -16,5 +16,5 @@ date: 2015-05-12
 
 Все, кто как-то связан с брендингом, может многому научиться из этой простой истории, даже если ваш логотип не располагается на спине лонгхорна. Бренд - это история, и эту историю надо не просто рассказывать, ее надо проживать вам самим, чтобы никто не мог рассказать это лучше, чем вы.
 
-По материалам <a href="http://www.forbes.com/sites/geristengel/2015/05/06/brands-hear-women-entrepreneurs-roar/">Forbes</a>
+По материалам <a href="https://www.forbes.com/sites/geristengel/2015/05/06/brands-hear-women-entrepreneurs-roar/">Forbes</a>
 

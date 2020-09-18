@@ -12,7 +12,7 @@ date: 2012-01-17
 
 Это видео сделанное в честь дня Святого Валентина набрало 130 миллионов просмотров.
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/K-_rf2jVxxY?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/K-_rf2jVxxY?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/K-_rf2jVxxY?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/K-_rf2jVxxY?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 Согласно исследования компании Пума, по крайней мере половина покупателей продукции онлайн используют и оффлайн-каналы получения информации, то есть смотрят на ассортимент магазинов. Все большую роль в процессе принятия решения о покупке играет мобильная реклама.
 
@@ -24,7 +24,7 @@ Puma пока что не использует социальные сети д�
 
 2. Jimmy Choo
 
-<img src="http://5.mshcdn.com/wp-content/uploads/2010/04/choo-foursquare.jpg" alt="">
+<img src="https://5.mshcdn.com/wp-content/uploads/2010/04/choo-foursquare.jpg" alt="">
 
 Jimmy Choo появился в социальных медиа как лидер в своей категории, во многом благодаря свой кампании "Catch-a-Choo", в рамках которой женщины бегали по всему Лондону чтобы разыскать новую линию кроссовок. Компания использовала социальные сети, чтобы определять победителя, который первым выложил на Facebook или Twitter фотографию зашифрованного места.
 
@@ -54,5 +54,5 @@ As a category, footwear is difficult to define through social media. The strateg
 
 As Rhodes says, successful strategies are born of a brand’s understanding of its audience and how they think of the product, and then using social media in a way that builds on that perspective. It’s also about surprising the consumer, dreaming up campaigns like Catch-a-Choo and Bergdorf Goodman’s “Shoes About Town” Instagram map.
 
-По материалам <a href="http://mashable.com/2012/02/06/shoe-footwear-brands-social-media-marketing/">Mashable.com</a>
+По материалам <a href="https://mashable.com/2012/02/06/shoe-footwear-brands-social-media-marketing/">Mashable.com</a>
 

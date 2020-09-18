@@ -66,5 +66,5 @@ date: 2010-11-17
 
    4. Они обычно тщательно следят за набором средств, которые используются в процедурах… Но вы можете попросить разместить ваши красиво упакованные семплы хотя бы на столике  журналами.
 
-По материалам <a href="http://www.ehow.com/way_5164910_advertising-ideas-handmade-soaps.html">ehow.com</a>, <a href="http://ezinearticles.com/?expert=Jennifer_Hisir">EzineArticles</a>, <a href="http://topblogplacement.com/handmade-jewelry-online-advertising-tips">topBlogPlacement</a>, <a href="http://hubpages.com/hub/Tags-and-Packaging-for-Handmade-Jewelry">Hub Pages</a>.
+По материалам <a href="https://www.ehow.com/way_5164910_advertising-ideas-handmade-soaps.html">ehow.com</a>, <a href="https://ezinearticles.com/?expert=Jennifer_Hisir">EzineArticles</a>, <a href="https://topblogplacement.com/handmade-jewelry-online-advertising-tips">topBlogPlacement</a>, <a href="https://hubpages.com/hub/Tags-and-Packaging-for-Handmade-Jewelry">Hub Pages</a>.
 

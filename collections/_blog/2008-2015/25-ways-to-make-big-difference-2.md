@@ -20,5 +20,5 @@ date: 2012-05-02
 
 25) Не просто используйте социальные медиа, но интегрируйте их в структуру события. Заведите хэштеги вашего мероприятия, поощряйте гостей начинать дискуссии на Твиттере. Проводите конкурсы. И конечно, постоянно обновляйте интернет-информацию о вашем событии.
 
-По материалам <a href="http://blog.hubspot.com/blog/tabid/6307/bid/32681/25-Little-Details-That-Will-Make-a-BIG-Difference-at-Your-Next-Event.aspx"> Blog.Hubspot </a>
+По материалам <a href="https://blog.hubspot.com/blog/tabid/6307/bid/32681/25-Little-Details-That-Will-Make-a-BIG-Difference-at-Your-Next-Event.aspx"> Blog.Hubspot </a>
 

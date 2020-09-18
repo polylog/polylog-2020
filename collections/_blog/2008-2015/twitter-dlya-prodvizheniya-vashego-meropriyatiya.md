@@ -28,5 +28,5 @@ Delegates can subscribe to your Twitter feed or your hashtag search result via m
 
 Twitter’s social nature, combined with the ability to create instant updates and announcements makes it a perfect took to keep delegates up to date with the latest event news. Used wisely it can have a real impact on the success of your events.
 
-По материалам <a href="http://www.smeketing.com/using-twitter-to-promote-events/">Smeketing</a>
+По материалам <a href="https://www.smeketing.com/using-twitter-to-promote-events/">Smeketing</a>
 

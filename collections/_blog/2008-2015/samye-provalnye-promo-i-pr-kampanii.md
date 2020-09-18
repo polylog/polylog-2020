@@ -20,7 +20,7 @@ date: 2010-03-18
 
 8) Honda's Asimo Falls Down Stairs
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/ASoCJTYgYB0&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ASoCJTYgYB0&amp;hl=ru_RU&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385"><param name="movie" value="https://www.youtube.com/v/ASoCJTYgYB0&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/ASoCJTYgYB0&amp;hl=ru_RU&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
 Робот Азимо - звезда выставок, но участие в этой выставке стало провалом для компании Honda.
 
@@ -28,13 +28,13 @@ date: 2010-03-18
 
 Calvin Klein известен своии провокационными роликами, эксплуатирующими тему секса. Но эта серия рекламных роликов перешла невидимую границу. Актеры роликов выглядят как несовершеннолетние модели из любительского порно, и они отвечают на странные вопросы, которые задает старческий голос за камерой. Эта реклама выглядит как преамбула к порно-видео с малолетними участниками. В августе 1995 реклама была снята с эфира и Calvin Klein принес публичные извинения.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/vZVk21Pco-c&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/vZVk21Pco-c&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/vZVk21Pco-c&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="https://www.youtube.com/v/vZVk21Pco-c&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="344"></embed></object>
 
 6) Microsoft и синий экран - во время пресс-конференции
 
 Во время пресс-конференции посвященной предварительному релизу Windows 98 операционная система показала "синий экран смерти". Билол ГЕйтс оказался на высоте, сказав "Вот поэтому это и называется предварительным релизом".
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/k9jOi_Jd2dQ&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/k9jOi_Jd2dQ&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/k9jOi_Jd2dQ&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="https://www.youtube.com/v/k9jOi_Jd2dQ&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="344"></embed></object>
 
 5) Beatles  - мясницкая обложка Yesterday and Today
 
@@ -54,7 +54,7 @@ Calvin Klein известен своии провокационными роли
 
 Автомобиль Edsel был выпущен в "день E", 4 сентября 1957 года. Автомобиль позиционировался как "навороченный", но потребителям это не понравилось. До сих пор идт споры о том, что именно послужило причиной провала, но очевидно одно - компания Ford тогда на время потеряла чутье в отношении американской публики. 19 ноября 1959 выпуск машины был прекращен.
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/hbbJmsRYrnc&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/hbbJmsRYrnc&amp;hl=ru_RU&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385"><param name="movie" value="https://www.youtube.com/v/hbbJmsRYrnc&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/hbbJmsRYrnc&amp;hl=ru_RU&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
 2) AC против DC
 
@@ -64,7 +64,7 @@ Calvin Klein известен своии провокационными роли
 
 Одно из видео, снятых компанией Эдисона, где переменным током убивают слона.
 
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/RnHXSL5jW-c&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/RnHXSL5jW-c&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="385"></embed></object>
+<object width="640" height="385"><param name="movie" value="https://www.youtube.com/v/RnHXSL5jW-c&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="https://www.youtube.com/v/RnHXSL5jW-c&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="385"></embed></object>
 
 1) Катастрофа цеппеллина  LZ 129 Hindenburg
 
@@ -74,7 +74,7 @@ Calvin Klein известен своии провокационными роли
 
 До сих пор строятся предположения о том, что именно послужило причиной катастрофы,  но ясно то, причиной чего послужила сама катастрофа-  обозначила конец эпохи дирижаблей, падение интереса к ним публики и снижение инвестиций в эти проекты.
 
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/xiAT9xvTVKI&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/xiAT9xvTVKI&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="385"></embed></object>
+<object width="640" height="385"><param name="movie" value="https://www.youtube.com/v/xiAT9xvTVKI&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="https://www.youtube.com/v/xiAT9xvTVKI&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="385"></embed></object>
 
-По материалам <a href="http://consumerist.com/2007/03/top-10-worst-marketing-gaffes-flops-and-disasters.html">Consumrist.com</a>
+По материалам <a href="https://consumerist.com/2007/03/top-10-worst-marketing-gaffes-flops-and-disasters.html">Consumrist.com</a>
 

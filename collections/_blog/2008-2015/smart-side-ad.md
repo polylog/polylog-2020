@@ -12,5 +12,5 @@ date: 2014-05-21
 
 <img src="{{ site.assets }}/upload/smart_madrid_billboard_narrow_side.jpg" alt="" class="post__img" width="533" height="533">
 
-По материалам <a href="http://www.gutewerbung.net/smart-one-car-fits-billboard/">Gute Werbung</a> и <a href="http://www.mobility-trends.com/index.php/2014/05/the-narrow-side-of-a-billboard-turned-into-an-ad-space">Mobility trends</a>
+По материалам <a href="https://www.gutewerbung.net/smart-one-car-fits-billboard/">Gute Werbung</a> и <a href="https://www.mobility-trends.com/index.php/2014/05/the-narrow-side-of-a-billboard-turned-into-an-ad-space">Mobility trends</a>
 

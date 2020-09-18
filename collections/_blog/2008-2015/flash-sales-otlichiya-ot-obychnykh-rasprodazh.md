@@ -19,5 +19,5 @@ date: 2017-01-30
 <p>&bull; Сделайте поистине уникальное предложение на рынке</p>
 <p>&bull; Продвигайте свой флэш в информационном пространстве посредством поисковой оптимизации, SMM и других промо</p>
 <p>PR-агентство &laquo;Полилог&raquo; также имеет опыт в организации флэш-сейлов. С нашим кейсом вы можете ознакомиться&nbsp;<a href="/ru/projects/2016/leeco-otkrytie-pervogo-magazina-flash-sale-rossii" target="_blank" rel="noopener noreferrer">тут</a>.</p>
-<p>По материалам:&nbsp;<a href="http://shoptips.ru/topic/9318.html" target="_blank" rel="noopener noreferrer">Shop tips</a>,&nbsp;<a href="https://www.bigcommerce.com/ecommerce-answers/what-are-flash-sales/" target="_blank" rel="noopener noreferrer">Big commerce</a>,&nbsp;<a href="http://netonomy.net/2013/05/30/what-are-flash-sales-sites-and-how-do-they-work/" target="_blank" rel="noopener noreferrer">Netonomy</a></p>
+<p>По материалам:&nbsp;<a href="https://shoptips.ru/topic/9318.html" target="_blank" rel="noopener noreferrer">Shop tips</a>,&nbsp;<a href="https://www.bigcommerce.com/ecommerce-answers/what-are-flash-sales/" target="_blank" rel="noopener noreferrer">Big commerce</a>,&nbsp;<a href="https://netonomy.net/2013/05/30/what-are-flash-sales-sites-and-how-do-they-work/" target="_blank" rel="noopener noreferrer">Netonomy</a></p>
 

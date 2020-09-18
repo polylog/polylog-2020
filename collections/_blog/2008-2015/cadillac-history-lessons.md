@@ -22,5 +22,5 @@ date: 2015-02-21
 
 А какое слово принадлежит Кадиллаку? Мне в голову приходит "Escalade".
 
-По материалам <a href="http://adage.com/article/al-ries/student-history-cadillac-sets-repeat-mistakes/297169/">AdAge</a>
+По материалам <a href="https://adage.com/article/al-ries/student-history-cadillac-sets-repeat-mistakes/297169/">AdAge</a>
 

@@ -19,7 +19,7 @@ Go Outside‘s Repellent Radio - такое странное название у
 
 Согласно проведенным измерениям, программу слушали на 3 миллионах приемников.
 
-<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/4Ue-dAcwlIs?hl=ru_RU&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/4Ue-dAcwlIs?hl=ru_RU&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="420" height="315"><param name="movie" value="https://www.youtube.com/v/4Ue-dAcwlIs?hl=ru_RU&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/4Ue-dAcwlIs?hl=ru_RU&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-По материалам <a href="http://www.canneslions.com/inspiration/past_grands_prix_advert.cfm?sub_channel_id=316">Cannes Lions </a>
+По материалам <a href="https://www.canneslions.com/inspiration/past_grands_prix_advert.cfm?sub_channel_id=316">Cannes Lions </a>
 

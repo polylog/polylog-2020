@@ -42,5 +42,5 @@ date: 2008-09-05
 
 Кроме того, необходимо учитывать то, что на разных этапах распространения вируса поведение кривой роста описывается функцией с разными коэффициентами. Предложенные модели – усредненный вариант.
 
-По материалам <a href="http://www.emarketing-magazine.fr/propagation-epidemique-pyramidale-et-exponentielle/">Emarketing-Magazine.fr</a>
+По материалам <a href="https://www.emarketing-magazine.fr/propagation-epidemique-pyramidale-et-exponentielle/">Emarketing-Magazine.fr</a>
 

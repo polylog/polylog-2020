@@ -26,5 +26,5 @@ date: 2015-04-27
 
 <img src="{{ site.assets }}/upload/sorryclock2.jpg" alt="" class="post__img" width="580" height="226">
 
-По материалам <a href="http://adsoftheworld.com/media/dm/hoffmann_winther_sorry_we_didnt_show_up">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/dm/hoffmann_winther_sorry_we_didnt_show_up">Ads of the World</a>
 

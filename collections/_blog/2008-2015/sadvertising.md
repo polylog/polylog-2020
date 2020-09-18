@@ -30,5 +30,5 @@ date: 2015-01-11
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S-7dKSwzA8Q" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://www.fastcocreate.com/3029767/the-rise-of-sadvertising-why-brands-are-determined-to-make-you-cry#!">Fast Cocreate </a>
+По материалам <a href="https://www.fastcocreate.com/3029767/the-rise-of-sadvertising-why-brands-are-determined-to-make-you-cry#!">Fast Cocreate </a>
 

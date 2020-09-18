@@ -16,11 +16,11 @@ date: 2011-09-06
 
 Также, в Интернете была запущена игра, где фанаты получали указания о том, как найти каждую из страниц на улице.  Информация распространялась через facebook, Twitter, а также через интернет-радио проекта. Каждый день миллионы людей о всего мира собирались в сети, чтобы разгадать очередные загадки и найти новые страницы, с помощью сервиса поиска по улицам и дорогам Bing. На указанных местах на карте они находили фотографии размещенных там страниц. Таким образом, фанаты постепенно собирали страницы еще не вышедшей книги - в цифровом формате.
 
-<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/XNic4wf8AYg&rel=0&hl=en_US&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/XNic4wf8AYg&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"></embed></object>
+<object width="640" height="390"><param name="movie" value="https://www.youtube.com/v/XNic4wf8AYg&rel=0&hl=en_US&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="https://www.youtube.com/v/XNic4wf8AYg&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"></embed></object>
 
 Среднее время пребывания игрока в игре было более 11 минут. Количество фанатов Jay-Z на Facebook выросло на миллион,
 
 Когда вышла наконец книга в твердой обложке, это событие осветили все заинтересованные в тематике СМИ (более миллиона публикаций), многие звезды поп-культуры выразили свое мнение на этот счет. За один месяц количество посещений поисковой системы bing возросло на 11, 7%, что позволило сайту войти в десятку самых посещаемых сайтов мира.
 
-По материалам <a href="http://www.canneslions.com/">CannesLions</a>
+По материалам <a href="https://www.canneslions.com/">CannesLions</a>
 

@@ -18,5 +18,5 @@ date: 2010-10-18
 
 <img src="{{ site.assets }}/upload/mobile.jpg" alt="" class="post__img" width="470" height="311">
 
-По материалам <a href="http://johnbell.typepad.com/weblog/2010/10/6-trends-in-brand-planning-for-social-media-for-2011.html">JohnBell</a>
+По материалам <a href="https://johnbell.typepad.com/weblog/2010/10/6-trends-in-brand-planning-for-social-media-for-2011.html">JohnBell</a>
 

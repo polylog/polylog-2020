@@ -18,5 +18,5 @@ date: 2013-02-06
 
 10. Использование скучного языка. Помните  об опасности неуместного юмора и не забывайте изучать аудиторию до того, как начнете говорить - но говорить нейтральными словами только потому,  что это безопасно - путь к провалу. Вам нужно совместить логику и лингвистику, оставаться последовательным, не становясь скучным.
 
-По материалам <a href="http://www.publicspeakinginternational.com/blog/bid/155719/The-10-Biggest-Public-Speaking-Errors-and-How-to-Avoid-Them">Public Speaking International</a>
+По материалам <a href="https://www.publicspeakinginternational.com/blog/bid/155719/The-10-Biggest-Public-Speaking-Errors-and-How-to-Avoid-Them">Public Speaking International</a>
 

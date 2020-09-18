@@ -26,5 +26,5 @@ date: 2014-10-09
 
 <a href="/ru/pr-blog/al-ries-marketing-arithmetics">Читать первую часть статьи.</a>
 
-По материалам <a href="http://adage.com/article/al-ries/marketing-world-equals-fourths/295251/">AdAge</a>
+По материалам <a href="https://adage.com/article/al-ries/marketing-world-equals-fourths/295251/">AdAge</a>
 

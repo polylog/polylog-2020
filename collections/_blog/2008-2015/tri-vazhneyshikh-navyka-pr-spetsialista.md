@@ -8,9 +8,9 @@ date: 2009-01-26
 
 <h3>Стратегическое планирование</h3>
 <p>Во-первых, не бойтесь: не каждый может стать генеральным директором, но у каждого имеются способности к планированию на средних уровнях ответственности.</p>
-<p>Во-вторых, и это может показаться странным, начать следует с самооценки. Определите свои <a href="http://ru.wikipedia.org/wiki/SWOT" target="_blank" rel="noopener noreferrer">сильные и слабые стороны</a>, и тогда, получив задачу, вы будете хотя бы примерно представлять, каким способом сможете ее решить, а каким у вас не получится — только зря потратите силы и время.</p>
-<p>Составить о себе более-менее объективное представление можно с помощью различных тестов: например, <a href="http://spreadsheets.google.com/viewform?key=p8YGcxcvXMN9NNxgh9sKRWQ&amp;hl=en" target="_blank" rel="noopener noreferrer">Майерс-Бриггс</a>.</p>
-<img src="{{ site.assets }}/img/blog/09-01/26-01.jpg" alt="Стратегия" width="460" height="319" longdesc="http://www.flickr.com/photos/tuppaware/373952636/">
+<p>Во-вторых, и это может показаться странным, начать следует с самооценки. Определите свои <a href="https://ru.wikipedia.org/wiki/SWOT" target="_blank" rel="noopener noreferrer">сильные и слабые стороны</a>, и тогда, получив задачу, вы будете хотя бы примерно представлять, каким способом сможете ее решить, а каким у вас не получится — только зря потратите силы и время.</p>
+<p>Составить о себе более-менее объективное представление можно с помощью различных тестов: например, <a href="https://spreadsheets.google.com/viewform?key=p8YGcxcvXMN9NNxgh9sKRWQ&amp;hl=en" target="_blank" rel="noopener noreferrer">Майерс-Бриггс</a>.</p>
+<img src="{{ site.assets }}/img/blog/09-01/26-01.jpg" alt="Стратегия" width="460" height="319" longdesc="https://www.flickr.com/photos/tuppaware/373952636/">
 
 <p class="list-caption">Кроме самопознания для стратегического планирования понадобятся понимание социальной среды. Если до сих пор вы не можете сказать, что более-менее изучили свой коллектив, заказчиков и журналистов, постарайтесь составить представление о:</p>
 <ul>
@@ -20,7 +20,7 @@ date: 2009-01-26
 <li>Подчиненных</li>
 <li>Коллегах, с которыми находитесь на одной иерархической ступени</li>
 </ul>
-<p>Книжки <a href="http://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%B8%D0%BA_%D0%91%D0%B5%D1%80%D0%BD" target="_blank" rel="noopener noreferrer">Эрика Берна</a> и <a href="http://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BB_%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2_%D0%AE%D0%BD%D0%B3" target="_blank" rel="noopener noreferrer">Карла Густава Юнга</a>, подшивку журнала <a href="http://www.psychologies.ru/" target="_blank" rel="noopener noreferrer">PSYCHOLOGIES</a>, базы <a href="http://www.smi.ru/" target="_blank" rel="noopener noreferrer">СМИ.ru</a> и <a href="http://www.mediaatlas.ru/" target="_blank" rel="noopener noreferrer">Медиа Атласа</a> мы перепечатывать не будем — полистайте как-нибудь сами на досуге. Это поможет.</p>
+<p>Книжки <a href="https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%B8%D0%BA_%D0%91%D0%B5%D1%80%D0%BD" target="_blank" rel="noopener noreferrer">Эрика Берна</a> и <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BB_%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2_%D0%AE%D0%BD%D0%B3" target="_blank" rel="noopener noreferrer">Карла Густава Юнга</a>, подшивку журнала <a href="https://www.psychologies.ru/" target="_blank" rel="noopener noreferrer">PSYCHOLOGIES</a>, базы <a href="https://www.smi.ru/" target="_blank" rel="noopener noreferrer">СМИ.ru</a> и <a href="https://www.mediaatlas.ru/" target="_blank" rel="noopener noreferrer">Медиа Атласа</a> мы перепечатывать не будем — полистайте как-нибудь сами на досуге. Это поможет.</p>
 <p>В-третьих, вам следует тренировать самостоятельность мышления. Вы должны, с одной стороны, верить в свои силы, с другой, — быть готовыми к оргвыводам, следующим за ошибками.</p>
 <p>Собственно технику стратегического планирования мы рассматривали в первом и пока единственном (всё руки не доходят) <a href="/ru/pr-blog/tutorials">видеоприложении к сайту</a>.</p>
 <h3>Написание пресс-релизов </h3>
@@ -41,5 +41,5 @@ date: 2009-01-26
 <li>Что в нем наиболее точно соответствует тематике конкретного издания? (Это следует подчеркнуть в разговоре с сотрудником).</li>
 <li>Когда и как лучше всего пообщаться с ответственным сотрудником редакции?</li>
 </ul>
-<p>По материалам <a href="http://blogs.bnet.com/pr/?p=379" target="_blank" rel="noopener noreferrer">BNET</a></p>
+<p>По материалам <a href="https://blogs.bnet.com/pr/?p=379" target="_blank" rel="noopener noreferrer">BNET</a></p>
 

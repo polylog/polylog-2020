@@ -20,5 +20,5 @@ date: 2008-06-20
 
 Кроме того, выяснение истины заставило пользователей интернета изучить модели GPS-навигаторов и ознакомиться с сервисами DHL, что наверняка подняло продажи устройств и повысило узнаваемость бренда и осведомленность о его услугах.
 
-По материалам <a href="http://www.telegraph.co.uk/news/newstopics/howaboutthat/2037089/Biggest-drawing-in-the-world,-or-new-art-hoax.html">The Telegraph</a>
+По материалам <a href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/2037089/Biggest-drawing-in-the-world,-or-new-art-hoax.html">The Telegraph</a>
 

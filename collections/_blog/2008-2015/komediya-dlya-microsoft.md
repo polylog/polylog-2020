@@ -20,7 +20,7 @@ MS Dynamics CRM - это программа разработанная для у
 
 Бернард отвечает "да", и оба исполняют короткий победный танец.
 
-<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/miBCgBJT_qE&hl=en_US&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/miBCgBJT_qE&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"></embed></object>
+<object width="640" height="390"><param name="movie" value="https://www.youtube.com/v/miBCgBJT_qE&hl=en_US&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="https://www.youtube.com/v/miBCgBJT_qE&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"></embed></object>
 
-По материалам <a href="http://www.cloudave.com/8646/the-master-of-guerilla-marketing-turns-microsofts-prank-around-dreamforce-salesforce-benioff/">ClouDave</a>
+По материалам <a href="https://www.cloudave.com/8646/the-master-of-guerilla-marketing-turns-microsofts-prank-around-dreamforce-salesforce-benioff/">ClouDave</a>
 

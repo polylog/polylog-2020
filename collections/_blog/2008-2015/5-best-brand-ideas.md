@@ -26,5 +26,5 @@ date: 2015-03-23
 
 Кампания остановлена 22 марта.
 
-По материалам <a href="http://adage.com/article/top-5-most-creative-ads/creativity-top-5-brand-ideas-week/297715/">AdAge</a>
+По материалам <a href="https://adage.com/article/top-5-most-creative-ads/creativity-top-5-brand-ideas-week/297715/">AdAge</a>
 

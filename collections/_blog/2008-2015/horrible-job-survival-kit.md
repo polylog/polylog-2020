@@ -40,5 +40,5 @@ date: 2015-01-15
 
 Меньше чем за неделю, электронную книгу скачали более 7 тысяч раз. Видео "Как я разворачиваю свой набор для выживания на работе"на юТьюбе посмотрели 11 тысяч раз в первые 24 часа. На сайт клиента зашли 45 тысяч раз  только за первую неделю.
 
-По материалам <a href="http://adsoftheworld.com/media/dm/posloviinfostudcom_horrible_job_survival_kit?size=original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/dm/posloviinfostudcom_horrible_job_survival_kit?size=original">Ads of the World</a>
 

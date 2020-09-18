@@ -12,7 +12,7 @@ date: 2011-12-06
 
 На видео - пробная работа подобного рода, где запечатлен митинг в Польше. Для съемок использовался вертолет и мини-камера.
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/9vOor1xmVDs?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/9vOor1xmVDs?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/9vOor1xmVDs?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/9vOor1xmVDs?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-По материалам <a href="http://dronejournalism.tumblr.com/post/13636595943/what-is-drone-journalism">Drone Journalism</a>
+По материалам <a href="https://dronejournalism.tumblr.com/post/13636595943/what-is-drone-journalism">Drone Journalism</a>
 

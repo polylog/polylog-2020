@@ -9,25 +9,25 @@ date: 2016-09-30
 <p>Ознакомиться с зарубежными аналогами и узнать подробнее о Samsung Pay можно по ссылкам:</p>
 <p><a href="https://getfastbar.com/" target="_blank" rel="noopener noreferrer">FastBar</a></p>
 <p><a href="https://www.intellitix.com/" target="_blank" rel="noopener noreferrer">Intellitix</a></p>
-<p><a href="http://www.payintech.com/mybee-box/" target="_blank" rel="noopener noreferrer">MyBee Event</a></p>
-<p><a href="http://www.samsung.com/ru/apps/mobile/samsungpay/" target="_blank" rel="noopener noreferrer">Samsung Pay</a></p>
+<p><a href="https://www.payintech.com/mybee-box/" target="_blank" rel="noopener noreferrer">MyBee Event</a></p>
+<p><a href="https://www.samsung.com/ru/apps/mobile/samsungpay/" target="_blank" rel="noopener noreferrer">Samsung Pay</a></p>
 <p><b>2. Безопасность - превыше всего!</b></p>
 <p>Обеспечение безопасности гостей на мероприятии - одна из важнейших задач ивент-менеджера. Широкомасштабные мероприятия невозможны без привлечения разветвленной сети волонтеров, работу которых необходимо четко координировать, путем выстраивания эффективных способов ведения коммуникации. Организатор при этом должен чутко и оперативно реагировать на все происходящее и своевременно предотвращать любую угрозу.</p>
 <p>Организовать оперативный мониторинг событий, а также выстроить эффективную коммуникацию с исполнителями Вам помогут:</p>
-<p><a href="http://triberapp.co/" target="_blank" rel="noopener noreferrer">TribberAppr</a></p>
+<p><a href="https://triberapp.co/" target="_blank" rel="noopener noreferrer">TribberAppr</a></p>
 <p><a href="https://www.initlive.com/" target="_blank" rel="noopener noreferrer">InitLive</a></p>
 <p><a href="https://www.lineapp.pro/" target="_blank" rel="noopener noreferrer">LineApp</a></p>
 <p><b>3.Виртуальные сувениры</b></p>
 <p>Вручение подарков и сувениров - важная часть Вашего мероприятия. Удачный выбор сувениров позволит Вам приятно удивить не только гостей, но и спонсоров. В этом плане отличной альтернативой скучным наборам из блокнотов и ручек станет виртуальный подарок, который каждый из участников мероприятия найдет в своем личном кабинете (к тому же такой вариант благоприятен для окружающей среды, чьи ресурсы, увы, ограничены). Конкретно же такие подарки могут быть представлены в качестве всевозможных виртуальных купонов и скидок.</p>
 <p>Кибер-понедельник станет для Ваших гостей таким же важным событием, как и всем известная Черная пятница, вместе с:</p>
-<p><a href="http://www.virtualeventbags.com/" target="_blank" rel="noopener noreferrer">VirtualEventBags</a></p>
+<p><a href="https://www.virtualeventbags.com/" target="_blank" rel="noopener noreferrer">VirtualEventBags</a></p>
 <p><a href="https://www.eventbaxx.com/" target="_blank" rel="noopener noreferrer">Eventbaxx</a></p>
 <p><a href="https://www.everthere.co/" target="_blank" rel="noopener noreferrer">EverThere</a></p>
 <p><b>4. Маяки-биконы</b></p>
 За последние несколько лет огромное внимание ивент-индустрии обратили на себя биконы (от англ. beacon) - небольшие маячки, которые в режиме онлайн связываются с телефонами клиентов в радиусе 50 метров. Однако, обычные биконы способны распознать мобильное устройство, только если у последнего включен bluetooth, что серьезно осложняло дело. Сегодня в качестве альтернативы стандартным биконам появились аудио-биконы, которые транслируют звуковые волны, не распознаваемые человеческим ухом, и таким образом устанавливают связь с мобильным устройством. Фактически это означает, что теперь Вы можете высылать уведомления пользователям мобильных устройств, находящихся неподалеку от бикона, даже не имея доступа к wi-fi и bluetooth.</p>
 <p>Узнать о маяках больше Вы можете, перейдя по ссылкам:</p>
-<p><a href="http://lisnr.com/" target="_blank" rel="noopener noreferrer">Lisnr</a></p>
+<p><a href="https://lisnr.com/" target="_blank" rel="noopener noreferrer">Lisnr</a></p>
 <p><a href="https://www.silverpush.co/#!/" target="_blank" rel="noopener noreferrer">SilverPush</a></p>
-<p><a href="http://www.signal360.com/" target="_blank" rel="noopener noreferrer">Signal360</a></p>
-<p><a href="http://beaconka.ru/#retail" target="_blank" rel="noopener noreferrer">Beaconka</a></p>
-По материалам сайта <a href="http://www.eventmanagerblog.com/" target="_blank" rel="noopener noreferrer">Event Manager Blog</a>
+<p><a href="https://www.signal360.com/" target="_blank" rel="noopener noreferrer">Signal360</a></p>
+<p><a href="https://beaconka.ru/#retail" target="_blank" rel="noopener noreferrer">Beaconka</a></p>
+По материалам сайта <a href="https://www.eventmanagerblog.com/" target="_blank" rel="noopener noreferrer">Event Manager Blog</a>

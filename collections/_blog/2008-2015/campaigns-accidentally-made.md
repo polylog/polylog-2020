@@ -40,5 +40,5 @@ date: 2013-06-29
 
 <a href="/ru/pr-blog/campaigns-accidentally-made2"> Вторая часть материала </a>
 
-По материалам <a href="http://digest.dx3canada.com/2012/09/05/going-viral-the-good-the-bad-and-the-ugly/">Digest.dx3Canada</a>
+По материалам <a href="https://digest.dx3canada.com/2012/09/05/going-viral-the-good-the-bad-and-the-ugly/">Digest.dx3Canada</a>
 

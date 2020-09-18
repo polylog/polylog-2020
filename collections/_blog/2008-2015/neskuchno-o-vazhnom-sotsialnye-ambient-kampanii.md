@@ -27,5 +27,5 @@ date: 2009-06-29
  </li>
 </ul>
 
-По материалам <a href="http://www.adsoftheworld.com">Ads of theWorld</a>
+По материалам <a href="https://www.adsoftheworld.com">Ads of theWorld</a>
 

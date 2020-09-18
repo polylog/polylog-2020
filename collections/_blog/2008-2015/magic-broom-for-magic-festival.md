@@ -12,5 +12,5 @@ date: 2014-11-13
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZUYCSNwBIhs" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/le-festival-de-magie-de-quebec-creates-magical-billboard-youll-ever-see/">Creative Guerrilla Marketing </a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/le-festival-de-magie-de-quebec-creates-magical-billboard-youll-ever-see/">Creative Guerrilla Marketing </a>
 

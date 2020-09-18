@@ -42,5 +42,5 @@ date: 2013-09-03
 
 Так вы завоевываете доверие и вступаете в диалог.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/social-media-marketing/6-essential-steps-to-become-a-better-social-media-marketer/">Creative Guerrilla Marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/social-media-marketing/6-essential-steps-to-become-a-better-social-media-marketer/">Creative Guerrilla Marketing</a>
 

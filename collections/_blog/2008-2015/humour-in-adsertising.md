@@ -36,5 +36,5 @@ PhotoSmart  - и получился идеализированный «прил�
 
 Оксфордский Университет
 
-По материалам <a href="http://likeafilmstar.com/the-most-common-types-of-humour-used-in-advertising/">Like a film star</a>
+По материалам <a href="https://likeafilmstar.com/the-most-common-types-of-humour-used-in-advertising/">Like a film star</a>
 

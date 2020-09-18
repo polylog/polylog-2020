@@ -14,7 +14,7 @@ date: 2011-07-08
 
 <strong>Пусть пользователь влияет на события </strong>
 
-<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/G4yApx5zyCk?version=3&amp;hl=ru_RU&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/G4yApx5zyCk?version=3&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" width="640" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="640" height="390"><param name="movie" value="https://www.youtube.com/v/G4yApx5zyCk?version=3&amp;hl=ru_RU&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/G4yApx5zyCk?version=3&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" width="640" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 Недавний пример - приложение Tron для iPad. Сначала вы видите баннер, а кликая по нему, выбираете что делать дальше: изучить персонажей, посмотреть эпизоды за сценой, узнать как делался саундрек и так далее. Можно также загрузить скринсейвер, узнать расписание показов фильма и многое другое.
 
@@ -48,7 +48,7 @@ date: 2011-07-08
 
 О перспективах рекламных приложений говорят хотя бы такие цифры: рекламное приложение для супа Campbell оказалось в пять раз более эффективным, чем телереклама (параметр оценки - узнаваемость рекламы). Из 6,1 миллиона просмотревших рекламу, 1% провел в приложении примерно минуту. Цифра небольшая, но в любом случае надо обращать внимание на этот новый рынок.
 
-<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/yEKoJfLa9vQ?version=3&amp;hl=ru_RU&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/yEKoJfLa9vQ?version=3&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="480" height="390"><param name="movie" value="https://www.youtube.com/v/yEKoJfLa9vQ?version=3&amp;hl=ru_RU&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/yEKoJfLa9vQ?version=3&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-По материалам <a href="http://mashable.com/2011/03/11/mobile-app-advertising/">Mashable.com</a>
+По материалам <a href="https://mashable.com/2011/03/11/mobile-app-advertising/">Mashable.com</a>
 

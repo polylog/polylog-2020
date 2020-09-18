@@ -24,5 +24,5 @@ date: 2015-12-18
 
 Олимпиада и Еврокубок 2016 вызывают много дискуссий в среде специалистов. С одной стороны, такими  возможностями необходимо пользоваться, с другой - именно с точки зрения партизанского маркетинга такие большие события становятся все более и более сложными. Кк минимум из-за возросших требований безопасности. Риск теперь перевешивает возможную выгоду.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/top-10-experiential-marketing-trends-to-expect-in-2016/">Creative Guerrilla Marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/top-10-experiential-marketing-trends-to-expect-in-2016/">Creative Guerrilla Marketing</a>
 

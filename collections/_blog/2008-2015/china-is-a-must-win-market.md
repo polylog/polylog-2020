@@ -30,5 +30,5 @@ Best Buy стоило бы не воспроизводить вслепую ам
 
 Шон Рейн – основатель и управляющий директор  группы маркетинговых исследований  Китая (www.cmrconsulting.com.cn), фирмы стратегической маркетинговой разведки в Шанхае. Также Шон – автор книги "The End of Cheap China: Economic and Cultural Trends that will Disrupt the World"
 
-По материалам <a href="http://www.moneycontrol.com/news/features/rein-why-global-brands-failchina_652384.html">MoneyControl</a>
+По материалам <a href="https://www.moneycontrol.com/news/features/rein-why-global-brands-failchina_652384.html">MoneyControl</a>
 

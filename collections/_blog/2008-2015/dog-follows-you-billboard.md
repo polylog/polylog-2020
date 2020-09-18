@@ -16,5 +16,5 @@ date: 2015-12-02
 
 По результатам кампании, количество посетителей на сайте приюта возросло на 33%, обращений в приют было в 10 раз больше, чем имеющихся там собак.
 
-По материалам <a href="http://www.fastcocreate.com/3045876/an-adorable-homeless-dog-follows-people-around-via-a-new-interactive-billboard">Fast CoCreate<a>
+По материалам <a href="https://www.fastcocreate.com/3045876/an-adorable-homeless-dog-follows-people-around-via-a-new-interactive-billboard">Fast CoCreate<a>
 

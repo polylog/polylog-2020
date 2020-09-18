@@ -12,5 +12,5 @@ date: 2012-02-11
 
 <img src="{{ site.assets }}/upload/mini_fan_the_flame.jpg" alt="" class="post__img" width="580" height="435">
 
-По материалам  <a href="http://www.adsoftheworld.com">Ads of the World</a>
+По материалам  <a href="https://www.adsoftheworld.com">Ads of the World</a>
 

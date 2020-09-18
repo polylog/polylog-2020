@@ -9,5 +9,5 @@ date: 2008-11-25
 <p><img src="{{ site.assets }}/img/blog/08-11/25-03.jpg" alt="PSP" width="470" height="377"></p>
 <p><img src="{{ site.assets }}/img/blog/08-11/25-04.jpg" alt="PSP" width="470" height="377"></p>
 <p><img src="{{ site.assets }}/img/blog/08-11/25-05.jpg" alt="PSP" width="470" height="377"></p>
-<p>По материалам <a href="http://www.fubiz.net/blog/index.php?2008/11/18/2409-playstation-psp-fake-boards" target="_blank" rel="noopener noreferrer">Fubiz</a></p>
+<p>По материалам <a href="https://www.fubiz.net/blog/index.php?2008/11/18/2409-playstation-psp-fake-boards" target="_blank" rel="noopener noreferrer">Fubiz</a></p>
 

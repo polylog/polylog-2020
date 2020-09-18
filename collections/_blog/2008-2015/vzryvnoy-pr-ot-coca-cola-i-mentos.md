@@ -10,7 +10,7 @@ date: 2008-06-06
 
 Это событие было занесено в Книгу Рекордов Гиннесса, как "Наибольшее количество фонтанов из Кока-Колы и Ментоса".
 
-<object height="344" width="425"><param name="movie" value="http://www.youtube.com/v/elitpONftcQ&amp;hl=en"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/HLfXCaaqpFc&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" movie="http://www.youtube.com/v/elitpONftcQ&amp;hl=en" height="344" width="425"></embed></object>
+<object height="344" width="425"><param name="movie" value="https://www.youtube.com/v/elitpONftcQ&amp;hl=en"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/HLfXCaaqpFc&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" movie="https://www.youtube.com/v/elitpONftcQ&amp;hl=en" height="344" width="425"></embed></object>
 
 Отличный пример того, как побочный эффект от продукта может поработать на поднятие продаж.
 

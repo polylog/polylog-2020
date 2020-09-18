@@ -36,5 +36,5 @@ date: 2012-07-22
 
 .
 
-По материалам <a href="http://www.rohitbhargava.com/2012/06/7-signs-you-may-have-an-unhealthy-relationship-with-social-media.html">Rohitbhargava</a>
+По материалам <a href="https://www.rohitbhargava.com/2012/06/7-signs-you-may-have-an-unhealthy-relationship-with-social-media.html">Rohitbhargava</a>
 

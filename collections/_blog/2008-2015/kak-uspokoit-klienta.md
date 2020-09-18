@@ -22,5 +22,5 @@ date: 2009-04-13
 
 Агентство, разработавшее этот план - Tierney Communications, Филадельфия.
 
-По материалам <a href="http://www.nytimes.com/2008/12/15/business/media/15adcol.html?_r=1&amp;ref=business">New York Times </a>
+По материалам <a href="https://www.nytimes.com/2008/12/15/business/media/15adcol.html?_r=1&amp;ref=business">New York Times </a>
 

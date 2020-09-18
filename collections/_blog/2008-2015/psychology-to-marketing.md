@@ -30,5 +30,5 @@ date: 2014-04-29
 
 Игры являются важной активностью для человека, и их давно изучает психология. Для маркетинга важность игр в том, что они мотивируют на действия и приносят удовольствие.
 
-По материалам <a href="http://www.linkedin.com/today/post/article/20140426210859-49439155-five-gifts-psychology-gave-to-marketing">LinkedIn</a>
+По материалам <a href="https://www.linkedin.com/today/post/article/20140426210859-49439155-five.gifts-psychology-gave-to-marketing">LinkedIn</a>
 

@@ -10,7 +10,7 @@ date: 2012-05-08
 
 Во время покупки одежды многие, особенно женщины, чувствуют себя неуверенно, им нужна оценка со стороны. Они спрашивают подруг или приятелей - "Как мне это? а это?". Теперь ответ будет прямо перед ними.
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/K4qdNb6FvGY?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/K4qdNb6FvGY?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/K4qdNb6FvGY?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/K4qdNb6FvGY?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-По материалам <a href="http://singularityhub.com/2012/05/13/retailer-uses-facebook-like-count-on-clothes-hooks-to-crowdsource-fashion-advice/"> Singularity Hub</a>
+По материалам <a href="https://singularityhub.com/2012/05/13/retailer-uses-facebook-like-count-on-clothes-hooks-to-crowdsource-fashion-advice/"> Singularity Hub</a>
 

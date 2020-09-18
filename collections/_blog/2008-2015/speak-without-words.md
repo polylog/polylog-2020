@@ -24,5 +24,5 @@ date: 2012-05-23
 
 На выставках-ярмарках у вас есть всего лишь несколько секунд чтобы привлечь потенциального клиента, и также несколько секунд чтобы закрепить это впечатление. И это - время до того .как вы начали беседу. Первое впечатление - это оформление вашего киоска, второе - язык тела ваших представителей.
 
-По материалам <a href="http://displaysanddesigns.wordpress.com/2012/05/23/speaking-at-a-trade-show-without-saying-a-word-the-power-of-body-language/"> Displays and Designs</a>
+По материалам <a href="https://displaysanddesigns.wordpress.com/2012/05/23/speaking-at-a-trade-show-without-saying-a-word-the-power-of-body-language/"> Displays and Designs</a>
 

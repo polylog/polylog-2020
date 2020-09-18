@@ -40,5 +40,5 @@ Patty:   Нужно найти способ окупить инвестиции 
 
 Anne:   Сейчас продвигаться в карьере очень тяжело, но нет ничего невозможного.  Концентрируйтесь на веселом, на “fun”.  Но будьте готовы говорить с заказчиком в терминах ROI. Развивайте свою сеть контактов, и постоянно их «прощупывайте» под разными предлогами. Если узнаете о каком-то мероприятии, где вы можете познакомиться с интересными вам менеджерами, участвуйте на добровольных началах.
 
-По материалам <a href="http://www.eventcoup.com/event-planning-careers-how-to-become-an-event?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+EventManagementBlog+(Event+Coup)">Event Coup</a>
+По материалам <a href="https://www.eventcoup.com/event-planning-careers-how-to-become-an-event?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+EventManagementBlog+(Event+Coup)">Event Coup</a>
 

@@ -20,7 +20,7 @@ date: 2013-03-12
 
 Изначально информационная среда контролировалась достаточно жестко, но сейчас Интернет и социальные семи представляют себе замечательную возможность энтропии. И конечно, это немного тревожно для маркетологов, но это в любом случае происходит. Поэтому нужно иногда немного отпустить контроль и позволить информации распространяться хаотично и непредсказуемо.
 
-<iframe src="http://embed.ted.com/talks/lang/ru/dan_cobley_what_physics_taught_me_about_marketing.html" width="560" height="315" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://embed.ted.com/talks/lang/ru/dan_cobley_what_physics_taught_me_about_marketing.html" width="560" height="315" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-По материалам <a href="http://www.ted.com/talks/dan_cobley_what_physics_taught_me_about_marketing.html"> TED.com </a>
+По материалам <a href="https://www.ted.com/talks/dan_cobley_what_physics_taught_me_about_marketing.html"> TED.com </a>
 

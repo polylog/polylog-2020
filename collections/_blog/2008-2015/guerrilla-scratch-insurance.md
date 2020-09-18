@@ -22,5 +22,5 @@ VrijVerzekerd - голландская страховая компания. А �
 
  - Изначально напечатанные стикеры разошлись за два дня, через читателей блогов, которые хотели разыграть знакомых.
 
-По материалам <a href="http://novocortex.com/work/guerrilla-marketing-campaign-scratches-on-your-car/">Novocortex</a>
+По материалам <a href="https://novocortex.com/work/guerrilla-marketing-campaign-scratches-on-your-car/">Novocortex</a>
 

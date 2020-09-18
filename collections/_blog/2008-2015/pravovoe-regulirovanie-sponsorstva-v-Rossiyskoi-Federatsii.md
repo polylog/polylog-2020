@@ -13,5 +13,5 @@ date: 2017-03-03
 <p>Интересно, что в законе отсутствует указание на возмездный характер оказания спонсорских услуг. Согласно одному из постановлений ФАС спонсорские выплаты направлены на некоммерческое финансирование. Таким образом, спонсорство может не предполагать встречных требований.</p>
 <p>По материалам:</p>
 <p><a href="https://interactive-plus.ru/ru/article/16503/discussion_platform" target="_blank" rel="noopener noreferrer">Interactive Plus</a></p>
-<p><a href="http://librisum.com/profsport/alfiz23.htm" target="_blank" rel="noopener noreferrer">Librisum</a></p>
+<p><a href="https://librisum.com/profsport/alfiz23.htm" target="_blank" rel="noopener noreferrer">Librisum</a></p>
 

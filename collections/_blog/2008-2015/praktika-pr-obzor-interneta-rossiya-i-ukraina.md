@@ -10,15 +10,15 @@ date: 2008-10-30
 
 <ul><li>
 
-<p class="list-caption">Блог «<a href="http://community.livejournal.com/inside_pr/291261.html" target="_blank" rel="noopener noreferrer">Внутренние коммуникации</a>» выносит на повестку дня кадровые вопросы финансового кризиса:</p>
+<p class="list-caption">Блог «<a href="https://community.livejournal.com/inside_pr/291261.html" target="_blank" rel="noopener noreferrer">Внутренние коммуникации</a>» выносит на повестку дня кадровые вопросы финансового кризиса:</p>
 <ul>
 <li>как сообщить сотрудникам о сокращении штатов</li>
 <li>как вдохновить коллектив работать интенсивнее</li>
 <li>и т. д. и т. п.</li>
 </ul>
 </li>
-<li>То, что происходит на биржевых площадках, впрочем, совершенно не беспокоит обладателей приставки Gameboy — <a href="http://blog.peklama.in/?p=417" target="_blank" rel="noopener noreferrer">забавная рекламная серия Nintendo</a>.</li>
-<li>Алексей Колик приводит аргументы в пользу <a href="http://b2blogger.com/blog/?p=411" target="_blank" rel="noopener noreferrer">проведения фокус-групп в маркетинговых исследованиях</a> сектора B2B</li>
-<li>Сотрудники киевского агентства Nords PR Ukraine обратили внимание на простую, но <a href="http://nordspr.blogspot.com/2008/10/nords-pr-gloria-jeans.html" target="_blank" rel="noopener noreferrer">эффективную маркетинговую стратегию</a> соседнего магазина  Gloria Jeans. Лояльность покупателей воспитывается с помощью вазы, визиток и кофе.</li>
+<li>То, что происходит на биржевых площадках, впрочем, совершенно не беспокоит обладателей приставки Gameboy — <a href="https://blog.peklama.in/?p=417" target="_blank" rel="noopener noreferrer">забавная рекламная серия Nintendo</a>.</li>
+<li>Алексей Колик приводит аргументы в пользу <a href="https://b2blogger.com/blog/?p=411" target="_blank" rel="noopener noreferrer">проведения фокус-групп в маркетинговых исследованиях</a> сектора B2B</li>
+<li>Сотрудники киевского агентства Nords PR Ukraine обратили внимание на простую, но <a href="https://nordspr.blogspot.com/2008/10/nords-pr-gloria-jeans.html" target="_blank" rel="noopener noreferrer">эффективную маркетинговую стратегию</a> соседнего магазина  Gloria Jeans. Лояльность покупателей воспитывается с помощью вазы, визиток и кофе.</li>
 </ul>
 

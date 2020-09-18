@@ -42,5 +42,5 @@ date: 2009-05-07
 
 •	Снимите бэджик со спикера когда он выходит на сцену.
 
-по материалам <a href="http://www.bonjourevents.com/thefreshtips/2008/10/13/helping-the-speaker-feel-comfortable.html">bonjour events </a>
+по материалам <a href="https://www.bonjourevents.com/thefreshtips/2008/10/13/helping-the-speaker-feel-comfortable.html">bonjour events </a>
 

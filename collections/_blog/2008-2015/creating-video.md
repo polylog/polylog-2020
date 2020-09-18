@@ -8,7 +8,7 @@ date: 2012-10-15
 
 С развитием компьютерной анимации, создание видео  становится все более простым и все менее затратным.
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/JslKQdujlvU?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/JslKQdujlvU?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/JslKQdujlvU?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/JslKQdujlvU?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 Вот например такое видео довольно просто создать, если следовать пяти простым советам.
 
@@ -52,5 +52,5 @@ date: 2012-10-15
 
 Собирайте идеи, собирайте реплики, вопросы, но пусть непосредственное участие в проекте принимают как можно меньше людей, потому что им придется решать множество вопросов - какой длины должен быть ролик, какие именно сцены вырезать а какие оставить,  итак далее.
 
-По материалам <a href="http://www.prdaily.com/Main/Articles/5_tips_for_making_a_Pixarquality_video_12936.aspx">PR daily</a>
+По материалам <a href="https://www.prdaily.com/Main/Articles/5_tips_for_making_a_Pixarquality_video_12936.aspx">PR daily</a>
 

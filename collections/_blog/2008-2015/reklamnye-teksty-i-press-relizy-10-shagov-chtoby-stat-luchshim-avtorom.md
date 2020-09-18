@@ -18,5 +18,5 @@ date: 2008-11-21
 <li>Продолжайте пис&aacute;ть.</li>
 </ul>
 
-<p><a href="http://www.copyblogger.com/become-a-better-writer/" target="_blank" rel="noopener noreferrer">Copyblogger</a></p>
+<p><a href="https://www.copyblogger.com/become-a-better-writer/" target="_blank" rel="noopener noreferrer">Copyblogger</a></p>
 

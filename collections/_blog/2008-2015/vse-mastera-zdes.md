@@ -14,5 +14,5 @@ date: 2011-03-15
 
 Мораль проста: парикмахер, сантехник, мясник - самые лучшие агенты распространения информации.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/">Ads of the world</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/">Ads of the world</a>
 

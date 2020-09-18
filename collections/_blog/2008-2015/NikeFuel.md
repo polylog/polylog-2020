@@ -22,9 +22,9 @@ date: 2013-01-27
 
 Каждый при этом мог поставить себе на день задачу и отслеживать ее выполнение по браслету, на котором загорались огоньки. Если цель достигнута, в вашу цель на сайте исполняется праздничная анимация - так как браслет синхронизирован с приложением на телефоне, и отправляет на сайт ваши данные.
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/dG0vLFFtZDs?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/dG0vLFFtZDs?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/dG0vLFFtZDs?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/dG0vLFFtZDs?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 Идея Nike в том, что "если у вас  есть тело - вы спортсмен". Потому что для того, чтобы заработать Nike Fuel, можно делать что угодно - бегать, ходить, танцевать, играть в баскетбол. Все, что вы делаете, считается!
 
-По материалам <a href="http://www.canneslions.com/inspiration/past_grands_prix_advert.cfm?sub_channel_id=317">Cannes Lions</a>
+По материалам <a href="https://www.canneslions.com/inspiration/past_grands_prix_advert.cfm?sub_channel_id=317">Cannes Lions</a>
 

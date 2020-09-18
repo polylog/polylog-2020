@@ -30,5 +30,5 @@ date: 2015-12-22
 
 Но даже лучшим брендам есть, над чем работать.
 
-По материалам <a href="http://www.theguardian.com/advertising/2015/dec/10/digital-media-trends-how-to-build-an-influential-brand">the Guardian</a>
+По материалам <a href="https://www.theguardian.com/advertising/2015/dec/10/digital-media-trends-how-to-build-an-influential-brand">the Guardian</a>
 

@@ -16,5 +16,5 @@ date: 2012-04-22
 
 Удивительно, но низкая активность членов парламента распространяется даже на такой важный инструмент общения, как электронная почта и обычная почта. В ходе контактной кампании в Парламент послали 332 обычных писем и 663 e-mail, и выяснилось, что 21 официальный адрес был указан неправильно, 61 и-мейл не был доставлен. И всего трое ответили на полученные письма.
 
-По материалам <a href="http://www.adhugger.net/2012/03/26/infographic-over-half-of-romanian-parliament-members-arent-active-online/">Ad Hugger</a>
+По материалам <a href="https://www.adhugger.net/2012/03/26/infographic-over-half-of-romanian-parliament-members-arent-active-online/">Ad Hugger</a>
 

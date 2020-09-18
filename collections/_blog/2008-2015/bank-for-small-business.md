@@ -16,5 +16,5 @@ FirstBank, расположенный в Денвере, всерьез заня
 
 В создании кампании принимали участие агентства «TDA Advertising» и «Design out of Boulder».
 
-<a href="http://thefinancialbrand.com/6077/firstbank-small-business-marketing/">По материалам сайта The Financial Brand</a>
+<a href="https://thefinancialbrand.com/6077/firstbank-small-business-marketing/">По материалам сайта The Financial Brand</a>
 

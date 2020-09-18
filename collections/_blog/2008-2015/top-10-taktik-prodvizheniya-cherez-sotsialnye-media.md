@@ -23,5 +23,5 @@ date: 2008-07-14
 
 Обязательно <strong>делитесь чем-то полезным</strong>: информацией, полезными ссылками, файлами.</li></ol>
 
-По материалам <a href="http://robashwell20.wordpress.com/2008/07/13/top-10-social-media-pr-tactics/">Robaswell20.Wordpress</a>
+По материалам <a href="https://robashwell20.wordpress.com/2008/07/13/top-10-social-media-pr-tactics/">Robaswell20.Wordpress</a>
 

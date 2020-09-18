@@ -30,5 +30,5 @@ date: 2010-10-01
 
 Кроме логотипов, красный активно используется, например, в объявлениях об акциях и распродажах.
 
-По материалам <a href="http://www.printradar.com/2009/12/03/color-theories-in-advertising-design-1-red-color/">Print Radar</a>
+По материалам <a href="https://www.printradar.com/2009/12/03/color-theories-in-advertising-design-1-red-color/">Print Radar</a>
 

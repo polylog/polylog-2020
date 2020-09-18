@@ -24,5 +24,5 @@ Archie Lee, агентство ответственное за рекламу Th
 
 <img src="{{ site.assets }}/upload/cokelore_santa_1951.jpg" alt="" class="post__img" width="470" height="570">
 
-<a href="http://www.stuttgartdailyleader.com/homepage/x664191129/The-story-of-Santa-Claus">Stuttgart Daily </a>
+<a href="https://www.stuttgartdailyleader.com/homepage/x664191129/The-story-of-Santa-Claus">Stuttgart Daily </a>
 

@@ -24,5 +24,5 @@ Snap Interactive разрабатывает приложения для Facebook
 
 Почти все пространство для своих данных Facebook арендует у нескольких провайдеров, один из которых -  Digital Realty Trust. Социальная сеть тратит примерно 30 миллионов долларов в год на оплату услуг  DLR. Другие клиенты DRT -  Google, Microsoft и Yahoo.
 
-По материалам <a href="http://www.forbes.com/sites/thestreet/2012/02/06/4-companies-riding-facebooks-wave/2/">Forbes.com</a>
+По материалам <a href="https://www.forbes.com/sites/thestreet/2012/02/06/4-companies-riding-facebooks-wave/2/">Forbes.com</a>
 

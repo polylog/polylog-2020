@@ -14,5 +14,5 @@ date: 2012-12-09
 
 Самое интересное, что аналитические инструменты нужны не только фирмам, но и самим юзерам. Современные пользователи достаточно грамотны в техническом плане, и , что не менее важно. интересуются технологиями, поэтому аналитика "мобильного поведения" им также интересна.
 
-По материалам <a href="http://www.information-management.com/blogs/mobility-Business-Intelligence-big-stick-10023646-1.html"> Information Management.com </a>
+По материалам <a href="https://www.information-management.com/blogs/mobility-Business-Intelligence-big-stick-10023646-1.html"> Information Management.com </a>
 

@@ -30,5 +30,5 @@ date: 2012-03-11
 
 Партизанские кампании могут быть недорогими, но это не значит, что они будут вообще окупаемыми. Эта проблема тесно связана с проблемой измеряемости результатов: если вы вкладываете деньги и в традиционные кампании, и в партизанские, то очень сложно решить, какие именно деньги принесли вам большую отдачу.
 
-По материалам <a href="http://www.startupnation.com/business-blogs/index.php/2012/02/25/the-downside-of-guerrilla-marketing-four-things-you-need-to-know/">StartupNation</a>
+По материалам <a href="https://www.startupnation.com/business-blogs/index.php/2012/02/25/the-downside-of-guerrilla-marketing-four-things-you-need-to-know/">StartupNation</a>
 

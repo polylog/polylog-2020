@@ -7,7 +7,7 @@ date: 2008-08-14
 ---
 
 станет иной.</p>
-<p>Итак, вот что, <a href="http://johnbell.typepad.com/weblog/2008/07/the-11-skills-o.html" target="_blank" rel="noopener noreferrer">по мнению Джона Белла из Ogilvy PR</a>, должен знать и уметь пиарщик будущего (на наш взгляд, требования уже современные).</p>
+<p>Итак, вот что, <a href="https://johnbell.typepad.com/weblog/2008/07/the-11-skills-o.html" target="_blank" rel="noopener noreferrer">по мнению Джона Белла из Ogilvy PR</a>, должен знать и уметь пиарщик будущего (на наш взгляд, требования уже современные).</p>
 <h3>Знания</h3>
 
 <ol>
@@ -26,14 +26,14 @@ date: 2008-08-14
 
 <ol>
 <li>Разработка стратегии интегрированных маркетинговых коммуникаций.</li>
-<li><a href="http://johnbell.typepad.com/weblog/2008/07/future-pr-ski-1.html" target="_blank" rel="noopener noreferrer">Постоянный мониторинг блогов, вики-проектов, социальных сетей, мультимедийных сборников (YouTube, Flickr и т. п.), интернет-каталогов</a>.</li>
-<li><a href="http://johnbell.typepad.com/weblog/2008/07/future-pr-skill.html" target="_blank" rel="noopener noreferrer">Точная настройка интернет-каналов коммуникации под поисковые запросы</a>. (Белл считает критически важным SE-оптимизацию собственными силами PR-агентства, а не наемными оптимизаторами).</li>
+<li><a href="https://johnbell.typepad.com/weblog/2008/07/future-pr-ski-1.html" target="_blank" rel="noopener noreferrer">Постоянный мониторинг блогов, вики-проектов, социальных сетей, мультимедийных сборников (YouTube, Flickr и т. п.), интернет-каталогов</a>.</li>
+<li><a href="https://johnbell.typepad.com/weblog/2008/07/future-pr-skill.html" target="_blank" rel="noopener noreferrer">Точная настройка интернет-каналов коммуникации под поисковые запросы</a>. (Белл считает критически важным SE-оптимизацию собственными силами PR-агентства, а не наемными оптимизаторами).</li>
 <li>Планирование  программ new media relations (т. е. рабочих отношений с интернет-СМИ и источниками в среде мобильной связи) — причем, как в массовом, так и в long tail («нишевом», узкоспециализированном) сегментах информационного пространства.</li>
 <li>Поиск и привлечение к участию в PR-кампаниях «агентов влияния» — авторитетных в той или иной социальной сети лиц.</li>
 <li>Управление сообществами.</li>
 <li>Использование новых технологий (Google Maps, те же Twitter, YouTube, Flickr) в личных целях.</li>
 <li>Разработка систем измерения результативности PR-кампаний.</li>
-<li><a href="http://johnbell.typepad.com/weblog/2008/08/future-pr-skill.html" target="_blank" rel="noopener noreferrer">Запуск краткосрочных экспериментальных PR-программ</a>, оцениваемых «на лету».</li>
+<li><a href="https://johnbell.typepad.com/weblog/2008/08/future-pr-skill.html" target="_blank" rel="noopener noreferrer">Запуск краткосрочных экспериментальных PR-программ</a>, оцениваемых «на лету».</li>
 <li>Постоянное самообразование, и передача знаний коллегам и клиентам (мастер-классы, семинары).</li>
 </ol>
 

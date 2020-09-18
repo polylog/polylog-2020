@@ -16,5 +16,5 @@ date: 2015-05-20
 
 <img src="{{ site.assets }}/upload/pandafont3.jpg" alt="" class="post__img" width="580" height="180">
 
-По материалам <a href="http://adsoftheworld.com/media/dm/wwf_japan_the_panda_font?size=original">Ads of the World </a>
+По материалам <a href="https://adsoftheworld.com/media/dm/wwf_japan_the_panda_font?size=original">Ads of the World </a>
 

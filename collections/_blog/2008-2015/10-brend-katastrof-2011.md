@@ -40,5 +40,5 @@ date: 2011-06-26
 
 Ядерная энергия почти что реабилитировала себя и стала восприниматься как экологически чистая технология. Но после происшествий в Японии, невыгодность использования этой энергии стала очевидной.
 
-По материалам <a href="http://www.bnet.com/blog/salesmachine/top-10-brand-disasters-of-2011-so-far/14921?pg=11">bNet.com</a>
+По материалам <a href="https://www.bnet.com/blog/salesmachine/top-10-brand-disasters-of-2011-so-far/14921?pg=11">bNet.com</a>
 

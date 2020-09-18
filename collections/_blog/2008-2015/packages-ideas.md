@@ -50,5 +50,5 @@ Kimberly-Clark и Nestle .
 
 <img src="{{ site.assets }}/upload/2788109550_69456d32b8_z.jpg" alt="" class="post__img" width="400" >
 
-По материалам <a href="http://www.forbes.com/sites/onmarketing/2014/07/23/the-five-things-product-packaging-must-do/">Forbes</a>
+По материалам <a href="https://www.forbes.com/sites/onmarketing/2014/07/23/the-five-things-product-packaging-must-do/">Forbes</a>
 

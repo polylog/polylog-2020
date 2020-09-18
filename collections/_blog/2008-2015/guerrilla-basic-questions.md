@@ -26,5 +26,5 @@ date: 2013-05-24
 
 Дайте людям мелки для рисования на асфальте и красивый трафарет, чтобы никто не стеснялся. Дайте им красивое фото для манипуляций.  Дайте лист бумаги и схему простого оригами.
 
-По материалам <a href="http://www.conceptcupboard.com/resource-centre/4-common-traits-of-guerrilla-marketing-campaigns/">Concept Cupboard</a>
+По материалам <a href="https://www.conceptcupboard.com/resource-centre/4-common-traits-of-guerrilla-marketing-campaigns/">Concept Cupboard</a>
 

@@ -20,5 +20,5 @@ date: 2013-08-19
 
 Конечно, все еще попадаются и ошибки, и фальсификации. Но именно из-за того, что информацию почти невозможно контролировать, она постоянно подвергается проверке, самой тщательной, - проверкой самой аудиторией, которая имеет доступ ко всем вариантам освещения события и может сама найти и ошибки, и умолчания.
 
-По материалам <a href="http://www.businessinsider.com/a-golden-age-for-journalism-2013-8">http://www.businessinsider.com/a-golden-age-for-journalism-2013-8</a>
+По материалам <a href="https://www.businessinsider.com/a-golden-age-for-journalism-2013-8">https://www.businessinsider.com/a-golden-age-for-journalism-2013-8</a>
 

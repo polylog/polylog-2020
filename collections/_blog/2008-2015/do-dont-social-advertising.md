@@ -28,5 +28,5 @@ LinkedIn
 
 Поскольку эта сеть связана с профессиональной деятельностью, люди здесь идентифицируют себя с профессией, отраслью, компанией. Это необходимо учитывать при создании рекламных сообщений и их размещении.
 
-По материалам <a href="http://www.digiday.com/social/the-dos-and-donts-in-social-advertising/">Digi Day</a>
+По материалам <a href="https://www.digiday.com/social/the-dos-and-donts-in-social-advertising/">Digi Day</a>
 

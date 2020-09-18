@@ -22,5 +22,5 @@ date: 2015-02-18
 
 5. Благодарите.  Это очень просто, и тем не менее, не настолько распространено.
 
-По материалам <a href="http://www.forbes.com/sites/rodgerdeanduncan/2015/03/03/5-steps-to-feedback-that-really-helps-you-get-better/3/">Forbes</a>
+По материалам <a href="https://www.forbes.com/sites/rodgerdeanduncan/2015/03/03/5-steps-to-feedback-that-really-helps-you-get-better/3/">Forbes</a>
 

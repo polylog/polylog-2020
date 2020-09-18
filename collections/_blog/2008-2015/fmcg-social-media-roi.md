@@ -32,7 +32,7 @@ Heinz Beanz продвигали новый товар, и обнаружили 
 
 «Фанатам не просто нравится бренд. Они немного влюбляются в него, он становится частью их жизни. И иногда им нужно что-то очень простое, как например красивое фото бобов Heinz, которое они едят на завтрак, или чая который они пьют. Было здорово работать с брендами, которые не только отлично представлены в социальных медиа, но и качество продукта у них отличное» - сказала Кристин Бреве,  директор по маркетингу и коммуникациям IAB.
 
-<a href="http://www.fourthsource.com/social-media/social-media-drives-roi-for-fmcg-brands-shows-new-iab-study-15071.html"
+<a href="https://www.fourthsource.com/social-media/social-media-drives-roi-for-fmcg-brands-shows-new-iab-study-15071.html"
 
 ”> Fourthsource</a>
 

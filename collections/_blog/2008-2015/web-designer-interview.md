@@ -44,5 +44,5 @@ date: 2012-03-02
 
 Я бы сказал - работайте тяжело, это очень скучно, я знаю. но это главное, с моей точки зрения. Вы можете искать для себя хорошую команду, хорошее окружение, хорошее оборудование, но вы получаете только то, что вложили.
 
-По материалам <a href="http://www.designinterviews.com/interviews/rob-palmer">Design Interviews</a>
+По материалам <a href="https://www.designinterviews.com/interviews/rob-palmer">Design Interviews</a>
 

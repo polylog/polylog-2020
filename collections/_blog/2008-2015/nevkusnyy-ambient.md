@@ -16,5 +16,5 @@ date: 2009-05-22
 
 Результат: широкое освещение в прессе, и высокий рейтинг программы.
 
-По материалам <a href="http://www.ibelieveinadv.com/2009/05/national-geographic-jail-set/">I believe in Adv </a>
+По материалам <a href="https://www.ibelieveinadv.com/2009/05/national-geographic-jail-set/">I believe in Adv </a>
 

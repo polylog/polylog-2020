@@ -265,5 +265,5 @@ date: 2009-01-31
 </tbody>
 
 </table>
-<p>По материалам <a href="http://jobfunctions.bnet.com/abstract.aspx?docid=324129&amp;tag=content;col1" target="_blank" rel="noopener noreferrer">BNET</a></p>
+<p>По материалам <a href="https://jobfunctions.bnet.com/abstract.aspx?docid=324129&amp;tag=content;col1" target="_blank" rel="noopener noreferrer">BNET</a></p>
 

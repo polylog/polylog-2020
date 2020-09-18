@@ -12,5 +12,5 @@ date: 2015-10-10
 
 Кампанию создало рекламное агентство Mullen Lowe, США.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/zappos-challenges-google-in-clever-guerrilla-marketing-campaign-paywithacupcake/">Creative Guerrilla Marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/zappos-challenges-google-in-clever-guerrilla-marketing-campaign-paywithacupcake/">Creative Guerrilla Marketing</a>
 

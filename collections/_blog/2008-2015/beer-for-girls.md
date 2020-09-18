@@ -14,5 +14,5 @@ date: 2015-04-26
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PZKgAuk6kLM" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/astra_the_girl_detection_billboard">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/astra_the_girl_detection_billboard">Ads of the World</a>
 

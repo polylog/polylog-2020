@@ -22,5 +22,5 @@ date: 2013-09-14
 
 -      Многоканальная передача. Подумайте о том, как именно вы хотите достучаться до аудитории. Medium is the Message.
 
-По материалам <a href="http://blog.emlwildfire.com/2013/09/5-ways-to-test-the-quality-of-your-creative-idea/">Elm Wildfire Blog </a>
+По материалам <a href="https://blog.emlwildfire.com/2013/09/5-ways-to-test-the-quality-of-your-creative-idea/">Elm Wildfire Blog </a>
 

@@ -22,5 +22,5 @@ date: 2013-11-21
 
 <img src="{{ site.assets }}/upload/burger-king-hands-free-whopper-3.jpg" alt="" class="post__img" width="579" height="397">
 
-По материалам <a href="http://www.ufunk.net/gadgets/japan-burger-packaging/">Ufunk.net</a>
+По материалам <a href="https://www.ufunk.net/gadgets/japan-burger-packaging/">Ufunk.net</a>
 

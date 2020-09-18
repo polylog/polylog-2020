@@ -24,5 +24,5 @@ date: 2014-11-26
 
 Фотографии – изображение всегда лучше тысячи слов. В большинстве случаев. Поэтому просто собирайте фотографии студентов, просите их делать фотографии, просите их отмечать себя и друзей на фотографиях.
 
-По материалам <a ref="http://www.fathomdelivers.com/blog/higher-ed/marketing-millennials-6-crowdsourcing-techniques-promote-educational-institution/">FatomDelivers</a>
+По материалам <a ref="https://www.fathomdelivers.com/blog/higher-ed/marketing-millennials-6-crowdsourcing-techniques-promote-educational-institution/">FatomDelivers</a>
 

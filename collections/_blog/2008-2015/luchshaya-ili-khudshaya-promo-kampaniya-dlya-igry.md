@@ -32,5 +32,5 @@ Cheapy D, ведущий популярного сайта CheapAssGamer: "Kotak
 
 Кампания действительно была немного детской, может быть, сделанной с дурным вкусом, но разъяренные христианские блоггеры, защитники прав женщин и сексуальных меньшинств, редакторы сайтов продолжают писать о компании.
 
-По материалам <a href="http://arstechnica.com/gaming/news/2009/09/eafail-the-story-of-the-worst-pr-campaign-in-gaming.ars">Ars Technica</a>
+По материалам <a href="https://arstechnica.com/gaming/news/2009/09/eafail-the-story-of-the-worst-pr-campaign-in-gaming.ars">Ars Technica</a>
 

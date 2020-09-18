@@ -22,5 +22,5 @@ Landor Associates.
 
  - Все начинается с определения принципов, которые выражает бренд. Потом уже нужно понять, как они будут выражены, в какой форме, использовать для логотипа символ или надпись с названием.
 
-По материалам <a href="http://www.dhakatribune.com/business/2013/oct/06/strong-brands-stand-something">Dhakatribune</a>
+По материалам <a href="https://www.dhakatribune.com/business/2013/oct/06/strong-brands-stand-something">Dhakatribune</a>
 

@@ -26,5 +26,5 @@ date: 2016-01-12
 
 При создании стратегии оплачиваемых кампаний нужно это учитывать.
 
-По материалам <a href="http://www.adweek.com/prnewser/the-top-5-digital-pr-trends-to-watch-in-2016/120354">AdWeek</a>
+По материалам <a href="https://www.adweek.com/prnewser/the-top-5-digital-pr-trends-to-watch-in-2016/120354">AdWeek</a>
 

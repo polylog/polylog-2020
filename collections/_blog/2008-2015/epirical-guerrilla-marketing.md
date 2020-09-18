@@ -28,5 +28,5 @@ date: 2014-12-29
 
 Другой пример вирусной кампании, которая дает людям необычный опыт – кампания шоколада Милка. Было выпущено 10 миллионов плиток, в которых не хватало одного кусочка. Озадаченные любители шоколада затем читали инструкцию: они могли выбрать, заказать недостающий кусочек себе или поделиться им с кем-то. Кусочек шоколадки отправляли по поте, в красивой упаковке и с личным сообщением от дарителя (сообщение можно было передать по смс).
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/experiential-101-experiential-marketing/">Creative Guerrilla Marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/experiential-101-experiential-marketing/">Creative Guerrilla Marketing</a>
 

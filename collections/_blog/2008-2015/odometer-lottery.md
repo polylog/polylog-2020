@@ -18,5 +18,5 @@ date: 2014-03-25
 
 Кампания проводилась во время фестиваля Бон, когда все японцы отправляются в свой родной город из того, где они работают. Всего за три недели, вебсайт посвященный кампании, посетили 14.887 человек, 546 человек участвовали в розыгрыше призов.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/sony_assurance_odometer_lottery?size=original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/sony_assurance_odometer_lottery?size=original">Ads of the World</a>
 

@@ -16,5 +16,5 @@ date: 2015-09-25
 
 По словам менеджера «Mini Teater» Роберта Уалтла, «Чтобы привлечь и удержать внимание аудитории, театрам приходится быть изобретательными, и все театральные менеджеры мира знают, что это нелегкая работа. Так что я рад, что нам удалось показать развлекательную силу театра в новом креативном ключе и доказать, что отличные вещи бывают и в мини-версиях».
 
-<a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/mini-teater-creates-trunk-theater-road/">По материалам сайта Creative Guerrilla Marketing</a>
+<a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/mini-teater-creates-trunk-theater-road/">По материалам сайта Creative Guerrilla Marketing</a>
 

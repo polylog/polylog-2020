@@ -20,5 +20,5 @@ date: 2008-06-04
 
 Таким образом, после детального исследования достаточно сложного процесса размещения рекламы в играх, Wild Tangent вернулся к истокам, к простому и как ни странно, более эффективному способу.
 
-По материалам <a href="http://www.gamesindustry.biz/articles/in-game-ads-not-very-effective-says-st-john">Games Industry</a>
+По материалам <a href="https://www.gamesindustry.biz/articles/in-game-ads-not-very-effective-says-st-john">Games Industry</a>
 

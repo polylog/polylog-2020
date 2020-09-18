@@ -18,5 +18,5 @@ date: 2008-06-09
 
 Также, благодаря этой кампании, Общество по борьбе с Раковыми Заболеваниями получило новый грант от министерства здравоохранения Финляндии
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Swacjz-3O9Y&hl=en"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/Swacjz-3O9Y&amp;hl=en" type="application/x-shockwave-flash" width="425" height="344" wmode="transparent"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/Swacjz-3O9Y&hl=en"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/Swacjz-3O9Y&amp;hl=en" type="application/x-shockwave-flash" width="425" height="344" wmode="transparent"></embed></object>
 

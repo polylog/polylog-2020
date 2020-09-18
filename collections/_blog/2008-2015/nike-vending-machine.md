@@ -16,5 +16,5 @@ Nike породил волну слухов в Нью-Йорке, объявив
 
 Причем деньги машина не принимает – только очки физической активности. И – необычный поворот – прошел слух что считаются только очки заработанные за сегодняшний день. Так что сначала придет побегать!
 
-По материалам <a href="http://techcrunch.com/2014/07/17/nikes-secret-new-york-vending-machine-trades-free-swag-for-fuelband-points/">Techcrunch</a>
+По материалам <a href="https://techcrunch.com/2014/07/17/nikes-secret-new-york-vending-machine-trades-free-swag-for-fuelband-points/">Techcrunch</a>
 

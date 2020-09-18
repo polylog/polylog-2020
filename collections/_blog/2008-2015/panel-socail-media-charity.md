@@ -18,5 +18,5 @@ date: 2016-01-18
 
 Законодатель моды – это не так страшно, как кажется. Социальные сети были бы очень скучным местом, если бы не тренды. Людям нужно, чтобы им показали что-то интересное, вовлекли в какую-то активность: тогда можно хоть холодной водой из ведра обливаться. Придумывайте, экспериментируйте, вводите новые теги, придумывайте мемы.
 
-По материалам <a href="http://www.theguardian.com/voluntary-sector-network/2014/jul/21/10-things-your-charity-needs-to-know-about-social-media">the Guardian</a>
+По материалам <a href="https://www.theguardian.com/voluntary-sector-network/2014/jul/21/10-things-your-charity-needs-to-know-about-social-media">the Guardian</a>
 

@@ -242,4 +242,4 @@ date: 2008-12-08
     </div>
 
   </div>
-  <p>По материалам <a href="http://www.fresh-inc.com/bullshit.htm" target="_blank" rel="noopener noreferrer">Fresh Ideas</a></p>
+  <p>По материалам <a href="https://www.fresh-inc.com/bullshit.htm" target="_blank" rel="noopener noreferrer">Fresh Ideas</a></p>

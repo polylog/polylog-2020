@@ -17,4 +17,4 @@ date: 2016-10-24
 <p>В случае с хейтерами нападение - худшая стратегия защиты. Ваша же работа в сети должна базироваться на двух правилах:</p>
 <p>1. Онлайн-клиент всегда прав;</p>
 <p>2. Если онлайн-клиент неправ, смотри пункт первый.</p>
-По материалам <a href="http://www.forbes.com/" target="_blank" rel="noopener noreferrer">Forbes</a>
+По материалам <a href="https://www.forbes.com/" target="_blank" rel="noopener noreferrer">Forbes</a>

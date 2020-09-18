@@ -40,5 +40,5 @@ PR - это приключение, порой такое же захватыв�
 
 Семь футов под килем!
 
-По материалам  <a href="http://www.articlesbase.com/press-releases-articles/online-pr-like-kayaking-5-truths-they-have-in-common-3023854.html">articlesbase.com</a>
+По материалам  <a href="https://www.articlesbase.com/press-releases-articles/online-pr-like-kayaking-5-truths-they-have-in-common-3023854.html">articlesbase.com</a>
 

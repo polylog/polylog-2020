@@ -18,5 +18,5 @@ date: 2009-04-28
 
 Расходы на проживание. Подумайте, что вы можете сделать для отеля. Может быть, вы планируете такое же событие на следующий год в этом же месте, может быть, можете добиться для отеля скидки  в знакомом PR-агентстве. Поговорите с управляющим, возможно, удастся добиться скидки.
 
-По материалам <a href="http://www.bonjourevents.com/thefreshtips/2009/4/17/more-simple-conference-budget-savers.html"> Bonjour Events </a>
+По материалам <a href="https://www.bonjourevents.com/thefreshtips/2009/4/17/more-simple-conference-budget-savers.html"> Bonjour Events </a>
 

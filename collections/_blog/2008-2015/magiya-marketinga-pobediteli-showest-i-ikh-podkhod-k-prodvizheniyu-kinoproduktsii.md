@@ -40,5 +40,5 @@ ShoWest – ежегодная конвенция, где присутствую
 
 <img src="{{ site.assets }}/upload/2744402859_f82331f461.jpg" alt="" class="post__img" width="470" height="311">
 
-По материалам <a href="http://www.filmjournal.com/filmjournal/content_display/news-and-features/features/cinemas/e3ie7d1eee3b5e787afff3f3077d34c9c5d?pn=2">FilmJournal</a>
+По материалам <a href="https://www.filmjournal.com/filmjournal/content_display/news-and-features/features/cinemas/e3ie7d1eee3b5e787afff3f3077d34c9c5d?pn=2">FilmJournal</a>
 

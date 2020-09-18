@@ -24,5 +24,5 @@ date: 2014-04-27
 
 О каком бы бренде не шла речь, если это действительно крупный бренд, вы всегда увидите эти три черты  - он не появился за один месяц и даже год, он не говорил только о себе, и он использовал нестандартные способы заявить о себе.
 
-По материалам <a href="http://www.forbes.com/sites/cathyhuyghe/2014/04/25/three-lessons-of-luxury-branding-from-italian-wines/">Forbes.com</a>
+По материалам <a href="https://www.forbes.com/sites/cathyhuyghe/2014/04/25/three-lessons-of-luxury-branding-from-italian-wines/">Forbes.com</a>
 

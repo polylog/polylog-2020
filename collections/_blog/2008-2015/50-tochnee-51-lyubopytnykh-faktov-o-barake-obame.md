@@ -10,9 +10,9 @@ date: 2008-11-10
 <li>В школе за меткость на баскетбольной площадке заслужил прозвище «Бомбометатель».</li>
 <li>Барак в переводе с суахили значит «благословенный».</li>
 <li>Любимое блюдо — лапша с креветками, которую готовит жена Мишель.</li>
-<li>Собственное фирменное блюдо — <a href="http://www.millionmenu.ru/rus/recipes/collection/drecip6846/" target="_blank" rel="nofollow">чили кон карне</a>.</li>
+<li>Собственное фирменное блюдо — <a href="https://www.millionmenu.ru/rus/recipes/collection/drecip6846/" target="_blank" rel="nofollow">чили кон карне</a>.</li>
 <li>Любимый десерт — шоколадные протеиновые батончики с орехами.</li>
-<li>Любимый напиток — холодный ягодный чай <a href="http://www.honesttea.com/products/tea/black_forest_berry/" target="_blank" rel="nofollow">Honest Tea Black Forest Berry</a>.</li>
+<li>Любимый напиток — холодный ягодный чай <a href="https://www.honesttea.com/products/tea/black_forest_berry/" target="_blank" rel="nofollow">Honest Tea Black Forest Berry</a>.</li>
 <li>В Индонезии ел жареных кузнечиков, собачье и змеиное мясо.</li>
 <li>В 2006 выиграл «Грэмми» за аудиоверсию своих мемуаров «Мечты, унаследованные от отца».</li>
 <li>Левша (после окончания Второй мировой это уже шестой случай среди американских президентов).</li>
@@ -29,12 +29,12 @@ date: 2008-11-10
 <li>В 1996 побывал на мальчишнике у жениха своей сестры, но ушел с вечеринки, когда появилась традиционная стриптизерша.</li>
 <li>Его стол в Сенате когда-то занимал Роберт Кеннеди.</li>
 <li>В прошлом году Обама и его жена Мишель заработали $4,2 млн на продаже своих книг.</li>
-<li>Любимые фильмы: «<a href="http://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D0%B0%D0%B1%D0%BB%D0%B0%D0%BD%D0%BA%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" target="_blank" rel="noopener noreferrer">Касабланка</a>» и «<a href="http://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B4_%D0%B3%D0%BD%D0%B5%D0%B7%D0%B4%D0%BE%D0%BC_%D0%BA%D1%83%D0%BA%D1%83%D1%88%D0%BA%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" target="_blank" rel="noopener noreferrer">Полет над гнездом кукушки</a>».</li>
+<li>Любимые фильмы: «<a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D0%B0%D0%B1%D0%BB%D0%B0%D0%BD%D0%BA%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" target="_blank" rel="noopener noreferrer">Касабланка</a>» и «<a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B4_%D0%B3%D0%BD%D0%B5%D0%B7%D0%B4%D0%BE%D0%BC_%D0%BA%D1%83%D0%BA%D1%83%D1%88%D0%BA%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" target="_blank" rel="noopener noreferrer">Полет над гнездом кукушки</a>».</li>
 <li>Носит фигурку Богородицы с младенцем и браслет, некогда принадлежавшие американскому солдату, воевавшему в Ираке, — на удачу.</li>
 <li>В студенческие годы приглашался на съемки для фривольного календаря чернокожего сообщества Гарвардского университета, но был отвергнут чисто женским оргкомитетом.</li>
-<li>Любимая музыка: <a href="http://www.last.fm/music/Miles+Davis">Майлз Дэвис</a>, <a href="http://www.last.fm/music/Bob+Dylan" target="_blank" rel="noopener noreferrer">Боб Дилан</a>, <a href="http://www.last.fm/music/Johann+Sebastian+Bach" target="_blank" rel="noopener noreferrer">Бах</a> и хип-хоперы <a href="http://www.last.fm/music/Fugees" target="_blank" rel="noopener noreferrer">Fugees</a>.</li>
-<li>На первом свидании повел Мишель (будущую жену) на фильм Спайка Ли «<a href="http://www.afisha.ru/movie/170462/" title="Делай, как надо! (фильм) (страница отсутствует)" target="_blank" rel="nofollow">Делай, как надо!</a>».</li>
-<li>Любит играть в «<a href="http://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D1%80%D1%8D%D0%B1%D0%B1%D0%BB" target="_blank" rel="noopener noreferrer">Скрэббл</a>» и покер.</li>
+<li>Любимая музыка: <a href="https://www.last.fm/music/Miles+Davis">Майлз Дэвис</a>, <a href="https://www.last.fm/music/Bob+Dylan" target="_blank" rel="noopener noreferrer">Боб Дилан</a>, <a href="https://www.last.fm/music/Johann+Sebastian+Bach" target="_blank" rel="noopener noreferrer">Бах</a> и хип-хоперы <a href="https://www.last.fm/music/Fugees" target="_blank" rel="noopener noreferrer">Fugees</a>.</li>
+<li>На первом свидании повел Мишель (будущую жену) на фильм Спайка Ли «<a href="https://www.afisha.ru/movie/170462/" title="Делай, как надо! (фильм) (страница отсутствует)" target="_blank" rel="nofollow">Делай, как надо!</a>».</li>
+<li>Любит играть в «<a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D1%80%D1%8D%D0%B1%D0%B1%D0%BB" target="_blank" rel="noopener noreferrer">Скрэббл</a>» и покер.</li>
 <li>Очень умерен в алкогольных напитках и никогда не пьет кофе.</li>
 <li>Хотел бы стать архитектором, если бы не стал политиком.</li>
 <li>В юности пробовал марихуану и кокаин.</li>
@@ -43,13 +43,13 @@ date: 2008-11-10
 <li>Выплатил кредит, взятый на обучение в Гарварде, только 4 года тому назад, после того, как подписал контракт на издание своей книги.</li>
 <li>В его чикагском доме — четыре камина.</li>
 <li>Санита, крестная мать его дочери Малии, — дочь Джесси Джексона, чернокожего священника и участника праймериз Демократической партии 84-го и 88-го гг.</li>
-<li>Самой плохой своей привычкой считает беспрестанную проверку сообщений, поступивших на <a href="http://ru.wikipedia.org/wiki/BlackBerry" target="_blank" rel="noopener noreferrer">смартфон BlackBerry</a>.</li>
+<li>Самой плохой своей привычкой считает беспрестанную проверку сообщений, поступивших на <a href="https://ru.wikipedia.org/wiki/BlackBerry" target="_blank" rel="noopener noreferrer">смартфон BlackBerry</a>.</li>
 <li>Пользуется ноутбуком Apple.</li>
-<li>Отказался от прожорливого <a href="http://catalog.auto.ru/catalog/cars/chrysler/300c/" target="_blank" rel="nofollow">Chrysler 300C</a> и теперь водит «экологически чистый» <a href="http://catalog.auto.ru/catalog/cars/ford/escape/" target="_blank" rel="nofollow">Ford Escape Hybrid</a>.</li>
+<li>Отказался от прожорливого <a href="https://catalog.auto.ru/catalog/cars/chrysler/300c/" target="_blank" rel="nofollow">Chrysler 300C</a> и теперь водит «экологически чистый» <a href="https://catalog.auto.ru/catalog/cars/ford/escape/" target="_blank" rel="nofollow">Ford Escape Hybrid</a>.</li>
 <li>Носит костюмы Hart Schaffner Marx (в среднем — по полторы тысячи долларов).</li>
 <li>Обувь — четыре пары одинаковых черных туфель 43-го размера.</li>
 <li>Подстригается еженедельно, у чикагского парикмахера Зариффа. Стрижка обходится в 21 доллар.</li>
-<li>Любимые телесериалы — «<a href="http://ru.wikipedia.org/wiki/%D0%9C%D0%AD%D0%A8_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" target="_blank" rel="noopener noreferrer">МЭШ</a>» и «<a href="http://thewire.ru/" target="_blank" rel="nofollow">Прослушка</a>».</li>
+<li>Любимые телесериалы — «<a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%AD%D0%A8_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" target="_blank" rel="noopener noreferrer">МЭШ</a>» и «<a href="https://thewire.ru/" target="_blank" rel="nofollow">Прослушка</a>».</li>
 <li>В Секретной Службе США получил кодовое имя «Предатель».</li>
 <li>А вот бабушка звала его «Мишкой».</li>
 <li>Собирается соорудить во дворе Белого дома баскетбольную площадку.</li>
@@ -58,5 +58,5 @@ date: 2008-11-10
 <li>На его столе стоит деревянная фигура — рука, держащая яйцо, — кенийский символ тленности жизни.</li>
 <li>Его покойный отец работал ведущим экономистом в кенийском правительстве.</li></ul>
 
-<p>По материалам <a href="http://www.telegraph.co.uk/news/newstopics/uselection2008/barackobama/3401168/Barack-Obama-The-50-facts-you-might-not-know.html" target="_blank" rel="noopener noreferrer">газеты Telegraph</a>.</p>
+<p>По материалам <a href="https://www.telegraph.co.uk/news/newstopics/uselection2008/barackobama/3401168/Barack-Obama-The-50-facts-you-might-not-know.html" target="_blank" rel="noopener noreferrer">газеты Telegraph</a>.</p>
 

@@ -24,5 +24,5 @@ date: 2014-05-28
 
 Когда вы разработали кампанию и определили ее стоимость, найдите подработку на стороне. Множество сайтов предлагают связать исполнителей и заказчиков, среди предложений наверняка найдется что-то, что даст вам возможность заработать достаточно, чтобы запустить вашу кампанию. Только не забудьте, что эти сайты возьмут комиссию с вашего заработка.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/3-creative-ways-finance-guerrilla-marketing-campaign/">Creative guerrilla marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/3-creative-ways-finance-guerrilla-marketing-campaign/">Creative guerrilla marketing</a>
 

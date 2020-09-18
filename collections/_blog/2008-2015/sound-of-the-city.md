@@ -16,5 +16,5 @@ date: 2015-06-29
 
 Интересно, когда будет возможно воспроизвести запахи?
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/thalys_trains_sounds_of_the_city">Ads of the World </a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/thalys_trains_sounds_of_the_city">Ads of the World </a>
 

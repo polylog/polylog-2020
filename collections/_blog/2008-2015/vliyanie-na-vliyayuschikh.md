@@ -35,5 +35,5 @@ date: 2009-10-19
 <li>Закончив одно мероприятие, думайте о следующих.</li>
 </ul>
 
-По материалам <a href="http://blog.ogilvypr.com/2009/10/best-practices-in-influencer-enthusiast-events/">OgilvyPR</a>
+По материалам <a href="https://blog.ogilvypr.com/2009/10/best-practices-in-influencer-enthusiast-events/">OgilvyPR</a>
 

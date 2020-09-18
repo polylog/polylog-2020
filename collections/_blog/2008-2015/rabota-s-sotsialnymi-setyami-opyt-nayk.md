@@ -26,5 +26,5 @@ date: 2010-09-17
 
 После мероприятия продажи Nike значительно возросли.
 
-По материалам <a href="http://www.marketing-etudiant.fr/actualites/social-networking-cas-de-nike.php">Marketing Etudiant</a>
+По материалам <a href="https://www.marketing-etudiant.fr/actualites/social-networking-cas-de-nike.php">Marketing Etudiant</a>
 

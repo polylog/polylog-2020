@@ -13,6 +13,6 @@ date: 2017-03-30
 <p>Во-вторых, информационное партнерство подразумевает не только широкий, но и качественный охват целевых групп. Аудитория СМИ, поддерживающего проект, должна максимально соответствовать целевой аудитории мероприятия.</p>
 <p>В-третьих, забудьте о любых правилах ведения переговоров. Форматы взаимодействия и сотрудничества &ndash; тема для обсуждения. Стороны зачастую идут на уступки и корректируют партнерский пакет с учетом пожеланий как организатора, так и инфопартнера.</p>
 <p>По материалам:</p>
-<p><a href="http://claremontcomms.com/2014/01/how-to-develop-a-successful-media-partnership/" target="_blank" rel="noopener noreferrer">Claremontcomms.com</a></p>
-<p><a href="http://www.aragonvalley.com/what-is-a-media-partner-and-what-means-for-a-personal-blog/" target="_blank" rel="noopener noreferrer">Aragonvalley.com</a></p>
+<p><a href="https://claremontcomms.com/2014/01/how-to-develop-a-successful-media-partnership/" target="_blank" rel="noopener noreferrer">Claremontcomms.com</a></p>
+<p><a href="https://www.aragonvalley.com/what-is-a-media-partner-and-what-means-for-a-personal-blog/" target="_blank" rel="noopener noreferrer">Aragonvalley.com</a></p>
 

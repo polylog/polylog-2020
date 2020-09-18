@@ -18,5 +18,5 @@ Mercedes-Benz F-CELL - первая машина на водороде, кото
 
 Кампания получила большое освещение в СМИ и создала волну юзер-генерированного контента в интернете. Есть фанатские видео о чудесной "невидимой" машине, а уж фотографий с этой машиной было сделано много тысяч.
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/uHWfFFi1k9Y?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/uHWfFFi1k9Y?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/uHWfFFi1k9Y?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/uHWfFFi1k9Y?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 

@@ -18,5 +18,5 @@ date: 2011-07-13
 
 Сам визит продолжался 4 часа, и за это время кампания, благодаря грамотной подготовке, получила невероятное освещение.
 
-по материалам <a href="http://adsoftheworld.com/media/ambient/adidas_the_messiah?size=_original">AdsoftheWorld</a>
+по материалам <a href="https://adsoftheworld.com/media/ambient/adidas_the_messiah?size=_original">AdsoftheWorld</a>
 

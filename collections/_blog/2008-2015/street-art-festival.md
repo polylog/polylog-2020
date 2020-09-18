@@ -12,5 +12,5 @@ date: 2015-10-23
 
 <img src="{{ site.assets }}/upload/sticker2.jpg" alt="" class="post__img" width="580" height="187">
 
-по материалам <a href="http://adsoftheworld.com/media/ambient/arte_core_skate_sticker?size=original">ads of the world</a>
+по материалам <a href="https://adsoftheworld.com/media/ambient/arte_core_skate_sticker?size=original">ads of the world</a>
 

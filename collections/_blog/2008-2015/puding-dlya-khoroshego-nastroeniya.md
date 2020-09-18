@@ -12,7 +12,7 @@ date: 2011-08-02
 
 Этот сайт - часть кампании под названием "Pudding face", "Пудинговое лицо", начавшейся с видеоролика, где собственно демонтрируется, что это такое - pudding face. Само это выражение также изобретено агентством и продвигается как новый интернет-мем.
 
-<object width="560" height="349"><param name="movie" value="http://www.youtube.com/v/YyKhP6x0tXE?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/YyKhP6x0tXE?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="349"><param name="movie" value="https://www.youtube.com/v/YyKhP6x0tXE?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/YyKhP6x0tXE?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 Когда настроение Америки падает, компания принимает решительные меры - и выдает бесплатные пудинги печальным пользователям твиттера.
 

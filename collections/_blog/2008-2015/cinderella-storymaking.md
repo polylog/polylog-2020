@@ -38,5 +38,5 @@ date: 2012-10-12
 
 Хорошая история не нуждается в постоянном вливании средств - если она действительно хороша, она начинает распространяться сама по себе, проникая в общение людей, обрастая подробностями и изменяясь.
 
-По материалам <a href="http://www.business2community.com/branding/fight-club-cinderella-and-what-storytelling-means-for-brands-0301493"> Business to Community </a>. <span class="note">Под редакцией Владимира Никишина, автора «<a href="http://sms-roman.ru/" target="_blank" rel="noopener noreferrer">Романа в SMSках</a>».</span>
+По материалам <a href="https://www.business2community.com/branding/fight-club-cinderella-and-what-storytelling-means-for-brands-0301493"> Business to Community </a>. <span class="note">Под редакцией Владимира Никишина, автора «<a href="https://sms-roman.ru/" target="_blank" rel="noopener noreferrer">Романа в SMSках</a>».</span>
 

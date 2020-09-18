@@ -40,5 +40,5 @@ Jay-Z  понимает важность культуры для своих фа
 
 Вы, наверное видели в магазинах игрушек наборы зверят - домашних или диких животных, где часть упаковки прозрачная, а часть - со всех сторон картонная, так что непонятно, какая там фигурка. Теперь вы знаете, почему эти наборы не сходят с полок уже много месяцев - всем интерсно купить и посмотреть что там внутри. Мы уж не будем упоминать феномен непотопляемого Kinder Surprise.
 
-По материалам <a href="http://www.innovationexcellence.com/blog/2012/11/12/the-power-of-mystery-in-branding/"> Innovation Excellence</a>
+По материалам <a href="https://www.innovationexcellence.com/blog/2012/11/12/the-power-of-mystery-in-branding/"> Innovation Excellence</a>
 

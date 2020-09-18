@@ -20,5 +20,5 @@ KAGOY - Kids are getting older, younger. Аббревиетура, дети вы
 
 Magalog - каталого-журнал, то есть специальное издание, предназначенное для совершения покупок. Журнало.в который вставлены наименования каталога, или каталог снабженный статьями и другими материалами.
 
-По материалам <a href="http://www.doubletongued.org/index.php/dictionary/citecats/C103/">Double Tongued </a>
+По материалам <a href="https://www.doubletongued.org/index.php/dictionary/citecats/C103/">Double Tongued </a>
 

@@ -8,23 +8,23 @@ date: 2011-01-18
 
 20. Проекторы. Относительно дешевая технология, позволяющая создавать большие рекламные световые плакаты, порой - анимированные, как в случае с Пэкманом. Они всегда привлекают внимание.
 
-<img src="http://cdn.trendhunterstatic.com/thumbs/south-gate-restaurant.jpeg" alt="" width="200">
+<img src="https://cdn.trendhunterstatic.com/thumbs/south-gate-restaurant.jpeg" alt="" width="200">
 
 19. Интерактивные продажи. Вовлечение потребителя в диалог с вашей продукцией становится все более важным. Например, как в случае с модифицируемыми сумками Coca Hut, или рестораном South Gate,  который  поместил свой обширный список вин - 650 наименований - на iPad.
 
-<img src="http://solidgroundblog.files.wordpress.com/2010/05/asu-axe-photo-2.jpg" alt="" width=200>
+<img src="https://solidgroundblog.files.wordpress.com/2010/05/asu-axe-photo-2.jpg" alt="" width=200>
 
-18. Идеи для благотворительности. Вокруг очень много предложений от различных фондов и организаций, трудно выбрать, какому именно благому делу отдать свои средства. Важно отличаться! Например, производителям дезодоранта Axe удалось совместить свою коронную тему - секс - и <a href="http://cdn.trendhunterstatic.com/thumbs/south-gate-restaurant.jpeg">благотворительность</a>, организовав "голый забег" для студентов нескольких колледжей. Все просто - чтобы отдать одежду нуждающимся, нужно раздеться...
+18. Идеи для благотворительности. Вокруг очень много предложений от различных фондов и организаций, трудно выбрать, какому именно благому делу отдать свои средства. Важно отличаться! Например, производителям дезодоранта Axe удалось совместить свою коронную тему - секс - и <a href="https://cdn.trendhunterstatic.com/thumbs/south-gate-restaurant.jpeg">благотворительность</a>, организовав "голый забег" для студентов нескольких колледжей. Все просто - чтобы отдать одежду нуждающимся, нужно раздеться...
 
-<img src="http://cdn.trendhunterstatic.com/thumbs/wearable-mobile-phone-concept-turn-your-fingers-into-a-mobile-phone.jpeg" alt="">
+<img src="https://cdn.trendhunterstatic.com/thumbs/wearable-mobile-phone-concept-turn-your-fingers-into-a-mobile-phone.jpeg" alt="">
 
 17. Носибельные гаджеты. Мобильный телефоне, клавиатура, мышь - все это становится уже элементом стиля. Например, видеокамера прикрепленная к наушнику, которая позволяет вам снимать все что вы видите (Looxcie Wearable Camcorder), напалечный измеритель давления, оповещение о новых письмах .встроенное в футболку, мобильный телефон на ладони (Finger Touching), телефон, обхватывающий запястье (Nokia Morph).
 
-<img src="http://cdn.trendhunterstatic.com/thumbs/mickey-mouse-anatomy.jpeg" alt="" width="200">
+<img src="https://cdn.trendhunterstatic.com/thumbs/mickey-mouse-anatomy.jpeg" alt="" width="200">
 
 16. Превращения брендов. Микки-Маус, Нинтендо,  черепашки ниндзя - все эти друзья нашего детства возвращаются, но уже в новом качестве - как новые иконы стиля.
 
-<img src="http://www.lifeofguangzhou.com/node_10/node_37/node_251/node_471/img/2008/02/06/120228980533889_2.jpg" alt="" width="200">
+<img src="https://www.lifeofguangzhou.com/node_10/node_37/node_251/node_471/img/2008/02/06/120228980533889_2.jpg" alt="" width="200">
 
 15. Уличный стиль. Границы между стилями стираются, бутики выходят из моды. Следующая волна - производитель, который предложит что-то по индивидуальному заказу потребителя. Футболки с принтами, пластмассовые украшения, шерсть, невообразимые сочетания цветов и текстур - чуть сдержаннее, чем мода Харадзюку, но уже немного футуристичнее чем Вествуд. Главное теперь не в том, где ты покупаешь, а в том, как именно ты сочетаешь вещи разных эпох и стилей. Если вы решили открыть стиль-бутик и продавать готовые аутфиты, собранные по кусочкам - сейчас самое время.
 
@@ -38,7 +38,7 @@ date: 2011-01-18
 
 10. Гиперреализм. Все уже научились находить малейшие следы вмешательства в фотографию, и ничего не вызывает такого возмущения, как  редактирование или фальсификация новостных снимков.  Долой фотошоп, даешь качество настоящей фотографии!
 
-<img src="http://uxmag.com/uploads/rooseninteractivebooks/alicefortheipad.jpg" alt="" width="200">
+<img src="https://uxmag.com/uploads/rooseninteractivebooks/alicefortheipad.jpg" alt="" width="200">
 
 9. Тачскрин для детей. Интерактивные книги, в которых оживают иллюстрации, совмещают в себе чтение, обучение и развлечение.
 
@@ -58,7 +58,7 @@ date: 2011-01-18
 
 1. Незаметное потребление. Starbucks прячет свою кофейню под вывеской инди-эспрессо бара, Абсолют продается без лэйбла. Потребители продолжают обвинять крупный бизнес во всех смертных грехах - и это открывает дверь малому бизнесу, который может взмыть высоко, на волне общего недоверия крупным корпорациям.
 
-<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/0qgFTQ8zu3g&rel=0&hl=en_US&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/0qgFTQ8zu3g&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"></embed></object>
+<object width="640" height="390"><param name="movie" value="https://www.youtube.com/v/0qgFTQ8zu3g&rel=0&hl=en_US&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="https://www.youtube.com/v/0qgFTQ8zu3g&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"></embed></object>
 
-По материалам <a href="http://www.trendhunter.com/">Trend Hunter</a>
+По материалам <a href="https://www.trendhunter.com/">Trend Hunter</a>
 

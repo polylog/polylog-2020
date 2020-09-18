@@ -15,5 +15,5 @@ date: 2009-01-28
 <p>И хотя расходы на графическую или, как ее еще называют «медийную», рекламу еще велики, доверие к ней продолжает падать.</p>
 <p><img src="{{ site.assets }}/img/blog/09-01/28-01.png" alt="Окупаемость инвестиций в различные тактики интернет-маркетинга" width="500" height="353"></p>
 <p class="remark">Размер кружков зависит от относительной доли расходов на ту или иную тактику.</p>
-<p><a href="http://www.marketingsherpa.com/article.php?ident=31021" target="_blank" rel="noopener noreferrer">Первоисточник</a></p>
+<p><a href="https://www.marketingsherpa.com/article.php?ident=31021" target="_blank" rel="noopener noreferrer">Первоисточник</a></p>
 

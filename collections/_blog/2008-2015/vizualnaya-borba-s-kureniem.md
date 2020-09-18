@@ -58,5 +58,5 @@ date: 2010-10-05
 
 Надпись со стороны фильтра - "самоубийство", с другой стороны - "убийство". Громкие слова, но визуальное выполнение бедновато...
 
-По материалам <a href="http://www.boredpanda.com/top-40-cool-creative-antismoking-ads/">Bored Panda</a>
+По материалам <a href="https://www.boredpanda.com/top-40-cool-creative-antismoking-ads/">Bored Panda</a>
 

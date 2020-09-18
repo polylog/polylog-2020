@@ -20,5 +20,5 @@ date: 2017-02-09
 <p>Считается, что миллениалы самовлюбленны. Любители селфи с удовольствием делятся подробностями своей жизни с окружающими с помощью социальных сетей. Сыграйте на чрезмерном нарциссизме, подумайте какой контент вашего мероприятия будет пользоваться популярностью в социальных медиа? Обязательно разработайте фотозону и хэштег мероприятия. Миллениалы &ndash; очень удобная аудитория для мероприятий благодаря широкой палитре инструментов и каналов взаимодействия. Наш чек-лист непременно поможет таргетировать аудиторию поколения Y.</p>
 <p>По материалам:</p>
 <p><a href="https://plannerwire.net/8-things-to-avoid-when-engaging-millennials-at-meetings/" target="_blank" rel="noopener noreferrer">Blank Wire</a></p>
-<p><a href="http://www.lookatme.ru/mag/live/dictionary/201679-millenial" target="_blank" rel="noopener noreferrer">LookAtMe</a></p>
+<p><a href="https://www.lookatme.ru/mag/live/dictionary/201679-millenial" target="_blank" rel="noopener noreferrer">LookAtMe</a></p>
 

@@ -18,5 +18,5 @@ date: 2012-03-23
 
 Я нашла это в твоей комнате. Нам нужно поговорить
 
-По материалам <a href="http://www.bitrebels.com/design/know-the-warning-signs-of-art-humor/">bitRebels</a>
+По материалам <a href="https://www.bitrebels.com/design/know-the-warning-signs-of-art-humor/">bitRebels</a>
 

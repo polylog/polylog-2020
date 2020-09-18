@@ -32,5 +32,5 @@ date: 2013-01-31
 
 Или это может быть легко - если вы давно на рынке, если вы сами лично говорили с вашими потребителями или имеете привычку постоянно читать форумы где обсуждают ваши продукты или вашу отрасль вообще, если у вас богатая фантазия, вы умеете простраивать живых персонажей - тогда это легко.
 
-По материалам дискуссии на <a href="http://www.warriorforum.com/copywriting-forum/748462-conversational-copywriting.html">WarriorForum</a>
+По материалам дискуссии на <a href="https://www.warriorforum.com/copywriting-forum/748462-conversational-copywriting.html">WarriorForum</a>
 

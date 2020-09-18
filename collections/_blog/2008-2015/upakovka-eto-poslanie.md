@@ -12,5 +12,5 @@ date: 2008-09-25
 
 <img src="{{ site.assets }}/upload/4356.jpg" alt="Коробка внутри" title="Коробка внутри"  class="post__img" width="468" height="105">
 
-По материалам <a href="http://adsoftheworld.com">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com">Ads of the World</a>
 

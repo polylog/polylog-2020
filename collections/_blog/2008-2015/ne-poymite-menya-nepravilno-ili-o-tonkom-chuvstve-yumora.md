@@ -32,5 +32,5 @@ date: 2009-11-20
 
 Автор материала, Крис Абрахам, один из основателей и директор консалтинговой фирмы Abraham Harrison LLC, специализирующейся на работе со слухами и "сарафанным радио" в интернете.
 
- По материалам <a href="http://www.socialmedia.biz/2009/06/15/your-out-of-context-fart-jokes/"> Socialmedia.biz</a>
+ По материалам <a href="https://www.socialmedia.biz/2009/06/15/your-out-of-context-fart-jokes/"> Socialmedia.biz</a>
 

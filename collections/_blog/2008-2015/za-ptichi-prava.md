@@ -14,5 +14,5 @@ date: 2011-05-19
 
 Рядом с автоматом работали промоутеры, раздавая листовки о том, как можно помочь животным - просто покупая яйца у ферм свободного содержания. Это означает, что животные содержатся в условиях, приближенных к естественным, у них есть просторный загон и возможность гулять в любое время, в отличие от своих менее удачливых собратьев.
 
-<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/g8NmjSh19wU?fs=1&amp;hl=ru_RU&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/g8NmjSh19wU?fs=1&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" width="640" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="640" height="390"><param name="movie" value="https://www.youtube.com/v/g8NmjSh19wU?fs=1&amp;hl=ru_RU&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/g8NmjSh19wU?fs=1&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" width="640" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 

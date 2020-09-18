@@ -166,5 +166,5 @@ date: 2013-02-25
 
 </table>
 
-По материалам <a href="http://wbpllc.wordpress.com/2009/10/13/traditional-marketing-vs-guerilla-marketing-jay-conrad-levinson/">wbpllc.wordpress.com</a>
+По материалам <a href="https://wbpllc.wordpress.com/2009/10/13/traditional-marketing-vs-guerilla-marketing-jay-conrad-levinson/">wbpllc.wordpress.com</a>
 

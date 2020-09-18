@@ -18,5 +18,5 @@ date: 2008-05-07
 <li>Что это было? Когда вы создали бренд, вам нужно наладить систему обратной связи. Отслеживайте все изменения, анализируйте все колебания продаж, проводите исследования узнаваемости. И помните, что<strong> успех должен волновать вас куда больше чем провалы</strong>. Ведь когда вы промахнулись, можно просто сменить направление выстрела, а вот если вы случайно попали – это уже хуже. </li></ul>
 
 
-По материалам <a href="http://www.allbusiness.com/marketing-advertising/branding-brand-development/3984-1.html">AllBusiness.com</a>
+По материалам <a href="https://www.allbusiness.com/marketing-advertising/branding-brand-development/3984-1.html">AllBusiness.com</a>
 

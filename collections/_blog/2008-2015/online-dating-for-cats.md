@@ -30,5 +30,5 @@ date: 2015-03-11
 
 Правда, о том, сколько котов в результате нашли себе хозяев, не сообщается.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/orphaned-cats-find-new-homes-using-tinder-dating-app/">CretiveGuerrillaMarketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/orphaned-cats-find-new-homes-using-tinder-dating-app/">CretiveGuerrillaMarketing</a>
 

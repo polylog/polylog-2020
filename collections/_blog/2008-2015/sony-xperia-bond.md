@@ -6,7 +6,7 @@ date: 2012-11-23
 
 ---
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/Yg8aYw-ODyk?version=3&amp;hl=ru_RU"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/Yg8aYw-ODyk?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/Yg8aYw-ODyk?version=3&amp;hl=ru_RU"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="https://www.youtube.com/v/Yg8aYw-ODyk?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 Перед началом фильма зрители могли взять бесплатные напитки в специальных черных стаканчиках, с логотипом Sony. Они удобно расположились в креслах, ожидая начала сеанса, как на экране появилась надпись "Передача прервана", а затем, в традиционном для шпионских фильмов интерфейсе поиска со спутника, начало загружаться изображение этого самого кинотеатра, к которому камера постепенно приближалась. Всем сидящим в зале было понятно - где-то здесь находится секретный агент!
 
@@ -14,5 +14,5 @@ date: 2012-11-23
 
 Свет в зале гас полностью, и все внимательно вслушивались, пока из одного стаканчика не раздавалась мелодия - "агент" действительно был в зале!
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/sony_xperia_soda_stunt">Ads of the world</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/sony_xperia_soda_stunt">Ads of the world</a>
 

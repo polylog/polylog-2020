@@ -66,5 +66,5 @@ date: 2011-10-06
 
 Ели вы хотите изменить что-то в мире к лучшему, нужно найти своих соратников - тех, у кого похожие цели, сходные идеи. Именно эти люди будут наиболее восприимчивы к вашим сообщениям, они помогут вам.
 
-По материалам <a href="http://www.copyblogger.com/buddha-marketing/">CopyBlogger</a>
+По материалам <a href="https://www.copyblogger.com/buddha-marketing/">CopyBlogger</a>
 

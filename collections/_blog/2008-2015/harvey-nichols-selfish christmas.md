@@ -32,5 +32,5 @@ date: 2014-08-21
 
 Huffington Comedy
 
-По материалам <a href="http://www.adforum.com/">AdForum</a>
+По материалам <a href="https://www.adforum.com/">AdForum</a>
 

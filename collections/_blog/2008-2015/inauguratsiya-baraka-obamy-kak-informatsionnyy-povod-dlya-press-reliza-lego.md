@@ -19,5 +19,5 @@ date: 2009-01-16
 <img src="{{ site.assets }}/img/blog/09-01/16-05.jpg" alt="«Инаугурация Барака Обамы» в Леголенде" width="460" height="400"><br>
 
 <img src="{{ site.assets }}/img/blog/09-01/16-06.jpg" alt="«Инаугурация Барака Обамы» в Леголенде" width="460" height="400"><br>
-<p>По материалам <a href="http://www.telegraph.co.uk/news/picturegalleries/howaboutthat/4270990/Barack-Obamas-inauguration-in-Legoland-California.html" target="_blank" rel="noopener noreferrer">The Daily Telegraph</a></p>
+<p>По материалам <a href="https://www.telegraph.co.uk/news/picturegalleries/howaboutthat/4270990/Barack-Obamas-inauguration-in-Legoland-California.html" target="_blank" rel="noopener noreferrer">The Daily Telegraph</a></p>
 

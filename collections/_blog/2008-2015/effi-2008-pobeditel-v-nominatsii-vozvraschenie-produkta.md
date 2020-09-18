@@ -10,7 +10,7 @@ date: 2008-09-30
 
 Сегодня мы освещаем другую премию - Effie Awards.
 
-Победитель 2008 года в категории "Возвращение продукта" - агентство <a href="http://www.arnoldworldwide.com/arn.cfm" target="_blank" rel="noopener noreferrer">Arnold</a> с кампанией "Прямо с болот" для Ocean Spray Cranberries Inc.
+Победитель 2008 года в категории "Возвращение продукта" - агентство <a href="https://www.arnoldworldwide.com/arn.cfm" target="_blank" rel="noopener noreferrer">Arnold</a> с кампанией "Прямо с болот" для Ocean Spray Cranberries Inc.
 
 <h3>Проблема</h3>
 
@@ -54,7 +54,7 @@ Spray нужно было следовать этой тенденции. Про
 <li><strong>Увеличить ценность бренда</strong> - наша кампания влила свежую кровь в имидж бренда, и позволила отойти от простых ассоциаций с «качеством».</li>
 </ol>
 
-По материалам <a href="http://www.effie.org/winners/showcase/2008/2336">Effie</a>
+По материалам <a href="https://www.effie.org/winners/showcase/2008/2336">Effie</a>
 
 <h3>Другие премии, освещавшиеся в нашем блоге</h3>
 

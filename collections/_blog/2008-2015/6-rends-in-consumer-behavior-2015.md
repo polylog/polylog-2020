@@ -26,5 +26,5 @@ date: 2015-01-20
 
 6. Персонализация. Раньше вы могли выбирать, какой заказ выполняете, сегодня заказ также выбирает вас. Прогресс технологий в том, что некоторые продукты могут отслеживать поведение потребителей и давать им требуемое даже без запроса.
 
-По материалам <a href="http://www.forbes.com/sites/onmarketing/2014/02/04/six-trends-that-will-shape-consumer-behavior-this-year/">Forbes</a>
+По материалам <a href="https://www.forbes.com/sites/onmarketing/2014/02/04/six-trends-that-will-shape-consumer-behavior-this-year/">Forbes</a>
 

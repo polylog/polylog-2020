@@ -32,5 +32,5 @@ date: 2010-06-30
 
 Проходили флэшмобы, когда люди в черном вставали рядами и замирали на какое-то время, держа в руках открытки с надписью "Интересно?". Эти карточки привлекали большое внимание прохожих. На обратной стороне открыток нужно было написать, что именно вызывает у вас интерес, и отправить открытку.  За месяц на адрес института Франклина, написанный на открытке, пришли сотни заполненных карточек. Самые интересные были отсканированы и выложены на сайт, а позже вышла книга.
 
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/Bhyt0hfR6Yg&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Bhyt0hfR6Yg&amp;hl=ru_RU&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+<object width="640" height="385"><param name="movie" value="https://www.youtube.com/v/Bhyt0hfR6Yg&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/Bhyt0hfR6Yg&amp;hl=ru_RU&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
 

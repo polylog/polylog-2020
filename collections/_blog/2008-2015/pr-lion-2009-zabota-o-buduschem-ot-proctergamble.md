@@ -22,5 +22,5 @@ date: 2009-10-21
 
 В рамках кампании была оказана существенная помощь школам Африки: ремонт классов и туалетов, проведен водопровод, школьникам прочитан обширный курс по гигиене и здоровью.
 
-По материалам <a href="http://www.sagoodnews.co.za/health_and_hiv_aids/new_campaign_to_protect_future_of_african_girls.html">GoodNews.co</a>
+По материалам <a href="https://www.sagoodnews.co.za/health_and_hiv_aids/new_campaign_to_protect_future_of_african_girls.html">GoodNews.co</a>
 

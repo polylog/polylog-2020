@@ -40,5 +40,5 @@ date: 2014-11-26
 
  - Мне хочется начать самой писать статьи, не только размещать чужие материалы. Люди приходят ко мне с предложением написать книгу, но я не чувствую себя достаточно квалифицированной.
 
-По материалам <a href="http://www.theguardian.com/science/2013/oct/13/i-fucking-love-science-elsie-andrew">the Guardian </a>
+По материалам <a href="https://www.theguardian.com/science/2013/oct/13/i-fucking-love-science-elsie-andrew">the Guardian </a>
 

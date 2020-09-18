@@ -32,5 +32,5 @@ date: 2009-08-03
 
 По материалам <a href=
 
-"http://www.examiner.com/x-725-Tech-Marketing-Examiner~y2008m12d5-9-biggest-mistakes-government-contractors-make-part-2">Examiner.com</a>
+"https://www.examiner.com/x-725-Tech-Marketing-Examiner~y2008m12d5-9-biggest-mistakes-government-contractors-make-part-2">Examiner.com</a>
 

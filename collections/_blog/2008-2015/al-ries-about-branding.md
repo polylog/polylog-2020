@@ -40,5 +40,5 @@ Energizer лучше Duracell?  Bing лучше Google? Adidas лучше Nike? 
 
 Создать новую категорию продуктов – стратегия получше. Но даже это сложно, если только вы не предпримете еще следующий шаг: дайте новой категории новое имя.
 
-По материалам <a href="http://adage.com/article/al-ries/product-wins-marketing-myths/291305/">AdAge.com</a>
+По материалам <a href="https://adage.com/article/al-ries/product-wins-marketing-myths/291305/">AdAge.com</a>
 

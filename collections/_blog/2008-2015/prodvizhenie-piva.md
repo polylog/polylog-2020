@@ -16,5 +16,5 @@ date: 2010-08-24
 
 <img src="{{ site.assets }}/upload/efesPaperBag.jpg" alt="" class="post__img" width="470" height="313">
 
-По материалам <a href="http://www.adsoftheword.com">Ads of the World</a>
+По материалам <a href="https://www.adsoftheword.com">Ads of the World</a>
 

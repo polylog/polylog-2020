@@ -20,5 +20,5 @@ date: 2014-04-28
 
 В этой области трудно надеяться, что рынок придет к вам сам - рынок перенасыщен предложениями. Нужно активно выходить на рынок, и если ваши клиенты где-то готовы купить ваш продукт - вы должны быть там, и в удобное для клиента время.
 
-По материалам <a href="http://www.entrepreneur.com.ph/startup-tips/5-ways-to-succeed-in-the-souvenir-items-business">Entrepreneur</a>
+По материалам <a href="https://www.entrepreneur.com.ph/startup-tips/5-ways-to-succeed-in-the-souvenir-items-business">Entrepreneur</a>
 

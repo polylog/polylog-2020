@@ -50,5 +50,5 @@ date: 2013-01-20
 
 Планируя PR-кампанию, очень важно помнить о том, что каждому сообщению и каждой аудитории соответствует свой стиль коммуникации.
 
-<a href="http://blog.beniers-consultancy.de/archives/4824"> Beniers-Consultancy</a>
+<a href="https://blog.beniers-consultancy.de/archives/4824"> Beniers-Consultancy</a>
 

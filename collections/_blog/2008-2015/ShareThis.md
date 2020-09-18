@@ -18,5 +18,5 @@ date: 2014-08-02
 
 Руководитель компании, И. Абрахамсон, говорит, что если он и хочет на кого-то буть похожим, так это Твиттер: «Твиттер предлагает решения работающие в реальном времени, в том что касается целевых объявлений. И мне нравится думать, что мы тоже работаем надд платформой для маркетинга в реальном времени».
 
-По материалам <a href="http://www.forbes.com/sites/brucerogers/2014/08/01/learning-about-consumers-by-what-they-share-online/">Forbes</a>
+По материалам <a href="https://www.forbes.com/sites/brucerogers/2014/08/01/learning-about-consumers-by-what-they-share-online/">Forbes</a>
 

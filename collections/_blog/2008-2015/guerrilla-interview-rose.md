@@ -30,5 +30,5 @@ date: 2013-06-09
 
  - Бюджет определяет стратегию. И даже с самым маленьким бюджетом можно найти ту идею и ту стратегию, которая сработает. Все дело в концепции и ее исполнении.
 
-По материалам <a href="http://www.scottsmarketplace.com/blog/business/jason-rose-talks-guerrilla-marketing/"> Scott's Marketplace</a>
+По материалам <a href="https://www.scottsmarketplace.com/blog/business/jason-rose-talks-guerrilla-marketing/"> Scott's Marketplace</a>
 

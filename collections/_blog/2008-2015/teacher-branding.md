@@ -34,5 +34,5 @@ date: 2015-11-20
 
 Эту узкую, конкретную идентичность нужно хорошо выбрать, и придерживаться ее последовательно. Даже если это выглядит для вас несерьезно, не «рыночно», - ваш клиент найдет вас. Гораздо хуже пытаться понравиться всем, и в результате лишиться лица.
 
-По материалам <a href="http://myfootpath.com/mypathfinder/personal-branding-tips-future-current-educators/">My foot path</a>
+По материалам <a href="https://myfootpath.com/mypathfinder/personal-branding-tips-future-current-educators/">My foot path</a>
 

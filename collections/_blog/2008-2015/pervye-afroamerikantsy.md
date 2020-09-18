@@ -24,5 +24,5 @@ date: 2008-11-03
 <li>Первым нобелевским лауреатом стала Тони Моррисон, получившая премию по литературе в 1993.</li>
 <li>В 2005 впервые пост Государственного секретаря США заняла чернокожая женщина — Кандолиза Райс.</li>
 </ul>
-<p>По материалам <a href="http://www.javno.com/en/world/clanak.php?id=153544" target="_blank" rel="noopener noreferrer">Janvo</a></p>
+<p>По материалам <a href="https://www.javno.com/en/world/clanak.php?id=153544" target="_blank" rel="noopener noreferrer">Janvo</a></p>
 

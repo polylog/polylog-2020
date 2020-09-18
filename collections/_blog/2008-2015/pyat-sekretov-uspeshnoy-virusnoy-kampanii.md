@@ -36,5 +36,5 @@ date: 2009-12-10
 
 С такими методами промахнуться почти невозможно - вы в любом случае распространяете  свою информацию, и плюс заводите множество полезных знакомств.
 
-По материалам <a href="http://www.ltseo.com.au/blog/ltseo-ramblings/5-smart-tips-to-jump-start-your-viral-marketing-campaign.html">IT SEO </a>
+По материалам <a href="https://www.ltseo.com.au/blog/ltseo-ramblings/5-smart-tips-to-jump-start-your-viral-marketing-campaign.html">IT SEO </a>
 

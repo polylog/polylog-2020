@@ -34,5 +34,5 @@ date: 2015-04-15
 
 Позиционрование – то, где вы находитесь относительно других участников рынка, причем не с точки зрения рынка, а с точки зрении сознания потребителей. Выяснить, как выглядит пейзаж вашей отрасли в сознании аудитории – непростая задача, но оно того стоит. Вам все равно придется потратить ресурс на выяснение этого: с помощью исследования, или с помощью ряда ошибочных действии на рынке.
 
-По материалам <a ref="http://www.substance151.com/news-insights/articles-presentations/article/five-steps-creating-winning-brand">Substance51</a>
+По материалам <a ref="https://www.substance151.com/news-insights/articles-presentations/article/five-steps-creating-winning-brand">Substance51</a>
 

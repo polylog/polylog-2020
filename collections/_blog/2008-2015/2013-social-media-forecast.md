@@ -18,5 +18,5 @@ Twitter также планирует запустить свою платфор
 
 Pinterest, открывший свободную регистрацию в 2012 году, уже принес довольно много пользы брендам, но не заработал на этом. сначала им предстоит приобрести более широкую аудиторию, однако внимательный специалист уже может заметить ряд полезных инструментов этой социальной сети.
 
-По материалам <a href="http://www.business2community.com/social-media/social-media-advertising-in-2013-0360296"> Business2Community.com</a>
+По материалам <a href="https://www.business2community.com/social-media/social-media-advertising-in-2013-0360296"> Business2Community.com</a>
 

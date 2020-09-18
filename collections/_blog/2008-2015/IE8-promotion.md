@@ -12,5 +12,5 @@ date: 2011-07-16
 
 После четырехдневной кампании на 5% больше людей стали предпочитать IE8, что является настоящим прорывом после долгого времени постоянного снижения популярности.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/microsoft_internet_explorer_8_online_scams_taken_offline?size=_original">Adsoftheworld</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/microsoft_internet_explorer_8_online_scams_taken_offline?size=_original">Adsoftheworld</a>
 

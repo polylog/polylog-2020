@@ -22,5 +22,5 @@ S-oil, один из ведущих продавцов бензина, обра�
 
 И разумеется, на знаках был логотип компании S-oil.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/soil_here_balloon?size=_original"> Ads of the world</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/soil_here_balloon?size=_original"> Ads of the world</a>
 

@@ -16,7 +16,7 @@ date: 2011-07-04
 
 Идея видеовстреч с несколькими участниками также выглядит очень своевременной - ведь сейчас вебкамера есть в каждом ноутбуке.
 
-<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/Tku1vJeuzH4&rel=0&hl=en_US&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/Tku1vJeuzH4&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"></embed></object>
+<object width="640" height="390"><param name="movie" value="https://www.youtube.com/v/Tku1vJeuzH4&rel=0&hl=en_US&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="https://www.youtube.com/v/Tku1vJeuzH4&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"></embed></object>
 
 Маркетологи уже предвидят большие возможности новой сети для бизнеса. Та же идея кругов общения позволит объединить в одном аккаунте пресс-центр, комнату совещаний и доску объявлений: разные виды информации для клиентов, сотрудников, партнеров, журналистов,  от одного аккаунта - как это и происходит в реальной жизни. А уж возможность собирать интересные записи по темам - это отличный способ ввести читателя в курс вашей деятельности и создать "симуляцию блога" - при умно составленном запросе высок уровень получения качественного контента.
 
@@ -24,5 +24,5 @@ date: 2011-07-04
 
 Если описанные в статье <a href="/ru/pr-blog/200-years-of-media">"Два века СМИ: эволюция"</a> тенденции верны, то Google прекрасно в них вписывается - насколько можно судить по предоставленной информации, новая социальная сеть ставит своей первоначальной задачей именно разделение потоков информации, ее отбор, а не создание.
 
-По материалам <a href="http://www.nicolasbordas.fr/et-si-google-plus-etait-plus-pro-que-facebook">NicholasBordas</a>
+По материалам <a href="https://www.nicolasbordas.fr/et-si-google-plus-etait-plus-pro-que-facebook">NicholasBordas</a>
 

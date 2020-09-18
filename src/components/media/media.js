@@ -20,7 +20,7 @@ jQuery(document).ready(($) => {
   });
 
   // 1) Video. Required URL format is
-  // http://www.youtube.com/embed/PzBk4-awY40
+  // https://www.youtube.com/embed/PzBk4-awY40
   // we could also add some parameteres
   // ?rel=0&modestbranding=1&autohide=1&showinfo=0&autoplay=1
   // Available options :
@@ -30,7 +30,7 @@ jQuery(document).ready(($) => {
   // autoSize If false, the box will not be resized to fit content
   // autoResize If false, the content will not be resized after window resize
   // closeBtn
-  // etc: http://fancyapps.com/fancybox/
+  // etc: https://fancyapps.com/fancybox/
   // 2) Image
   // 3) Images won't be scaled to fit to browser's height
   // 4) Images won't exceed the browser's width
@@ -80,9 +80,9 @@ jQuery(document).ready(($) => {
   // 2) By default Magnific Popup supports only one type of URL for each
   // service:
   // YouTube
-  // http://www.youtube.com/watch?v=WV75H2oqSvI
+  // https://www.youtube.com/watch?v=WV75H2oqSvI
   // Vimeo
-  // http://vimeo.com/123123
+  // https://vimeo.com/123123
   // Google Maps
   // https://maps.google.com/maps?q=221B+Baker+Street,+London,+United+Kingdom&hl=en&t=v&hnear=221B+Baker+St,+London+NW1+6XE,+United+Kingdom
   // 3) But it can be rewrited w/ additional parameters

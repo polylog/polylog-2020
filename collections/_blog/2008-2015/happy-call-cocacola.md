@@ -8,5 +8,5 @@ date: 2014-05-14
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zlA9tXYxD8g" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/cocacola_hello_happiness">Ads of the World </a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/cocacola_hello_happiness">Ads of the World </a>
 

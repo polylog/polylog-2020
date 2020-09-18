@@ -19,6 +19,6 @@ date: 2017-03-08
 <p>Светская львица зарабатывает более 10 миллионов долларов в год благодаря заключенным спонсорским контрактам с самыми разными брендами: от производителей еды для собак до дамских сумок.</p>
 <p>Важным элементом в рамках спонсорских контрактов со знаменитостями является оценка эффективности. Рост продаж - основной показатель успеха спонсорского проекта. Однако не стоит забывать также про охват аудитории в YouTube и социальных медиа. Несомненным успехом можно назвать ситуации, когда цитаты из спонсорских контрактов уходят в народ и становятся &laquo;мемами&raquo;.</p>
 <p>По материалам:</p>
-<p><a href="http://www.celebzen.com/6-insane-celebrity-sponsorship-deals/8/" target="_blank" rel="noopener noreferrer">celebzen.com</a></p>
-<p><a href="http://www.sostav.ru/publication/vse-o-rabote-s-selebriti-18206.html" target="_blank" rel="noopener noreferrer">sostav.ru</a></p>
+<p><a href="https://www.celebzen.com/6-insane-celebrity-sponsorship-deals/8/" target="_blank" rel="noopener noreferrer">celebzen.com</a></p>
+<p><a href="https://www.sostav.ru/publication/vse-o-rabote-s-selebriti-18206.html" target="_blank" rel="noopener noreferrer">sostav.ru</a></p>
 

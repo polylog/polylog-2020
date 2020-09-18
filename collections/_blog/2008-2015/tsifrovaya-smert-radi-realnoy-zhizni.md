@@ -16,7 +16,7 @@ Keep a Child Alive - организация занимающаяся борьб�
 
 Агентство пришло к нестандартной идее: даже ненастоящая, виртуальная смерть одной знаменитости привлечет больше внимания, чем миллион реальных смертей. Так что некоторые знаменитости согласились принести себя в жертву - точнее, свое интернет-присутствие.
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/ylmmkQWd22s?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ylmmkQWd22s?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/ylmmkQWd22s?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/ylmmkQWd22s?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 На страницах знаменитостей была размещена переадресация на сайт www.buylife.org, где можно было прочесть их "последнюю волю". - никаких твитов, постов, фотографий, комментариев, пока фанаты не выкупят жизнь звезды обратно. Деньги поступали на счет благотворительной организации, помогающей бороться со СПИДом.
 
@@ -24,5 +24,5 @@ Keep a Child Alive - организация занимающаяся борьб�
 
 В кампании приняли участие Кэти Холмс, Ким Кардашиан, Алишия Кейс, Уиллоу Смит, Серена Уильямс и другие.
 
-По материалам <a href="http://www.canneslions.com/">Cannes Lions</a>
+По материалам <a href="https://www.canneslions.com/">Cannes Lions</a>
 

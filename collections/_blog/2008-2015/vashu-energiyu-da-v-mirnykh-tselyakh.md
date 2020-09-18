@@ -12,7 +12,7 @@ date: 2011-10-17
 
 Чтобы продвигать свой новый процессор Snapdragon S4, Qualcomm решили использовать насекомых. Тараканы, богомолы и другие насекомые бегали в крутящемся колесе, катались на велосипеде по арене мини-цирка, прыгали и вытворяли прочие трюки, чтобы зарядить батарейку телефона снабженного этим процессором.
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/CPwDkVnF-YQ?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/CPwDkVnF-YQ?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/CPwDkVnF-YQ?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/CPwDkVnF-YQ?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 Мессадж понятен - процессоры Snapdragon S4 потребляют очень мало энергии, так что можно просто отловить на кухне пару тараканов и запрячь на беговой дорожке...
 

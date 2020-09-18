@@ -22,5 +22,5 @@ date: 2014-12-16
 
 В 12% роликов используется музыка, источник которой находится в кадре. Это дает более плотный образ реальности, но накладывает определенные ограничения на выбор музыки. 88% роликов используют музыку, чей источник в кадре не показан. Так легче снимать, так как вы можете сначала определиться с видеорядом, а потом подобрать сопровождение.
 
-По материалам <a href="http://blog.mainstreethost.com/what-role-does-music-play-in-the-most-viral-commercials#.VIlCRCusWfh">Main Street Host</a>
+По материалам <a href="https://blog.mainstreethost.com/what-role-does-music-play-in-the-most-viral-commercials#.VIlCRCusWfh">Main Street Host</a>
 

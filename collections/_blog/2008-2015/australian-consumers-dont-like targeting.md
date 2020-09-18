@@ -18,5 +18,5 @@ date: 2013-02-23
 
 Один из способов предложить такой вот свободный выбор - это раздавать что-то бесплатно или предлагать скидки. 49% людей чувствовали, что они больше связаны с брендами которые предлагали им скидки.
 
-По материалам <a href="http://www.warc.com/LatestNews/News/Australians_reject_targeted_ads_.news?ID=31114">WARC.com</a>
+По материалам <a href="https://www.warc.com/LatestNews/News/Australians_reject_targeted_ads_.news?ID=31114">WARC.com</a>
 

@@ -22,7 +22,7 @@ date: 2008-12-02
 <li>Не все смогут прийти — кто-то вынужден будет продолжать работать.</li>
 <li>Всем станет понятно: наступил пугающий режим экономии.</li>
 </ul>
-<p><img src="{{ site.assets }}/img/blog/08-12/02.jpg" alt="Ивент-менеджмент: Новый год" width="470" height="319" longdesc="http://www.flickr.com/photos/breebailey/313733988/"></p>
+<p><img src="{{ site.assets }}/img/blog/08-12/02.jpg" alt="Ивент-менеджмент: Новый год" width="470" height="319" longdesc="https://www.flickr.com/photos/breebailey/313733988/"></p>
 <h3>2. Ресторан вместо Дворца съездов</h3>
 <p>Если прежде под Новый год вы снимали большие залы пафосных бизнес-центров или пятизвездочных гостиниц, попробуйте заказать банкетный зал в обычном ресторане или кафе (<span class="remark">прим. переводчика: вспоминается Елена Молоховец с холодной бараньей ногой из погреба</span>). Здесь вам предоставят большую свободу в составлении меню. <strong>Можно сэкономить 15%.</strong></p>
 <h4 class="caption">Плюсы:</h4>
@@ -162,5 +162,5 @@ date: 2008-12-02
 <li>Разный уровень организации вечеринок.</li>
 <li>Меньше шансов для общения высшего руководства и рядовых сотрудников. </li>
 </ul>
-<p>По материалам <a href="http://eventplanning.about.com/od/eventplanningbasics/tp/reduce_holiday_party_expenses.htm" target="_blank" rel="noopener noreferrer">About.com</a></p>
+<p>По материалам <a href="https://eventplanning.about.com/od/eventplanningbasics/tp/reduce_holiday_party_expenses.htm" target="_blank" rel="noopener noreferrer">About.com</a></p>
 

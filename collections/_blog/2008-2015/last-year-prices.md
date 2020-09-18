@@ -14,5 +14,5 @@ date: 2015-10-29
 
 Несмотря на скромность, кампания имела успех: осведомленность потребителей о низких ценах возросла с 20 до 34%, а доходы от продаж в данной категории товаров вырос на 38,2%.
 
-По материалам <a href="http://adsoftheworld.com/media/outdoor/migros_pl_products_last_years_prices?size=original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/outdoor/migros_pl_products_last_years_prices?size=original">Ads of the World</a>
 

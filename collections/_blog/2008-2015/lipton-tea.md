@@ -14,7 +14,7 @@ date: 2013-04-05
 
 Lipton провел кампанию в сотрудничестве с местным клубом спасателей, которые проводили курсы безопасности на воде, тренировки по фитнесу, а также организовывали уборку мусора на пляже.
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/R-Krv-05xiI?hl=ru_RU&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/R-Krv-05xiI?hl=ru_RU&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/R-Krv-05xiI?hl=ru_RU&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/R-Krv-05xiI?hl=ru_RU&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-По материалам <a href="http://www.keenoncapetown.com/lipton-ice-tea-clifton-4th/">Keenoncapetown.com</a>
+По материалам <a href="https://www.keenoncapetown.com/lipton-ice-tea-clifton-4th/">Keenoncapetown.com</a>
 

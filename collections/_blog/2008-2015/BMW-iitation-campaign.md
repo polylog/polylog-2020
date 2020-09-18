@@ -8,5 +8,5 @@ date: 2015-03-10
 
 <span class="inline inline-left"><img src="{{ site.assets }}/upload/bmw_transformation_english_aotw.jpg" alt="" class="post__img" width="580" height="400"></span>
 
-По материалам <a href="http://adsoftheworld.com/media/dm/bmw_dalcar_bmw_transformation?size=original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/dm/bmw_dalcar_bmw_transformation?size=original">Ads of the World</a>
 

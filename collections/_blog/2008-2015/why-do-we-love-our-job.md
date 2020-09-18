@@ -40,5 +40,5 @@ PR всегда связан со сроками, с этапами. Никак�
 
 Об авторе: Нэнси Воглин  - владелец и директор агентства White Book
 
-По материалам <a href="http://www.prcouture.com/2014/03/03/seven-reasons-you-work-in-pr-love-it/">PR couture </a>
+По материалам <a href="https://www.prcouture.com/2014/03/03/seven-reasons-you-work-in-pr-love-it/">PR couture </a>
 

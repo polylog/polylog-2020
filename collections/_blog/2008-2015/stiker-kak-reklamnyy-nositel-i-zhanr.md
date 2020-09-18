@@ -36,5 +36,5 @@ date: 2008-09-25
 
 <img src="{{ site.assets }}/upload/barto_2.jpg" alt="Стикер-дискета" title="Стикер-дискета"  class="post__img" width="470" height="353">
 
-По материалам <a href="http://www.stickeraward.info/">Sticker Award </a>
+По материалам <a href="https://www.stickeraward.info/">Sticker Award </a>
 

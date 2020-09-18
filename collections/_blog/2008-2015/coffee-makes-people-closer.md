@@ -16,5 +16,5 @@ date: 2015-09-28
 
 За время съемки этой кампании Nescafe с радостью насчитала 33 жеста «дай пять», 285 взмаха рук, 839 улыбки и множество разговоров между пешеходами, получившими бесплатный напиток. Всего лишь за один день было создано 318 мгновенных кофейных контактов. Кампания завершилась фразой “Все начинается с Nescafe”, и относилась она не только к марке кофе, но и к людям на улицах города.
 
-<a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/nescafe-uses-coffee-create-instant-connections">По материалам сайта Creative Guerrilla Marketing</a>
+<a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/nescafe-uses-coffee-create-instant-connections">По материалам сайта Creative Guerrilla Marketing</a>
 

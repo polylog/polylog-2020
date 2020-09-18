@@ -22,5 +22,5 @@ date: 2014-11-14
 
 То, что перекрещенные приборы на тарелке воспроизводят логотип Красного Креста – еще один элемент, дающий кампании внутреннюю связность.
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/polish-red-cross-encourages-donations-unique-restaurant-placemats/">Creative Guerrilla Marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/polish-red-cross-encourages-donations-unique-restaurant-placemats/">Creative Guerrilla Marketing</a>
 

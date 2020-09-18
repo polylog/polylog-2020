@@ -19,4 +19,4 @@ date: 2016-10-26
 <p><i>735% прироста по ключевым показателям эффективности</i></p>
 <p><i>12% прироста продаж в Великобритании</i></p>
 <p>Naked Communications совершили настоящий прорыв, умно использовав современные технологии и представив креативную идею. А чем запомнится клиентам ваш бренд?</p>
-По материалам <a href="http://www.creativebrief.com/" target="_blank" rel="noopener noreferrer">Creative Brief</a>
+По материалам <a href="https://www.creativebrief.com/" target="_blank" rel="noopener noreferrer">Creative Brief</a>

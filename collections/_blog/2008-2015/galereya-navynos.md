@@ -16,5 +16,5 @@ Red Urban, Канада, разработало оригинальную про�
 
 Кампания породила множество откликов в сети, люди вывешивали свои фотографии с картинами, и признавали, что это был лучший способ заставить их говорить о кампании в сети.
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/snKPFltLVRA?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/snKPFltLVRA?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/snKPFltLVRA?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/snKPFltLVRA?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 

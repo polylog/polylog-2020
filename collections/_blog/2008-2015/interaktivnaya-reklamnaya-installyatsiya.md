@@ -10,5 +10,5 @@ date: 2008-09-16
 
 Интересная игра очень  привлекала внимание посетителей торгового центра.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/hyavita_wrinkles?size=_original"> Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/hyavita_wrinkles?size=_original"> Ads of the World</a>
 

@@ -32,5 +32,5 @@ Keane «Личный музыкальный клип»
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PlVXo7BmVLU" frameborder="0" allowfullscreen></iframe>
 
-По материалам <a href="http://www.imediaconnection.com/content/36409.asp">imedia connection </a>
+По материалам <a href="https://www.imediaconnection.com/content/36409.asp">imedia connection </a>
 

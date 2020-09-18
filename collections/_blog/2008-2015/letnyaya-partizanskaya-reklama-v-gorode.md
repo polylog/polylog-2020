@@ -14,7 +14,7 @@ date: 2009-08-14
 <img src="{{ site.assets }}/upload/Bone_Flyover.jpg" alt="" class="post__img" width="470" height="644"></li>
 <li><strong>Выходи на улицу!</strong> - это главный призыв кампании, разработанной агентством Rethink Communications, Канада, для Funktion Personal Training  - компании которая специализируется на организации тренировок на свежем воздухе и спортивных учебных лагерей. По улицам Ванкувера ездил велотренажер, как будто вырвавшийся на свободу из стен спортзала.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/_PpB20JF7tk&rel=0&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&feature=player_embedded&fs=1"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/_PpB20JF7tk&amp;rel=0&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="344"></embed></object></li>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/_PpB20JF7tk&rel=0&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&feature=player_embedded&fs=1"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="https://www.youtube.com/v/_PpB20JF7tk&amp;rel=0&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="344"></embed></object></li>
 <li><strong>Солнечный семафор</strong>, или Solmaforo  - устройство, которое измеряет в реальном времени интенсивность ультрафиолета. Задача кампании - увеличение осведомленности об опасности рака кожи, который можно получить, если загорать не используя кремов, а также продвижение крема от L'Oreal - раздача пробников. У дороги был поставлен этот самый семафор, и около него раздавались пробники. Кампания разработанная Grupo Ferrer Comunicación, Мексика, оказалась успешной - возросли продажи солнцезащитного крема, кроме того во время кампании многие услышали о том, как правильно загорать.
 
 <img src="{{ site.assets }}/upload/ACTIVACIONSOLMAFORO.jpg" alt="" class="post__img" width="470" height="250">
@@ -26,5 +26,5 @@ date: 2009-08-14
 
   </ul>
 
-По материалам <a href="http://www.adsoftheworld.com">Ads of the World</a>
+По материалам <a href="https://www.adsoftheworld.com">Ads of the World</a>
 

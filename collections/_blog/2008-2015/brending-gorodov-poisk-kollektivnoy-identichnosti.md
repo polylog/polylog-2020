@@ -84,7 +84,7 @@ date: 2010-11-26
 
 <img src="{{ site.assets }}/upload/kazan-2013-logo-picture.jpg" alt="" class="post__img" width="198" height="302">
 
-По материалам <a href="http://www.adme.ru/brending/kak-brendiruyut-goroda-69951/">Adme</a>, <a href="http://www.adme.ru/kreativnyj-obzor/logotipy-gorodov-mira-147605/">Adme</a>.
+По материалам <a href="https://www.adme.ru/brending/kak-brendiruyut-goroda-69951/">Adme</a>, <a href="https://www.adme.ru/kreativnyj-obzor/logotipy-gorodov-mira-147605/">Adme</a>.
 
 Другие статьи о брендинге городов и стран:
 

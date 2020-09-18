@@ -17,6 +17,6 @@ date: 2017-02-14
 <p>По материалам:</p>
 <p><a href="https://www.qualtrics.com/blog/the-3-critical-stages-of-event-feedback/" target="_blank" rel="noopener noreferrer">Qualtrics</a></p>
 <p><a href="https://www.snapsurveys.com/blog/collect-direct-feedback-event-surveys/" target="_blank" rel="noopener noreferrer">Snap Surveys</a></p>
-<p><a href="http://tweetwall.com/blog/get-feedback-event-attendees/" target="_blank" rel="noopener noreferrer">Tweet Wall</a></p>
+<p><a href="https://tweetwall.com/blog/get-feedback-event-attendees/" target="_blank" rel="noopener noreferrer">Tweet Wall</a></p>
 <p>Global event industry benchmarks study, 2015, Cvent</p>
 

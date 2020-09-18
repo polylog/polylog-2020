@@ -18,7 +18,7 @@ date: 2017-03-29
 <p>По материалам:</p>
 <p><a href="https://www.prdaily.com/Main/Articles/22328.aspx" target="_blank" rel="noopener noreferrer">PR Daily</a></p>
 <p><a href="https://www.entrepreneur.com/article/288743" target="_blank" rel="noopener noreferrer">Entrepreneur.com</a></p>
-<p><a href="http://mashable.com/2017/03/22/uber-delete-account-500000/#p_uvPeOmvaqn" target="_blank" rel="noopener noreferrer">Mashable.com</a></p>
+<p><a href="https://mashable.com/2017/03/22/uber-delete-account-500000/#p_uvPeOmvaqn" target="_blank" rel="noopener noreferrer">Mashable.com</a></p>
 <p><a href="https://meduza.io/feature/2017/02/01/esche-odno-sledstvie-ukaza-o-migrantah-v-ssha-deleteuber" target="_blank" rel="noopener noreferrer">Meduza</a></p>
 <p><a href="https://www.gazeta.ru/politics/2017/01/26_a_10494581.shtml#page1" target="_blank" rel="noopener noreferrer">Gazeta.ru</a></p>
 <p><a href="https://www.nytimes.com/2017/01/31/business/delete-uber.html?_r=0" target="_blank" rel="noopener noreferrer">NY Times</a></p>

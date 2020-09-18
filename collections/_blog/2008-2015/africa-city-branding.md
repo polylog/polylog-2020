@@ -18,7 +18,7 @@ date: 2013-10-15
 
 Каждый февраль в городе проводится масштабная вечеринка J&B Met, центральным событием которой являются скачки на ипподроме  Kenilworth Race Course. Это невероятно поднимает количество туристов в традиционно низкий сезон.
 
-<img src="http://blog.summerhill.co.za/storage/racehorse-images/river-jetez/river-jetez-jb-met-lead.jpg" alt="" width="500">
+<img src="https://blog.summerhill.co.za/storage/racehorse-images/river-jetez/river-jetez-jb-met-lead.jpg" alt="" width="500">
 
 Йоханнесбург - город мирового класса
 
@@ -26,5 +26,5 @@ date: 2013-10-15
 
 Трудно назвать одно мероприятие, которое характеризует этот город. Но в целом часто именно Йоханнесбург становится первым городом который принимает у себя пбольшое интернациональное мероприятие, будь то Африканская Неделя моды или International Motor show.
 
-По материалам <a href="http://www.bizcommunity.com/Article/196/82/102561.html"> BizCommunity</a>
+По материалам <a href="https://www.bizcommunity.com/Article/196/82/102561.html"> BizCommunity</a>
 

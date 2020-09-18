@@ -40,5 +40,5 @@ date: 2012-07-02
 
 В маркетинге есть тактики для распространения видео-контента. Однако ни один из этих способов не так эффективен, как сами люди, которые делятся видео с другими.
 
-По материалам <a href="http://econsultancy.com/us/blog/10294-seven-tips-for-maximising-engagement-with-online-video-ads">econsultancy</a>
+По материалам <a href="https://econsultancy.com/us/blog/10294-seven-tips-for-maximising-engagement-with-online-video-ads">econsultancy</a>
 

@@ -28,5 +28,5 @@ date: 2015-06-22
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DoocrXEsLto?rel=0" frameborder="0" allowfullscreen></iframe>
 
-По материалам сайта <a href="http://www.creativeguerrillamarketing.com/advertising/contagious-billboard-makes-yawn-promote-coffee/">Creative Guerrilla Marketing</a>
+По материалам сайта <a href="https://www.creativeguerrillamarketing.com/advertising/contagious-billboard-makes-yawn-promote-coffee/">Creative Guerrilla Marketing</a>
 

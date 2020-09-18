@@ -54,5 +54,5 @@ date: 2014-04-30
 
 В наше время как никогда важны заголовки. Именно заголовок отвечает за этот эффект расплывчатой и эмоциональной, образной формулировки.
 
-По материалам <a href="http://blog.hubspot.com/marketing/psychology-marketers-revealing-principles-human-behavior">Blog.Hubspot.Com</a>
+По материалам <a href="https://blog.hubspot.com/marketing/psychology-marketers-revealing-principles-human-behavior">Blog.Hubspot.Com</a>
 

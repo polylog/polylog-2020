@@ -12,7 +12,7 @@ date: 2013-04-09
 
 В феврале 2013 Nivea осуществила необычную кампанию по продвижению специального дезодоранта для стрессовых ситуаций. Людям предлагалось почувствовать себя в настоящей стрессовой ситуации.
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/CMoDvhL14Is?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/CMoDvhL14Is?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/CMoDvhL14Is?version=3&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/CMoDvhL14Is?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 Агентство Felix & Lamberti организовало необычную кампанию в аэропорту. где людей заставляли поверить, что за ними охотится полиция. Их незаметно снимали скрытой камерой, тут же печатали "первые полосы" газет, показывали в "новостях" по внутреннему телевидению. Когда люди начинали сильно нервничать, к ним подходили люди в полицейской форме - но только для того, чтобы подарить флакон дезодоранта.
 
@@ -20,7 +20,7 @@ date: 2013-04-09
 
 Tic Tac уже давно позиционирует себя как конфетки-освежитель дыхания. Компания обратилась к французскому отделению  Ogilvy & Mather, чтобы те разработали креативную кампанию. В результате был организован флэшмоб: в Париже и рядом, на больших площадях, актеры подходили к людям спросить как пройти куда-то, а когда те начинали отвечать, актер притворно падал в обморок, а вместе с ним и все остальные люди заполнявшие площадь!
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/yFW9AT3Ujuc?hl=ru_RU&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/yFW9AT3Ujuc?hl=ru_RU&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/yFW9AT3Ujuc?hl=ru_RU&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/yFW9AT3Ujuc?hl=ru_RU&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 Реакция людей была самой разной - кто-то вообще в страхе убегал, что можно понять. Тем, кто оставался на месте, актеры раздавали упаковки Тик Так.
 
@@ -28,7 +28,7 @@ Tic Tac уже давно позиционирует себя как конфе�
 
 Кампания 2008 года, все еще часто упоминающаяся как очень удачная идея. В 2008 году панды находились на грани исчезновения - их оставалось 1600 особей. WWF решило донести этот факт для людей самым наглядным образом - сделав столько же панд из папье-маше.
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/Cdan8iYsRZk?hl=ru_RU&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Cdan8iYsRZk?hl=ru_RU&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/Cdan8iYsRZk?hl=ru_RU&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/Cdan8iYsRZk?hl=ru_RU&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 Панды были расставлены в Париже, и люди воочию убедились, что 1600 - совсем небольшое число.
 
@@ -40,5 +40,5 @@ Tic Tac уже давно позиционирует себя как конфе�
 
 <img src="{{ site.assets }}/upload/96284016.xxxlarge.jpg" alt="" class="post__img" width="580" height="387">
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/4-amazing-guerrilla-marketing-campaigns/">Creative Guerrilla Marketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/4-amazing-guerrilla-marketing-campaigns/">Creative Guerrilla Marketing</a>
 

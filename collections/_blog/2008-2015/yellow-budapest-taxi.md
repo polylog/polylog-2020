@@ -18,5 +18,5 @@ date: 2013-09-25
 
 <img src="{{ site.assets }}/upload/budapesttaxi3.jpg" alt="" class="post__img" width="580" height="131">
 
-По материалам <a href="http://adsoftheworld.com/media/dm/skoda_allyellow_palette?size=original">Ads of the world </a>
+По материалам <a href="https://adsoftheworld.com/media/dm/skoda_allyellow_palette?size=original">Ads of the world </a>
 

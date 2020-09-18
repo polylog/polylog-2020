@@ -16,5 +16,5 @@ date: 2012-06-26
 
 Если у вас маленький бизнес, новости появляются у вас не так часто, как в больших компаниях. Ваша задача - извлекать максимум из каждого события, и когда новости не происходят - делать их.  Участвуйте в жизни местного сообщества, тогда инициативы по сбору мусора, по помощи пожилым, по марафонам, будут также и вашими новостями.
 
-По материалам <a href="http://www.farrellkramer.com/blog/bid/145883/Public-Relations-Tips-for-Small-Business"> Farrellkramer</a>
+По материалам <a href="https://www.farrellkramer.com/blog/bid/145883/Public-Relations-Tips-for-Small-Business"> Farrellkramer</a>
 

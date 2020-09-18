@@ -32,5 +32,5 @@ WOM сейчас большей частью перешел в цифровое 
 
 Хотя социальные медиа бесплатны, маркетинг в них - нет. И локальный маркетинг может оказаться для вас уникальным случаем сочетать максимально точную направленность кампании с ее невысокой ценой.
 
-По материалам <a href="http://www.clickz.com/clickz/column/2355976/6-reasons-to-consider-local-marketing-as-part-of-your-advertising-campaign">Clickz.com</a>
+По материалам <a href="https://www.clickz.com/clickz/column/2355976/6-reasons-to-consider-local-marketing-as-part-of-your-advertising-campaign">Clickz.com</a>
 

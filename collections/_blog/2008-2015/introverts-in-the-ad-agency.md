@@ -34,5 +34,5 @@ date: 2013-03-30
 
  - кстати, клиенты тоже бывают интровертами. Они предпочитают, чтобы с ними общались письменно, а не по телефону, в рабочие часы и дни, а не по выходным. Им также нужно время для размышления и минимум стресса при общении. Теперь у вас есть специалисты именно для таких клиентов.
 
-По материалам <a href="http://nextness.com.au/management/introverts-in-ad-agencies-a-helpful-guide/">Nextness</a>
+По материалам <a href="https://nextness.com.au/management/introverts-in-ad-agencies-a-helpful-guide/">Nextness</a>
 

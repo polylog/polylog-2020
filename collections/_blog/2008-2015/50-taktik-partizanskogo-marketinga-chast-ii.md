@@ -34,5 +34,5 @@ date: 2008-04-23
 <li><strong>Творческий подход во всем </strong>– и еще одна избитая истина, о которой часто забывают. В области партизанского маркетинга недопустимо насилие над потребителем. Ваша реклама должна ему действительно нравиться, должна его смешить, восхищать, вызывать ощущение «крутизны», симпатии, уважения к компании. Главные люди вашего пиара – дизайнеры и копирайтеры, а не медиа-баеры.</li>
 </ol>
 
-<a href="http://www.bootstrappingblog.com/50-guerrilla-marketing-tactics-you-should-be-using">По материалам Bootstrapping Blog</a>
+<a href="https://www.bootstrappingblog.com/50-guerrilla-marketing-tactics-you-should-be-using">По материалам Bootstrapping Blog</a>
 

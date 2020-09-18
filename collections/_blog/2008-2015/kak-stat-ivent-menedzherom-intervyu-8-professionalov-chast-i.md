@@ -82,5 +82,5 @@ Michaela:   LinkedIn, Twitter и Facebook.
 
 Anne:   Первый сайт на котором я появилась была Ryze. У меня есть аккаунт на Facebook, там показываются записи из моих блогов.  Я очень активна на  LinkedIn.
 
-По материалам <a href="http://www.eventcoup.com/event-planning-careers-how-to-become-an-event?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+EventManagementBlog+(Event+Coup)">Event Coup</a>
+По материалам <a href="https://www.eventcoup.com/event-planning-careers-how-to-become-an-event?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+EventManagementBlog+(Event+Coup)">Event Coup</a>
 

@@ -14,5 +14,5 @@ date: 2011-05-17
 
 Эти наклейки вызвали большой интерес, в барах и пабах начали ходить слухи о Pissalyzer, и самое главное - на 65% больше людей стали вызывать такси в бары и пабы, где были размещены наклейки.
 
-<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/5QgCNyZrRI8?fs=1&amp;hl=ru_RU&amp;rel=0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/5QgCNyZrRI8?fs=1&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" width="640" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="640" height="390"><param name="movie" value="https://www.youtube.com/v/5QgCNyZrRI8?fs=1&amp;hl=ru_RU&amp;rel=0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="https://www.youtube.com/v/5QgCNyZrRI8?fs=1&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" width="640" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 

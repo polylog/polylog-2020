@@ -16,5 +16,5 @@ date: 2013-10-17
 
 Блокирование рекламы - часть духа интернета как свободного пространства. С этой точки зрения единственное решение для рекламодателей и агентств - найти такой метод размещения объявлений, который бы приносил пользу аудитории, и не вызывал желания включить блокировку рекламных сообщений.
 
-По материалам <a href="http://yourbusiness.azcentral.com/behavioral-advertising-versus-semantic-advertising-15970.html"> Your Business</a>
+По материалам <a href="https://yourbusiness.azcentral.com/behavioral-advertising-versus-semantic-advertising-15970.html"> Your Business</a>
 

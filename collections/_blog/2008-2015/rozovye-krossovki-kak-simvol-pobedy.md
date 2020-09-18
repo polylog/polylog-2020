@@ -6,11 +6,11 @@ date: 2008-09-03
 
 ---
 
-<object width="420" height="339"><param name="movie" value="http://www.dailymotion.com/swf/k6uaQ1ZGstOVy1KgdV"><param name="wmode" value="transparent"> <embed src="http://www.dailymotion.com/swf/k6uaQ1ZGstOVy1KgdV" type="application/x-shockwave-flash" width="420" height="339" wmode="transparent" ></embed></object>
+<object width="420" height="339"><param name="movie" value="https://www.dailymotion.com/swf/k6uaQ1ZGstOVy1KgdV"><param name="wmode" value="transparent"> <embed src="https://www.dailymotion.com/swf/k6uaQ1ZGstOVy1KgdV" type="application/x-shockwave-flash" width="420" height="339" wmode="transparent" ></embed></object>
 
 Поведение министра вызвало неоднозначную реакцию прессы и публики – часть считала, что таким образом госпожа Бачелот выставила себя на посмешище, другие – что в политике тоже есть место юмору и  человеческим проявлениям.
 
  Адидас воздержался от комментариев.
 
-По материалам <a href="http://www.lepost.fr/tag/publicite-clandestine/"> le Post</a>
+По материалам <a href="https://www.lepost.fr/tag/publicite-clandestine/"> le Post</a>
 

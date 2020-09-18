@@ -46,5 +46,5 @@ date: 2011-09-13
 
 - Докажите, что ваш продукт был создан именно для того, чтобы бороться с симптомами и решать проблему
 
-По материалам <a href="http://www.copyblogger.com/symptom-copywriting/">CopyBlogger</a>
+По материалам <a href="https://www.copyblogger.com/symptom-copywriting/">CopyBlogger</a>
 

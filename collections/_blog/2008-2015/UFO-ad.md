@@ -8,7 +8,7 @@ date: 2014-07-14
 
 В небе сконструировали логотип игры Halo - большую летающую тарелку, 15 метров в диаметре и 3 тонны весом, составленную из ста тысяч светодиодов. Эту конструкцию подвесили к вертолету, который летал над Темзой и Мостом Тауэр.
 
-<img src="http://www.mobility-trends.com/wp-content/uploads/2013/01/04_halo.jpg" alt="">
+<img src="https://www.mobility-trends.com/wp-content/uploads/2013/01/04_halo.jpg" alt="">
 
-По материалам <a href="http://www.mobility-trends.com/index.php/2012/11/an-ufo-flying-over-london">Mobility-trends</a>
+По материалам <a href="https://www.mobility-trends.com/index.php/2012/11/an-ufo-flying-over-london">Mobility-trends</a>
 

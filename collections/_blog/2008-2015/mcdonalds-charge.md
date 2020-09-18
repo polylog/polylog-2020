@@ -12,5 +12,5 @@ date: 2016-01-24
 
 <img src="{{ site.assets }}/upload/1%20(1).jpg" alt="" class="post__img" width="580" height="410">
 
-По материалам <a href="http://adsoftheworld.com/media/outdoor/mcdonalds_charging?size=original">Ads of the World </a>
+По материалам <a href="https://adsoftheworld.com/media/outdoor/mcdonalds_charging?size=original">Ads of the World </a>
 

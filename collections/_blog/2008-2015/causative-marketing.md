@@ -11,7 +11,7 @@ date: 2017-03-14
 <p>Важно отличать каузативный маркетинг от пожертвования или благотворительности, хотя эти понятия и имеют много общего. Организации не ожидают финансовой отдачи, вкладывая деньги в благотворительность или выполняя свой долг по КСО. Каузативный маркетинг предполагает привлечение новых клиентов и увеличение оборота компании.</p>
 <p>Главная положительная сторона &ndash; унифицированность подхода и широта охвата аудитории. Люди действительно полагают, что бренд скорее заслуживает их лояльности, если он поддерживает некоммерческие организации и фонды. Теперь главная задача ложится на плечи PR-специалистов &ndash; ведь об этом нужно рассказать широким слоям общественности.</p>
 <p>По материалам:</p>
-<p><a href="http://www.marketing-schools.org/types-of-marketing/cause-marketing.html" target="_blank" rel="noopener noreferrer">Marketing Schools</a></p>
-<p><a href="http://www.adweek.com/brand-marketing/infographic-what-consumers-really-think-about-cause-marketing/" target="_blank" rel="noopener noreferrer">Ad Week</a></p>
+<p><a href="https://www.marketing-schools.org/types-of-marketing/cause-marketing.html" target="_blank" rel="noopener noreferrer">Marketing Schools</a></p>
+<p><a href="https://www.adweek.com/brand-marketing/infographic-what-consumers-really-think-about-cause-marketing/" target="_blank" rel="noopener noreferrer">Ad Week</a></p>
 <p><a href="https://causegood.com/blog/what-is-cause-marketing-definition/" target="_blank" rel="noopener noreferrer">Cause Good</a></p>
 

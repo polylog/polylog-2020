@@ -20,5 +20,5 @@ date: 2013-03-05
 
 Несмотря на то, что все люди казалось бы, что-то могут написать, копирайтинг - это профессия, такая же профессия, как нейрохирургия или бурение нефти. Поэтому людям всегда будут нужны хорошие копирайтеры, и конечно ,все будут сначала пытаться что-то сделать сами или прибегать к услугам любителей...
 
-По материалам <a href="http://filthyrichwriter.com/copywriting-qa-why-copywriting-is-here-to-stay/">Filthy Rich Writer </a>
+По материалам <a href="https://filthyrichwriter.com/copywriting-qa-why-copywriting-is-here-to-stay/">Filthy Rich Writer </a>
 

@@ -22,5 +22,5 @@ date: 2014-09-17
 
 Только половина опрошенных отнесла себя к феминисткам, но 89% считают, что вопрос равноправия полов – это вопрос прав человека.
 
-По материалам <a href="http://www.adweek.com/news/technology/these-stats-prove-femvertising-works-160704">Ad Week</a>
+По материалам <a href="https://www.adweek.com/news/technology/these-stats-prove-femvertising-works-160704">Ad Week</a>
 

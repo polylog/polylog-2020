@@ -24,5 +24,5 @@ date: 2014-02-25
 
 Социальные медиа - это категория, где вы можете добиться очень большого успеха при минимуме финансовых вложений, однако не быстро. Многие владельцы маленьких предприятий слышат о том, что это бесплатно, и сразу приходят в восторг. Однако правило "выбирайте любые две опции" здесь неизменно.
 
-По материалам  <img src="http://www.infront.com/blogs/the-infront-blog/2011/10/25/internet-marketing-fast-cheap-effective" alt="">INfront.com</a>
+По материалам  <img src="https://www.infront.com/blogs/the-infront-blog/2011/10/25/internet-marketing-fast-cheap-effective" alt="">INfront.com</a>
 

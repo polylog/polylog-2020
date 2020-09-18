@@ -18,5 +18,5 @@ CEDRO обратились за помощью к агентству Cafeína, �
 
 В результате кампании, за четыре недели посещаемость сайта возросла почти в два раза, и один из трех курильщиков отказывался от любезно протянутой зажигалки и откладывал сигарету, говоря, что теперь уже хочет бросить.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/cedro_information_and_education_center_for_the_prevention_of_drug_abuse_see_you_soon?size=_original">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/cedro_information_and_education_center_for_the_prevention_of_drug_abuse_see_you_soon?size=_original">Ads of the World</a>
 

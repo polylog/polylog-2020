@@ -18,5 +18,5 @@ date: 2010-11-08
 
 Успех этой рискованной кампании был огромным - из-за наплыва публики пришлось даже продлить показ пьесы.
 
-По материалам <a href="http://adsoftheworld.com/">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/">Ads of the World</a>
 

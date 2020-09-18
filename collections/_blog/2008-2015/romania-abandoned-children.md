@@ -20,5 +20,5 @@ date: 2014-09-24
 
 Результат: Почти все прохожие, которые слышали крик, останавливались, открывали коробку.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/beneva_foundation_crying_for_help">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/beneva_foundation_crying_for_help">Ads of the World</a>
 

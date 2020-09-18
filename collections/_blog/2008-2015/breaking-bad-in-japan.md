@@ -10,5 +10,5 @@ date: 2015-03-10
 
 <img src="{{ site.assets }}/upload/breaking_bad_final_board_for_pr_aotw.jpg" alt="" class="post__img" width="580" height="410">
 
-По материалам < href="http://adsoftheworld.com/media/dm/sony_pictures_home_entertainment_breaking_bad_8bit_walter_white?size=original">Ads of the World</a>
+По материалам < href="https://adsoftheworld.com/media/dm/sony_pictures_home_entertainment_breaking_bad_8bit_walter_white?size=original">Ads of the World</a>
 

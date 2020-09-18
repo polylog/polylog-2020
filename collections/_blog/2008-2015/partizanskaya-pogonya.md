@@ -6,5 +6,5 @@ date: 2009-05-14
 
 ---
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/z0kGyg3qLcQ&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/z0kGyg3qLcQ&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/z0kGyg3qLcQ&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/z0kGyg3qLcQ&amp;hl=ru&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 

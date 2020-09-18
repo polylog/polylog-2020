@@ -14,5 +14,5 @@ date: 2015-09-11
 
 С этим креативным подходом AMV BBDO и Pepsi Max успешно завладели вниманием требовательной и молодой целевой аудитории, доказав, что нетрадиционная реклама позволяет торговым маркам обращаться к тем потребителям, на которых не окажут влияние обычные рекламные методы. В наше время непросто выделиться из толпы, именно поэтому необычные маркетинговые средства так важны и привлекательны. Необходимо найти не только правильный, изначально необычный контекст, но и креативно соединить его с маркой.
 
-По материалам сайта <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/pepsi-max-creates-amazing-drone-friend-finder/">Creative Guerrilla Marketing</a>
+По материалам сайта <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/pepsi-max-creates-amazing-drone-friend-finder/">Creative Guerrilla Marketing</a>
 

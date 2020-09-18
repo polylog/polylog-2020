@@ -18,9 +18,9 @@ date: 2010-02-24
 
 Подготовка к запуску продукта. Это чисто практическая цель - вам нужно запустить продукт и вам нужно чтобы о нем узнали. Но для того чтобы это получилось как одномоментная акция, необходима достаточно долгая работа по построению сообщества вокруг вашего бренда. Также сообщество вам может оказаться очень полезным в случае кризиса, каких-то репутационных угроз.  При уже существующем сообществе, нужно определенное время чтобы нужным образом "раскачать" его на участие в акции. </li></ul>
 
-По материалам <a href='http://www.internet-marketing.global-article.ws/mouth-marketing-methods.html'>Internet-marketing</a>
+По материалам <a href='https://www.internet-marketing.global-article.ws/mouth-marketing-methods.html'>Internet-marketing</a>
 
 P.S. И кстати, в Эдинбурге есть  такое кафе -  Word of Mouth.
 
-<a href='http://www.edinburghspotlight.com/2010/02/review-word-of-mouth-cafe-albert-place/'><img src="{{ site.assets }}/upload/Various-2-021-300x212.jpg" alt="" class="post__img" width="300" height="212"></a>
+<a href='https://www.edinburghspotlight.com/2010/02/review-word-of-mouth-cafe-albert-place/'><img src="{{ site.assets }}/upload/Various-2-021-300x212.jpg" alt="" class="post__img" width="300" height="212"></a>
 

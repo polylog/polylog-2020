@@ -48,5 +48,5 @@ date: 2015-09-15
 
 В рекламной сфере необходимо знать, что работает, а что требует улучшения. Умные маркетологи отводят некоторое время в начале каждого месяца на обзор предыдущего с помощью Google Analytics (или другого аналогичного пакета), чтобы выяснить, какие стратегии подняли траффик и эффективность рекламы. Это требует небольших затрат времени, но в дальнейшей перспективе экономит массу ресурса, который вы потратили бы на неэффективные практики.
 
-По материалам  <a href="http://www.resonancecontent.com/blog/bid/197006/10-Things-Successful-Content-Marketers-Do">Resonance Content Marketing</a>
+По материалам  <a href="https://www.resonancecontent.com/blog/bid/197006/10-Things-Successful-Content-Marketers-Do">Resonance Content Marketing</a>
 

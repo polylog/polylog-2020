@@ -26,5 +26,5 @@ Sensation - большая танцевальная вечеринка, на к�
 
 <img src="{{ site.assets }}/upload/Sensation.jpg" alt="" class="post__img" width="470" height="360">
 
-По материалам <a href="http://www.adsoftheworld.com">Ads of the world</a>
+По материалам <a href="https://www.adsoftheworld.com">Ads of the world</a>
 

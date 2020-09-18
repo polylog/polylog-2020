@@ -26,5 +26,5 @@ date: 2014-01-17
 
 8. Пересечения и перекрывающие друг друга элементы. Этот прием работает на ту же цель, что и градиенты - добавляет иллюзию объема и привлекает взгляд.
 
-По материалам < href="http://www.slideshare.net/slideshow/embed_code/30892862?rel=0#btnNext">SlideShare
+По материалам < href="https://www.slideshare.net/slideshow/embed_code/30892862?rel=0#btnNext">SlideShare
 

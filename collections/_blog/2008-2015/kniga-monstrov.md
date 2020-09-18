@@ -26,7 +26,7 @@ PR-агентство Try Advertising Agency, Осло, Норвегия, раз
 
 <img src="{{ site.assets }}/upload/monsters4.jpg" alt="" class="post__img" width="250" height="235">
 
-<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/g3VOR5DvzXw?fs=1&amp;hl=ru_RU&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/g3VOR5DvzXw?fs=1&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="390"></embed></object>
+<object width="640" height="390"><param name="movie" value="https://www.youtube.com/v/g3VOR5DvzXw?fs=1&amp;hl=ru_RU&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/g3VOR5DvzXw?fs=1&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="390"></embed></object>
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/">Ads of the world</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/">Ads of the world</a>
 

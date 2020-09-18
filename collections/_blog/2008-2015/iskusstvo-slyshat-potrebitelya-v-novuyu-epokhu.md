@@ -30,5 +30,5 @@ date: 2008-05-21
 
 <strong>Новые возможности – это всегда новые риски</strong>. Вам предстоит создать стратегию интернет-маркетинга и пиара в сети, тщательно ее продумать – но также быть способным ее изменить  соответствии с меняющимися условиями. Удача сопутствует смелым!
 
-По материалам <a href="http://www.ogilvypr.com/expert-views/personal-media-3.cfm">Ogilvy PR </a>
+По материалам <a href="https://www.ogilvypr.com/expert-views/personal-media-3.cfm">Ogilvy PR </a>
 

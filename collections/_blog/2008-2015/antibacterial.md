@@ -12,5 +12,5 @@ date: 2015-10-16
 
 Эта кампания по партизанскому маркетингу привлекла внимание посетителей, которые с удовольствием играли с забавными шариками. Вскоре на витрине не осталось ни одной «бактерии»
 
-По материалам <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/bacteria-have-to-stay-outside-guerrilla-marketing-campaign/">CreativeGuerrillaMarketing</a>
+По материалам <a href="https://www.creativeguerrillamarketing.com/guerrilla-marketing/bacteria-have-to-stay-outside-guerrilla-marketing-campaign/">CreativeGuerrillaMarketing</a>
 

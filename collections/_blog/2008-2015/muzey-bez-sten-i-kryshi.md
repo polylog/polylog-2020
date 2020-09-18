@@ -34,7 +34,7 @@ date: 2009-11-11
 
 На сегодня Pampero воспринимается молодежью Португалии как бренд, поддерживающий альтернативных художников и творческих людей, а сайт музея привлекает все новых и новых посетителей, там ведутся оживленные дискуссии о современном искусстве. Там можно видеть фотографии арт-объектов музея, если вы не можете сами приехать в Лиссабон. Музей поддерживает таких международных художников, как Dolk, Jef Aerosol, а также португальских мастеров баллончика и трафарета - Efeito Magenta, O Colectivo Bitmap.
 
-<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/ooscH571RAA&border=1&color1=0xd6d6d6&color2=0xf0f0f0&hl=en&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/ooscH571RAA&amp;border=1&amp;color1=0xd6d6d6&amp;color2=0xf0f0f0&amp;hl=en&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="349"></embed></object>
+<object width="425" height="349"><param name="movie" value="https://www.youtube.com/v/ooscH571RAA&border=1&color1=0xd6d6d6&color2=0xf0f0f0&hl=en&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="https://www.youtube.com/v/ooscH571RAA&amp;border=1&amp;color1=0xd6d6d6&amp;color2=0xf0f0f0&amp;hl=en&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="349"></embed></object>
 
-По материалам <a href="http://theinspirationroom.com/daily/2009/ephemeral-museum-in-lisbon/"> the Inspiration Room</a>
+По материалам <a href="https://theinspirationroom.com/daily/2009/ephemeral-museum-in-lisbon/"> the Inspiration Room</a>
 

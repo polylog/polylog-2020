@@ -30,5 +30,5 @@ date: 2014-12-20
 
 10. Репетируйте. Спикеры ТЕД обязаны прорепетировать свой спич как минимум дважды, один раз  - в той одежде и том зале, где будет происходить само выступление. Вам это не обязательно делать, но репетиции помогают.
 
-По материалам <a href="http://www.simswyeth.com/20130424-tips-from-ted-10-commandments-of-public-speaking/">simsWyeth</a>
+По материалам <a href="https://www.simswyeth.com/20130424-tips-from-ted-10-commandments-of-public-speaking/">simsWyeth</a>
 

@@ -44,5 +44,5 @@ VisitBritain – компания, ответственная за то, что 
 
 Золото в категории PR в секторе «Туризм, путешествия и отдых», золото в категории PR “использование цифровых платформ”, серебро в категории PR «Использование контента созданного пользователями».
 
-По материалам <a href="http://social.ogilvy.com/the-social-media-myth/">Social.Ogilvy.com</a>
+По материалам <a href="https://social.ogilvy.com/the-social-media-myth/">Social.Ogilvy.com</a>
 

@@ -6,7 +6,7 @@ date: 2008-09-17
 
 ---
 <p>На YouTube выложена серия роликов, которые объединены в одну историю. Начало - один ролик, где герой - в лучших традициях литературы и в стилистике клипа Prodigy - просыпается с похмелья и в постели с девушкой. Ему нужно срочно выбегать на работу, и зрителю предлагается выбрать - каким образом это сделать. После этого загружается следующий ролик, показывающий, что же происходит после этого выбора. </p>
-<object type="application/x-shockwave-flash" data="http://www.youtube.com/v/HoOCiaxIZF4&amp;hl=ru&amp;fs=1" width="425" height="344"><param name="movie" value="http://www.youtube.com/v/HoOCiaxIZF4&amp;hl=ru&amp;fs=1"><param name="wmode" value="transparent"></object>
+<object type="application/x-shockwave-flash" data="https://www.youtube.com/v/HoOCiaxIZF4&amp;hl=ru&amp;fs=1" width="425" height="344"><param name="movie" value="https://www.youtube.com/v/HoOCiaxIZF4&amp;hl=ru&amp;fs=1"><param name="wmode" value="transparent"></object>
 <p>Причем сообщения, которые ведут к правильному выбору, всегда приходят на телефон героя - разумеется, это Instinct  от Samsung. Неправильные сообщения поступают в другом виде.<br>
 
 Слоган кампании - "следуй за инстинктом".<br>

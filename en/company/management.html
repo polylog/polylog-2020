@@ -19,7 +19,7 @@ style: |
 
 <div class="management row">
   {% for person in site.data.persons %}
-  <figure class="img-person" itemscope itemtype="http://schema.org/Person">
+  <figure class="img-person" itemscope itemtype="https://schema.org/Person">
     <img src="{{ site.assets }}/img/people/{{ person.slug }}.png" srcset="{{ site.assets }}/img/people/{{ person.slug }}.png 1x, {{ site.assets }}/img/people/{{ person.slug }}@2x.png 2x" itemprop="image" alt="{{ person.name }}">
     <figcaption>
       {% if person.email %}

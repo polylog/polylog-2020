@@ -30,5 +30,5 @@ date: 2011-03-10
 
 Солдаты армии США спасают сумасшедшего фаната Бэтмана
 
-По материалам <a href="http://jazarah.net/blog/thanks-to-press-freedom-you-know-better/">Jazareh.net</a>
+По материалам <a href="https://jazarah.net/blog/thanks-to-press-freedom-you-know-better/">Jazareh.net</a>
 

@@ -24,5 +24,5 @@ date: 2015-08-05
 
 "Некоторые рождаются великими, некоторые достигают величия, а некоторые нанимают специалистов по PR” – Дэниел Дж. Бурстин
 
-По материалам <a href="http://www.contentfac.com/damn-i-wish-id-said-that-50-of-our-favorite-pr-quotes/">ContentFactory</a>
+По материалам <a href="https://www.contentfac.com/damn-i-wish-id-said-that-50-of-our-favorite-pr-quotes/">ContentFactory</a>
 

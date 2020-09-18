@@ -13,5 +13,5 @@ date: 2008-09-15
 <li><strong>Следите за событиями в сети, исследуйте возможности Интернета</strong>. Возможно, вы не можете выделять большие бюджеты на пиар и рекламу, на свои исследования потребительского поведения – но изучение мнений в сети относительно дешевый способ. Точно также, как ведение своего блога и участие в обсуждениях.</li>
 </ol>
 
-По материалам <a href="http://www.indiaprblog.com/2008/06/five-simple-image-management-ideas-for-small-companies.html">India PR Blog </a>
+По материалам <a href="https://www.indiaprblog.com/2008/06/five-simple-image-management-ideas-for-small-companies.html">India PR Blog </a>
 

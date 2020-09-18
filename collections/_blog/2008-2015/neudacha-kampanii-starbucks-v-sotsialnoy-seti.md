@@ -8,9 +8,9 @@ date: 2009-05-25
 
 Кафе Starbucks запустило рекламную кампанию с размещением постеров в шести крупных городах Америки и использованием социальных сетей. Был объявлен конкурс на первую фотографию этого постера, которую надо было разместить в сети и сообщить об этом с использованием Twitter. При этом нужно было использовать  заранее определенные компанией хаштеги (специальные теги в Twitter, с помощью которых можно собрать твиты определенной тематики и сделать большой тематический поток из них).
 
-Но, к несчастью для Starbucks, об этой акции узнал либеральный активист и автор фильмов Робет Гринвальд, основатель компании "Brave New Films". Гринвальд несколько месяцев работал над съемками <a href="http://stopstarbucks.com/robert/">видео против Starbucks</a>, которое разместил на youTube как раз в день начала рекламной кампании Starbucks. В видео представлены интервью с некоторыми прошлыми и настоящими сотрудниками Starbucks, из которых становится видно, что компания не заботится должным образом о своих сотрудниках.
+Но, к несчастью для Starbucks, об этой акции узнал либеральный активист и автор фильмов Робет Гринвальд, основатель компании "Brave New Films". Гринвальд несколько месяцев работал над съемками <a href="https://stopstarbucks.com/robert/">видео против Starbucks</a>, которое разместил на youTube как раз в день начала рекламной кампании Starbucks. В видео представлены интервью с некоторыми прошлыми и настоящими сотрудниками Starbucks, из которых становится видно, что компания не заботится должным образом о своих сотрудниках.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/L58EKo9XYiE&rel=0&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/L58EKo9XYiE&amp;rel=0&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/L58EKo9XYiE&rel=0&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="https://www.youtube.com/v/L58EKo9XYiE&amp;rel=0&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
 
 В своем интервью Роберт Гринвальд говорит, что "Когда я увидел сообщение о рекламной кампании Starbucks, я тут же позвонил своим коллегам,  и мы мгновенно разместили свое видео. Когда мы увидели, что starbucks объявляет конкурс, мы тут же решили к нему присоединиться. Я не знаю, может, это совпадение, но через несколько часов после того, как мы разместили наши фотографии с людьми держащими плакаты с предложениями к Говарду Шульцу, исполнительному директору Starbucks, конкурс был остановлен."
 
@@ -24,5 +24,5 @@ date: 2009-05-25
 
 Примечателен один из комментариев к анти-Starbucks видео "несомненно, оплачено McDonalds".
 
-по материалам <a href="http://obrag.org/?p=7640">Obrag.org</a>
+по материалам <a href="https://obrag.org/?p=7640">Obrag.org</a>
 

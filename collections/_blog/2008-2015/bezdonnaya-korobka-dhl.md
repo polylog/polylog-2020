@@ -10,5 +10,5 @@ date: 2009-03-26
 
 <img src="{{ site.assets }}/upload/dhlboxes.jpg" alt="" class="post__img" width="470" height="260">
 
-По материалам <a href="http://adsoftheworld.com/taxonomy/media/ambient">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/taxonomy/media/ambient">Ads of the World</a>
 

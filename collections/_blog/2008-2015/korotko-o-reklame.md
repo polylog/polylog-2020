@@ -34,5 +34,5 @@ date: 2009-07-06
 
  “Клиент не идиот. Он – ваша жена». Дэвид Огилви
 
-По материалам <a href="http://www.spotlightideas.co.uk/?p=2414">Spotlight Ideas</a>
+По материалам <a href="https://www.spotlightideas.co.uk/?p=2414">Spotlight Ideas</a>
 

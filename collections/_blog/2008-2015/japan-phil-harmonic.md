@@ -26,5 +26,5 @@ date: 2014-06-01
 
 Капания получила Золотого Льва на фестивале Каннские Львы.
 
-По материалам <a href="http://theinspirationroom.com/daily/2013/japan-pill-harmonic/">the Inspiration Room</a>
+По материалам <a href="https://theinspirationroom.com/daily/2013/japan-pill-harmonic/">the Inspiration Room</a>
 

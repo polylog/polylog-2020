@@ -26,5 +26,5 @@ date: 2015-01-13
 
 <img src="{{ site.assets }}/upload/pencil2.jpg" alt="" class="post__img" width="580" height="507">
 
-По материалам <a href="http://adsoftheworld.com/media/dm/mccann_health_stress_test_pencils">Ads of the World</a>
+По материалам <a href="https://adsoftheworld.com/media/dm/mccann_health_stress_test_pencils">Ads of the World</a>
 

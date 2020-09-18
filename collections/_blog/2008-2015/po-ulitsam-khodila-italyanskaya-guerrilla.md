@@ -12,7 +12,7 @@ date: 2008-10-08
 
 В продвижении бренда мебели для дома DomItalia, приуроченному к международному мебельному салону в городе Удин, использовалась комбинация методов: "товар лицом" и люди-буквы. Команда из десяти партизан ходила по улицам, неся на плечах легкие разноцветные стулья. В определенных местах команда ставила стулья в ряд и садилась на них. На майке каждого из команды партизанского маркетинга была одна из букв названия "Domitalia", а у первого в цепочке - логотип компании.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/mooIE7p2N2c&color1=0xb1b1b1&color2=0xcfcfcf&fs=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/mooIE7p2N2c&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/mooIE7p2N2c&color1=0xb1b1b1&color2=0xcfcfcf&fs=1"><param name="wmode" value="transparent"><embed src="https://www.youtube.com/v/mooIE7p2N2c&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
 
-По материалам <a href="http://videos.streetfire.net/video/Guerrilla-marketing-lato_189560.htm">StreetFire.net</a>
+По материалам <a href="https://videos.streetfire.net/video/Guerrilla-marketing-lato_189560.htm">StreetFire.net</a>
 

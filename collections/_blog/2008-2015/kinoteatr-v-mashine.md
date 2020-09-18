@@ -14,7 +14,7 @@ date: 2010-12-14
 
 После того, как некоторое время транслировалось изображение с камеры, в "зеркале" появлялся слоган "Возьми с собой кого захочешь", а также информация о 10% скидки на эту машину, которые можно получить, предъявив билет из кинотеатра.
 
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/iUuADD1pOpc?fs=1&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/iUuADD1pOpc?fs=1&amp;hl=ru_RU" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+<object width="640" height="385"><param name="movie" value="https://www.youtube.com/v/iUuADD1pOpc?fs=1&amp;hl=ru_RU"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/iUuADD1pOpc?fs=1&amp;hl=ru_RU" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
 
-По материалам <a href="http://adsoftheworld.com">Ads of the World </a>
+По материалам <a href="https://adsoftheworld.com">Ads of the World </a>
 

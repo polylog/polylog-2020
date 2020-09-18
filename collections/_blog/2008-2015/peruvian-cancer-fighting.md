@@ -30,5 +30,5 @@ date: 2013-11-01
 
 Кампания получила широкое внимание прессы и интернета. Видя сострадание проявленное заключенными, перуанцы очень вдохновились и помогали очень активно. Этот год стал рекордным по сбору денег.
 
-По материалам <a href="http://adsoftheworld.com/media/ambient/peruvian_cancer_foundation_searching_for_hearts">Ads of the world</a>
+По материалам <a href="https://adsoftheworld.com/media/ambient/peruvian_cancer_foundation_searching_for_hearts">Ads of the world</a>
 

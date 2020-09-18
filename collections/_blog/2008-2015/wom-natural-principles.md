@@ -38,5 +38,5 @@ date: 2014-02-15
 
 Несмотря на то, что мы живем в эпоху интернета, 90% рекомендаций продуктов или брендов все еще происходят оффлайн, в реальном мире. И каждая беседа может стать для вашего бренда важным моментом.
 
-По материалам <a href="http://www.edelmandigital.com/2014/03/27/friday5-truths-for-a-successful-word-of-mouth-program">EdelmanDigital</a>
+По материалам <a href="https://www.edelmandigital.com/2014/03/27/friday5-truths-for-a-successful-word-of-mouth-program">EdelmanDigital</a>
 
