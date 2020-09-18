@@ -34,6 +34,9 @@ baseurl: ''
 assets: /a
 # assets: https://assets.polylog.ru
 
+# set to 'true' to enable Netlify CMS (/admin) in production builds
+netlifycms: true
+
 logo: /img/logo/polylog-logo.svg
 image: /img/polylog.png
 icon: /img/graphics/icon.png
