@@ -27,7 +27,7 @@ description: >-
 # The base hostname & protocol for the site without a trailing slash,
 # e.g. https://example.tld
 # url: https://www.polylog.ru
-# url: https://polylog.super-mark.ru
+url: https://polylog.netlify.app
 
 # the subpath of the site, e.g. /blog
 baseurl: ''
