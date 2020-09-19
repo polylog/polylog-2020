@@ -5,32 +5,24 @@
  */
 
 (($) => {
-  /**
-   * Disable Dropdowns on Mobiles and Change Dropdowns Triggers on Laptops
-   */
+  // Disable Dropdowns on Mobiles and Change Dropdowns Triggers on Laptops
   function controlDropdowns() {
     if (window.matchMedia('(max-width: 767px)').matches) {
       $('.js-menu-link, .navbar-dropdown-toggle-split').attr('data-toggle', '');
     } else if (window.matchMedia('(min-width: 768px) and (max-width: 1199px)').matches) {
-      /**
-       * Turn off dropdown trigger behavior on split button link and turn on it
-       * on link
-       */
+      // Turn off dropdown trigger behavior on split button link and turn on it
+      // on link
       $('.js-menu-link').attr('data-toggle', 'dropdown');
       $('.navbar-dropdown-toggle-split').attr('data-toggle', '');
     } else {
-      /**
-       * Turn off dropdown trigger behavior on link and turn on it on split
-       * button
-       */
+      // Turn off dropdown trigger behavior on link and turn on it on split
+      // button
       $('.js-menu-link').attr('data-toggle', '');
       $('.navbar-dropdown-toggle-split').attr('data-toggle', 'dropdown');
     }
   }
 
-  /**
-   * Hide dropdown after mouse leaved navbar area
-   */
+  // Hide dropdown after mouse leaved navbar area
   // $('.navbar-item.dropdown').mouseenter((e) => {
   //   const el = $(e.currentTarget);
   //     setTimeout(() => {
@@ -56,7 +48,6 @@
     }, 1500);
   });
 
-
   /**
    * Change CTA Label
    */
@@ -68,11 +59,9 @@
     }
   }
 
-  // Execute on document ready
-  $(() => {
-    controlDropdowns();
-    changeCTAlabel();
-  });
+  // Execute
+  controlDropdowns();
+  changeCTAlabel();
 
   // Execute on window resize
   $(window).resize(() => {

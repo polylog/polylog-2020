@@ -7,6 +7,6 @@
  *
  */
 
-jQuery(document).ready(function($) {
+(($) => {
   $('.list-view-item br').replaceWith(' ');
-});
+})(jQuery);

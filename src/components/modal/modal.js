@@ -9,7 +9,7 @@
  *
  */
 
-jQuery(document).ready(($) => {
+(($) => {
   // For some reason, the arrow function does not work here
   $('.js-open-modal').on('click', function(e) { // eslint-disable-line
 
@@ -52,5 +52,4 @@ jQuery(document).ready(($) => {
       // });
     }
   });
-
-});
+})(jQuery);

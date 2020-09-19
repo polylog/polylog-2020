@@ -1,31 +1,31 @@
-$(document).ready(function() {
-  var switched = false;
-  var updateTables = function() {
-    if (($(window).width() < 767) && !switched ){
-      switched = true;
-      $('.table-responsive').each(function(i, element) {
-        splitTable($(element));
+(($) => {
+  let switched = false;
+
+  function setCellHeights(original, copy) {
+    const tr      = original.find('tr');
+    const trCopy   = copy.find('tr');
+    const heights   = [];
+
+    tr.each((index) => {
+      const self  = $(this);
+      const tx      = self.find('th, td');
+
+      tx.each(() => {
+        const height = $(this).outerHeight(true);
+        heights[index] = heights[index] || 0;
+        if (height > heights[index]) heights[index] = height;
       });
-      return true;
-    }
-    else if (switched && ($(window).width() > 767)) {
-      switched = false;
-      $('.table-responsive').each(function(i, element) {
-        unsplitTable($(element));
-      });
-    }
-  };
+    });
 
-  $(window).load(updateTables);
-  $(window).on('redraw',function(){switched=false;updateTables();}); // An event to listen for
-  $(window).on('resize', updateTables);
+    trCopy.each((index) => {
+      $(this).height(heights[index]);
+    });
+  }
 
-
-  function splitTable(original)
-  {
+  function splitTable(original) {
     original.wrap('<div class=\'table-wrapper\' />');
 
-    var copy = original.clone();
+    const copy = original.clone();
     copy.find('td:not(:first-child), th:not(:first-child)').css('display', 'none');
     copy.removeClass('responsive');
 
@@ -42,26 +42,24 @@ $(document).ready(function() {
     original.unwrap();
   }
 
-  function setCellHeights(original, copy) {
-    var tr      = original.find('tr'),
-      tr_copy   = copy.find('tr'),
-      heights   = [];
-
-    tr.each(function (index) {
-      var self  = $(this),
-        tx      = self.find('th, td');
-
-      tx.each(function () {
-        var height = $(this).outerHeight(true);
-        heights[index] = heights[index] || 0;
-        if (height > heights[index]) heights[index] = height;
+  // eslint-disable-next-line consistent-return
+  const updateTables = () => {
+    if (($(window).width() < 767) && !switched) {
+      switched = true;
+      $('.table-responsive').each((i, element) => {
+        splitTable($(element));
       });
+      return true;
+    }
+    if (switched && ($(window).width() > 767)) {
+      switched = false;
+      $('.table-responsive').each((i, element) => {
+        unsplitTable($(element));
+      });
+    }
+  };
 
-    });
-
-    tr_copy.each(function (index) {
-      $(this).height(heights[index]);
-    });
-  }
-
-});
+  $(window).load(updateTables);
+  $(window).on('redraw', () => { switched = false; updateTables(); }); // An event to listen for
+  $(window).on('resize', updateTables);
+})(jQuery);

@@ -4,14 +4,12 @@
  * -----------------------------------------------------------------------------
  */
 
-jQuery(document).ready(($) => {
+(($) => {
   const $subscriptionBtn = $('.subscription .form-submit, .webform-client-form-3601 .form-submit');
   const $disclaimerToolptip = $('.subscription .form-disclaimer, .webform-client-form-3601 .form-disclaimer');
 
-  /**
-   * Round corners of page header of 2nd and the next rwsult pages and layed
-   * out above the projects filter
-   */
+  // Round corners of page header of 2nd and the next rwsult pages and layed
+  // out above the projects filter
   $('.row.filter, #views-exposed-form-projects-page, #views-exposed-form-projects-en-page').prev('.page-header').css('border-radius', '3px');
 
   // Disable subscription form on it thank you page.
@@ -64,4 +62,4 @@ jQuery(document).ready(($) => {
 
   // Toggle fieldset on full page
   $('#form-services').on('change', fundraisingDetails);
-});
+})(jQuery);
