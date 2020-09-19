@@ -1,0 +1,10 @@
+# specify site authors in this file
+
+vladimir_nikishin:
+  name: vladimir_nikishin
+  email: vladimir.nikishin@gmail.com
+  web: https://super-mark.ru
+
+valeriya_isakova:
+  name: Valeriya Isakova
+  email: isakova@polylog.ru
