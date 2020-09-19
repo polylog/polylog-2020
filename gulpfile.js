@@ -109,6 +109,7 @@ const paths = {
     src: {
       main: [
         `${root.src}/**/*.js`,
+        `!${root.src}/ts/**/*.js`,
         `!${root.src}/js/vendor/*.js`,
       ],
       plugins: [
@@ -174,7 +175,7 @@ function jekyllServe(done) {
   child.spawn(
     'jekyll',
     // ['serve', '--host=192.168.0.14', '--watch', '--incremental', '--drafts'],
-    ['serve', '--watch', '--incremental', '--drafts', '--config', '_config.yml,_config.dev.yml'],
+    ['serve', '--watch', '--incremental', '--drafts', '--config', '_config.yml'],
     { stdio: 'inherit' },
   );
   done();
