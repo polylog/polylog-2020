@@ -2,82 +2,32 @@
 layout: default
 ---
 
-<main class="container">
+<h2>{{ page.title }}</h2>
 
-  <!-- HEADER -->
-  <div class="page-header">
-    <h1 class="page-header-headline">
-      <a class="page-header__link" href="{{ page.permalink }}">{{ page.title }}</a>
-    </h1>
-    <span class="page-header-icon" role="presentation"></span>
-  </div>
+{% include page-intro.html %}
 
-  <div class="row">
+{{ content }}
 
-    <!-- POSTS -->
-    <ul class="list-view narrow">
-      {% for post in paginator.posts %}
-        <li class="entry" itemscope itemtype="https://schema.org/Article">
+<section>
 
-          {% if post.image %}
-            <figure class="media-wrapper">
-              <a href="{{ post.permalink }}">
-                <img src="{{ site.assets }}{{ post.image }}" alt="{{ post.title | strip_html | escape }}">
-              </a>
-            </figure>
-          {% endif %}
+  <h3>Posts</h3>
 
-          <h2 class="entry-headline" itemprop="headline">
-            <a href="{{ post.permalink }}">
-              {{ post.title }}
-            </a>
-          </h2>
+  <ul>
+    {% for post in site.posts %}
+    {% assign author = site.data.authors[post.author] %}
+      <li>
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <time datetime="{{ post.date }}">
+          <small>
+            <strong>{{ post.date | date_to_string }}</strong>
+            {% if author %}
+              by {{ author.name }}
+            {% endif %}
+          </small>
+        </time>
+        {{ post.excerpt | strip_newlines | truncate: 180 }}
+      </li>
+    {% endfor %}
+  </ul>
 
-          <div class="entry-summary" itemprop="about">
-            <p>{{ post.description }}</p>
-          </div>
-
-          {% include date.html type=post %}
-
-          {% if post.categories[0] %}
-            {% for category in post.categories %}
-              <a class="entry-tag" href="/ru/pr-blog/{{ category | uri_escape }}" rel="tag">{{ category }}</a>{%- unless forloop.last -%}, {%- endunless -%}
-            {% endfor %}
-          {% endif %}
-        </li>
-      {% endfor %}
-    </ul>
-
-    <!-- SIDEBAR -->
-    <aside class="sidebar blog">
-
-      <!-- ТЕМЫ -->
-      {% comment %} Объект site.categories создается только для материалов типа
-      post (созданных) в папке _posts. Поэтому в данном случае невозможен
-      перебор циклом и счетчик site.categories[name].size {% endcomment %}
-      <div class="module is-categories">
-        <h2 class="module__headline">Темы</h2>
-        <ul class="module__ul">
-          {% for post in site.data.blog.categories %}
-            <li class="module__item"><a href="{{ post.url }}">{{ post.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
-
-      {% comment %} ЛУЧШЕЕ: для такого виджета есть очень старый плагин с очень
-      сложной настройкой Google API. Я не решил не мучиться с виджетом.
-      В принципе, можно и вручную раз в месяц обновлять список популярных
-      материалов — по статистике GA {% endcomment %}
-      <div class="module is-popular">
-        <h2 class="module__headline">Лучшее за&nbsp;месяц</h2>
-        <ol class="module__ol">
-          {% for post in site.data.blog.popular %}
-            <li class="module__item"><a href="{{ post.url }}">{{ post.title }}</a></li>
-          {% endfor %}
-        </ol>
-      </div>
-    </aside>
-  </div>
-</main>
-
-{% include paginator.html %}
+</section>

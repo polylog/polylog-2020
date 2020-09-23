@@ -1,49 +1,11 @@
-<header class="header">
-  <a class="logo" href="{% if page.lang == 'en' %}/en{% else %}/{% endif %}" rel="home" aria-label="{{ site.data.i18n.labels.home[page.lang] }}" title="{{ site.data.i18n.labels.home[page.lang] }}"></a>
-  <div class="container">
+<header>
 
-    {% comment %} Google Search {% endcomment %}
-    <script async src="https://cse.google.com/cse.js?cx={% if page.lang == 'en' %}010298836768595341152:gbi49rr17pi{% else %}010298836768595341152:9eztzjgo9by{% endif %}"></script>
-    <div class="gcse-search"></div>
+  <h1>
+    <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  </h1>
 
-    <button class="header__search-toggler" aria-hidden="true">
-      <svg class="icon is-find" aria-hidden="true">
-        <use href="#icon-search"></use>
-      </svg>
-    </button>
+  <nav>
+    {% include navigation.html navigation=site.data.navigation %}
+  </nav>
 
-    <button class="header__search-cancel" type="button">
-      {{ site.data.i18n.labels.cancel[page.lang] }}
-    </button>
-
-    <div class="header__options">
-      <a class="header__link is-phone-number" id="header-phone" href="tel:+7-495-258-2045" title="{{ site.data.i18n.labels.call[page.lang] }}">
-        <svg class="icon is-phone" aria-hidden="true"><use xlink:href="#icon-phone"></use></svg>
-        +7 (495) <b>258-20-45</b>
-      </a>
-      <div class="dropdown">
-        <span class="header__locale-switcher" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="In Russian, Chinese or Japanese" role="button">
-          <span class="icon flag-{{ page.lang }}" role="presentation"></span>
-        </span>
-        <div class="dropdown-menu">
-          <a class="dropdown-item{% if page.lang == 'en' %} is-active{% endif %}" href="/en">
-            <span class="icon flag-en" role="presentation"></span>
-            English
-          </a>
-          <a class="dropdown-item{% if page.lang == 'ru' %} is-active{% endif %}" href="/">
-            <span class="icon flag-ru" role="presentation"></span>
-            Русский
-          </a>
-          <a class="dropdown-item" href="/zh">
-            <span class="icon flag-cn" role="presentation"></span>
-            中文
-          </a>
-          <a class="dropdown-item" href="/ja">
-            <span class="icon flag-jp" role="presentation"></span>
-            日本語
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
 </header>

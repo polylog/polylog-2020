@@ -1,128 +1,18 @@
-{% assign company = site.data.i18n.company %}
-{% assign social = site.data.social-networks %}
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% comment %} "x-ua-compatible" is deprecated {% endcomment %}
-
-  <title>{% if page.title %}{{ page.title | strip_html | replace: '&nbsp;', ' '  | replace: '&amp;', '&'  | replace: '&rsquo;', '’' | escape }} | {% endif %}{% if page.section %}{{ page.section }} | {% endif %}{{ company.title[page.lang] }}</title>
-{% if page.pagination.enabled %}
-  {% seo title=false %}
-{% else %}
-  <meta name="description" content="{% if page.description %}{{ page.description | strip_html | replace: '&nbsp;', ' ' | strip_newlines }}{% else %}{{ page.content | strip_html | xml_escape | truncatewords: 50 }}{% endif %}">
-{% comment %} OG {% endcomment %}
-  {% if page.layout == 'post' or page.layout == 'news-entry' %}<meta property="og:type" content="article">{% else %}<meta property="og:type" content="website">{% endif %}
-  <meta property="og:url" content="{{ page.url | absolute_url | strip_index }}">
-  <meta property="og:title" content="{% if page.title %}{{ page.title | strip_html | replace: '&nbsp;', ' ' | escape }} | {% endif %}{% if page.section %}{{ page.section }} | {% endif %}{{ company.title[page.lang] }}">
-  <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | replace: '&nbsp;', ' ' | strip_newlines }}{% else %}{{ page.content | strip_html | xml_escape | truncatewords: 50 }}{% endif %}">
-  {% if page.image %}
-  {% comment %} Recommended size for high resolution devices: at least 1200 x 630px {% endcomment %}
-  <meta property="og:image" content="{{ page.image | prepend: site.assets }}">
+  {% if page.section == "home" %}
+    <title>{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
   {% else %}
-  <meta property="og:image" content="{{ site.image | prepend: site.assets }}">
+    <title>{{ page.title }}</title>
+    {% if page.meta_description %}
+      <meta name="description" content="{{ page.meta_description }}">
+    {% endif %}
   {% endif %}
-  {% if social.facebook.admins %}
-  {% comment %} To use the Like Button and have the Open Graph inspect the website,
-  we need an application. The script of Like Button associates it with the app.
-  If we want other users to see the administration page for the website (app
-  page) on Facebook we add fb:admins. But the sole developer of the application /
-  the website owner does not need to add fb:admins {% endcomment %}
-  <meta property="fb:admins" content="{{ social.facebook.admins }}">
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {% if jekyll.environment == 'production' and site.analytics %}
+    {% include analytics.html %}
   {% endif %}
-  <meta name="twitter:card" content="summary_large_image">
-{% endif %}
-{% comment %} /OG {% endcomment %}
-{% if site.author %}
-  <meta name="twitter:creator" content="{{ site.author }}">
-{% endif %}
-  <meta name="theme-color" content="{{ site.color }}">
-{% comment %} SEO deals w/ HTTPS {% endcomment %}
-  <meta name="referrer" content="origin">
-  <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}">
-{% if page.home %}
-  <link rel="alternate" href="{{ page.hreflang-ru | prepend: site.url }}" hreflang="ru">
-  <link rel="alternate" href="{{ page.hreflang-en | prepend: site.url }}" hreflang="en">
-  <link rel="alternate" href="{{ page.permalink | prepend: site.url }}" hreflang="zh">
-  <link rel="alternate" href="{{ page.hreflang-ja | prepend: site.url }}" hreflang="ja">
-{% else %}
-{% if page.hreflang-ru and page.lang == 'en' %}
-  <link rel="alternate" href="{{ page.hreflang-ru | prepend: site.url }}" hreflang="ru">
-  <link rel="alternate" href="{{ page.permalink | prepend: site.url }}" hreflang="en">
-{% elsif page.hreflang-en and page.lang == 'ru' %}
-  <link rel="alternate" href="{{ page.hreflang-en | prepend: site.url }}" hreflang="en">
-  <link rel="alternate" href="{{ page.permalink | prepend: site.url }}" hreflang="ru">
-{% endif %}
-{% endif %}
-{% if page.lang == 'ru' %}
-  <link rel="alternate" href="{{ '/feed.xml' | prepend: site.url }}" type="application/rss+xml" title="{{ site.rss_title }}">
-{% endif %}
-  <link rel="sitemap" href="/sitemap.xml" type="application/xml">
-  <link rel="manifest" href="/manifest.json">
-  <meta name="apple-mobile-web-app-title" content="{{ site.short_name }}">
-{% if site.icon %}
-  {% comment %} Apple touch icon. In most cases, one 192×192px touch icon named icon.png
-  is enough {% endcomment %}
-  <link rel="apple-touch-icon" href="{{ site.icon | prepend: site.assets }}">
-{% endif %}
-{% if social.facebook.cta_like %}
-  <link rel="preconnect" href="https://staticxx.facebook.com">
-{% endif %}
-{% if site.ui_sprite %}
-  <link rel="preload" href="{{ site.ui_sprite | prepend: site.assets | prepend: site.url }}" as="image">
-{% endif %}
-{% if site.fonts %}
-  <link rel="preconnect" href="https://fonts.googleapis.com/">
-  {% comment %} <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family={{ site.fonts }}&display=swap"> {% endcomment %}
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{ site.fonts }}">
-{% endif %}
-{% if page.lang == 'zh' or page.lang == 'ja' %}
-  <link rel="stylesheet" href="/a/css/cjk.css{% if jekyll.environment == 'production' %}?{{ 'now' | date: '%Y%m%d-%H%M' }}{% endif %}">
-{% else %}
-  <link rel="stylesheet" href="/a/css/main.css{% if jekyll.environment == 'production' %}?{{ 'now' | date: '%Y%m%d-%H%M' }}{% endif %}">
-{% endif %}
-{% if page.wip and page.permalink == '/' %}
-  <link rel="stylesheet" href="/a/css/head-front.css">
-{% elsif page.wip %}
-  <link rel="stylesheet" href="/a/css/head.css">
-{% endif %}
-{% if page.style %}
-  <style>{{ page.style | replace: '!SITE_ASSETS!', site.assets }}</style>
-{% endif %}
-{% unless page.index %}
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Organization",
-      "name": "{{ company.title[page.lang] }}",
-      "url": "{{ site.url }}",
-      "logo": "https://www.polylog.ru/a/img/logo/polylog-logo.svg",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "{{ company.street[page.lang] }}",
-        "addressLocality": "{{ company.city[page.lang] }}",
-        "addressRegion": "{{ company.city[page.lang] }}",
-        "postalCode": "{{ company.postal_code }}",
-        "addressCountry": "{{ company.country[page.lang] }}"
-      },
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "contactType": "customer support",
-        "telephone": "{{ company.is-phone }}"
-      },
-      "sameAs": [
-        "https://www.facebook.com/{{ site.data.social-networks.facebook.acc }}",
-        "https://www.instagram.com/{{ site.data.social-networks.instagram.acc }}",
-      ]
-    }
-  </script>
-{% endunless %}
-{% comment %} Google Tag Manager {% endcomment %}
-{% if jekyll.environment == 'production' and site.gtm %}
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','{{ site.gtm }}');</script>
-{% endif %}
+  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>

@@ -1,43 +1,24 @@
 ---
-layout: base
+layout: compress
 ---
 
-{% include alerts.html %}
+<!DOCTYPE html>
+<html data-current="{{ page.section }}" lang="en">
 
-{% include header.html %}
+  {% include head.html %}
 
-{{ content }}
+  <body>
 
-{% if page.lang == 'ru' %}
-  {% if page.cta == 'blog' %}
-    {% include cta/blog.html %}
-  {% elsif page.cta == 'cv' %}
-    {% include cta/cv.html %}
-  {% elsif page.cta == 'internship' %}
-    {% include cta/internship.html %}
-  {% elsif page.cta == 'it-contacts' %}
-    {% include cta/it-contacts.html.html %}
-  {% elsif page.cta == 'jobs' %}
-    {% include cta/jobs.html %}
-  {% elsif page.cta == 'main' %}
-    {% unless page.contacts %}
-    {% include cta/main.html %}
-    {% endunless %}
-  {% endif %}
-{% endif %}
+    {% include header.html %}
 
-{% if page.cta and page.lang == 'en' %}
-  {% unless page.contacts %}
-  {% include cta/main-en.html %}
-  {% endunless %}
-{% endif %}
+    <main>
 
-{% if page.lang == 'ru' %}
-  {% include footer.html %}
-{% elsif page.lang == 'en' %}
-  {% include footer-en.html %}
-{% endif %}
+      {{ content }}
 
-{% include navbar.html %}
-{% include modal.html %}
-{% include inline-svg.html %}
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
