@@ -1,286 +1,85 @@
-# ⚠️ Every time you modify your config file, you have to restart Jekyll for the
-# changes to take effect.
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Use snake_case in variables names.
-# Use the unquoted style for short strings except the one starting with
-# reserved characters: @, #, % etc. Use pair of single quotes for empty strings.
-# Use and the folded block scalar style with the chomping indicator (>-) for
-# long strings.
-# http://blogs.perl.org/users/tinita/2018/03/strings-in-yaml---to-quote-or-not-to-quote.html
-# https://yaml-multiline.info/
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Jekyll Netlify Boilerplate
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml.
+baseurl: "" # the subpath of your site if applicable, e.g. /blog
+url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
 
-# spell-checker: disable
+# Permalink format (/blog/ is ignored for pages)
+permalink: /blog/:title
 
-encoding: 'utf-8'
-
-
-# SITE / COMPANY SETTINGS
-lang: ru
-
-title: PR-агентство «Полилог»
-short_name: Polylog
-
-description: >-
-  Комплексное пиар-сопровождение. Организация мероприятий, event-менеджмент.
-  IT и научные исследования для органов власти. Создаем интерес и уважение.
-
-# The base hostname & protocol for the site without a trailing slash,
-# e.g. https://example.tld
-# url: https://www.polylog.ru
-url: https://polylog.netlify.app
-
-# the subpath of the site, e.g. /blog
-baseurl: ''
-assets: /a
-# assets: https://assets.polylog.ru
+# Enable section IDs in frontmatter, useful for identifying current page
+# (used as a hook for styling etc)
+section: true
 
 # set to 'true' to enable Netlify CMS (/admin) in production builds
 netlifycms: true
 
-logo: /img/logo/polylog-logo.svg
-image: /img/polylog.png
-icon: /img/graphics/icon.png
-# ui_sprite: /img/graphics/sprite.svg
-color: '#ff6633'
+# set to 'true' to enable Google Analytics tracking code in production builds
+analytics: false
 
-# fonts: Cormorant+Garamond:wght@500&family=Inter:wght@300;400;600
-# fonts: Cormorant+Garamond:ital,wght@1,600&family=Roboto:wght@100;300;400;500
-fonts: Cormorant+Garamond:600%7CRoboto:100,300,400,500&amp;subset=cyrillic
-rss_title: Новости пиар-агентства «Полилог»
+# Compress CSS
+sass:
+  style: compressed
+  sass_dir: _sass
 
-gtm: GTM-P4R6SM7
-apple_app_id: ''
+# Compress HTML (in liquid via layouts/compress.html)
+compress_html:
+  clippings: all
 
-# Site content creator / author Twitter @username
-author: '@supervova'
-
-permalink: /:slug
-# permalink: /:year-:month-:day-:title/
-
-# Ruby Date Format
-date_format: '%-d %B, %Y'
-timezone: Europe/Moscow
-
-livereload: true
-
-# ------------------------------------------------------------------------------
-
-# Advanced Settings
-
-jekyll_tidy:
-  # exclude: ["index.html"]
-  ignore_env: development
-  compress_html: true
-
-# Extended markdown letting use CSS classes: {:.btn .btn–primary}
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-collections_dir: collections
-collections:
-  blog:
-    output: true
-    permalink: /ru/pr-blog/:year/:slug
-    sort_by: date
-  projects-ru:
-    output: true
-    permalink: /ru/projects/:year/:slug
-    sort_by: date
-  projects-en:
-    output: true
-    permalink: /en/projects/:year/:slug
-    sort_by: date
-  news-ru:
-    output: true
-    permalink: /ru/news/:year/:slug
-    sort_by: date
-  tutorials:
-    output: true
-    permalink: /ru/tutorials/:slug
-    sort_by: date
-  help:
-    output: true
-    permalink: /ru/help/:slug
-
-# Pagination Settings: jekyll-paginate-v2
-autopages:
-  enabled: true
-
-  categories:
-    enabled: true
-    layouts:
-      - index-category.html
-    # slugify:
-    #   mode: 'default'
-    #   cased: true
-    title: ':cat'
-    # the pagination permalink path is then appended to this permalink structure
-    permalink: '/ru/pr-blog/:cat'
-
-  collections:
-    enabled: false
-
-  tags:
-    enabled: false
-
-# Pagination Settings
-pagination:
-  enabled: true
-  debug: false
-  per_page: 20
-  permalink: '/:num/'
-  title: ':title — :num / :max'
-  sort_field: 'date'
-  sort_reverse: true
-
-# Default front matter values
+# set some common post defaults
 defaults:
   -
     scope:
-      path: ''
-      type: pages # all pages
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
     values:
-      layout: page
-      cta: main
+      layout: "post" # set the correct default template for a post
+      section: "post" # set the root section name
 
-  # All standard entries (_posts folder files) if ever be created
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-      lang: ru
-      layout: post
-      classes: page is-blog
-      cta: blog
+# Build settings
+markdown: kramdown
 
-  # Collections
-  -
-    scope:
-      type: 'blog' # Blog
-    values:
-      lang: ru
-      section: 'Блог'
-      layout: post
-      classes: page is-blog
-      cta: blog
-
-  -
-    scope:
-      type: 'projects-ru'
-    values:
-      layout: project
-
-  -
-    scope:
-      type: 'projects-en'
-    values:
-      layout: project
-
-  -
-    scope:
-      type: 'news-ru'
-    values:
-      layout: news
-
-  -
-    scope:
-      type: 'tutorials'
-    values:
-      layout: page
-      cta: blog
-
-  -
-    scope:
-      type: 'help'
-    values:
-      lang: ru
-      section: 'Энциклопедия маркетинговых коммуникаций'
-      image: /img/polylog.png
-      layout: page
-      classes: section-help has-page-header
-      cta: blog
-
-  -
-    scope:
-      path: '' # all other files
-    values:
-      layout: default
-
-feed:
-  collections:
-    projects-en:
-      path: '/en/feed.xml'
-
-
-# HTML Compression
-# https://jch.penibelst.de/
-compress_html:
-  blanklines: true
-  comments: ["<!-- ", " -->"]
-  clippings: all
-  # clippings: []
-  # startings: []
-  # endings: []
-  # profile: false
-  ignore:
-    envs: development
-
-plugins:
-  # GitHub Pages uses the following dependencies and versions
-  # https://pages.github.com/versions/
-# - jekyll-feed
-# - jekyll-sitemap
-# - jekyll-seo-tag
-  # - jekyll-paginate
-
-  # Plugins that are not supported by GitHub
-
-  # {{ 'example@example.com' | encode_email }}
-# - jekyll-email-protect
-
-  # {% include_cached footer.html %}
-# - jekyll-include-cache
-# - jekyll-paginate-v2
-
-  # Plugin for tidying Jekyll HTML output
-# - jekyll-tidy
+# Kramdown options
+kramdown:
+  # Prevent IDs from being added to h1-h6 tags
+  auto_ids: false
 
 # Include in processing (e.g. Netlify directives)
-include:
-  - _redirects
-  - _headers
+# Uncomment before use
+
+#include:
+#  - _redirects
+#  - _headers
 
 # Exclude from processing.
+# The following items will not be processed.
 exclude:
-  # - CNAME
-  - '*.pug'
-  - .jekyll-assets-cache
-  - .jekyll-cache
-  - .sass-cache
+  - README.md
+  - LICENSE.txt
+  - netlify.toml
+  - feed.xml
   - Gemfile
   - Gemfile.lock
-  - a
-  - gemfiles
-  - gulpfile.js
-  - netlify.toml
+  - docker-compose.yml
   - node_modules
-  - package.json
-  - readme.md
-  - robots_.txt
-  - src
-  - yarn-error.log
-  - yarn.lock
-
-theme: null
-
-keep_files:
-  - .git
-  - a/css
-  - a/img
-  - a/js
-  - a/video
-  - a/pdf
-  - a/upload
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
