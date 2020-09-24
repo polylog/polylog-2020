@@ -22,7 +22,7 @@ assets: /a
 # assets: https://assets.polylog.ru
 
 # Permalink format (/blog/ is ignored for pages)
-permalink: /blog/:title
+# permalink: /blog/:title
 
 # Enable section IDs in frontmatter, useful for identifying current page
 # (used as a hook for styling etc)
