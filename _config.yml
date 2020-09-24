@@ -62,6 +62,38 @@ jekyll_tidy:
   ignore_env: development
   compress_html: true
 
+# Extended markdown letting use CSS classes: {:.btn .btn–primary}
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+collections_dir: collections
+collections:
+  blog:
+    output: true
+    permalink: /ru/pr-blog/:year/:slug
+    sort_by: date
+  projects-ru:
+    output: true
+    permalink: /ru/projects/:year/:slug
+    sort_by: date
+  projects-en:
+    output: true
+    permalink: /en/projects/:year/:slug
+    sort_by: date
+  news-ru:
+    output: true
+    permalink: /ru/news/:year/:slug
+    sort_by: date
+  tutorials:
+    output: true
+    permalink: /ru/tutorials/:slug
+    sort_by: date
+  help:
+    output: true
+    permalink: /ru/help/:slug
+
 # set some common post defaults
 defaults:
   -
