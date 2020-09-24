@@ -24,24 +24,14 @@ assets: /a
 # Permalink format (/blog/ is ignored for pages)
 # permalink: /blog/:title
 
-# Enable section IDs in frontmatter, useful for identifying current page
-# (used as a hook for styling etc)
-section: true
-
 # set to 'true' to enable Netlify CMS (/admin) in production builds
 netlifycms: true
 
-# set to 'true' to enable Google Analytics tracking code in production builds
-analytics: false
-
-# Compress CSS
-sass:
-  style: compressed
-  sass_dir: _sass
-
-# Compress HTML (in liquid via layouts/compress.html)
-compress_html:
-  clippings: all
+logo: /img/logo/polylog-logo.svg
+image: /img/polylog.png
+icon: /img/graphics/icon.png
+# ui_sprite: /img/graphics/sprite.svg
+color: '#ff6633'
 
 # set some common post defaults
 defaults:
