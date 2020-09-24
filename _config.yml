@@ -47,6 +47,21 @@ author: '@supervova'
 permalink: /:slug
 # permalink: /:year-:month-:day-:title/
 
+# Ruby Date Format
+date_format: '%-d %B, %Y'
+timezone: Europe/Moscow
+
+livereload: true
+
+# ------------------------------------------------------------------------------
+
+# Advanced Settings
+
+jekyll_tidy:
+  # exclude: ["index.html"]
+  ignore_env: development
+  compress_html: true
+
 # set some common post defaults
 defaults:
   -
