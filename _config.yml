@@ -33,6 +33,20 @@ icon: /img/graphics/icon.png
 # ui_sprite: /img/graphics/sprite.svg
 color: '#ff6633'
 
+# fonts: Cormorant+Garamond:wght@500&family=Inter:wght@300;400;600
+# fonts: Cormorant+Garamond:ital,wght@1,600&family=Roboto:wght@100;300;400;500
+fonts: Cormorant+Garamond:600%7CRoboto:100,300,400,500&amp;subset=cyrillic
+rss_title: Новости пиар-агентства «Полилог»
+
+gtm: GTM-P4R6SM7
+apple_app_id: ''
+
+# Site content creator / author Twitter @username
+author: '@supervova'
+
+permalink: /:slug
+# permalink: /:year-:month-:day-:title/
+
 # set some common post defaults
 defaults:
   -
