@@ -6,17 +6,19 @@ source "https://rubygems.org"
 # The latest version
 gem "jekyll", github: "jekyll/jekyll"
 
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
+# Liquid-C
+gem "liquid-c"
 
-# If you have any plugins, put them here!
+# Plugins
+# beautiful-jekyll and minimal-mistakes use _config / gem method to install.
+# But I get dependency error trying run the site without jekyll-include-cache
+# here
 group :jekyll_plugins do
-  #
+  gem "jekyll-include-cache"
+  gem "jekyll-email-protect"
+  gem "jekyll-feed"
+  gem "jekyll-paginate-v2"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+  gem "jekyll-tidy"
 end
-
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
