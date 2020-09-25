@@ -1,6 +1,5 @@
 encoding: 'utf-8'
 
-
 # SITE / COMPANY SETTINGS
 lang: ru
 
@@ -198,6 +197,25 @@ defaults:
       path: '' # all other files
     values:
       layout: default
+
+feed:
+  collections:
+    projects-en:
+      path: '/en/feed.xml'
+
+
+# HTML Compression
+# https://jch.penibelst.de/
+compress_html:
+  blanklines: true
+  comments: ["<!-- ", " -->"]
+  clippings: all
+  # clippings: []
+  # startings: []
+  # endings: []
+  # profile: false
+  ignore:
+    envs: development
 
 # Exclude from processing.
 # The following items will not be processed.
