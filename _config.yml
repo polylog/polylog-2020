@@ -94,6 +94,27 @@ collections:
     output: true
     permalink: /ru/help/:slug
 
+# Pagination Settings: jekyll-paginate-v2
+autopages:
+  enabled: true
+
+  categories:
+    enabled: true
+    layouts:
+      - index-category.html
+    # slugify:
+    #   mode: 'default'
+    #   cased: true
+    title: ':cat'
+    # the pagination permalink path is then appended to this permalink structure
+    permalink: '/ru/pr-blog/:cat'
+
+  collections:
+    enabled: false
+
+  tags:
+    enabled: false
+
 # set some common post defaults
 defaults:
   -
