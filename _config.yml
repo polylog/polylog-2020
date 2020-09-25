@@ -115,30 +115,89 @@ autopages:
   tags:
     enabled: false
 
-# set some common post defaults
+# Pagination Settings
+pagination:
+  enabled: true
+  debug: false
+  per_page: 20
+  permalink: '/:num/'
+  title: ':title — :num / :max'
+  sort_field: 'date'
+  sort_reverse: true
+
+# Default front matter values
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
+      path: ''
+      type: pages # all pages
     values:
-      layout: "post" # set the correct default template for a post
-      section: "post" # set the root section name
+      layout: page
+      cta: main
 
-# Build settings
-markdown: kramdown
+  # All standard entries (_posts folder files) if ever be created
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+      lang: ru
+      layout: post
+      classes: page is-blog
+      cta: blog
 
-# Kramdown options
-kramdown:
-  # Prevent IDs from being added to h1-h6 tags
-  auto_ids: false
+  # Collections
+  -
+    scope:
+      type: 'blog' # Blog
+    values:
+      lang: ru
+      section: 'Блог'
+      layout: post
+      classes: page is-blog
+      cta: blog
 
-# Include in processing (e.g. Netlify directives)
-# Uncomment before use
+  -
+    scope:
+      type: 'projects-ru'
+    values:
+      layout: project
 
-#include:
-#  - _redirects
-#  - _headers
+  -
+    scope:
+      type: 'projects-en'
+    values:
+      layout: project
+
+  -
+    scope:
+      type: 'news-ru'
+    values:
+      layout: news
+
+  -
+    scope:
+      type: 'tutorials'
+    values:
+      layout: page
+      cta: blog
+
+  -
+    scope:
+      type: 'help'
+    values:
+      lang: ru
+      section: 'Энциклопедия маркетинговых коммуникаций'
+      image: /img/polylog.png
+      layout: page
+      classes: section-help has-page-header
+      cta: blog
+
+  -
+    scope:
+      path: '' # all other files
+    values:
+      layout: default
 
 # Exclude from processing.
 # The following items will not be processed.
