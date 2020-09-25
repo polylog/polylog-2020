@@ -237,18 +237,28 @@ plugins:
   # Plugin for tidying Jekyll HTML output
   - jekyll-tidy
 
+# Include in processing (e.g. Netlify directives)
+include:
+  - _redirects
+  - _headers
+
 # Exclude from processing.
-# The following items will not be processed.
 exclude:
-  - README.md
-  - LICENSE.txt
-  - netlify.toml
-  - feed.xml
+  # - CNAME
+  - '*.pug'
+  - .jekyll-assets-cache
+  - .jekyll-cache
+  - .sass-cache
   - Gemfile
   - Gemfile.lock
-  - docker-compose.yml
+  - a
+  - gemfiles
+  - gulpfile.js
+  - netlify.toml
   - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - package.json
+  - readme.md
+  - robots_.txt
+  - src
+  - yarn-error.log
+  - yarn.lock
