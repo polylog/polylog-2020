@@ -252,6 +252,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+  - a
+  - gemfiles
+  - gulpfile.js
+
   # dangerous zone
   - LICENSE.txt
   - README.md
