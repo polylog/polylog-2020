@@ -6,6 +6,13 @@ source "https://rubygems.org"
 # The latest version
 gem "jekyll", github: "jekyll/jekyll"
 
+# Under the J4 the jekyll-pageless-redirects installed in plugins causes error
+
+# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
+# uncomment the line below. To upgrade, run `bundle update github-pages`.
+# beautiful-jekyll use "github-pages" method, аnd minimal-mistakes  recommend it
+# gem "github-pages", group: :jekyll_plugins
+
 # Liquid-C
 gem "liquid-c"
 

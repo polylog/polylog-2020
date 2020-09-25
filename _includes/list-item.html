@@ -1,0 +1,50 @@
+{% if include.view == 'grid' %}
+
+{% comment %} TODO: delete it after index-list will be done {% endcomment %}
+
+{% elsif include.view == 'teasers' %}
+
+  <article class="entry lonely" itemscope="" itemtype="https://schema.org/Article">
+    <div class="entry-inner">
+      <h2 class="entry-headline" itemprop="headline">
+        <a href="{{ page.permalink }}">
+          {{ page.title }}
+        </a>
+      </h2>
+      <p class="entry-summary" itemprop="about">
+        {{ page.description }}
+      </p>
+      {% include date.html %}
+    </div>
+  </article>
+
+{% elsif include.view == 'search-results' %}
+
+  <li class="entry">
+    <span class="entry-counter"></span>
+    <h2 class="entry-headline">
+      <a href="{{ page.permalink }}">
+        {{ page.title }}
+      </a>
+    </h2>
+    <p class="entry-summary">
+      {{ page.description }}
+    </p>
+    <a class="entry-url" href="{{ page.permalink }}">
+      {{ page.permalink | prepend: site.url }}
+    </a>
+  </li>
+
+{% else %}
+
+  <li class="list-view-item">
+    <a href="{{ page.permalink }}">
+      {{ page.title }}
+    </a>
+    <span class="list-view-date">
+      {{ page.date | date: '%d.%m.%Y' }}
+    </span>
+  </li>
+
+{% endif %}
+

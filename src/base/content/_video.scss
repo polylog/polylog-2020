@@ -1,0 +1,25 @@
+.figure.has-video {
+  display: block;
+  margin: 0 auto ($spacer-y * 2);
+}
+
+.video-flash.primary,
+.video.fallback,
+.video-caption.fallback {
+  display: none;
+
+  &.play-it {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.video-caption {
+  padding-top: $spacer-y;
+}
+
+.video-caption {
+  padding-top: $spacer-y;
+}
+

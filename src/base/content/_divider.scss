@@ -1,0 +1,109 @@
+// -----------------------------------------------------------------------------
+// Dividers
+// -----------------------------------------------------------------------------
+
+
+hr {
+  border-top: 0;
+  display: block;
+
+  @include media-breakpoint-up(md) {
+    // border-top: 1px dashed rgb(187, 190, 194);
+    border-top: 1px solid $color-border;
+  } // md
+}
+
+hr.hidden {
+  @include media-breakpoint-up(md) {
+    border-top: 0;
+  } // md
+}
+
+
+// -------------------------------------
+// Below the box and titles
+// -------------------------------------
+
+// Boxes are at the top and bottom.
+.box2box {
+  margin: ($spacer-y * 3) auto 0;
+
+  @include media-breakpoint-up(md) {
+    margin: (3 * $spacer-y - .1rem) auto (3 * $spacer-y);
+  } // md
+}
+
+.box2box.hidden {
+  @include media-breakpoint-up(md) {
+    margin: (3.5 * $spacer-y) auto 0;
+  } // md
+}
+
+// Boxes are at the top and title at the bottom.
+.box2title {
+  margin: ($spacer-y * 3) auto 0;
+
+  @include media-breakpoint-up(md) {
+    margin: (3 * $spacer-y - .1rem) auto (3 * $spacer-y - .2rem);
+  } // md
+}
+
+.box2title.hidden {
+  @include media-breakpoint-up(md) {
+    margin: (3 * $spacer-y - .2rem) auto 0;
+  } // md
+}
+
+
+.tiles2title.hidden {
+  @include media-breakpoint-up(md) {
+    margin: (3 * $spacer-y - 1.4rem) auto 0;
+  } // md
+}
+
+// -------------------------------------
+// Below the text and testimonials
+// -------------------------------------
+
+// Text blocks are at the top and bottom.
+// 1) Subtract half the leading or tile / mosaic module bottom margin
+.text2text {
+  margin: ($spacer-y * 3 - .6rem) auto 0; // 1
+
+  @include media-breakpoint-up(md) {
+    margin: (3 * $spacer-y - .1rem) auto (3 * $spacer-y - .6rem); // 2
+  }
+}
+
+// Text blocks are at the top and bottom.
+// 1) Subtract half the leading or tile / mosaic module bottom margin
+.text2box.hidden {
+  margin: (3 * $spacer-y + .6rem) auto 0;
+}
+
+// Text blocks are at the top and bottom.
+.text2title {
+  margin: ($spacer-y * 3 - .6rem) auto 0; // 1
+
+  @include media-breakpoint-up(md) {
+    margin: (3 * $spacer-y - .7rem) auto (3 * $spacer-y - .2rem);
+  }
+}
+
+// Text blocks are at the top and bottom.
+.text2cta {
+  margin: 2.1rem auto 0;
+
+  @include media-breakpoint-up(md) {
+    margin: 6.5rem auto .3rem;
+  }
+}
+
+// Text blocks are at the top and bottom.
+.testimonials2cta {
+  margin: ($spacer-y * 3 - .6rem) auto 0; // 1
+
+  @include media-breakpoint-up(md) {
+    margin: (2 * $spacer-y - .1rem) auto ($spacer-y + .3rem);
+  }
+}

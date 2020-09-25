@@ -1,0 +1,165 @@
+filter_projects:
+  en: 'Filter by industry or service'
+  ru: 'Фильтровать по отраслям или услугам'
+
+filter_industries:
+  en: 'Case studies by industries'
+  ru: 'Проекты по отраслям'
+
+filter_services:
+  en: 'Case studies by services'
+  ru: 'Проекты по услугам'
+
+# ------------------------------------------------------------------------------
+# Industries
+# ------------------------------------------------------------------------------
+# region
+
+industries:
+  - slug: everything
+    label:
+      ru: Всё
+      en: All
+
+  - slug: auto
+    label:
+      ru: Автомобилестроение и транспорт
+      en: Automotive &amp; Transportation
+    shortcut:
+      ru: Авто
+      en: Auto
+
+  - slug: agriculture
+    label:
+      ru: Агробизнес
+      en: Agriculture
+
+  - slug: business-services
+    label:
+      ru: Бизнес-услуги
+      en: Business Services
+
+  - slug: appliances-electronics
+    label:
+      ru: Бытовая техника и электроника
+      en: Appliances &amp; Electronics
+    shortcut:
+      ru: Б. техника и электроника
+      en: Appliances &amp; Electronics
+
+  - slug: state-corporations
+    label:
+      ru: Госкорпорации и компании с государственным участием
+      en: State-owned Enterprises
+    shortcut:
+      ru: Госкорпорации
+      en: State-owned enterprise
+
+  - slug: childrens-goods
+    label:
+      ru: Детские товары и услуги
+      en: Children's Goods &amp; Services
+
+  - slug: health-care
+    label:
+      ru: Здравоохранение и фармацевтика
+      en: Health &amp; Pharmaceuticals
+    shortcut:
+      ru: Здоровье
+      en: Health
+
+  - slug: fashion
+    label:
+      ru: Мода
+      en: Fashion
+
+  - slug: technology
+    label:
+      ru: Информационно-коммуникационные технологии
+      en: Information &amp; Communications Technology
+    shortcut:
+      ru: Технологии
+      en: Technology
+
+  - slug: beauty
+    label:
+      ru: Красота и здоровье
+      en: Beauty
+
+  - slug: real-estate
+    label:
+      ru: Недвижимость
+      en: Real Estate
+
+  - slug: nonprofit
+    label:
+      ru: Некоммерческие организации
+      en: Nonprofit Organizations
+
+  - slug: fmcg
+    label:
+      ru: Потребительские товары
+      en: FMCG
+
+  - slug: large-scale
+    label:
+      ru: Промышленность
+      en: Manufacturing
+
+  - slug: regional-authorities
+    label:
+      ru: Региональные органы власти
+      en: Regional Authorities
+
+  - slug: tourism
+    label:
+      ru: Туризм и индустрия гостеприимства
+      en: Tourism &amp; Hospitality Industry
+    shortcut:
+      ru: Туризм и гостеприимство
+      en: Tourism &amp; Hospitality
+
+  - slug: oil-gas-energy
+    label:
+      ru: ТЭК
+      en: Oil, Gas, Energy
+
+  - slug: government
+    label:
+      ru: Федеральные органы власти
+      en: Federal Authorities
+
+  - slug: finance
+    label:
+      ru: Финансы и страхование
+      en: Insurance &amp; Finance
+# endregion
+
+
+# ------------------------------------------------------------------------------
+# Services
+# ------------------------------------------------------------------------------
+# region
+
+services:
+  - slug: event-management
+    label:
+      ru: Event-менеджмент
+      en: Event Management
+
+  - slug: public-relations
+    label:
+      ru: PR (связи с общественностью)
+      en: Public Relations
+
+  - slug: fundraising
+    label:
+      ru: Фандрайзинг
+      en: Fundraising
+
+  - slug: digital
+    label:
+      ru: Цифровые решения
+      en: Digital Solutions
+# endregion
+

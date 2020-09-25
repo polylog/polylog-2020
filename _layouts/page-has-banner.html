@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<main class="container">
+  <article class="article">
+
+    <div class="page-header">
+      <h1 class="page-header-headline">{{ page.title }}</h1>
+      <span class="page-header-icon" role="presentation"></span>
+    </div>
+
+    {% if page.banner %}
+      <figure class="page-header-banner">
+        <img src="{{ site.assets }}{{ page.banner }}" alt="{{ page.title | strip_html | escape }}">
+      </figure>
+    {% endif %}
+
+    {{ content }}
+  </article>
+</main>

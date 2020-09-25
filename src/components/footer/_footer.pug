@@ -1,0 +1,48 @@
+include /pages/base/config.pug
+
+footer.footer.container
+  // noindex
+  .row
+
+    //- FORM AND QUICK LINKS
+    .footer-last-options.col-lg-6
+      //- FORM
+      h3.footer-heading Получайте на почту анонсы видеолекций и дайджест блога
+      include /components/form/subscription/_subscription.pug
+
+      //- QUICK LINKS
+      ul.footer-quick-links(role='menu')
+        li.quick-links-item
+          h3.quick-links-caption
+            a.quick-links-caption-link(href='/ru/projects') Новости:
+          a.quick-links-link(href='/ru/news/2017/01-17') Молочный форум: как сделать отраслевое мероприятие интересным
+        li.quick-links-item
+          h3.quick-links-caption
+            a.quick-links-caption-link(href='/ru/blog/pr-tutorials') Видеолекции:
+          a.quick-links-link(href='/ru/pr-tutorials/pr-koncepciya-strategiya-plan') PR: концепция, стратегия, план
+        li.quick-links-item
+          h3.quick-links-caption
+            a.quick-links-caption-link(href='/ru/pr-blog/help') Словарь:
+          a.quick-links-link(href='/ru/help/pr-public-relations-svyazi-obshhestvennostyu-piar') PR (public relations, связи с общественностью, пиар)
+
+    //- LIKE, SHARE AND SUBSCRIBE
+    section.footer-social.col-lg-6.flex-lg-first
+      h3.footer-heading Нравится? Ставьте лайки, делитесь
+      include /components/social-tools/_footer-like-share.pug
+
+      h3.footer-heading.last PR и маркетинг в разных форматах. Подписывайтесь
+      include /components/social-tools/_footer-social-media.pug
+  // /noindex
+
+  //- CONTACTS
+  .footer-contacts(itemscope, itemtype='https://schema.org/Organization')
+    address.footer-address(itemprop='address', itemscope, itemtype='https://schema.org/PostalAddress')
+      span(itemprop='postalCode') #{company.postalCode},
+      span(itemprop='addressLocality') #{company.locality},
+      span(itemprop='streetAddress') #{company.street}.
+    span.nowrap Тел.:
+      a.link.is-phone-number(href='tel:+7-495-258-2045', content='+74952582045', itemprop='telephone', title='Звоните') #{company.is-phone}
+    a.js-contact(href='mailto:service-request(at)gmail(dot)com', title='Написать письмо') Эл. почта
+    p.footer-privacy ©
+      span(itemprop='name') «Полилог» | PR, event, IT c 2000г.
+      a.nowrap(href='/ru/company/privacy-policy#consent') Политика конфиденциальности

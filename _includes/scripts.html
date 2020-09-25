@@ -1,0 +1,70 @@
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="{{ site.assets }}/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+<script src="{{ site.assets }}/js/plugins.js?{{ 'now' | date: '%Y%m%d-%H%M' }}"></script>
+<script src="{{ site.assets }}/js/main.js?{% if is_production %}{{ 'now' | date: '%Y%m%d-%H%M' }}{% endif %}"></script>
+
+{% comment %}
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+
+    var form = document.getElementById('form-contact');
+    var button = document.getElementById('form-contact-button');
+    var status = document.getElementById('form-contact-status');
+
+    // Success and Error functions for after the form is submitted
+
+    function success() {
+      form.reset();
+      button.className = 'form__submit is-primary is-disabled';
+      status.innerHTML = '{{ site.data.i18n.messages.form_thanks[page.lang] }}';
+    }
+
+    function error() {
+      status.innerHTML = '{{ site.data.i18n.messages.form_error[page.lang] }}';
+    }
+
+    // handle the form submission event
+
+    form.addEventListener('submit', function(ev) {
+      ev.preventDefault();
+      var data = new FormData(form);
+      ajax(form.method, form.action, data, success, error);
+    });
+  });
+
+  // helper function for sending an AJAX request
+
+  function ajax(method, url, data, success, error) {
+    var xhr = new XMLHttpRequest();
+    xhr.open(method, url);
+    xhr.setRequestHeader('Accept', 'application/json');
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState !== XMLHttpRequest.DONE) return;
+      if (xhr.status === 200) {
+        success(xhr.response, xhr.responseType);
+      } else {
+        error(xhr.status, xhr.response, xhr.responseType);
+      }
+    };
+    xhr.send(data);
+  }
+</script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+{% endcomment %}
+
+{% if page.lang == 'ru' %}
+  {% assign fb_lang = 'ru_RU' %}
+{% else %}
+  {% assign fb_lang = 'en_US' %}
+{% endif %}
+
+<div id="fb-root"></div>
+<script>
+  (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/{{ fb_lang }}/sdk.js#xfbml=1&version=v2.7&appId=630730836946347";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>

@@ -1,0 +1,39 @@
+---
+layout: default
+cta: main
+---
+
+<main class="container collection-index">
+
+  <div class="page-header">
+
+    <h1 class="page-header-headline">
+      <a class="page-header__link" href="{{ page.permalink }}">{{ page.title }}</a>
+    </h1>
+    <span class="page-header-icon" role="presentation"></span>
+  </div>
+
+  <div class="row main">
+
+    <ul class="list-view narrow chronology">
+      {% for post in paginator.posts %}
+        <li class="list-view-item">
+          <a href="{{ post.permalink }}">
+            {{ post.title }}
+          </a>
+          <span class="list-view-date">
+            {{ post.date  | date: '%d.%m.%y' }}
+          </span>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <aside class="sidebar">
+      {% include polylog-promo/sidebar.html %}
+    </aside>
+
+  </div>
+</main>
+
+<!-- PAGINATOR -->
+{% include paginator.html %}

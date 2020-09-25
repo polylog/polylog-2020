@@ -1,0 +1,83 @@
+// -----------------------------------------------------------------------------
+// Legacy
+// -----------------------------------------------------------------------------
+
+.tsr-blog {
+  border-bottom: 1px solid $color-border;
+  margin-bottom: .533em;
+  padding-bottom: 2.467em;
+
+  &:before,
+  &:after {
+    content: '';
+    display: table;
+    line-height: 0;
+  }
+
+  &:after { clear: both; }
+
+  .ahd {
+    border-bottom: 0;
+    margin-bottom: 0;
+    padding-bottom: .667em;
+  }
+
+  img {
+    float: left;
+    margin: 2 20px .733em 0;
+  }
+
+  &:last-of-type {
+    border-bottom: 0;
+    padding-bottom: 1.133em;
+  }
+}
+
+
+.ahd .h2 {
+  padding-top: .70833333em;
+  padding-bottom: .625em;
+
+  a,
+  a:visited { color: #5959bf; }
+}
+
+.ahd-tags {
+  margin-left: 1em;
+  padding-left: 18px;
+  overflow: hidden;
+  position: relative;
+
+  i.co {
+    background-position: -140px -110px;
+    position: absolute;
+    top: .25em;
+    left: 0;
+    height: 16px;
+    width: 16px;
+  }
+
+  .inline {
+    display: inline;
+  }
+
+}
+
+.ahd-tags li {
+  display: none;
+  &:first-child { display: inline-block; }
+
+  @include media-breakpoint-up(md) {
+    background: url('data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%227%22%20height%3D%2211%22%20viewBox%3D%220%200%207%2011%22%3E%3Cg%20fill%3D%22none%22%3E%3Cg%20fill%3D%22%23FFF%22%3E%3Cpolygon%20points%3D%220.7%206.1%204.9%2010.8%206.4%209.5%202.8%205.4%206.4%201.3%204.9%200%200.7%204.7%200%205.3%200.1%205.4%200%205.5%200.7%206.1%22%2F%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E') no-repeat -8px .2em;
+    border-right: 0;
+    display: inline-block;
+    padding: 0 0 0 10px;
+
+    &:first-child {
+      background: rgba(0, 0, 0, 0) none;
+      padding-left: 5px;
+    }
+  }
+}
+
+

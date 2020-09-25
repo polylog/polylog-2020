@@ -1,0 +1,64 @@
+// -----------------------------------------------------------------------------
+// 3 Columns Marketing Section
+// -----------------------------------------------------------------------------
+
+.section-marketing > .row {
+  @extend .justify-content-center;
+
+  padding-bottom: 4rem;
+}
+
+.section-marketing-col {
+  @extend  .col-sm-6, .col-lg-4;
+
+  text-align: center;
+  padding-top: 6.4rem;
+  padding-bottom: 3.2rem;
+  position: relative;
+
+  @include media-breakpoint-up(md) {
+    padding-top: 8.2rem;
+    padding-bottom: 3.8rem;
+  } // md
+
+
+  // Icon
+  &::before {
+    @extend %icon;
+
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -24px;
+    width: 48px;
+    height: 48px;
+  }
+
+  // Set subheads paddings and margins
+  > h3 {
+    padding-top: .4rem;
+    margin-bottom: 0;
+  }
+
+  // Remove hyphens
+  > p {
+    hyphens: none;
+  }
+}
+
+// Team - Ball
+.section-marketing-col.team::before {
+  @extend %icon-team;
+}
+
+// Expert - Glasses
+.section-marketing-col.experts::before {
+  @extend %icon-expert;
+}
+
+// Travel Agency - Plane
+.section-marketing-col.travel-agency::before {
+  @extend %icon-travel;
+}

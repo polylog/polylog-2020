@@ -1,0 +1,99 @@
+nav.navbar
+  // noindex
+
+  ul.navbar-nav.nav(role="menubar")
+    //- SERVICES
+    li.navbar-item.dropdown(aria-haspopup="true" role="menuitem")
+      a#dropdown-services.navbar-dropdown-toggle.services.js-menu-link(href="/ru/services" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false")
+        span.icon.services(role="presentation")
+        span.hidden-md-up PR-услуги
+        span.hidden-sm-down Услуги
+
+      ul.dropdown-menu(aria-labelledby="dropdown-services" aria-hidden="true" role="menu")
+        li.dropdown-item.index
+          a.dropdown-link(href="/ru/services") <b>Все услуги — обзор</b>
+        li.dropdown-item
+          a.dropdown-link(href="/ru/services/event-management") Организация мероприятий
+        li.dropdown-item
+          a.dropdown-link(href="/ru/services/public-relations") PR
+        li.dropdown-item
+          a.dropdown-link(href="/ru/services/analytics-creativity") Аналитика и креатив
+        li.dropdown-item
+          a.dropdown-link(href="/ru/services/e-governance-solutions") Исследования <span class="nowrap">и IT-решения</span> в госсекторе
+        li.dropdown-item
+          a.dropdown-link(href="/ru/services/fundraising") Фандрайзинг
+
+    //- PROJECTS
+    li.navbar-item.dropdown(aria-haspopup="true" role="menuitem")
+      a#dropdown-projects.navbar-dropdown-toggle.projects.js-menu-link(href="/ru/projects" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false")
+        span.icon.projects(role="presentation")
+        | Проекты
+      ul.dropdown-menu(aria-labelledby="dropdown-projects" aria-hidden="true" role="menu")
+        li.dropdown-item
+          a.dropdown-link(href="/ru/projects") Примеры работы
+        li.dropdown-item
+          a.dropdown-link(href="/ru/projects/industries") Отрасли
+        li.dropdown-item
+          a.dropdown-link(href="/ru/projects/testimonials") Отзывы
+        li.dropdown-item
+          a.dropdown-link(href="/ru/upcoming-events") Готовим событие
+
+    //- COMPANY
+    li.navbar-item.dropdown(aria-haspopup="true" role="menuitem")
+      a#dropdown-company.navbar-dropdown-toggle.company.js-menu-link(href="/ru/company" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false")
+        span.icon.company(role="presentation")
+        | Компания
+      ul.dropdown-menu(aria-labelledby="dropdown-company" aria-hidden="true" role="menu")
+        li.dropdown-item
+          a.dropdown-link(href="/ru/company") Общие сведения
+        li.dropdown-item
+          a.dropdown-link(href="/ru/company/management") Команда
+        li.dropdown-item
+          a.dropdown-link(href="/ru/company/pr-events-agency-ratings") Награды и рейтинги
+        li.dropdown-item
+          a.dropdown-link(href="/ru/company/iso") Система менеджмента качества
+        li.dropdown-item
+          a.dropdown-link(href="/ru/company/arj") Архив новостей
+        li.dropdown-item
+          a.dropdown-link(href="/ru/company/contacts") Контактная информация
+
+    //- CAREERS
+    li.navbar-item.dropdown.hidden-xs-down(aria-haspopup="true" role="menuitem")
+      a#dropdown-careers.navbar-dropdown-toggle.careers.js-menu-link(href="/ru/careers/jobs" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false")
+        span.icon.career(role="presentation")
+        | Карьера
+      ul.dropdown-menu(aria-labelledby="dropdown-careers" aria-hidden="true" role="menu")
+        li.dropdown-item
+          a.dropdown-link(href="/ru/careers") Почему «Полилог»?
+        li.dropdown-item
+          a.dropdown-link(href="/ru/careers/jobs") Вакансии
+        li.dropdown-item
+          a.dropdown-link(href="/ru/careers/internship") Стажировка
+        li.dropdown-item
+          a.dropdown-link(href="/ru/careers/culture") Корпоративная культура
+        li.dropdown-item
+          a.dropdown-link(href="/ru/careers/talents") Конкурс талантов
+
+    //- BLOG
+    li.navbar-item.dropdown.hidden-xs-down
+      a#dropdown-blog.navbar-dropdown-toggle.blog.js-menu-link(href="/ru/pr-blog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false")
+        span.icon.blog(role="presentation")
+        | Блог
+      ul.dropdown-menu(aria-labelledby="dropdown-blog" aria-hidden="true" role="menu")
+        li.dropdown-item
+          a.dropdown-link(href="/ru/pr-blog") Идеи и опыт
+        li.dropdown-item
+          a.dropdown-link(href="/ru/pr-blog/tutorials") Видеолекции
+        //-
+          <li class="dropdown-item">
+            <a class="dropdown-link" href="/ru/pr-blog/focus">Фокус</a>
+          </li>
+        li.dropdown-item
+          a.dropdown-link(href="/ru/pr-blog/help") Энциклопедия PR
+
+    //- CTA
+    li.navbar-cta
+      h3.navbar-cta-headline Нужен PR? Event?
+        small Составить смету?
+      button.navbar-cta-btn.js-open-modal(data-href="/ru/company/contact-us" data-target="#modal" data-toggle="modal") Пишите
+  // /noindex

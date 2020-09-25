@@ -1,0 +1,9 @@
+
+<button class="btn social facebook" aria-label="Facebook — Like" title="Facebook — Like">
+  <span class="fb-like" data-href="{{ post.permalink | prepend: site.url }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="false"></span>
+</button>
+<button class="btn social icon whatsapp" data-href="whatsapp://send?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" aria-label="Share via WhatsApp" title="Share via WhatsApp"></button>
+<button class="btn social icon twitter" data-href="https://twitter.com/home?status='{{ page.title | url_encode }}'+{{ page.url | absolute_url | url_encode }}" aria-label="Share via Twitter" title="Share via Twitter"></button>
+<button class="btn social icon pocket" data-href="https://getpocket.com/edit.php?url={{ page.url | absolute_url | url_encode }}" aria-label="Save to Pocket" title="Save to Pocket"></button>
+<button class="btn social icon linkedin js-share" id="footer-linkedin" data-href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}&amp;title={{ page.title | url_encode }}" aria-label="Post on Linkedin" title="Post on Linkedin"></button>
+<button class="btn social icon email-md" data-href="mailto:?subject={{ page.title | url_encode }}&amp;body={{ page.url | absolute_url | url_encode }}" aria-label="Share via email" title="Share via email"></button>

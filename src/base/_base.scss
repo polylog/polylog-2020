@@ -1,0 +1,43 @@
+html {
+  // Fix rendering body background color on macOS WebKit browsers
+  background: #fff;
+  font-size: $font-size-root;
+
+  // Ensure the page always fills at least the entire height of the viewport
+  min-height: 100%;
+  // height: 100%;
+}
+
+body {
+  // Anti-alising. Autoprefixer doesn’t support font-smoothing
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #fff;
+  text-align: center;
+
+  // Add space for fixed header
+  padding: 56px 0 0;
+
+  // Animation causes leaps on modal oppening. Can be fixed w/ js
+  // stackoverflow.com/questions/4770025/how-to-disable-scrolling-temporarily
+  // transition: all 0.2s ease-out;
+  min-height: 100%;
+
+  @include media-breakpoint-up(md) {
+    // remove space for fixed header but add space for navbar
+    padding: 0 0 0 map-get($navbar-width, 'md');
+  }
+
+  @include media-breakpoint-up(xl) {
+    padding-left: map-get($navbar-width, 'lg');
+  }
+}
+
+
+// Set default box-sizing to border-box as BS have been set it to inherit
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}

@@ -1,0 +1,69 @@
+// -----------------------------------------------------------------------------
+// Responsive utilities
+// -----------------------------------------------------------------------------
+.tbl,
+.tbl-inl,
+.tbl-pc,
+.tbl-pc-inl,
+.pc,
+.pc-inl {
+  display: none !important;
+}
+
+.mob,
+.pc-mob .tbl-mob,
+.mobile {
+  display: block !important;
+}
+
+.mob-inl,
+.pc-mob-inl,
+.tbl-mob-inl {
+  display: inline-block !important;
+}
+
+@include media-breakpoint-up(md) {
+  .tel,
+  .tel:hover {
+    color: $color-text-secondary;
+    cursor: default;
+    text-decoration: none;
+    white-space: nowrap;
+
+    i {
+      color: lighten($color-text-secondary, 20%);
+      font-style: normal;
+    }
+  }
+}
+
+@include media-breakpoint-only(md) {
+  .pc,
+  .pc-inl,
+  .pc-mob,
+  .pc-mob-inl {
+    display: none !important;
+  }
+
+  .tbl,
+  .tbl-mob {
+    display: block !important;
+  }
+
+  .tbl-inl,
+  .tbl-mob-inl {
+    display: inline-block !important;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .mob,
+  .mob-inl,
+  .mobile,
+  .tbl,
+  .tbl-inl,
+  .tbl-mob,
+  .tbl-mob-inl {
+    display: none !important;
+  }
+}

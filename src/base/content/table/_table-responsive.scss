@@ -1,0 +1,65 @@
+// -----------------------------------------------------------------------------
+// Responsive Tables by ZURB Foundation
+// -----------------------------------------------------------------------------
+
+// https://zurb.com/playground/responsive-tables
+
+@include media-breakpoint-up(lg) {
+
+  .table-wrapper {
+    border-right: 1px solid #ccc;
+    margin-bottom: 20px;
+    overflow: hidden;
+    position: relative;
+
+    .scrollable {
+      margin-left: 35%;
+      overflow: scroll;
+      overflow-y: hidden;
+    }
+  }
+
+  .table-responsive {
+    margin-bottom: 0;
+
+    td, th {
+      overflow: hidden;
+      position: relative;
+      white-space: nowrap;
+    }
+
+    th:first-child,
+    td:first-child,
+    td:first-child,
+    &.pinned td {
+      display: none;
+    }
+  }
+
+  .pinned {
+    background: #fff;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    left: 0;
+    overflow-x: scroll;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 35%;
+
+    table {
+      border-right: 0;
+      border-left: 0;
+      width: 100%;
+
+      th, td {
+        white-space: nowrap;
+      }
+
+      td:last-child {
+        border-bottom: 0;
+      }
+    }
+  }
+
+}

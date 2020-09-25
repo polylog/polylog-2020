@@ -1,0 +1,93 @@
+- title: <span class="hidden-md-up">PR-услуги </span><span class="hidden-sm-down">Услуги</span>
+  url: /ru/services
+  name: services
+
+  submenu:
+    - title: <b>Все услуги&nbsp;— обзор</b>
+      url: /ru/services
+      index: true
+    - title: Организация мероприятий
+      url: /ru/services/event-management
+    - title: PR
+      url: /ru/services/public-relations
+    - title: Цифровые решения
+      url: http://it.polylog.ru
+    - title: Фандрайзинг
+      url: /ru/services/fundraising
+
+- title: Проекты
+  url: /ru/projects
+  name: projects
+
+  submenu:
+    - title: Примеры работы
+      url: /ru/projects
+    - title: Отрасли
+      url: /ru/projects/industries
+    - title: POLYCODE
+      url: https://it.polylog.ru/polycode
+    - title: Отзывы
+      url: /ru/projects/testimonials
+    # - title: Готовим событие
+    #   url: /ru/upcoming-events
+
+- title: Компания
+  url: /ru/company
+  name: company
+
+  submenu:
+    - title: Общие сведения
+      url: /ru/company
+    - title: Команда
+      url: /ru/company/management
+    - title: Система менеджмента качества
+      url: /ru/company/iso
+    - title: Архив новостей
+      url: /ru/company/arj
+    - title: Контактная информация
+      url: /ru/company/contacts
+
+- title: Карьера
+  url: /ru/careers/jobs
+  name: career
+  secondary: true
+
+  submenu:
+    - title: Почему «Полилог»?
+      url: /ru/careers
+    - title: Вакансии
+      url: /ru/careers/jobs
+    - title: Стажировка
+      url: /ru/careers/internship
+    - title: Конкурс талантов
+      url: /ru/careers/talents
+    - title: Корпоративная культура
+      url: /ru/careers/culture
+
+- title: Блог
+  url: /ru/pr-blog
+  name: blog
+  secondary: true
+
+  submenu:
+    - title: Идеи и&nbsp;опыт
+      url: /ru/pr-blog
+    # - title: Видеолекции
+    #   url: /ru/pr-blog/tutorials
+    - title: Энциклопедия&nbsp;PR
+      url: /ru/pr-blog/help
+
+# {% for section in site.data.navbar %}
+#   <li{% if item.url == page.url %}class="is-active"{% endif %}>
+#     {{ section.title }}
+#     {% if site.data.navbar.submenu[0] %}
+#       <ul>
+#         {% for page in section.submenu %}
+#           <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+#         {% endfor %}
+#       </ul>
+#     {% endif %}
+#   </li{%>
+# {% endfor %}
+
+

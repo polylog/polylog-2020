@@ -1,0 +1,169 @@
+// TODO: Remove unused and redundant
+// -----------------------------------------------------------------------------
+// 🎨 COLOR
+// -----------------------------------------------------------------------------
+
+// RETRIEVE COLOR FILLS SASS MAP
+@function color($key: 'primary') {
+  @return map-get($color-palette, $key);
+}
+
+// RETRIEVE COLOR INKS SASS MAP
+@function color-ink($style: 'normal', $bg: 'normal') {
+
+  @if map-has-key($color-inks, $bg) and map-has-key($color-inks, $bg) {
+    @return map-get(map-get($color-inks, $bg), $style);
+  } @else {
+    @warn 'Could not find #{$bg}/#{$style} in color inks. Valid options are: "normal", "accent", "inverse", "muted"", "hint", "icon", "border" and "link".';
+  }
+}
+
+// COLOR CONTRAST
+// TODO: Изучить все аналогичные функции
+
+// @param {Color} $bg - Background color of component.
+// @param {String} $style ['normal'] - Key for foreground colors map.
+// @return {Color} - Sufficiently contrasting foreground.
+// @example
+//   color: color-contrast($color-primary, 'muted');
+
+@function color-contrast($bg, $style: 'normal') {
+
+  @if(map-has-key($color-inks, $style)) {
+    $r: red($bg);
+    $g: green($bg);
+    $b: blue($bg);
+
+    $yiq: (($r * 299) + ($g * 587) + ($b * 114)) / 1000;
+
+    // Dark on light
+    @if ($yiq >= 150) {
+      @return map-get(map-get($color-inks, 'accent'), $style);
+    }
+
+    // Light on dark
+    @else {
+      @return map-get(map-get($color-inks, 'inverse'), $style);
+    }
+  } @else {
+    @warn 'You have entered an invalid value. Available color variations are: "normal", "muted"", "hint", "icon", "border" and "link".';
+  }
+}
+
+
+// -----------------------------------------------------------------------------
+// TYPOGRAPHY
+// -----------------------------------------------------------------------------
+
+// LINE HEIGHT CALCULATION
+// @param {Number} $font-size - Font-size of headline.
+// @param {Number} $factor [.8] - Global microgrid unit
+// @param {Number} $ratio [1.2] - Headlines line height ratio
+// @param {Number} $increment [1] - Global microgrid units added to small font
+// @param {Number} $body-line-height [$font-size-base * $line-height-base] -
+// Body cope line height
+// @example
+//     line-height: line-height($font-size-h1-small);
+
+@function line-height(
+  $font-size,
+  $factor: .8,
+  $ratio: 1.2,
+  $increment: 1,
+  $body-line-height: ($font-size-base * $line-height-base)) {
+
+  // Makes font value unitless
+  // @if unitless($font-size) { btw, unitless can be checked }
+  $unitless-size: ($font-size / 1rem);
+
+  // Headlines
+  // ($font-size-base * $line-height-base) equals line height in rems
+  @if $font-size > $body-line-height {
+    $rough-value: $unitless-size * $ratio;
+
+    @if $rough-value % $factor == 0 {
+      @return $ratio;
+    } @else {
+      @return (round($rough-value / $factor) * $factor) / $unitless-size;
+    }
+  }
+
+  // Small fonts
+  @else {
+    @return (round($unitless-size / $factor) * $factor + ($increment * $factor)) / $unitless-size;
+  }
+}
+
+// MARGIN BOTTOM CALCULATION
+// TODO: test and, if necessary, adjust calculation based on item line height.
+// @see  https://github.com/hiulit/Sassy-Gridlover/blob/master/sassy-gridlover/_sassy-gridlover.scss
+// @param {Number} $line-height - Unitless line-heigh. E.g. 24.
+// @param {Number} $multiplier [1] - Bottom margin in body copy lines.
+// @param {String} $next-is ['box'] - Type of the next block ('box', 'text').
+// 'Box' is for divs, tables, images and 'text' is for paragraphs, lists and
+// blockquotes
+
+@function margin-bottom(
+  $line-height,
+  $multiplier: 1,
+  $next-is: 'box',
+  $body-line-height: ($font-size-base * $line-height-base)) {
+
+  @if $next-is == 'box' {
+    $decrement: 0;
+  }
+
+  @else {
+    $decrement: $body-line-height / 4;
+  }
+
+  @return ($body-line-height * $multiplier) - $decrement;
+}
+
+// -----------------------------------------------------------------------------
+// MATH
+// -----------------------------------------------------------------------------
+
+// ROUND A DECIMAL TO SPECIFIED DIGITS
+
+// @param  {Number} $number A number to round
+// @param  {Number} [0] Digits to output
+// @param  {String} [round] (round|ceil|floor) How to round a number
+// @return {Number} A rounded number
+// @example
+//     decimal-round(0.333)    => 0
+//     decimal-round(0.333, 1) => 0.3
+//     decimal-round(0.333, 2) => 0.33
+//     decimal-round(0.666)    => 1
+//     decimal-round(0.666, 1) => 0.7
+//     decimal-round(0.666, 2) => 0.67
+
+@function decimal-round ($number, $digits: 0, $mode: round) {
+  $n: 1;
+  // $number must be a number
+  @if type-of($number) != number {
+    @warn '#{ $number } is not a number.';
+    @return $number;
+  }
+  // $digits must be a unitless number
+  @if type-of($digits) != number {
+    @warn '#{ $digits } is not a number.';
+    @return $number;
+  } @else if not unitless($digits) {
+    @warn '#{ $digits } has a unit.';
+    @return $number;
+  }
+  @for $i from 1 through $digits {
+    $n: $n * 10;
+  }
+  @if $mode == round {
+    @return round($number * $n) / $n;
+  } @else if $mode == ceil {
+    @return ceil($number * $n) / $n;
+  } @else if $mode == floor {
+    @return floor($number * $n) / $n;
+  } @else {
+    @warn '#{ $mode } is undefined keyword.';
+    @return $number;
+  }
+}

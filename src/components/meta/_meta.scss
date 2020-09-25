@@ -1,0 +1,109 @@
+// -----------------------------------------------------------------------------
+// Container and Base Typography
+// -----------------------------------------------------------------------------
+
+.meta,
+.entry-tag,
+.meta-date {
+  color: $color-text-secondary;
+  font-size: $font-size-xs;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 2;
+}
+
+
+// -----------------------------------------------------------------------------
+// Links
+// -----------------------------------------------------------------------------
+
+.meta-link.is-return-to-index {
+  @extend %chevron-back;
+
+  background-position: 0 .1rem;
+  text-transform: uppercase;
+  margin-left: -12px;
+  padding-left: 12px;
+}
+
+// -----------------------------------------------------------------------------
+// Tags
+// -----------------------------------------------------------------------------
+
+.meta-tags {
+  @extend .list-inline;
+
+  display: inline-block;
+  position: relative;
+
+  // Item
+  > li {
+    display: inline-block;
+  }
+
+  // Links in row format
+  > a + a {
+    display: inline-block;
+    border-left: 1px solid $color-border;
+    margin-left: .8rem;
+    padding-left: .8rem;
+  }
+}
+
+// First tag in Drupal output
+.meta-tags > a:first-child,
+.meta-date + .entry-tag {
+  padding-left: 2.4rem;
+  position: relative;
+}
+
+// Icon
+.meta-tags > a:first-child,
+.meta-date + .entry-tag {
+  position: relative;
+
+  &:before {
+    @extend %icon, %icon-xs, %icon-tag;
+
+    content: '';
+    display: block;
+    margin-top: -.9rem;
+    position: absolute;
+    left: 0;
+    top: 50%;
+  }
+}
+
+
+// -----------------------------------------------------------------------------
+// Date
+// -----------------------------------------------------------------------------
+
+.meta-date {
+  margin-right: .8rem;
+
+  > i {
+    background: url('data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2221%22%20height%3D%2219%22%20viewBox%3D%220%200%2021%2019%22%3E%3Cg%20fill%3D%22none%22%3E%3Cpath%20d%3D%22M1%204L1%2017C1%2017.6%201.4%2018%202%2018L19%2018C19.6%2018%2020%2017.6%2020%2017L20%204%2021%204%2021%2017C21%2018.1%2020.1%2019%2019%2019L2%2019C0.9%2019%200%2018.1%200%2017L0%204%201%204Z%22%20fill%3D%22%23DDE0E4%22%2F%3E%3Cpath%20d%3D%22M2%200L19%200C20.1%200%2021%200.9%2021%202L21%204%200%204%200%202C0%200.9%200.9%200%202%200L2%200Z%22%20fill%3D%22%23C33%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E') no-repeat 0 100%;
+    display: inline-block;
+    font-style: normal;
+    text-align: center;
+    margin-right: .1rem;
+    padding-top: .1rem;
+    position: relative;
+    width: 21px;
+    height: 21px;
+  }
+}
+
+
+// -----------------------------------------------------------------------------
+// Source article
+// -----------------------------------------------------------------------------
+
+.meta-src {
+  border-left: 1px solid $color-border;
+  display: inline-block;
+  font-style: normal;
+  padding-left: .8rem;
+}
+

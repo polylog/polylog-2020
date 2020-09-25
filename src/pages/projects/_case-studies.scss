@@ -1,0 +1,54 @@
+// -----------------------------------------------------------------------------
+// Legacy
+// -----------------------------------------------------------------------------
+
+.case_studies {
+  list-style: none;
+  list-style-image: none;
+  margin: 0;
+
+  li {
+    float: left;
+    text-align: center;
+    margin-top: 1em;
+    width: 50%;
+  }
+}
+
+.clients-list-view {
+  list-style: none;
+  list-style-image: none;
+  margin: 0;
+
+  li {
+    margin-bottom: $spacer-y;
+    position: relative;
+    padding-left: 100px;
+
+    span {
+      margin: -40px 0 0 !important;
+      position: absolute;
+      top: 50%;
+      left: 0;
+    }
+  }
+
+  #cln_mpf span { margin-top: -30px !important; }
+}
+
+
+// -----------------------------------------------------------------------------
+// MODERN
+// -----------------------------------------------------------------------------
+
+.row.projects {
+  @extend %gutters-sm;
+
+  justify-content: center;
+
+  @include media-breakpoint-up(md) {
+    > [class*='col-'] {
+      @include gutters-sm-col();
+    }
+  } // md
+} // / .gutters-sm

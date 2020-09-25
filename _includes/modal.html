@@ -1,0 +1,19 @@
+<div class="modal" id="modal" role="dialog" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <button class="modal-close" data-dismiss="modal" aria-label="{{ site.data.i18n.labels.close[page.lang] }}" title="{{ site.data.i18n.labels.close[page.lang] }}"></button>
+    <div class="modal-content">
+
+    </div>
+  </div>
+</div>
+
+{% unless page.contacts %}
+<div class="modal" id="modal-form" role="dialog" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <button class="modal-close" data-dismiss="modal" aria-label="{{ site.data.i18n.labels.close[page.lang] }}" title="{{ site.data.i18n.labels.close[page.lang] }}"></button>
+    <div class="modal-content">
+      {% include form/contacts.html %}
+    </div>
+  </div>
+</div>
+{% endunless %}

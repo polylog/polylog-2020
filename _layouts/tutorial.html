@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<main class="container">
+
+  <article class="article" itemscope="" itemtype="https://schema.org/Article">
+
+    <header class="article-eyebrow meta">
+      <h2 class="tutorial-eyebrow" itemprop="articleSection">Видеолекции</h2>
+    </header>
+
+    <h1 class="article-headline" itemprop="headline">
+      {{ page.title }}
+    </h1>
+
+    {{ content }}
+
+    <footer class="article-footer meta">
+      {% include date.html schema=true %}
+
+      <meta itemprop="author" content="PR-агентство «Полилог»">
+      <meta itemprop="publisher" content="PR-агентство «Полилог»">
+    </footer>
+
+    {% include disqus.html %}
+  </article>
+</main>

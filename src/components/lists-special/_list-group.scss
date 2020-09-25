@@ -1,0 +1,99 @@
+.list-group.tags {
+  background: $color-background-secondary;
+  border-radius: $border-radius;
+  text-align: left;
+  padding: 2.6rem 4.8rem 3.1rem 6rem;
+}
+
+// **
+// One module width tags block
+// *
+.tags.compact {
+  padding: 2.6rem 2rem 3.1rem 4.8rem;
+  width: 216px;
+  max-width: 216px; // 1
+  height: 252px;
+}
+
+
+// **
+// Tags block <li>
+// *
+.tags .list-group-item {
+  border: 0;
+  background: transparent;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+// **
+// Tags block <a>
+// *
+.tags .list-group-link {
+  display: block;
+  padding: 1.2rem 0 1.1rem;
+  position: relative;
+  width: 100%;
+
+  &::before {
+    @extend %icon, %icon-xs, %icon-tag;
+
+    content: '';
+    display: block;
+    position: absolute;
+    top: 1.6rem;
+    left: -2.4rem;
+  }
+}
+
+.tags .list-group-item:not(:last-child) .list-group-link {
+  border-bottom: 1px solid $color-border;
+}
+
+// **
+// Tags block :hover state
+// *
+.tags.three-d {
+  box-shadow: none;
+  transition: box-shadow .24s cubic-bezier(0.4, 0, 0.2, 1), transform .24s cubic-bezier(0.4, 0, 0.2, 1);
+  transform: translateY(0);
+}
+
+.tags.three-d:hover {
+  box-shadow: 0 24px 48px -12px rgba(0, 0, 0, 0.4);
+  transform: translateY(-4px);
+}
+
+// Default styles
+//
+// .list-group {
+//   display: flex;
+//   flex-direction: column;
+//   padding-left: 0;
+//   margin-bottom: 0;
+// }
+
+// .list-group-item {
+//   background-color: #fff;
+//   border: 1px solid rgba(0, 0, 0, 0.125);
+
+//   display: flex;
+//   align-items: center;
+//   flex-flow: row wrap;
+
+//   margin-bottom: -1px;
+//   padding: .75rem 1.25rem;
+//   position: relative;
+// }
+
+// .list-group-item:first-child {
+//   border-top-right-radius: 3px;
+//   border-top-left-radius: 3px;
+// }
+
+// .list-group-item:last-child {
+//   margin-bottom: 0;
+//   border-bottom-right-radius: 3px;
+//   border-bottom-left-radius: 3px;
+// }
+

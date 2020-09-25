@@ -1,0 +1,63 @@
+---
+
+lang: en
+title: 'Contact information'
+description: 'If you need PR services, we look forward to hearing from you! Please contact us.'
+permalink: /en/company/contacts
+hreflang-ru: /ru/company/contacts
+layout: default
+contacts: true
+classes: section-company page-contact-us has-page-header has-article-banner
+style: |
+  .form-wrapper { padding: 1.6rem 0 .2rem; } @media (min-width: 768px) { .form-wrapper { padding-top: 4rem; } } @media (min-width: 992px) { .form-wrapper { padding-top: 6.4rem; } }
+---
+
+
+<main class="container">
+
+  <article class="article">
+
+    <div class="page-header">
+
+      <h1 class="page-header-headline">Contact information</h1>
+      <span class="page-header-icon" role="presentation"></span>
+    </div>
+
+    <div class="page-header-map">
+      <div class="page-header-prelorer" role="progressbar" aria-busy="true" aria-label="Loading, please wait."></div>
+      <div class="page-header-map-wrapper">
+        <script async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Ad727951eaf6de88f142a4dbe77e2d2e0b9090d166a003d697c9ae1da782fbc1d&amp;width=900&amp;height=240&amp;lang=en_US&amp;scroll=true"></script>
+      </div>
+    </div>
+
+    <div class="row gutters-sm">
+      <div class="main-content base">
+        <p><strong>If&nbsp;you need&nbsp;PR services, we&nbsp;look forward to&nbsp;hearing from you! Please contact&nbsp;us at:</strong></p>
+        <ul class="list-icon relaxed">
+          <li class="list-icon-item address">12&nbsp;Krasnopresnenskaya Naberezhnaya
+            <br> (World Trade Center, WTC), Entrance&nbsp;3, Level&nbsp;11, Office&nbsp;1108, Moscow&nbsp;123610
+        </li>
+          <li class="list-icon-item is-phone-xs">Tel/fax: <a class="link is-phone-number js-tracked" href="tel:+7-495-258-2045" data-analytics-category="Contact" data-analytics-action="Click-to-Call" data-analytics-label="Phone on Contacts Page" title="Call Us">+7 (495) 258-20-45</a>
+            <span>, </span><a class="link is-phone-number js-tracked" href="tel:+7-495-258-2046" data-analytics-category="Contact" data-analytics-action="Click-to-Call" data-analytics-label="Phone on Contacts Page" title="Call Us">258-20-46</a>
+            <br>
+            <span class="text-muted"> (weekdays from 10:15 to&nbsp;19:00)</span>
+          </li>
+          <li class="list-icon-item email">
+            <a class="js-contact js-tracked" href="mailto:service-request(at)gmail(dot)com" data-analytics-category="Contact" data-analytics-action="Mailto" data-analytics-label="Email on Contacts Page" title="Contact Us">Email</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-lg-4 offset-lg-1 hidden-md-down">
+        <figure class="img-module mt-m6">
+          <img src="{{ site.assets }}/img/s-company/contacts/wtc.png" alt="World Trade Center">
+          <figcaption>
+            WTC
+          </figcaption>
+        </figure>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      {% include form/contacts.html %}
+    </div>
+  </article>
+</main>

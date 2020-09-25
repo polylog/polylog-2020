@@ -2,8 +2,38 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
+<main class="container">
+  <article class="article">
+    <div class="page-header">
+      <h1 class="page-header-headline">{{ page.title }}</h1>
+      <span class="page-header-icon" role="presentation"></span>
+    </div>
+    {% if page.banner %}
+      <figure class="page-header-banner">
+        <img src="{{ site.assets }}{{ page.banner }}" alt="{{ page.title | strip_html | escape }}">
+      </figure>
+    {% endif %}
 
-{% include page-intro.html %}
+    {% if page.custom-main %}
+      {{ content }}
+    {% elsif page.industry %}
+      <div class="row has-sidebar-and-breadcrumb">
 
-{{ content }}
+        <nav class="breadcrumb base">
+          <a class="breadcrumb-item home" href="/">Главная</a>
+          <a class="breadcrumb-item" href="/ru/projects">Проекты</a>
+          <a class="breadcrumb-item" href="/ru/projects/industries">Наш опыт по&nbsp;отраслям</a>
+          <span class="breadcrumb-item active">{{ page.title | replace:' | Наш опыт по отраслям','' | strip_html | escape }}</span>
+        </nav>
+
+        {{ content }}
+
+      </div>
+    {% else %}
+      <div class="article-body">
+        {{ content }}
+      </div>
+    {% endif %}
+
+  </article>
+</main>

@@ -1,0 +1,958 @@
+// We prefer Sass variables to use color functions when getting shades and tints.
+// But when we need custom properties for theming, we will create them from maps
+// using loops.
+
+// TODO: replace outdated vars with the new ones
+
+$debug:                                 false;
+$site-assets:                           '/a';
+
+// -----------------------------------------------------------------------------
+// 🎨 COLORS
+// -----------------------------------------------------------------------------
+// #region
+
+// COLOR NAMES
+
+// Spectrum
+$red:                                   rgb(204, 51, 51);
+$pink:                                  rgb(204, 102, 102);
+$orange:                                rgb(255, 102, 0);
+$orange-light:                          rgb(255, 153, 102);
+$yellow:                                rgb(255, 204, 0);
+$green:                                 rgb(51, 102, 51);
+$green-dark:                            rgb(0, 102, 0);
+$green-light:                           rgb(153, 204, 153);
+$teal:                                  rgb(0, 102, 102);
+$cyan-desaturated:                      rgb(153, 204, 204);
+$blue-dark-moderate:                    rgb(51, 102, 153);
+$blue:                                  rgb(153, 153, 204);
+$blue-darker:                           rgb(128, 128, 178); // Use it for links
+$blue-navy:                             rgb(51, 51, 153);
+$purple:                                rgb(102, 51, 102);
+
+// Neutrals
+$transparent:                           hsla(0, 0%, 0%, 0);
+
+$black-max:                             hsla(0, 0%, 0%, .87);
+$black-transparent:                     hsla(0, 0%, 0%, .54);
+$black-transparent-more:                hsla(0, 0%, 0%, .38);
+$black-transparent-even-more:           hsla(0, 0%, 0%, .22);
+$black-transparent-almost:              hsla(0, 0%, 0%, .12);
+$black-transparent-most:                hsla(0, 0%, 0%, .05);
+
+$white-max:                             hsl(0, 0%, 100%);
+$white-transparent:                     hsla(0, 0%, 100%, .7);
+$white-transparent-more:                hsla(0, 0%, 100%, .5);
+$white-transparent-almost:              hsla(0, 0%, 100%, .12);
+
+// COLOR ROLES
+
+$color-primary:                         $blue;
+
+// Among other things, this secondary color is used for button gradients
+$color-secondary:                       desaturate($color-primary, 25%);
+$color-secondary-d1:                    darken($color-secondary, 5%);
+$color-secondary-l1:                    lighten($color-secondary, 5%);
+$color-secondary-l2:                    lighten($color-secondary, 10%);
+
+$color-danger:                          $red;
+$color-info:                            $blue;
+$color-success:                         $green;
+$color-warning:                         $yellow;
+
+// Backgrounds
+$color-background-normal:               $white-max;
+$color-background-accent:               desaturate(lighten($color-primary, 45), 30);
+$color-background-inverse:              desaturate(darken($color-primary, 30), 35);
+$color-background-warning:              lighten($color-warning, 20);
+$color-background-danger:               lighten($color-danger, 20);
+
+// Brands
+$color-facebook:                        rgb(24, 119, 242);
+
+// Foregrounds / Inks
+
+// Inks are foreground colors for texts, borders, and icons
+// The map is preferable to variables as it can be used in the contrast function
+
+$color-inks: (
+
+  // color-ink(key)
+  normal: (
+    normal:                             $black-max,
+    muted:                              $black-transparent,
+    hint:                               $black-transparent-more,
+    disabled:                           $black-transparent-more,
+    icon:                               $black-transparent-even-more,
+    border:                             $black-transparent-almost,
+    link:                               darken($blue, 5%),
+    focus-outline:                      lighten($blue, 25%)
+  ),
+
+  // color-ink(key, accent)
+  accent: (
+    normal:                             $black-max,
+    muted:                              $black-transparent,
+    hint:                               $black-transparent-more,
+    disabled:                           $black-transparent-more,
+    icon:                               $black-transparent-even-more,
+    border:                             $black-transparent-almost,
+    link:                               darken($blue, 5%),
+    focus-outline:                      lighten($blue, 25%)
+  ),
+
+  // color-ink(key, inverse)
+  inverse: (
+    normal:                             $white-max,
+    muted:                              $white-transparent,
+    hint:                               $white-transparent-more,
+    disabled:                           $white-transparent-more,
+    icon:                               $white-transparent-more,
+    border:                             $white-transparent-almost,
+    link:                               lighten($blue, 5%),
+    link-hover:                         $blue
+  )
+);
+
+// #endregion
+
+// -----------------------------------------------------------------------------
+// LEGACY
+// #region
+
+// COLOR NAMES
+
+// Spectrum
+$red:                         rgb(204, 51, 51);
+$orange:                      rgb(255, 102, 0);
+$yellow:                      rgb(255, 204, 0);
+$green:                       rgb(51, 102, 51);
+$blue:                        rgb(153, 153, 204);
+$teal:                        rgb(0, 102, 102);
+$pink:                        rgb(204, 102, 102);
+$purple:                      rgb(102, 51, 102);
+$atomic-tangerine:            rgb(255, 153, 102);
+$azure:                       rgb(51, 102, 153);
+$blue-darker:                 rgb(128, 128, 178); // Use for links
+$green-dark:                  rgb(0, 102, 0);
+$green-light:                 rgb(153, 204, 153);
+$navy-blue:                   rgb(51, 51, 153);
+$sinbad:                      rgb(153, 204, 204);
+
+// Neutrals
+$gray-darkest:                rgb(30, 33, 37);    // Body text
+$gray-dark:                   rgb(109, 112, 116); // Text muted #2
+// $gray:                        rgb(155, 158, 162); // Text muted
+$gray:                        rgb(114, 117, 121); // Text secondary
+$gray-light:                  rgb(221, 224, 228); // HR
+$gray-lighter:                rgb(234, 237, 241); // Drawer, modal
+$gray-lightest:               rgb(241, 244, 248); // Boxes inside drawer, modal
+
+// COLOR ROLES
+
+$brand-main:                    $red;
+$brand-primary:                 $blue;
+$brand-secondary:               $blue;
+$brand-success:                 $green;
+$brand-info:                    $azure;
+$brand-warning:                 $yellow;
+// $brand-danger:               $red !default;
+// $brand-inverse:              $gray-dark !default;
+
+// Sections coding
+$brand-event:                   $blue;
+$brand-pr:                      $purple;
+$brand-fundraising:             $teal;
+$brand-rnd:                     $azure;
+$brand-jobs:                    $red;
+$brand-analytics-creativity:    $navy-blue;
+
+// Backgrounds
+$color-background-secondary:    $gray-lighter;
+$color-background-negative:     $gray-darkest;
+$color-background-alt-row:      $gray-lightest;
+
+// Inks
+$color-text-primary:            $gray-darkest;
+$color-text-secondary:          $gray-dark;
+$color-text-tertiary:           rgb(155, 158, 162);
+$color-border:                  $gray-light;
+$color-border-wash:             rgba(0, 0, 0, .12);
+$color-link:                    rgb(128, 128, 178);
+
+$text-dark-primary:             rgba(0, 0, 0, .87);
+$text-dark-secondary:           rgba(0, 0, 0, .54);
+$text-dark-hint:                rgba(0, 0, 0, .38);
+
+$negative:                      #fff;
+$negative-secondary:            rgba(255, 255, 255, .7);
+$negative-hint:                 rgba(255, 255, 255, .5);
+$negative-divider:              rgba(255, 255, 255, .2);
+
+// Icons opacity and greys
+$icon-dark-active:              rgb(136, 139, 143);
+$icon-dark-active-opacity:      .54;
+$icon-dark-inactive:            rgb(174, 177, 181);
+$icon-dark-inactive-opacity:    .38;
+
+$icon-light-active-opacity:     1;
+$icon-light-inactive-opacity:  .3;
+
+$tone:                          6%;
+
+
+// $body-bg:       $white !default;
+$body-color:                 $color-text-primary;
+$input-color-placeholder:    $color-text-secondary;
+// $inverse-bg:    $gray-dark !default;
+// $inverse-color: $gray-lighter !default;
+
+$link-color:                  $blue-darker;
+// $link-decoration:          none !default;
+// $link-hover-color:         darken($link-color, 15%) !default;
+$link-hover-decoration:       none;
+// #endregion
+
+// -----------------------------------------------------------------------------
+// 📰 LAYOUT
+// -----------------------------------------------------------------------------
+// #region
+
+$size-1:                                .8rem;
+$size-2:                                ($size-1 * 2);
+$size-3:                                ($size-1 * 3);
+$size-4:                                ($size-1 * 4);
+$size-5:                                ($size-1 * 5);
+// It is preferable to use ($size-line * 2) instead $size-6, wherever possible
+$size-6:                                ($size-1 * 6);
+$size-7:                                ($size-1 * 7);
+$size-8:                                ($size-1 * 8);
+
+// For larger values use derived lines. E.g. ($size-line * 3)
+$size-line:                             $size-3;
+
+// Maps to generate spacing classes using Bootstrap mixin or to create custom
+// variables.
+// To use this uncomment '@import … spacing' in style.scss or remake Bootstrap
+// loop utilities/spacing removing unnecessary rules
+$spacers: (
+  0: 0,
+  1: $size-1,
+  2: $size-2,
+  // 3: $size-3,
+  4: $size-4,
+  5: $size-5,
+  6: $size-6,
+  7: $size-7,
+  8: $size-8,
+
+  1l: $size-line,
+  2l: ($size-line * 2),
+  3l: ($size-line * 3)
+);
+
+// Maps to generate maximum width of the container for each breakpoint
+// Values are multiples of 8.
+$container-max-widths: (
+  lg: 952px, // Tablet in landscape;
+  xl: 1144px, // Laptop;
+  // xxl: 1776px // Full HD
+);
+
+$grid-breakpoints: (
+  xs:   0,
+  sm:   568px,
+  md:   768px, // Use the same layout as on sm, but with vertical navbar
+  lg:   1024px,
+  xl:   1280px,
+  // xxl:  1440px,
+  // xxxl: 1920px,
+  // jumbo: 2560px // iMac 27''
+);
+
+// Using: @media #{$mq-retina} { … }
+$mq-retina: 'print, (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 1.25dppx), (min-resolution: 120dpi)';
+
+// Grid. This stuff is needed only for BS grid.
+// My CSS grid needs to be edited directly in the file
+$grid-gutter-width:                     $size-1;
+// $grid-gutter-xxs:                       ($size-1 / 2);
+// $grid-gutter-lg:                        $size-line;
+// $grid-gutter-xl:                        $size-4;
+
+// #endregion
+
+// -----------------------------------------------------------------------------
+// LEGACY
+// #region
+
+// Control the default styling of most Bootstrap elements by modifying these
+// variables. Mostly focused on spacing.
+// You can add more entries to the $spacers map, should you need more variation.
+// lo = leading offset, .6rem to set a text block laying under a box to the grid
+
+// Vertical paddings and margins
+// d5 = 24 * 0.5 = 12
+// 1 = 24
+// 1d5 = 24 * 1.5 = 36
+// 2 = 48
+// 2d5 = 60
+// 3 = 72
+
+$spacer:   .8rem;
+$spacer-x: .8rem;
+$spacer-y: 2.4rem;
+$spacers: (
+  0: (
+    x: 0,
+    y: 0
+  ),
+  2: (
+    y: .2rem
+  ),
+  3: (
+    y: .3rem
+  ),
+  4: (
+    y: .4rem
+  ),
+  5: (
+    y: .5rem
+  ),
+  6: (
+    y: .6rem
+  ),
+  8: (
+    y: .8rem
+  ),
+  9: (
+    y: .9rem
+  ),
+  10: (
+    y: 1rem
+  ),
+  12: (
+    x: 1.2rem,
+    y: 1.2rem
+  ),
+  13: (
+    y: 1.3rem
+  ),
+  14: (
+    y: 1.4rem
+  ),
+  16: (
+    y: 1.6rem
+  ),
+  17: (
+    y: 1.7rem
+  ),
+  18: (
+    y: 1.8rem
+  ),
+  20: (
+    x: 2rem,
+    y: 2rem
+  ),
+  21: (
+    y: 2.1rem
+  ),
+  22: (
+    y: 2.2rem
+  ),
+  24: (
+    x: 2.4rem,
+    y: 2.4rem
+  ),
+  26: (
+    y: 2.6rem
+  ),
+  27: (
+    y: 2.7rem
+  ),
+  28: (
+    y: 2.8rem
+  ),
+  30: (
+    x: 3rem,
+    y: 3rem
+  ),
+  31: (
+    x: 3.1rem,
+    y: 3.1rem
+  ),
+  32: (
+    y: 3.2rem
+  ),
+  33: (
+    y: 3.3rem
+  ),
+  34: (
+    y: 3.4rem
+  ),
+  36: (
+    y: 3.6rem
+  ),
+  39: (
+    y: 3.9rem
+  ),
+  40: (
+    y: 4rem
+  ),
+  42: (
+    y: 4.2rem
+  ),
+  44: (
+    y: 4.4rem
+  ),
+  46: (
+    y: 4.6rem
+  ),
+  50: (
+    y: 5rem
+  ),
+  51: (
+    y: 5.1rem
+  ),
+  52: (
+    y: 5.2rem
+  ),
+  54: (
+    y: 5.4rem
+  ),
+  56: (
+    x: 5.6rem,
+    y: 5.6rem
+  ),
+  58: (
+    y: 5.8rem
+  ),
+  60: (
+    y: 6rem
+  ),
+  62: (
+    y: 6.2rem
+  ),
+  64: (
+    x: 6.4rem,
+    y: 6.4rem
+  ),
+  66: (
+    y: 6.6rem
+  ),
+  67: (
+    y: 6.7rem
+  ),
+  70: (
+    y: 7rem
+  ),
+  72: (
+    x: 7.2rem,
+    y: 7.2rem
+  ),
+  76: (
+    y: 7.6rem
+  ),
+  82: (
+    y: 8.2rem
+  ),
+  88: (
+    y: 8.8rem
+  ),
+
+  1s: (
+    x: $spacer-x,
+    y: $spacer-y
+  ),
+  2s: (
+    x: ($spacer-x * 2),
+    y: ($spacer-y * 2)
+  ),
+  3s: (
+    x: ($spacer-x * 3),
+    y: ($spacer-y * 3)
+  ),
+  4s: (
+    y: ($spacer-y * 4)
+  )
+);
+
+// This variable affects the `.h-*` and `.w-*` classes.
+// $sizes: (
+//   25: 25%,
+//   50: 50%,
+//   75: 75%,
+//   100: 100%
+// );
+
+
+
+// -----------------------------------------------------------------------------
+// LEGACY
+
+// new value of sm is 576px, but it don't feet to iPhone SE
+// xl is used for laptops layouts - 1366x768 and up
+// xxl is added to create layouts for 1920x1080 and app
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 544px,
+  md: 768px,
+  lg: 1016px,
+  lg-xl: 1056px,
+  xl: 1200px,
+  xxl: 1500px
+);
+
+// GRID CONTAINERS
+// Define the maximum width of `.container` for different screen sizes.
+
+$container-max-widths: (
+  sm: 582px,
+  lg: 932px
+);
+
+// GRID COLUMNS
+// Set the number of columns and specify the width of the gutters.
+
+$grid-columns:               12;
+$grid-gutter-width-base:     32px;
+
+$grid-gutter-widths: (
+  xs: $grid-gutter-width-base,
+  sm: $grid-gutter-width-base,
+  md: $grid-gutter-width-base,
+  lg: $grid-gutter-width-base,
+  xl: $grid-gutter-width-base
+);
+// #endregion
+
+// #endregion
+
+// -----------------------------------------------------------------------------
+// 🔠 TYPOGRAPHY
+// -----------------------------------------------------------------------------
+// #region
+
+// Don't use system-ui (Tahoma in Win7) and Segoe UI. These fonts are ugly
+// stylelint-disable indentation
+$font-family-base:
+ 'Helvetica Neue',
+  Helvetica,
+ 'Roboto',
+  Arial,
+  sans-serif,
+ 'Apple Color Emoji',
+ 'Segoe UI Emoji',
+ 'Segoe UI Symbol',
+ 'Noto Color Emoji';
+
+
+$font-family-accent:
+ -apple-system,
+ 'Helvetica Neue',
+  Helvetica,
+ 'Roboto',
+ 'Segoe UI',
+ 'Noto Sans',
+  Arial,
+  sans-serif,
+ 'Apple Color Emoji',
+ 'Segoe UI Emoji',
+ 'Segoe UI Symbol',
+ 'Noto Color Emoji';
+
+$font-family-monospace:
+ 'Fira Code',
+  Menlo,
+  Courier,
+ 'Courier New',
+  monospace;
+// stylelint-enable indentation
+
+$font-size-hero:                        $size-8;
+$line-height-hero:                      line-height(64);
+
+$font-size-h1:                          $size-5;
+$line-height-h1:                        line-height(40);
+$font-weight-h1:                        400;
+
+$font-size-h1-small:                    $size-4;
+$line-height-h1-small:                  line-height(32);
+
+$font-size-h2:                          $size-line;
+$line-height-h2:                        line-height(24);
+$font-weight-h2:                        500;
+
+$font-size-h2-small:                    ($size-1 * 2.5);
+$line-height-h2-small:                  line-height(20);
+
+$font-size-big:                         ($size-1 * 2.5);
+$line-height-big:                       line-height(20);
+
+$font-size-base:                        $size-2; // 16px
+$line-height-base:                      1.5; // 24px
+
+$font-size-small:                       $size-1 * 1.5; // 12px
+$line-height-small:                     1.333; // 16px
+
+$list-bullet:                           url('data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%225%22%20height%3D%227%22%20viewBox%3D%220%200%205%207%22%3E%3Ccircle%20cx%3D%222.5%22%20cy%3D%222.5%22%20r%3D%222.5%22%20fill-opacity%3D%22.38%22%20fill-rule%3D%22evenodd%22%2F%3E%3C%2Fsvg%3E');
+
+// #endregion
+
+// -----------------------------------------------------------------------------
+// LEGACY
+// #region
+
+// Base font-size has set up to of 62.5% (10px) to have the convenience
+// of sizing rems in a way that is similar to using px.
+// body { font-size: 1.6rem; }
+
+$font-size-root:                        62.5%;
+
+$empty-line:                            2.4rem;
+
+$font-family-sans-serif:               'Helvetica Neue', Helvetica, -apple-system, Arial, 'Roboto', sans-serif;
+$font-light-and-medium:                'Helvetica Neue', Helvetica, -apple-system, 'Roboto', sans-serif;
+
+$font-family-serif:                     Georgia, 'Times New Roman', Times, serif;
+$font-family-monospace:                 Monaco, Menlo, Consolas, 'Courier New', monospace;
+$font-family-base:                      $font-family-sans-serif;
+
+$font-size-base:                        $size-2;
+$line-height:                           1.5;
+
+$font-size-lg:                          2rem;
+$font-size-sm:                          1.2rem;
+$font-size-xs:                          1.2rem;
+
+$headings-font-family:                  Roboto, -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+$headings-font-weight:                  300;
+$headings-color:                        $color-text-primary;
+
+$font-size-h1:                          3.2rem;
+$line-height-h1:                        (36 / 32);
+$font-size-h2:                          2.4rem;
+$line-height-h2:                        1;
+$font-size-h2-compact:                  2rem;
+$line-height-h2-compact:                (24 / 20);
+
+$font-size-h3:                          100%;
+$font-size-h4:                          $font-size-h3;
+
+
+// VERTICAL RHYTHM
+$body-copy-vr-padding-top:              ($empty-line / 4); // This requires trial and error, as top offset depends on font and line-height
+$figure-padding-top:                    $size-1;
+
+$h3-padding-top:                        $empty-line + $body-copy-vr-padding-top;
+$h4-padding-top:                        $h3-padding-top;
+$h5-padding-top:                        $h3-padding-top;
+$h6-padding-top:                        $h3-padding-top;
+// #endregion
+
+// -----------------------------------------------------------------------------
+// 📦 COMPONENTS BOXES
+// -----------------------------------------------------------------------------
+// #region
+$border-width:                          .1rem;
+
+// BOX BORDER RADIUS
+
+// Alerts, Cards, Rectangular Images
+$border-radius-sm:                      .3rem;
+
+// Buttons
+$border-radius:                         .5rem;
+
+// Dropdowns, Modal Bottom Sheets, Pickers, Sticky Blocks, Popovers, Tooltips
+$border-radius-lg:                      1.2rem;
+
+// Modals
+$border-radius-xl:                      2.4rem;
+
+
+// BOX SHADOWS
+
+// Buttons, Cards, Alerts, App Bar, Tab Bar, Switches
+$box-shadow-z1:                         0 1px 0 hsla(0, 0%, 0%, .06);
+
+// FAB, Buttons hover, Snackbars
+$box-shadow-z2:                         0 3px 6px -1px hsla(0, 0%, 0%, .12), 0 5px 10px -1px hsla(0, 0%, 0%, .06);
+
+// FAB hover, Drawers, Dropdowns, Modal Bottom Sheets, Pickers, Sticky Blocks
+// $box-shadow-z3:                         0 10px 20px -2px hsla(0, 0%, 0%, .1), 0 6px 6px -2px hsla(0, 0%, 0%, .06);
+$box-shadow-z3:                         0 10px 20px -2px hsla(0, 0, 0, .04), 0 0 20px -2px hsla(0, 0, 0, .04);
+
+// Popovers, Tooltips
+$box-shadow-z4:                         0 14px 28px -4px hsla(0, 0%, 0%, .12), 0 8px 16px -4px hsla(0, 0%, 0%, .12);
+
+// Modals
+$box-shadow-z5:                         0 40px 72px -12px hsla(0, 0%, 0%, .12), 0 24px 24px -8px hsla(0, 0%, 0%, .16);
+
+// Custom function color-ink() does not execute in sass lists.
+$box-shadow-focus-outline:              0 0 0 4px rgba(darken($blue, 5%), .5);
+
+// BOX Z-INDEX
+$zindex-navbar:                         1000;
+$zindex-modal:                          1050;
+// $zindex-dropdown:                       1000;
+// $zindex-sticky:                         1020;
+// $zindex-fixed:                          1030;
+// $zindex-modal-backdrop:                 1040;
+// $zindex-popover:                        1060;
+// $zindex-tooltip:                        1070;
+
+
+// PANELS WIDTH
+
+$panel-width-xs:                        216px;
+
+// Tooltips, mobile drawers
+$panel-width-sm:                        280px;
+
+// Dropdowns, popovers, tablet and desktop drawers
+$panel-width:                           320px;
+
+// Wide drawers, modals on tablets
+$panel-width-md:                        640px;
+
+// Modals on desktops,
+$panel-width-lg:                        800px;
+
+// PADDINGS
+
+$box-padding-sm:                        $size-2;
+$box-padding-line:                      $size-line;
+$box-padding-lg:                        $size-4; // 32
+$box-padding-xl:                        $size-5; // 40
+
+// #endregion
+
+// -----------------------------------------------------------------------------
+// 👻 ANIMATION & TRANSITIONS
+// -----------------------------------------------------------------------------
+// #region
+
+// Use shorter for disappearing  elements. To do that set transitions on both
+// states, like this:
+// .el { transition: all --duration-disappearance --easing-disappearance; }
+// .el.hidden { transition: all --duration-appearance --easing-appearance; }
+$duration-xs:                           .1s;
+
+// Medium elements changing states
+// and disappearance
+$duration-sm:                           .2s;
+
+// Medium elements appearance,
+// large elements changing states
+// and disappearance
+$duration:                              .25s;
+
+// Medium to large elements appearance
+$duration-md:                           .3s;
+
+// Slower large elements appearance
+$duration-lg:                           .5s;
+$duration-xl:                          .8s;
+
+$easing:                                cubic-bezier(.4, 0, .2, 1); // accented ease-in-out
+$easing-appearance:                     cubic-bezier(0, 0, .2, 1); // accented ease-out
+$easing-disappearance:                  cubic-bezier(.4, 0, 1, 1); // ease-in
+$easing-bounce:                         cubic-bezier(.175, .885, .32, 1.275);
+
+$transition:                            $duration-sm $easing;
+
+// #endregion
+
+// -----------------------------------------------------------------------------
+// 🍱 COMPONENTS
+// -----------------------------------------------------------------------------
+
+$icon-folder:                           '#{$site-assets}/img/graphics';
+
+// map-get($navbar-width, 'lg');
+
+@function navbar-width($key) {
+  @return map-get($navbar-width, $key);
+}
+
+$navbar-width: (
+  md: 86px,
+  lg: 216px
+);
+
+// DROPDOWNS
+
+$dropdown-bg:                           $gray-lightest;
+$dropdown-border-color:                 $color-border;
+$dropdown-border-width:                 1px;
+$dropdown-divider-bg:                   $color-border;
+
+$dropdown-link-color:                   $color-text-secondary;
+$dropdown-link-hover-color:             darken($color-text-secondary, $tone);
+$dropdown-link-hover-bg:                $color-background-secondary;
+
+$dropdown-link-active-color:            darken($color-text-secondary, ($tone * 2));
+$dropdown-link-active-bg:               darken($color-background-secondary, ($tone * 2));
+
+$dropdown-link-disabled-color:          $color-text-tertiary;
+$dropdown-header-color:                 $color-text-secondary;
+
+
+// FORMS
+
+$input-padding-x:                       .75rem;
+$input-padding-y:                       .375rem;
+
+$input-bg:                              #fff;
+$input-bg-disabled:                     $color-background-secondary;
+
+$input-color:                           $color-text-secondary;
+$input-border-color:                    $color-border;
+$input-btn-border-width:                $border-width; // For form controls and buttons
+$input-box-shadow:                      0 1px 0 0 rgba(255, 255, 255, .54);
+
+$input-border-radius:                   $border-radius;
+// $input-border-radius-{lg-sm}
+
+$input-border-focus:                    #66afe9;
+$input-box-shadow-focus:                rgba(102, 175, 233, .6);
+
+// $input-padding-{x,y}-{sm,lg}
+
+$input-group-addon-bg:                  $color-background-secondary;
+$input-group-addon-border-color:        $input-border-color;
+
+
+// Form states and alerts
+// Define colors for form feedback states and, by default, alerts.
+
+$state-success-text:                    #3c763d;
+$state-success-bg:                      #dff0d8;
+$state-success-border:                  darken($state-success-bg, 5%);
+
+$state-info-text:                       #31708f;
+$state-info-bg:                         #d9edf7;
+$state-info-border:                     darken($state-info-bg, 7%);
+
+$state-warning-text:                    #8a6d3b;
+$state-warning-bg:                      #fcf8e3;
+$state-warning-border:                  darken($state-warning-bg, 5%);
+
+$state-danger-text:                     #a94442;
+$state-danger-bg:                       #f2dede;
+$state-danger-border:                   darken($state-danger-bg, 5%);
+
+
+// TOOLTIPS
+
+$tooltip-max-width:                     200px;
+$tooltip-color:                         #fff;
+$tooltip-bg:                            #000;
+$tooltip-opacity:                       .9;
+
+$tooltip-arrow-width:                   5px;
+$tooltip-arrow-color:                   $tooltip-bg;
+
+
+// POPOVERS
+
+$popover-bg:                            #fff;
+$popover-max-width:                     276px;
+$popover-border-width:                  $border-width;
+$popover-border-color:                  rgba(0, 0, 0, .2);
+
+$popover-title-bg:                      darken($popover-bg, 3%);
+
+$popover-arrow-width:                   10px;
+$popover-arrow-color:                   $popover-bg;
+
+$popover-arrow-outer-width:             $popover-arrow-width + 1;
+$popover-arrow-outer-color:             fade-in($popover-border-color, .05);
+
+
+// MODALS
+
+// Padding applied to the modal body
+$modal-inner-padding:                   16px;
+
+$modal-title-padding:                   16px;
+$modal-title-line-height:               $line-height;
+
+$modal-content-bg:                      #fff;
+$modal-content-border-color:            rgba(0, 0, 0, .2);
+
+$modal-backdrop-bg:                     #000;
+$modal-backdrop-opacity:                .5;
+$modal-header-border-color:             #e5e5e5;
+$modal-footer-border-color:             $modal-header-border-color;
+
+$modal-lg:                              900px;
+$modal-md:                              600px;
+$modal-sm:                              300px;
+
+// ALERTS
+// Define alert colors, border radius, and padding.
+
+$alert-padding:                         16px;
+$alert-border-radius:                   $border-radius;
+$alert-link-font-weight:                bold;
+$alert-border-width:                    $border-width;
+
+$alert-success-bg:                      $state-success-bg;
+$alert-success-text:                    $state-success-text;
+$alert-success-border:                  $state-success-border;
+
+$alert-info-bg:                         $state-info-bg;
+$alert-info-text:                       $state-info-text;
+$alert-info-border:                     $state-info-border;
+
+$alert-warning-bg:                      $state-warning-bg;
+$alert-warning-text:                    $state-warning-text;
+$alert-warning-border:                  $state-warning-border;
+
+$alert-danger-bg:                       $state-danger-bg;
+$alert-danger-text:                     $state-danger-text;
+$alert-danger-border:                   $state-danger-border;
+
+
+// IMAGE THUMBNAILS
+
+$thumbnail-padding:                     .25rem;
+// $thumbnail-bg:                          $body-bg;
+$thumbnail-border-width:                $border-width;
+$thumbnail-border-color:                #ddd;
+$thumbnail-border-radius:               $border-radius;
+
+
+// CAROUSEL
+
+$carousel-text-shadow:                  0 1px 2px rgba(0, 0, 0, .6);
+
+$carousel-control-color:                #fff;
+$carousel-control-width:                15%;
+$carousel-control-opacity:              .5;
+$carousel-control-font-size:            20px;
+
+$carousel-indicator-active-bg:          #fff;
+$carousel-indicator-border-color:       #fff;
+
+$carousel-caption-color:                #fff;
+
+
+// CODE
+
+$code-color:                            #bd4147;
+$code-bg:                               #f7f7f9;
+
+$kbd-color:                             #fff;
+$kbd-bg:                                #333;
+
+$pre-bg:                                #f7f7f9;
+$pre-color:                             $color-text-secondary;
+$pre-border-color:                      #ccc;
+$pre-scrollable-max-height:             340px;
+
+// #endregion

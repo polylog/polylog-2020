@@ -1,0 +1,15 @@
+form#mc-embedded-subscribe-form.form.subscription(name="mc-embedded-subscribe-form" action="https://polylog.us2.list-manage.com/subscribe/post?u=252bc5a38de27d3ce6515c16c&id=6995ccb858" method="post" target="_blank")
+  input#mce-FNAME.form-control(name="FNAME" type="text" value="" maxlength="128" aria-label="Имя" placeholder="Имя")
+  input#mce-EMAIL.form-control.email(name="EMAIL" type="email" value="" required="" maxlength="128" aria-label="Email" placeholder="Email")
+  #mce-responses.clear
+    #mce-error-response.response(style="display:none")
+    #mce-success-response.response(style="display:none")
+
+  //- honeypot
+  div(style="position: absolute; left: -5000px;" aria-hidden="true")
+    input(type="text" name="b_252bc5a38de27d3ce6515c16c_6995ccb858" tabindex="-1" value="")
+  .form-actions
+    input#mc-embedded-subscribe.button.button-primary.form-submit(name="subscribe" type="submit" value="Подписаться")
+  .form-item.webform-component.webform-component-markup.webform-component--form-disclaimer
+    p.form-disclaimer.tooltip Нажимая на кнопку, вы даете<br>
+      a(href="/ru/company/privacy-policy#consent" target="_blank") согласие на обработку своих персональных данных

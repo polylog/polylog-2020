@@ -1,0 +1,122 @@
+// -----------------------------------------------------------------------------
+// Row and Columns
+// -----------------------------------------------------------------------------
+
+// Reduce gutters
+
+.row.main {
+  margin: 0;
+}
+
+// MICRO GUTTERS
+// 2px on phones and 12px on tablets and
+.gutters-xs {
+  margin-right: -1px;
+  margin-left: -1px;
+
+  @include media-breakpoint-up(md) {
+    margin-right: -6px;
+    margin-left: -6px;
+  } // md
+}
+
+.gutters-xs   > [class*='col-'] {
+  padding-right: 1px;
+  padding-left: 1px;
+
+  @include media-breakpoint-up(md) {
+    padding-right: 6px;
+    padding-left: 6px;
+  } // md
+}
+
+
+// SMALL GUTTERS
+// 12px on all devices
+.gutters-sm {
+
+  @extend %gutters-sm;
+
+  @include media-breakpoint-up(md) {
+    > [class*='col-'] {
+      @include gutters-sm-col();
+    }
+  } // md
+} // / .gutters-sm
+
+
+// LARGE GUTTERS
+// 32px on all devices
+.gutters-lg {
+  margin-right: -1.6rem;
+  margin-left: -1.6rem;
+
+  @include media-breakpoint-up(md) {
+    > [class*='col-'] {
+      padding-right: 1.6rem;
+      padding-left: 1.6rem;
+    }
+  }
+}
+
+
+
+// TODO: Vertical rhythm fine tuning
+.row.vr-friendly {
+  padding-top: .6rem;
+}
+
+// -------------------------------------
+// Main content and sidebar rows
+// -------------------------------------
+
+.row.has-sidebar-projects {
+  @extend %gutters-sm, .pt-lg-42;
+}
+
+.row.has-sidebar-and-breadcrumb {
+  @extend %gutters-sm, .pt-lg-18;
+}
+
+// Columns
+
+.main-content.base,
+.sidebar.has-projects {
+  @include media-breakpoint-up(md) {
+    @include gutters-sm-col();
+  } // md
+}
+
+
+// -------------------------------------
+// Custom columns
+// -------------------------------------
+
+// **
+// One module fixed width column
+//
+// 1) 16+216+16
+// 2) IE10+ and Firefox stuff. Add it to ensure content within column does not
+// blow out the width of the column
+// *
+.col-module {
+  @include make-col-ready();
+
+  flex: 0 0 248px; // 1
+  width: 248px;
+  max-width: 248px; // 2
+}
+
+
+
+// Bootstrap defaults
+
+// .row {
+//   display: flex;
+//   flex-wrap: wrap;
+//   margin-right: -15px;
+//   margin-left: -15px;
+// }
+
+// Remove gutters w/ class .no-gutters on the .row.
+
