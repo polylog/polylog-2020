@@ -237,6 +237,11 @@ plugins:
   # Plugin for tidying Jekyll HTML output
   - jekyll-tidy
 
+# Include in processing (e.g. Netlify directives)
+include:
+  - _redirects
+  - _headers
+
 # Exclude from processing.
 # The following items will not be processed.
 exclude:
@@ -244,7 +249,11 @@ exclude:
   - .jekyll-assets-cache
   - .jekyll-cache
   - .sass-cache
-  - a
+  - a/css
+  - a/img
+  - a/js
+  - a/pdf
+  - a/video
   - Gemfile
   - Gemfile.lock
   - gemfiles
@@ -257,12 +266,6 @@ exclude:
   - src
   - yarn-error.log
   - yarn.lock
-
-# Include in processing (e.g. Netlify directives)
-include:
-  - _redirects
-  - _headers
-  - a/upload/blog
 
 theme: null
 
