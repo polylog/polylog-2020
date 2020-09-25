@@ -217,6 +217,26 @@ compress_html:
   ignore:
     envs: development
 
+plugins:
+  # GitHub Pages uses the following dependencies and versions
+  # https://pages.github.com/versions/
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  # - jekyll-paginate
+
+  # Plugins that are not supported by GitHub
+
+  # {{ 'example@example.com' | encode_email }}
+  - jekyll-email-protect
+
+  # {% include_cached footer.html %}
+  - jekyll-include-cache
+  - jekyll-paginate-v2
+
+  # Plugin for tidying Jekyll HTML output
+  - jekyll-tidy
+
 # Exclude from processing.
 # The following items will not be processed.
 exclude:
