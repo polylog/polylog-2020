@@ -252,17 +252,12 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-  - a
+    # dangerous zone
+
   - gemfiles
   - gulpfile.js
 
-  # dangerous zone
-  - LICENSE.txt
-  - README.md
-  - docker-compose.yml
-  - feed.xml
   - netlify.toml
-
   - node_modules
   - package.json
   - readme.md
