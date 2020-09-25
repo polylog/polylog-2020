@@ -237,6 +237,11 @@ plugins:
   # Plugin for tidying Jekyll HTML output
   - jekyll-tidy
 
+# Include in processing (e.g. Netlify directives)
+include:
+  - _redirects
+  - _headers
+
 # Exclude from processing.
 # The following items will not be processed.
 exclude:
