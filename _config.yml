@@ -251,12 +251,29 @@ exclude:
   - .sass-cache
   - Gemfile
   - Gemfile.lock
-  - a
-  - gemfiles
-  - gulpfile.js
+
+  # dangerous zone
+  - LICENSE.txt
+  - README.md
+  - docker-compose.yml
+  - feed.xml
   - netlify.toml
+
   - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - package.json
+  - readme.md
+  - robots_.txt
+  - src
+  - yarn-error.log
+  - yarn.lock
+
+theme: null
+
+keep_files:
+  - .git
+  - a/css
+  - a/img
+  - a/js
+  - a/video
+  - a/pdf
+  - a/upload
