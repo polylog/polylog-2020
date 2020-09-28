@@ -29,57 +29,29 @@ collections:
     # select, text - www.netlifycms.org/docs/widgets
     fields:
       - { label: 'Макет', name: 'layout', widget: 'hidden', default: 'post' }
-
-      - label: "Категории"
-        name: "categories"
-        widget: "select"
-        options:
-          - { label: 'Event-менеджмент', value: 'Event-менеджмент' }
-          - { label: 'GR', value: 'GR' }
-          - { label: 'Диджитал-маркетинг', value: 'Диджитал-маркетинг' }
-          - { label: 'Журналистика', value: 'Журналистика' }
-          - { label: 'Классика по средам', value: 'Классика по средам' }
-          - { label: 'Маркетинг', value: 'Маркетинг' }
-          - { label: 'Менеджмент', value: 'Менеджмент' }
-          - { label: 'Пиар (PR)', value: 'Пиар (PR)' }
-          - { label: 'Промо-кампании', value: 'Промо-кампании' }
-          - { label: 'Реклама', value: 'Реклама' }
-
-      - label: "Tags"
-        name: "tags"
-        widget: "select"
-        multiple: true
-        options: ["Design", "UX", "Dev"]
-        default: ["Design"]
-
-      - label: "Tags 2"
-        name: "tags 2"
-        widget: "select"
+      - { label: 'Заголовок', name: 'title', widget: 'string', tagname: 'h1' }
+      - label: 'Категории'
+        name: 'categories'
+        widget: 'select'
         multiple: true
         min: 1
         max: 3
-        options: ["Design", "UX", "Dev"]
-        default: ["Design"]
-
+        options:
+          - 'Event-менеджмент'
+          - 'GR'
+          - 'Диджитал-маркетинг'
+          - 'Журналистика'
+          - 'Классика по средам'
+          - 'Маркетинг'
+          - 'Менеджмент'
+          - 'Пиар (PR)'
+          - 'Промо-кампании'
+          - 'Реклама'
+        default: ['Пиар (PR)']
 
       # - { label: 'Название страницы в веб-адресе (латиницей, строчными, через дефис)', name: 'slug', widget: 'string' }
-      # - label: 'Категории'
-      #   name: 'categories'
-      #   widget: 'list'
-      #   fields:
-      #     - { label: 'Event-менеджмент', value: 'Event-менеджмент' }
-      #     - { label: 'GR', value: 'GR' }
-      #     - { label: 'Диджитал-маркетинг', value: 'Диджитал-маркетинг' }
-      #     - { label: 'Журналистика', value: 'Журналистика' }
-      #     - { label: 'Классика по средам', value: 'Классика по средам' }
-      #     - { label: 'Маркетинг', value: 'Маркетинг' }
-      #     - { label: 'Менеджмент', value: 'Менеджмент' }
-      #     - { label: 'Пиар (PR)', value: 'Пиар (PR)' }
-      #     - { label: 'Промо-кампании', value: 'Промо-кампании' }
-      #     - { label: 'Реклама', value: 'Реклама' }
-      - { label: 'Заголовок', name: 'title', widget: 'string', tagname: 'h1' }
       - { label: 'Основная иллюстрация', name: 'thumbnail', widget: 'image', required: false }
-      - { label: 'Первый абзац', name: 'description', widget: 'string' }
+      - { label: 'Первый абзац', name: 'description', widget: 'markdown', modes: 'raw' }
       - label: 'Основной текст (без первого абзаца)'
         name: 'body'
         widget: 'markdown'
