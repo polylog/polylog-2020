@@ -14,9 +14,6 @@ slug:
   encoding: 'ascii'
   clean_accents: true
 
-editor:
-  preview: false
-
 collections:
   - label: "Запись в блоге"
     name: "blog"
@@ -24,6 +21,8 @@ collections:
     create: true
     sort: 'date:desc' # Default is title:asc
     slug: '{{ year }}-{{ month }}-{{ day }}-{{ slug }}' # fields.slug means 'field `slug` in front matter'
+    editor:
+      preview: false
 
     # The fields each document in this collection have
     # Additional widgets: code, boolean, file, map, number, object, relation,
