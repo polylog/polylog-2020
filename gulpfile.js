@@ -108,9 +108,7 @@ const paths = {
   js: {
     src: {
       main: [
-        `${root.src}/**/*.js`,
-        `!${root.src}/ts/**/*.js`,
-        `!${root.src}/js/vendor/*.js`,
+        `${root.src}/base/content/link/link.js`,
       ],
       plugins: [
         `${root.src}/js/vendor/jquery.mobile.custom.js`,
