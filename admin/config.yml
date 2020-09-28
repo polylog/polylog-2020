@@ -44,16 +44,37 @@ collections:
       #     - { label: 'Пиар (PR)', value: 'Пиар (PR)' }
       #     - { label: 'Промо-кампании', value: 'Промо-кампании' }
       #     - { label: 'Реклама', value: 'Реклама' }
-      - { label: 'Дата публикации', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD'}
       - { label: 'Заголовок', name: 'title', widget: 'string', tagname: 'h1' }
       - { label: 'Основная иллюстрация', name: 'thumbnail', widget: 'image', required: false }
-      - { label: 'Первый абзац', name: 'description', widget: 'markdown' }
+      - { label: 'Первый абзац', name: 'description', widget: 'string' }
       - label: 'Основной текст (без первого абзаца)'
         name: 'body'
         widget: 'markdown'
         buttons: ['heading-two', 'heading-three', 'link', 'bold', 'italic', 'bulleted-list', 'numbered-list']
         required: false
+      - { label: 'Дата публикации', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD'}
 
+      - label: "Testimonials"
+        name: "testimonials"
+        collapsed: false
+        widget: "list"
+        fields:
+          - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
+          - {label: Author, name: author, widget: string }
+
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        allow_add: false
+        default: ["news"]
+
+      - label: "City"
+        name: "airport-code"
+        widget: "select"
+        options:
+          - { label: "Chicago", value: "ORD" }
+          - { label: "Paris", value: "CDG" }
+          - { label: "Tokyo", value: "HND" }
 
     # PAGES
     # - name: "page"
