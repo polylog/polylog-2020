@@ -551,7 +551,7 @@ function copyWIP() {
 
 const babel  = require('gulp-babel');
 const concat = require('gulp-concat');
-const uglify = require('gulp-uglify');
+const uglify = require('gulp-terser');
 
 // Common scripts function
 const jsTasks = (source, file, task, compiler) => src(source)
@@ -560,7 +560,7 @@ const jsTasks = (source, file, task, compiler) => src(source)
   // Use webpack instead others
   // .pipe(webpackstream(webpackconfig, webpack))
   .pipe(gulpif(!PRODUCTION, sourcemaps.init()))
-  .pipe(gulpif(compiler, babel({ presets: ['@babel/env'] })))
+  .pipe(gulpif(compiler, babel({ presets: ['@babel/preset-env'] })))
   .pipe(concat(`${file}.js`))
   .pipe(uglify())
   .pipe(gulpif(!PRODUCTION, sourcemaps.write()))
