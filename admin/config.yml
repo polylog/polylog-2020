@@ -51,7 +51,7 @@ collections:
 
       # - { label: 'Название страницы в веб-адресе (латиницей, строчными, через дефис)', name: 'slug', widget: 'string' }
       - { label: 'Основная иллюстрация', name: 'thumbnail', widget: 'image', required: false }
-      - { label: 'Первый абзац', name: 'description', widget: 'markdown', modes: 'raw' }
+      - { label: 'Первый абзац', name: 'description', widget: 'text' }
       - label: 'Основной текст (без первого абзаца)'
         name: 'body'
         widget: 'markdown'
