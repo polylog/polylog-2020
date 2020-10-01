@@ -2,11 +2,25 @@
  * -----------------------------------------------------------------------------
  * Footer
  * -----------------------------------------------------------------------------
- * Rotate footer ring on CTA hover on the Chinese and Japabese landings.
+ * Spin footer wheel on CTA hover on the Chinese and Japanese landings.
  */
 
-jQuery(document).ready(($) => {
-  $('.btn.is-bottom-cta').hover(() => {
-    $('.footer').toggleClass('js-cta-hovered');
-  });
-});
+(() => {
+  const spinTheFooterWheel = () => {
+    document.querySelector('.footer').classList.add('js-cta-hovered');
+  };
+
+  const stopTheFooterWheel = () => {
+    document.querySelector('.footer').classList.remove('js-cta-hovered');
+  };
+
+  const btn = document.querySelector('.btn.is-spinner');
+
+  if (btn) {
+    document.querySelector('.btn.is-bottom-cta')
+      .addEventListener('mouseover', spinTheFooterWheel);
+
+    document.querySelector('.btn.is-bottom-cta')
+      .addEventListener('mouseout', stopTheFooterWheel);
+  }
+})();

@@ -9,12 +9,14 @@ const setSearchPlaceholder = () => {
   const input = document.getElementById('gsc-i-id1');
   const lang = document.getElementsByTagName('html')[0].getAttribute('lang');
 
-  if (window.matchMedia('(max-width: 575px)').matches) {
-    input.placeholder = (lang === 'ru') ? 'Поиск' : 'Site search';
-  } else if (window.matchMedia('(min-width: 576px) and (max-width: 991px)').matches) {
-    input.placeholder = (lang === 'ru') ? 'Поиск: PR, event-менеджмент' : 'Search PR and event management';
-  } else {
-    input.placeholder = (lang === 'ru') ? 'Поиск: PR, организация мероприятий, IT-решения' : 'Search PR, event management and IT solutions';
+  if (input) {
+    if (window.matchMedia('(max-width: 575px)').matches) {
+      input.placeholder = (lang === 'ru') ? 'Поиск' : 'Site search';
+    } else if (window.matchMedia('(min-width: 576px) and (max-width: 991px)').matches) {
+      input.placeholder = (lang === 'ru') ? 'Поиск: PR, event-менеджмент' : 'Search PR and event management';
+    } else {
+      input.placeholder = (lang === 'ru') ? 'Поиск: PR, организация мероприятий, IT-решения' : 'Search PR, event management and IT solutions';
+    }
   }
 };
 
@@ -39,7 +41,7 @@ window.addEventListener('load', () => {
     if (e.target.matches('.header__search-cancel')) {
       searchForm.classList.remove('is-visible');
       searchCancel.classList.remove('is-visible');
-      // searchInput.blur();
+    // searchInput.blur();
     }
   }, false);
 }, false);

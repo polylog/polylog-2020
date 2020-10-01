@@ -30,7 +30,7 @@ collections:
     fields:
       - { label: 'Макет', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Заголовок', name: 'title', widget: 'string', tagname: 'h1' }
-      - label: 'Категории'
+      - label: 'Темы'
         name: 'categories'
         widget: 'select'
         multiple: true

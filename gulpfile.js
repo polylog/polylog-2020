@@ -557,8 +557,6 @@ const uglify = require('gulp-terser');
 const jsTasks = (source, file, task, compiler) => src(source)
   .pipe(changed(paths.js.dest))
   .pipe(plumber())
-  // Use webpack instead others
-  // .pipe(webpackstream(webpackconfig, webpack))
   .pipe(gulpif(!PRODUCTION, sourcemaps.init()))
   .pipe(gulpif(compiler, babel({ presets: ['@babel/preset-env'] })))
   .pipe(concat(`${file}.js`))

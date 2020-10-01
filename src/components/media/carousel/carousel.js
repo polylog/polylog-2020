@@ -11,31 +11,42 @@
  *
  */
 
-(($) => {
-  const carousel     = $('.carousel');
+jQuery(document).ready(function($) {
+
+  var carousel     = $('.carousel');
 
   // Preventing Bootstrap carousel from auto sliding
+
   $('.carousel.js-manual').carousel({
-    interval: 0,
+    interval: 0
   });
 
-  // Automatically cycling carousel
+ // Automatically cycling carousel
   $('.carousel.js-auto').carousel({
-    interval: 12000,
+    interval: 12000
   });
 
-  // TOUCH EVENTS
 
-  // Prev
-  // For swipe touch event head jQuery Mobile, create a custom build with
-  // just Touch and add it to project.
-  // jquerymobile.com/download-builder/ => /src/js/jquery.mobile.custom.js
-  carousel.swiperight(() => {
+/* --------------------------------------------------------------------------
+   Touch events
+   -------------------------------------------------------------------------- */
+
+  /**
+   * Prev
+   *
+   * For swipe touch event head jQuery Mobile, create a custom build with
+   * just Touch and add it to project.
+   * jquerymobile.com/download-builder/ => /src/js/jquery.mobile.custom.js
+   */
+
+  carousel.swiperight(function() {
     $(this).carousel('prev');
   });
 
   // Next
-  carousel.swipeleft(() => {
+
+  carousel.swipeleft(function() {
     $(this).carousel('next');
   });
-})(jQuery);
+
+});

@@ -9,7 +9,7 @@
  *
  */
 
-(($) => {
+jQuery(document).ready(($) => {
   // For some reason, the arrow function does not work here
   $('.js-open-modal').on('click', function(e) { // eslint-disable-line
 
@@ -29,7 +29,7 @@
     // $container.load(`${href} .js-modal-content`);
 
     $container.load(`${href} .js-modal-content`, () => {
-      $('.form__fieldset.is-fundraising').hide();
+      $('.webform-component--fieldset-fundraising').hide();
     });
 
     // $container.load(`${href} .js-modal-content`, () => {
@@ -52,4 +52,5 @@
       // });
     }
   });
-})(jQuery);
+
+});
