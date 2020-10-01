@@ -23,23 +23,23 @@
       </a>
       <div class="dropdown">
         <span class="header__locale-switcher" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="In Russian, Chinese or Japanese" role="button">
-          <span class="icon flag-{{ page.lang }}" role="presentation"></span>
+          <span class="icon flag-{{ page.lang }}" aria-hidden="true"></span>
         </span>
         <div class="dropdown-menu">
           <a class="dropdown-item{% if page.lang == 'en' %} is-active{% endif %}" href="/en">
-            <span class="icon flag-en" role="presentation"></span>
+            <span class="icon flag-en" aria-hidden="true"></span>
             English
           </a>
           <a class="dropdown-item{% if page.lang == 'ru' %} is-active{% endif %}" href="/">
-            <span class="icon flag-ru" role="presentation"></span>
+            <span class="icon flag-ru" aria-hidden="true"></span>
             Русский
           </a>
           <a class="dropdown-item" href="/zh">
-            <span class="icon flag-cn" role="presentation"></span>
+            <span class="icon flag-cn" aria-hidden="true"></span>
             中文
           </a>
           <a class="dropdown-item" href="/ja">
-            <span class="icon flag-jp" role="presentation"></span>
+            <span class="icon flag-jp" aria-hidden="true"></span>
             日本語
           </a>
         </div>

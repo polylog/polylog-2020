@@ -11,14 +11,14 @@
   </button> {% endcomment %}
 
   <button class="btn social twitter expanded" data-href="https://twitter.com/home?status='{{ page.title | url_encode }}'+{{ page.url | absolute_url | url_encode }}">
-    <span class="icon twitter-xs" role="presentation"></span>Твитнуть
+    <span class="icon twitter-xs" aria-hidden="true"></span>Твитнуть
   </button>
 
   <button class="btn social telegram expanded" data-href="https://telegram.me/share/url?url={{ page.url | absolute_url | url_encode }}" aria-label="Телеграм">
-    <span class="icon telegram-xs" role="presentation"></span>Поделиться
+    <span class="icon telegram-xs" aria-hidden="true"></span>Поделиться
   </button>
 
   <button class="btn social email expanded" data-href="mailto:?subject={{ page.title | url_encode }}&amp;body={{ page.url | absolute_url | url_encode }}" aria-label="Почта">
-    <span class="icon email-xs-white" role="presentation"></span>Поделиться
+    <span class="icon email-xs-white" aria-hidden="true"></span>Поделиться
   </button>
 </aside>

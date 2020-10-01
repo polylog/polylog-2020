@@ -4,15 +4,16 @@
   <h3 class="cta-subhead">Let's Discuss the&nbsp;Means and&nbsp;Methods</h3>
 
   <a class="cta-btn hidden-md-up" id="cta-bottom-phone" href="tel:+7-495-258-2045" role="button">
-    <span class="icon-phone" role="presentation">
+    <span class="icon-phone" aria-hidden="true">
       <svg><use href="{{ site.assets }}/img/graphics/sprite.svg#icon-phone"></use></svg>
     </span>
     Call Us
   </a>
 
   <button class="cta-btn hidden-sm-down" id="cta-bottom" data-target="#modal-form" data-toggle="modal">
-    <span class="icon-phone" role="presentation">
-      <svg><use href="{{ site.assets }}/img/graphics/sprite.svg#icon-phone"></use></svg>
+    <span class="icon is-phone" aria-hidden="true">
+      <svg><use href="#icon-phone"></use></svg>
+      {% comment %} <svg><use href="{{ site.assets }}/img/graphics/sprite.svg#icon-phone"></use></svg> {% endcomment %}
     </span>
     Contact Us
   </button>

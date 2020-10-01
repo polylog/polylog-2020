@@ -13,7 +13,7 @@
         <li class="navbar-item dropdown{% if section.secondary %} hidden-xs-down{% endif %}{% if section.url == page.url %} is-active{% endif %}">
 
           <a class="navbar-dropdown-toggle {{ section.name }} js-menu-link" id="dropdown-{{ section.name }}" href="{{ section.url }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"{% if section.url contains 'it.polylog.ru' %} target="_blank" rel="noopener noreferrer"{% endif %}>
-            <span class="icon {{ section.name }}" role="presentation"></span>
+            <span class="icon {{ section.name }}" aria-hidden="true"></span>
             {{ section.title }}
           </a>
 
@@ -34,7 +34,7 @@
       {% else %}
         <li class="navbar-item{% if section.secondary %} hidden-xs-down{% endif %}{% if section.url == page.url %} is-active{% endif %}">
           <a class="navbar-dropdown-toggle {{ section.name }} js-menu-link" href="{{ section.url }}">
-            <span class="icon {{ section.name }}" role="presentation"></span>
+            <span class="icon {{ section.name }}" aria-hidden="true"></span>
             {{ section.title }}
           </a>
         </li>

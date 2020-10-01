@@ -4,12 +4,12 @@ aside.cta.container
 
   //- Button for phones
   a.cta-btn.hidden-md-up(href="tel:+7-495-258-2045" role="button")
-    span.icon-phone(role="presentation")
+    span.icon-phone(aria-hidden="true")
       svg: use(href="#icon-phone")
     | Позвонить
 
   //- Button for tablets end desktops
   button.cta-btn.hidden-sm-down.js-open-modal(data-href="https://www.polylog.dev/ru/company/contact-us" data-target="#modal" data-toggle="modal")
-    span.icon-phone(role="presentation")
+    span.icon-phone(aria-hidden="true")
       svg: use(href="#icon-phone")
     | Обратная связь
