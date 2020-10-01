@@ -221,7 +221,7 @@ const cssTasks = (
             ignore: [
               /* eslint-disable max-len */
               // Bootstrap & Magnific Popup
-              /\.carousel([-_]+[a-zA-Z]+)?/, /\.collaps(-[a-zA-Z]+)?/, /\.collapse?(ing)?/, /\.dropdown([-_]+[a-zA-Z]+)?/, /\.mfp(-[a-zA-Z]+)?/, /\.modal(-_[a-z]+)?/, /\w\.fade/, /\w\.open/,
+              /\.carousel(-[a-zA-Z]+)?/, /\.collaps(-[a-zA-Z]+)?/, /\.collapse?(ing)?/, /\.dropdown(-[a-zA-Z]+)?/, /\.mfp(-[a-zA-Z]+)?/, /\.modal(-[a-zA-Z]+)?/, /\w\.fade/, /\w\.open/,
 
               // Custom
               /\.[hs]laquo-[a-z0-9]+/, '.vk', 'iframe', /\.[mp][bt]-[a-z0-9]+/,
