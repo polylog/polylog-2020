@@ -225,7 +225,7 @@ const cssTasks = (
 
               // Custom
               /\.[hs]laquo-[a-z0-9]+/, '.vk', 'iframe', /\.[mp][bt]-[a-z0-9]+/,
-              /\.filter__link/,
+              /\.filter__link/, /\.page-header-icon/,
 
               // Legacy
               '.breadcrumb-item', '.has-icon.event::before', '.media-wrapper.has-lg-img', '.play-it', '.rail', '.section-news', '.snuggled-right', '.vr-friendly', 'figure.small-portrait', 'li:nth-child(n+6)', /\.d-lg-[a-z]+/, /\.metric\.[a-zA-Z]+/, /\.mosaic\.[a-zA-Z-]+/, /\.page-header-(map-wrapper|preloader)/, /\.pager-(first|last|previous)/, /\.pic-deputy\.col-md-3/, /\.search-(cancel|headline|reset|toggler)/, /\.sec-illustrated-[lr] img/, /\w\.hidden/, /\w\.left/,
