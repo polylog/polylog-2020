@@ -8,13 +8,13 @@ backend:
 # Первая попытка
 # media_folder: a/upload/blog # Folder where user uploaded files should go
 
-# Попытки в запасе: 3) две строки одновременно и 4) только media_folder
-# media_folder: _site/a/upload/blog # Folder where user uploaded files should go
-# public_folder: /upload/blog # Folder where user uploaded files should go
-
 # Вторая попытка
-media_folder: src/img/blog # Folder where user uploaded files should go
-public_folder: /upload/blog
+# media_folder: src/img/blog # Folder where user uploaded files should go
+# public_folder: /upload/blog
+
+# Третья попытка. В запасе — только media_folder
+media_folder: _site/a/upload/blog # Folder where user uploaded files should go
+public_folder: a/upload/blog # Folder where user uploaded files should go
 
 # Prevent timezones conflicts
 future: true
@@ -66,7 +66,10 @@ collections:
         widget: 'markdown'
         buttons: ['heading-two', 'heading-three', 'link', 'bold', 'italic', 'bulleted-list', 'numbered-list']
         required: false
-      - { label: 'URL', name: 'permalink', widget: 'string', default: '/ru/pr-blog/{{year}}/{{slug}}' }
+      # Попытка №2
+      # - { label: 'URL', name: 'permalink', widget: 'string', default: '/ru/pr-blog/{{year}}/{{slug}}' }
+      # Попытка №3
+      - { label: 'URL', name: 'permalink', widget: 'string', default: '/ru/pr-blog/:year/:slug' }
       - { label: 'Дата публикации', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD'}
 
     # PAGES
