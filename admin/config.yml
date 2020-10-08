@@ -5,7 +5,16 @@ backend:
   name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
   branch: master # Branch to update (master by default)
 
-media_folder: a/upload/blog # Folder where user uploaded files should go
+# Первая попытка
+# media_folder: a/upload/blog # Folder where user uploaded files should go
+
+# Попытки в запасе: 3) две строки одновременно и 4) только media_folder
+# media_folder: _site/a/upload/blog # Folder where user uploaded files should go
+# public_folder: /upload/blog # Folder where user uploaded files should go
+
+# Вторая попытка
+media_folder: src/img/blog # Folder where user uploaded files should go
+public_folder: /upload/blog
 
 # Prevent timezones conflicts
 future: true
@@ -15,14 +24,14 @@ slug:
   clean_accents: true
 
 collections:
-  - label: "Запись в блоге"
-    name: "blog"
-    folder: "collections/_blog/2020"
+  - label: 'Запись в блоге'
+    name: 'blog'
+    folder: 'collections/_blog/2020'
     create: true
     sort: 'date:desc' # Default is title:asc
-    slug: '{{ year }}-{{ month }}-{{ day }}-{{ slug }}' # fields.slug means 'field `slug` in front matter'
-    editor:
-      preview: false
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # fields.slug means 'field `slug` in front matter'
+    # editor:
+    #   preview: false
 
     # The fields each document in this collection have
     # Additional widgets: code, boolean, file, map, number, object, relation,
@@ -50,25 +59,26 @@ collections:
         default: ['Пиар (PR)']
 
       # - { label: 'Название страницы в веб-адресе (латиницей, строчными, через дефис)', name: 'slug', widget: 'string' }
-      - { label: 'Основная иллюстрация', name: 'thumbnail', widget: 'image', required: false }
+      - { label: 'Основная иллюстрация', name: 'image', widget: 'image', required: false }
       - { label: 'Первый абзац', name: 'description', widget: 'text' }
       - label: 'Основной текст (без первого абзаца)'
         name: 'body'
         widget: 'markdown'
         buttons: ['heading-two', 'heading-three', 'link', 'bold', 'italic', 'bulleted-list', 'numbered-list']
         required: false
+      - { label: 'URL', name: 'permalink', widget: 'string', default: '/ru/pr-blog/{{year}}/{{slug}}' }
       - { label: 'Дата публикации', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD'}
 
     # PAGES
-    # - name: "page"
-    #   label: "Page"
-    #   folder: "pages"
+    # - name: 'page'
+    #   label: 'Page'
+    #   folder: 'pages'
     #   etc
 
-view_filters:
-  # - label: "Alice's and Bob's Posts"
-  #   field: author
-  #   pattern: 'Alice|Bob'
-  - label: 'Записи за 2020'
-    field: date
-    pattern: '2020'
+    view_filters:
+      # - label: 'Alice's and Bob's Posts'
+      #   field: author
+      #   pattern: 'Alice|Bob'
+      - label: 'Записи за 2020'
+        field: date
+        pattern: '2020'
