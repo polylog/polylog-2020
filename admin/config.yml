@@ -14,7 +14,7 @@ backend:
 
 # Третья попытка. В запасе — только media_folder
 media_folder: _site/a/upload/blog # Folder where user uploaded files should go
-public_folder: a/upload/blog # Folder where user uploaded files should go
+public_folder: upload/blog # Folder where user uploaded files should go
 
 # Prevent timezones conflicts
 future: true
@@ -69,7 +69,8 @@ collections:
       # Попытка №2
       # - { label: 'URL', name: 'permalink', widget: 'string', default: '/ru/pr-blog/{{year}}/{{slug}}' }
       # Попытка №3
-      - { label: 'URL', name: 'permalink', widget: 'string', default: '/ru/pr-blog/:year/:slug' }
+      # - { label: 'URL', name: 'permalink', widget: 'string', default: '/ru/pr-blog/:year/:slug' }
+      # Попытка №4 - без пермалинка вообще
       - { label: 'Дата публикации', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD'}
 
     # PAGES
