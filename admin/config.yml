@@ -22,9 +22,9 @@ media_folder: _site/a/upload/blog # Folder where user uploaded files should go
 # Prevent timezones conflicts
 future: true
 
-slug:
-  encoding: 'ascii'
-  clean_accents: true
+# slug:
+#   encoding: 'ascii'
+#   clean_accents: true
 
 collections:
   - label: 'Запись в блоге'
