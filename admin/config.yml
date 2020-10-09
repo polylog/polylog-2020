@@ -33,7 +33,6 @@ collections:
     create: true
     sort: 'date:desc' # Default is title:asc
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # fields.slug means 'field `slug` in front matter'
-    permalink: '/ru/pr-blog/{{year}}/{{slug}}'
     editor:
       preview: false
 
@@ -76,7 +75,6 @@ collections:
       # - { label: 'URL', name: 'permalink', widget: 'string', default: '/ru/pr-blog/:year/:slug' }
       # Попытка №4 - без пермалинка вообще
       # Попытка №5 - проверка одновременно двух ситаксисов: {{}} и :
-      - { label: 'URL', name: 'permalink', widget: 'string', default: '/ru/pr-blog/:year/:slug/{{slug}}' }
       - { label: 'Дата публикации', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD'}
 
     # PAGES
