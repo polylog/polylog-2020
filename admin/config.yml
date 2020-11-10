@@ -5,19 +5,8 @@ backend:
   name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
   branch: master # Branch to update (master by default)
 
-# Первая попытка
-# media_folder: a/upload/blog # Folder where user uploaded files should go
-
-# Вторая попытка
-# media_folder: src/img/blog # Folder where user uploaded files should go
-# public_folder: /upload/blog
-
-# Третья попытка
-# media_folder: _site/a/upload/blog # Folder where user uploaded files should go
-# public_folder: upload/blog # Folder where user uploaded files should go
-
-# Четвертая попытка.
-media_folder: _site/a/upload/blog # Folder where user uploaded files should go
+media_folder: src/img/blog # Media files will be stored in the repo under src/img/blog
+public_folder: /img/blog # The src attribute for uploaded media will begin with /img/blog
 
 # Prevent timezones conflicts
 future: true
@@ -25,13 +14,6 @@ future: true
 # slug:
 #   encoding: 'ascii'
 #   clean_accents: true
-
-# _config.yml
-# collections:
-#   blog:
-#     output: true
-#     permalink: /ru/pr-blog/:year/:slug
-#     sort_by: date
 
 collections:
   - label: 'Запись в блоге'
@@ -70,20 +52,13 @@ collections:
         default: ['Пиар (PR)']
 
       # - { label: 'Название страницы в веб-адресе (латиницей, строчными, через дефис)', name: 'slug', widget: 'string' }
-      - { label: 'Основная иллюстрация', name: 'image', widget: 'image', required: false }
-      - { label: 'Первый абзац', name: 'description', widget: 'text' }
+      - { label: 'Основная иллюстрация', name: 'image', widget: 'image', allow_multiple: false, required: false }
+      - { label: 'Первый абзац', name: 'description', widget: 'text', hint: 'Этот параграф будет не только открывать статью, но и вместе с заголовком появляться в результатах поиска и ленте блога.' }
       - label: 'Основной текст (без первого абзаца)'
         name: 'body'
         widget: 'markdown'
         buttons: ['heading-two', 'heading-three', 'link', 'bold', 'italic', 'bulleted-list', 'numbered-list']
         required: false
-      # Попытка №2
-      # - { label: 'URL', name: 'permalink', widget: 'string', default: '/ru/pr-blog/{{year}}/{{slug}}' }
-      # Попытка №3
-      # - { label: 'URL', name: 'permalink', widget: 'string', default: '/ru/pr-blog/:year/:slug' }
-      # Попытка №4 - без пермалинка вообще
-      # Попытка №5 - проверка одновременно двух ситаксисов: {{}} и :
-      # Попытка №6 - проверка одновременно двух ситаксисов: {{}} и :
       - { label: 'URL', name: 'permalink', widget: 'hidden' }
       - { label: 'Дата публикации', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD'}
 

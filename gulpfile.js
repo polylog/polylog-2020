@@ -224,7 +224,7 @@ const cssTasks = (
               /\.carousel(-[a-zA-Z]+)?/, /\.collaps(-[a-zA-Z]+)?/, /\.collapse?(ing)?/, /\.dropdown(-[a-zA-Z]+)?/, /\.mfp(-[a-zA-Z]+)?/, /\.modal(-[a-zA-Z]+)?/, /\w\.fade/, /\w\.open/,
 
               // Custom
-              /\.[hs]laquo-[a-z0-9]+/, '.vk', 'iframe', /\.[mp][bt]-[a-z0-9]+/,
+              /\.[hs]laquo-[a-z0-9]+/, '.vk', 'iframe', /\.[mp][btlrx]-[a-z0-9]+/, /\w\.(has-been-validated|has-spinner|is-on|is-open|is-pressed|is-touched)/,
               /\.filter__link/, /\.page-header-icon/,
 
               // Legacy

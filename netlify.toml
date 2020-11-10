@@ -1,9 +1,24 @@
 [build]
-  command = "jekyll build"
+  command = "gulp --p"
   publish = "_site"
 
-[build.environment]
-  JEKYLL_ENV = "production"
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "no-referrer"
+    X-Content-Type-Options = "nosniff"
+
+## DEFAULT
+
+# [build]
+#   command = "jekyll build"
+#   publish = "_site"
+
+# [build.environment]
+#   JEKYLL_ENV = "production"
 
 # REDIRECT and HEADERS examples.
 # Uncomment to use. Directives in this file will ALWAYS override any identical
