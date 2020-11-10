@@ -820,4 +820,5 @@ exports.rsync       = rsync;
 exports.bs          = serveBS;
 exports.sFull       = serve;
 exports.s           = serveLight;
+exports.build       = build;
 exports.default     = build;
