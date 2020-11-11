@@ -13,6 +13,7 @@
     "jp": "JEKYLL_ENV=production jekyll s -I"
   },
   "devDependencies": {
+    "@babel/core": "^7.12.3",
     "beautiful-jekyll": "daattali/beautiful-jekyll",
     "browser-sync": "^2.26.13",
     "child_process": "^1.0.2",
@@ -51,6 +52,7 @@
     "postcss-uncss": "^0.17.0",
     "savas-take-two": "savaslabs/savaslabs.github.io",
     "shelljs": "^0.8.4",
+    "uncss": "^0.17.3",
     "yargs": "^16.1.0"
   },
   "stylelint": {
