@@ -599,37 +599,6 @@ const js = parallel(
   jsPlugins,
   jsMain,
 );
-
-/*
-Use pipeline method for uglify debugging
-https://github.com/terinjokes/gulp-uglify/tree/master/docs/why-use-pipeline#using-pipelines
-*/
-// #endregion
-
-// Typescript
-// 😫 It does not work. Use `shell.exec('tsc **/*.ts')` see Jekyll Tasks
-// #region
-
-const typescript = require('gulp-typescript');
-
-const tsProject = typescript.createProject('tsconfig.json');
-
-function ts() {
-  return tsProject.src()
-    .pipe(tsProject())
-    .js.pipe(dest(paths.js.dest));
-}
-
-// function ts() {
-//   return src(paths.js.src.ts)
-//     .pipe(typescript({
-//       noImplicitAny: true,
-//       outFile: 'output.js',
-//     }))
-//     .pipe(dest(paths.js.dest));
-// }
-
-exports.ts = ts;
 // #endregion
 
 /**
