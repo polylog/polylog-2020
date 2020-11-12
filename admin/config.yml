@@ -29,10 +29,6 @@ collections:
     # Additional widgets: code, boolean, file, map, number, object, relation,
     # select, text - www.netlifycms.org/docs/widgets
     fields:
-      - label: 'URL'
-        name: 'permalink'
-        widget: 'hidden'
-        default: '/ru/pr-blog/2020/{{slug}}/'
       - { label: 'Макет', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Заголовок', name: 'title', widget: 'string', tagname: 'h1' }
       - label: 'Темы'
@@ -57,6 +53,10 @@ collections:
       # - { label: 'Название страницы в веб-адресе (латиницей, строчными, через дефис)', name: 'slug', widget: 'string' }
       - { label: 'Основная иллюстрация', name: 'image', widget: 'image', allow_multiple: false, required: false }
       - { label: 'Первый абзац', name: 'description', widget: 'text', hint: 'Этот параграф будет не только открывать статью, но и вместе с заголовком появляться в результатах поиска и ленте блога.' }
+      - label: 'URL'
+        name: 'permalink'
+        widget: 'hidden'
+        default: '/ru/pr-blog/2020/{{slug | slugify: "latin" }}/'
       - label: 'Основной текст (без первого абзаца)'
         name: 'body'
         widget: 'markdown'
