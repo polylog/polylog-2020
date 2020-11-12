@@ -53,10 +53,15 @@ collections:
       # - { label: 'Название страницы в веб-адресе (латиницей, строчными, через дефис)', name: 'slug', widget: 'string' }
       - { label: 'Основная иллюстрация', name: 'image', widget: 'image', allow_multiple: false, required: false }
       - { label: 'Первый абзац', name: 'description', widget: 'text', hint: 'Этот параграф будет не только открывать статью, но и вместе с заголовком появляться в результатах поиска и ленте блога.' }
+      - label: 'Веб-адрес'
+        name: 'customSlug'
+        widget: 'string'
+        default: 'naberite-zagolovok-statyi-latinskimi-bukvami'
+        hint: 'Наберите заголовок латиницей, строчными буквами. Пробелы замените дефисами. Это будет адрес страницы в интернете'
       - label: 'URL'
         name: 'permalink'
         widget: 'hidden'
-        default: '/ru/pr-blog/2020/{{slug | slugify: "latin" }}/'
+        default: '/ru/pr-blog/2020/{{customSlug}}'
       - label: 'Основной текст (без первого абзаца)'
         name: 'body'
         widget: 'markdown'
