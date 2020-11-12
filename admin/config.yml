@@ -32,7 +32,7 @@ collections:
       - label: 'URL'
         name: 'permalink'
         widget: 'hidden'
-        default: '/ru/pr-blog/2020/{{slug}}'
+        default: '/ru/pr-blog/2020/{{slug}}/'
       - { label: 'Макет', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Заголовок', name: 'title', widget: 'string', tagname: 'h1' }
       - label: 'Темы'
@@ -62,7 +62,6 @@ collections:
         widget: 'markdown'
         buttons: ['heading-two', 'heading-three', 'link', 'bold', 'italic', 'bulleted-list', 'numbered-list']
         required: false
-      - { label: 'URL', name: 'permalink', widget: 'hidden' }
       - { label: 'Дата публикации', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD'}
 
 
