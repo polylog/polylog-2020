@@ -22,7 +22,6 @@ collections:
     create: true
     sort: 'date:desc' # Default is title:asc
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # fields.slug means 'field `slug` in front matter'
-    permalink: /ru/pr-blog/{{slug}}
     editor:
       preview: false
 
@@ -30,6 +29,7 @@ collections:
     # Additional widgets: code, boolean, file, map, number, object, relation,
     # select, text - www.netlifycms.org/docs/widgets
     fields:
+      - { label: 'URL', name: 'permalink', widget: 'hidden', default: '/ru/pr-blog/2020/{{slug}}' }
       - { label: 'Макет', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Заголовок', name: 'title', widget: 'string', tagname: 'h1' }
       - label: 'Темы'
