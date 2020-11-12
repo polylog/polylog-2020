@@ -31,6 +31,11 @@ collections:
     fields:
       - { label: 'Макет', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Заголовок', name: 'title', widget: 'string', tagname: 'h1' }
+      - label: 'Веб-адрес'
+        name: 'permalink'
+        widget: 'string'
+        default: '/ru/pr-blog/2020/'
+        hint: 'Наберите в поле, после закрывающего слеша надписи "/ru/pr-blog/2020/" заголовок латиницей, строчными буквами. Пробелы замените дефисами. Не используйте апостроф и другие специальные символы. Или воспользуйтесь <a href="http://www.translityandex.ru/" target="_blank" rel="noopener noreferrer">онлайн-сервисом транслитерации</a>. Набранная строка будет адресом страницы в интернете.'
       - label: 'Темы'
         name: 'categories'
         widget: 'select'
@@ -49,19 +54,8 @@ collections:
           - 'Промо-кампании'
           - 'Реклама'
         default: ['Пиар (PR)']
-
-      # - { label: 'Название страницы в веб-адресе (латиницей, строчными, через дефис)', name: 'slug', widget: 'string' }
       - { label: 'Основная иллюстрация', name: 'image', widget: 'image', allow_multiple: false, required: false }
       - { label: 'Первый абзац', name: 'description', widget: 'text', hint: 'Этот параграф будет не только открывать статью, но и вместе с заголовком появляться в результатах поиска и ленте блога.' }
-      - label: 'Веб-адрес'
-        name: 'customSlug'
-        widget: 'string'
-        default: 'naberite-zagolovok-statyi-latinskimi-bukvami'
-        hint: 'Наберите заголовок латиницей, строчными буквами. Пробелы замените дефисами. Это будет адрес страницы в интернете'
-      - label: 'URL'
-        name: 'permalink'
-        widget: 'hidden'
-        default: '/ru/pr-blog/2020/{{customSlug}}'
       - label: 'Основной текст (без первого абзаца)'
         name: 'body'
         widget: 'markdown'
