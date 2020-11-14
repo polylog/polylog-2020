@@ -42,6 +42,10 @@
   // background-image: linear-gradient(rgb(76, 104, 185) 22%, rgb(59, 85, 161) 78%);
   // opacity: 1;
   width: 102px;
+
+  > span {
+    transform: translate(-1.4rem, .1rem);
+  }
 }
 
 .btn.social.vk {
