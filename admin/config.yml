@@ -6,7 +6,7 @@ backend:
   branch: master # Branch to update (master by default)
 
 media_folder: src/img/blog # Media files will be stored in the repo under src/img/blog
-public_folder: /img/blog # The src attribute for uploaded media will begin with /img/blog
+public_folder: /a/img/blog # The src attribute for uploaded media will begin with /img/blog
 
 # Prevent timezones conflicts
 future: true
