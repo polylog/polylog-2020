@@ -2,7 +2,7 @@
 title: 'Social Media поддержка для бизнеса и новинки для пользователей'
 description: 'Как социальные сети помогают своим пользователям общаться и работать во время пандемии COVID-19. Последние новости и изменения в нашем обзоре.'
 permalink: /ru/pr-blog/2020/social-media-podderzhka-biznesa-novinki-polzovateley
-image: /upload/blog/social-media-763731_1280.jpg
+image: /a/upload/blog/social-media-763731_1280.jpg
 categories: ['Диджитал-маркетинг']
 date: 2020-04-17
 ---

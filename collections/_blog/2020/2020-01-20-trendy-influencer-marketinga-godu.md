@@ -2,7 +2,7 @@
 title: 'Тренды influencer-маркетинга в 2020 году'
 description: 'Более половины (51%) маркетологов считают, что influencer-маркетинг помогает в качественном привлечении клиентов, расскажем, как ещё он пригодится в реализации digital стратегии.'
 permalink: /ru/pr-blog/2020/trendy-influencer-marketinga-godu
-image: /upload/blog/f52fec44cd67b821e24eb171c4fc19b9.jpg
+image: /a/upload/blog/f52fec44cd67b821e24eb171c4fc19b9.jpg
 categories: ['Диджитал-маркетинг']
 date: 2020-01-20
 ---

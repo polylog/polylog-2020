@@ -23,7 +23,7 @@ layout: default
     </h1>
 
     {% if page.image %}
-      <img src="{{ site.assets }}{{ page.image }}" alt="{{ page.title | strip_html | escape }}">
+      <img src="{{ page.image }}" alt="{{ page.title | strip_html | escape }}">
     {% endif %}
 
     <div class="article-lead">
