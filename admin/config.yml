@@ -61,6 +61,8 @@ collections:
         widget: 'markdown'
         buttons: ['heading-two', 'heading-three', 'link', 'bold', 'italic', 'bulleted-list', 'numbered-list']
         required: false
+      - { label: 'Пo материалам', name: 'source', widget: 'text', hint: 'Если материал является переводом, укажите источник…', required: false }
+      - { label: 'URL источника', name: 'source-url', widget: 'text', hint: 'Веб-адрес переведенной страницы', required: false }
       - { label: 'Дата публикации', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD'}
 
 
