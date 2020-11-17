@@ -24,7 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-email-protect"
   gem "jekyll-feed"
-  gem "jekyll-paginate-v2"
+  gem 'jekyll-paginate-v2', github: 'mmistakes/jekyll-paginate-v2', :branch => 'jekyll-v4'
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jekyll-tidy"

@@ -22,7 +22,7 @@ layout: default
           {% if post.image %}
             <figure class="media-wrapper">
               <a href="{{ post.permalink }}">
-                <img src="{{ site.assets }}{{ post.image }}" alt="{{ post.title | strip_html | escape }}">
+                <img src="{{ post.image }}" alt="{{ post.title | strip_html | escape }}">
               </a>
             </figure>
           {% endif %}
