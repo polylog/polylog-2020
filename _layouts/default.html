@@ -19,7 +19,7 @@ layout: base
     {% include cta/it-contacts.html.html %}
   {% elsif page.cta == 'jobs' %}
     {% include cta/jobs.html %}
-  {% elsif page.cta == 'main' %}
+  {% else %}
     {% unless page.contacts %}
     {% include cta/main.html %}
     {% endunless %}

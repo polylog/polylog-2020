@@ -15,28 +15,25 @@ classes: page-front has-dark-jumbotron
 date: 2002-06-02
 # Use !SITE_ASSETS! var here and {{ site.assets }} in the markup
 style: |
-  @media (min-width: 768px) { .page-front .jumbotron-wrapper { padding-top: 17.6rem; } } .jumbotron-hero { background-image: url("!SITE_ASSETS!/img/polylog-promo/2020-eof-online/front-tile-bg.png"); background-repeat: no-repeat; background-size: auto auto; } @media (min-width: 768px) { .jumbotron-hero { background-image: none; padding-top: 16rem; } } .jumbotron-hero::after { display: none; } @media (min-width: 768px) { .jumbotron-hero::after { display: block; background-color: rgba(0, 0, 0, 0.7); } } .jumbotron__img { display: none; } @media (min-width: 1016px) { .jumbotron__img { display: block; position: absolute; top: 50%; left: calc(50% + 100px); -webkit-transform: translateY(calc(-50% - 5.8rem)); transform: translateY(calc(-50% - 5.8rem)); z-index: 20; } }
+  @media (min-width:768px){.page-front .jumbotron-wrapper{padding-top:17.6rem}}.jumbotron-hero{background-image:-webkit-gradient(linear,left top,left bottom,from(rgba(0,0,0,.5)),to(rgba(0,0,0,.5))),url(/a/img/clients/polylog/2020-09-21-hero.jpg);background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url(/a/img/clients/polylog/2020-09-21-hero.jpg);background-repeat:no-repeat;background-size:auto auto}@media (min-width:768px){.jumbotron-hero{padding-top:16rem}}@media (min-width:1016px){.jumbotron-hero{background-image:-webkit-gradient(linear,left top,left bottom,from(rgba(0,0,0,.6)),color-stop(33%,rgba(0,0,0,.3)),to(rgba(0,0,0,0))),url(/a/img/clients/polylog/2020-09-21-hero-lg.jpg);background-image:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.3) 33%,rgba(0,0,0,0)),url(/a/img/clients/polylog/2020-09-21-hero-lg.jpg)}}.jumbotron-hero::after{display:none}
 ---
 
 <div class="jumbotron layered">
-  <figure class="jumbotron-hero" title="Онлайн-клуб ЕОФ">
+  <figure class="jumbotron-hero" title="Агентство «Полилог» — крупный поставщик BPM-систем">
     <figcaption class="jumbotron-wrapper">
       <div class="jumbotron-container">
         <div class="jumbotron-inner jumbotron-inner-left">
-          <a class="jumbotron-body has-xs-summary" href="https://club.eoforum.ru/" target="_blank" rel="noopener noreferrer">
+          <a class="jumbotron-body" href="/ru/projects/2020/agentstvo-polilog-voshlo-top-10-rossiyskih-postavshchikov-bpm">
             <!--noindex-->
             <span class="jumbotron-eyebrow ani-slide-down">Новый проект</span>
-            <h1 class="jumbotron-headline ani-slide-down"><b>Онлайн-клуб ЕОФ&nbsp;—</b> сообщество профессионалов</h1>
-            <p class="jumbotron-summary ani-slide-down">Объединяет более 13&nbsp;000&nbsp;врачей, ученых, инженеров и&nbsp;представителей бизнеса из&nbsp;70&nbsp;стран.<span class="hidden-sm-down"><br><br>Отвечая на&nbsp;запрос времени, мы&nbsp;развиваем цифровую платформу для поддержания международного сотрудничества в&nbsp;области травматологии, ортопедии и&nbsp;смежных специальностях.</span></p>
+            <h1 class="jumbotron-headline ani-slide-down"><b>Агентство «Полилог»</b> вошло в&nbsp;топ-10 российских поставщиков BPM-систем</h1>
+
+            <p class="jumbotron-summary ani-slide-down"><span class="hidden-xs-down">TAdviser включил Агентство «Полилог» с&nbsp;программной платформой POLYCODE в&nbsp;ежегодный рейтинг ведущих разработчиков информационных систем класса BPM (Business Process Management) для автоматизации и&nbsp;оптимизации бизнес-процессов. </span><span class="hidden-sm-down">По&nbsp;итогам 2019 года агентству присвоено девятое место, в&nbsp;основе рейтинга&nbsp;— данные по&nbsp;объему выручки от&nbsp;BPM-проектов.</span></p>
             <!--/noindex-->
           </a>
         </div>
       </div>
     </figcaption>
-    <img class="jumbotron__img" src="{{ site.assets }}/img/polylog-promo/2020-eof-online/eof-logo.svg" alt="Логотип онлайн клуба EOF">
-    <video class="jumbotron__video-bg" autoplay muted loop playsinline>
-      <source src="{{ site.assets }}/video/projects/2020/eof-online-header.mp4" type="video/mp4">
-    </video>
   </figure>
 </div>
 

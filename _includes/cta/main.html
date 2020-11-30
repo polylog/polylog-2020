@@ -5,7 +5,10 @@
 
   {% comment %} Button for phones {% endcomment %}
   <a class="cta-btn hidden-md-up" href="tel:+7-495-258-2045" role="button">
-    <span class="icon-phone" aria-hidden="true"><svg><use href="{{ site.assets }}/img/graphics/sprite.svg#icon-phone"></use></svg></span>
+    <span class="icon is-phone" aria-hidden="true">
+      <svg><use href="#icon-phone"></use></svg>
+      {% comment %} <svg><use href="{{ site.assets }}/img/graphics/sprite.svg#icon-phone"></use></svg> {% endcomment %}
+    </span>
     Позвонить
   </a>
 

@@ -1,375 +1,1050 @@
 <!DOCTYPE html>
-<html lang="ru" prefix="og: https://ogp.me/ns#">
+<html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Черновик | PR-агентство «Полилог»</title>
-<base href="https://localhost:9000/_site">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:600%7CRoboto:100,300,400,500&amp;subset=cyrillic">
-<link rel="stylesheet" href="/a/css/main.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evernote</title>
 </head>
-
-<body class="section-projects">
-
-<!--noindex-->
-<noscript>
-<div class="alert is-warning is-global" role="alert">
-  <p>
-    <svg class="icon" focusable="false" aria-hidden="true">
-      <use href="/a/img/graphics/sprite.svg#icon-warning-md"></use>
-    </svg>
-    В вашем браузере выключен JavaScript. Поэтому не работает основная навигация, не открываются окна дополнительной информации. <a href="https://yandex.ru/support/mail/tech-glossary.html#js-enable" target="_blank" rel="noopener noreferrer nofollow">Включите Javascript</a>.
-  </p>
-</div>
-</noscript>
-<!--/noindex-->
-
-
-<!-- HEADER -->
-<header class="header"> <a class="logo" href="/" rel="home" aria-label="Главная" title="Главная"></a>
-  <div class="container">
-
-    <!--noindex-->
-    <form class="form search" action="https://www.google.com/search" method="get" target="_blank">
-      <input type="hidden" name="sitesearch" value="https://localhost:4000">
-      <input class="search-input form-control" name="q" type="text" maxlength="255" tabindex="-1" autocomplete="off" aria-label="Поиск по сайту" placeholder="Поиск: PR, организация мероприятий, IT-решения">
-      <button class="search-reset" type="reset" aria-label="Очистить"> <span class="icon close" aria-hidden="true"></span> </button>
-      <button class="search-submit" type="submit" aria-label="Найти" title="Найти">
-      <svg class="icon find" aria-hidden="true">
-        <use href="#icon-search"></use>
-      </svg>
-      </button>
-      <button class="search-cancel" type="button">Отменить</button>
-      <div class="results" id="results"></div>
-    </form>
-    <button class="search-toggler" aria-hidden="true">
-    <svg class="icon find" aria-hidden="true">
-      <use href="#icon-search"></use>
-    </svg>
-    </button>
-    <!--/noindex-->
-
-    <div class="header-options"> <a class="header__link is-phone-number" id="header-phone" href="tel:+7-495-258-2045" title="Позвонить">
-      <svg class="icon is-phone" aria-hidden="true">
-        <use href="#icon-phone"></use>
-      </svg>
-      +7 (495) <b>258-20-45</b> </a>
-      <div class="dropdown"> <span class="header__locale-switcher" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="In Russian, Chinese or Japanese" role="button"> <span class="icon flag-ru" aria-hidden="true"></span> </span>
-        <div class="dropdown-menu"> <a class="dropdown-item" href="/en"> <span class="icon flag-en" aria-hidden="true"></span> English </a> <a class="dropdown-item is-active" href="/"> <span class="icon flag-ru" aria-hidden="true"></span> Русский </a> <a class="dropdown-item" href="/zh"> <span class="icon flag-cn" aria-hidden="true"></span> 中文 </a> <a class="dropdown-item" href="/ja"> <span class="icon flag-jp" aria-hidden="true"></span> 日本語 </a> </div>
-      </div>
-    </div>
-  </div>
-</header>
-
-<!-- CONTENT --------------------------------------------------------------- -->
-
-<main class="container is-grid has-page-header">
-  <article class="article">
-
-    <!-- Page header -->
-    <div class="page-header mb-0">
-      <h1 class="page-header-headline"> <a class="page-header__link" href="/ru/projects">Наша работа</a>: тэк и жкх </h1>
-      <span class="page-header-icon" aria-hidden="true"></span>
-    </div>
-
-    <!-- Filter -->
-    <nav aria-label="Фильтровать по отраслям или услугам">
-      <ul class="filter is-projects">
-        <li> <a class="filter__link is-everything" href="/ru/projects"> Всё </a> </li>
-        <li> <a class="filter__link is-auto" href="/ru/projects/auto"> Авто </a> </li>
-        <li> <a class="filter__link is-agriculture" href="/ru/projects/agriculture"> Агробизнес </a> </li>
-        <li class="d-none d-md-inline-block"> <a class="filter__link is-business-services" href="/ru/projects/business-services"> Бизнес-услуги </a> </li>
-        <li class="d-none d-lg-inline-block"> <a class="filter__link is-appliances-electronics" href="/ru/projects/appliances-electronics"> Б. техника и электроника </a> </li>
-        <li class="dropdown"> <a class="filter__dropdown-toggle" id="filtersMore" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Ещё </a>
-          <div class="dropdown-menu is-projects-filter" aria-labelledby="filtersMore">
-            <h3 class="dropdown__subtitle">Проекты по отраслям</h3>
-            <ul class="dropdown__2-columns">
-              <li class="dropdown__item d-md-none"> <a class="dropdown__link is-business-services" href="/ru/projects/business-services"> Бизнес-услуги </a> </li>
-              <li class="dropdown__item d-lg-none"> <a class="dropdown__link is-appliances-electronics" href="/ru/projects/appliances-electronics"> Б. техника и электроника </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-state-corporations" href="/ru/projects/state-corporations"> Госкорпорации </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-childrens-goods" href="/ru/projects/childrens-goods"> Детские товары и услуги </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-health-care" href="/ru/projects/health-care"> Здоровье </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-fashion" href="/ru/projects/fashion"> Мода </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-technology" href="/ru/projects/technology"> Технологии </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-beauty" href="/ru/projects/beauty"> Красота и здоровье </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-real-estate" href="/ru/projects/real-estate"> Недвижимость </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-nonprofit" href="/ru/projects/nonprofit"> Некоммерческие организации </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-fmcg" href="/ru/projects/fmcg"> Потребительские товары </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-large-scale" href="/ru/projects/large-scale"> Промышленность </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-regional-authorities" href="/ru/projects/regional-authorities"> Региональные органы власти </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-tourism" href="/ru/projects/tourism"> Туризм и гостеприимство </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-oil-gas-energy" href="/ru/projects/oil-gas-energy"> ТЭК </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-government" href="/ru/projects/government"> Федеральные органы власти </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-finance" href="/ru/projects/finance"> Финансы и страхование </a> </li>
-            </ul>
-            <h3 class="dropdown__subtitle">Проекты по услугам</h3>
-            <ul class="dropdown__2-columns">
-              <li class="dropdown__item"> <a class="dropdown__link is-event-management" href="/ru/projects/event-management"> Event-менеджмент </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-public-relations" href="/ru/projects/public-relations"> PR (связи с общественностью) </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-fundraising" href="/ru/projects/fundraising"> Фандрайзинг </a> </li>
-              <li class="dropdown__item"> <a class="dropdown__link is-digital" href="/ru/projects/digital"> Цифровые решения </a> </li>
-            </ul>
-          </div>
-        </li>
-      </ul>
-    </nav>
-
-     <!-- Main area -->
-    <div class="projects row">
-
-
-
-    </div>
-
-  </article>
-</main>
-
-<!-- / CONTENT ------------------------------------------------------------- -->
-
-<!-- CTA, FOOTER, NAVBAR, MODALS, SVG -->
-<aside class="cta container">
-  <h2 class="cta-headline">Необходима смета или&nbsp;предложение? Проводите&nbsp;тендер?</h2>
-  <h3 class="cta-subhead">Давайте созвонимся</h3>
-  <a class="cta-btn hidden-md-up" href="tel:+7-495-258-2045" role="button"> <span class="icon-phone" aria-hidden="true">
-  <svg>
-    <use href="/a/img/graphics/sprite.svg#icon-phone"></use>
-  </svg>
-  </span> Позвонить </a>
-  <button class="cta-btn hidden-sm-down" data-target="#modal-form" data-toggle="modal">
-    <span class="icon is-phone" aria-hidden="true">
-      <svg><use href="#icon-phone"></use></svg>
-    </span>
-    Обратная связь
-  </button>
-</aside>
-
-<footer class="footer container">
-  <!--noindex-->
-  <div class="row">
-    <div class="footer-last-options col-lg-6">
-      <h3 class="footer-heading">Получайте на&nbsp;почту анонсы видеолекций и&nbsp;дайджест блога</h3>
-      <form class="form subscription" id="mc-embedded-subscribe-form" action="https://polylog.us2.list-manage.com/subscribe/post?u=252bc5a38de27d3ce6515c16c&amp;id=6995ccb858" name="mc-embedded-subscribe-form" method="post" target="_blank" novalidate="novalidate">
-        <input class="form-control" id="mce-FNAME" name="FNAME" type="text">
-        <input class="form-control email" id="mce-EMAIL" name="EMAIL" type="email">
-        <div class="clear" id="mce-responses">
-          <div class="response" id="mce-error-response" style="display:none;"></div>
-          <div class="response" id="mce-success-response" style="display:none;"></div>
-        </div>
-        <div style="position: absolute; left: -5000px;" aria-hidden="true">
-          <input type="text" name="b_252bc5a38de27d3ce6515c16c_6995ccb858" tabindex="-1">
-        </div>
-        <div class="form-actions">
-          <input class="button button-primary form-submit" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Подписаться">
-        </div>
-        <p class="form-disclaimer tooltip"> Нажимая на кнопку, вы даете<br>
-          <a href="/ru/company/privacy-policy#consent" target="_blank">согласие на обработку своих персональных данных</a> </p>
-      </form>
-      <ul class="footer-quick-links" role="menu">
-        <li class="quick-links-item">
-          <h3 class="quick-links-caption"> <a class="quick-links-caption-link" href="/ru/projects"> Новости: </a> </h3>
-        </li>
-        <li class="quick-links-item">
-          <h3 class="quick-links-caption"> <a class="quick-links-caption-link" href="/ru/pr-blog"> В блоге: </a> </h3>
-          <a class="quick-links-link" href="/ru/pr-blog/obzor-runeta-tendentsii-piar-kampaniy-v-internete"> PR 2.0 в обзоре рунета | Отраслевой блог PR-группы «Полилог»: маркетинговые коммуникации — PR (пиар), BTL и пр… </a> </li>
-        <li class="quick-links-item">
-          <h3 class="quick-links-caption"> <a class="quick-links-caption-link" href="/ru/pr-blog/help"> Словарь: </a> </h3>
-          <a class="quick-links-link" href="/ru/help/pr-public-relations-svyazi-obshhestvennostyu-piar"> PR (public relations, связи с общественностью, пиар) </a> </li>
-      </ul>
-    </div>
-    <section class="footer-social col-lg-6 flex-lg-first">
-      <h3 class="footer-heading"> Нравится? Ставьте лайки, делитесь </h3>
-      <span class="btn social facebook fb-like" data-href="https://localhost:4000/ru/projects/oil-gas-energy/" data-width="" data-layout="button" data-action="like" data-size="large" data-share="false"></span>
-      <div class="btn social vk" id="vk-like" role="button" aria-label="Вконтакте" title="Вконтакте">
-      </div>
-      <button class="btn social icon whatsapp" data-href="whatsapp://send?text=%D0%A2%D0%AD%D0%9A+%D0%B8%C2%A0%D0%96%D0%9A%D0%A5%20http%3A%2F%2Flocalhost%3A4000%2Fru%2Fprojects%2Foil-gas-energy%2Findex.html" aria-label="WhatsApp" title="WhatsApp"></button>
-      <button class="btn social icon twitter" data-href="https://twitter.com/home?status='%D0%A2%D0%AD%D0%9A+%D0%B8%C2%A0%D0%96%D0%9A%D0%A5'+http%3A%2F%2Flocalhost%3A4000%2Fru%2Fprojects%2Foil-gas-energy%2Findex.html" aria-label="Твиттер" title="Твиттер"></button>
-      <button class="btn social icon pocket" data-href="https://getpocket.com/edit.php?url=http%3A%2F%2Flocalhost%3A4000%2Fru%2Fprojects%2Foil-gas-energy%2Findex.html" aria-label="Покет" title="Покет"></button>
-      <button class="btn social icon email-md" data-href="mailto:?subject=%D0%A2%D0%AD%D0%9A+%D0%B8%C2%A0%D0%96%D0%9A%D0%A5&amp;body=http%3A%2F%2Flocalhost%3A4000%2Fru%2Fprojects%2Foil-gas-energy%2Findex.html" aria-label="Почта" title="Почта"></button>
-      <h3 class="footer-heading last"> PR&nbsp;и&nbsp;маркетинг в&nbsp;разных форматах. Подписывайтесь </h3>
-      <a class="btn social icon facebook-page" id="footer-facebook-page" href="https://www.facebook.com/polylog" target="_blank" aria-label="Фейсбук" title="Фейсбук"></a> <a class="btn social icon instagram-acc" id="footer-instagram-acc" href="https://instagram.com/polylogteam" target="_blank" aria-label="Инстаграм" title="Инстаграм"></a> <a class="btn social icon rss" id="footer-rss" href="/feed.xml" target="_blank" aria-label="Лента блога" title="Лента блога"></a> </section>
-  </div>
-  <!--/noindex-->
-
-  <div class="footer-contacts" itemscope itemtype="https://schema.org/Organization">
-    <address class="footer-address" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
-    <span itemprop="postalCode"></span>, <span itemprop="addressLocality">Москва</span>, <span itemprop="streetAddress">Краснопресненская наб. 12 (ЦМТ), подъезд 3, этаж 11, офиc 1108.</span>
-    </address>
-    <span class="nowrap">Тел.: <a class="link is-phone-number" href="tel:74952582045" content="74952582045" itemprop="telephone" title="Звоните">+7 (495) 258-20-45</a></span> | <a class="js-contact" href="mailto:service-request(at)gmail(dot)com" title="Написать письмо">Эл. почта</a>
-    <p class="footer-privacy">© <span itemprop="name">«Полилог»</span> | PR, event, IT c&nbsp;2000г. <a class="nowrap" href="/ru/company/privacy-policy#consent">Политика конфиденциальности</a></p>
-  </div>
-</footer>
-
-<nav class="navbar">
-  <!--noindex-->
-  <ul class="navbar-nav nav">
-    <li class="navbar-item dropdown"> <a class="navbar-dropdown-toggle services js-menu-link" id="dropdown-services" href="/ru/services" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <span class="icon services" aria-hidden="true"></span> <span class="hidden-md-up">PR-услуги </span><span class="hidden-sm-down">Услуги</span> </a>
-      <button class="btn navbar-dropdown-toggle-split" type="button" data-toggle="dropdown"> <span class="sr-only">Выбрать раздел</span> </button>
-      <ul class="dropdown-menu" aria-labelledby="dropdown-services" aria-hidden="true">
-        <li class="dropdown-item index"> <a class="dropdown-link" href="/ru/services"> <b>Все услуги&nbsp;— обзор</b> </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/services/event-management"> Организация мероприятий </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/services/public-relations"> PR </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="https://it.polylog.ru"> Цифровые решения </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/services/fundraising"> Фандрайзинг </a> </li>
-      </ul>
-    </li>
-    <li class="navbar-item dropdown"> <a class="navbar-dropdown-toggle projects js-menu-link" id="dropdown-projects" href="/ru/projects" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <span class="icon projects" aria-hidden="true"></span> Проекты </a>
-      <button class="btn navbar-dropdown-toggle-split" type="button" data-toggle="dropdown"> <span class="sr-only">Выбрать раздел</span> </button>
-      <ul class="dropdown-menu" aria-labelledby="dropdown-projects" aria-hidden="true">
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/projects"> Примеры работы </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/projects/industries"> Отрасли </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="https://it.polylog.ru/polycode" target="_blank" rel="noopener noreferrer"> POLYCODE </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/projects/testimonials"> Отзывы </a> </li>
-      </ul>
-    </li>
-    <li class="navbar-item dropdown"> <a class="navbar-dropdown-toggle company js-menu-link" id="dropdown-company" href="/ru/company" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <span class="icon company" aria-hidden="true"></span> Компания </a>
-      <button class="btn navbar-dropdown-toggle-split" type="button" data-toggle="dropdown"> <span class="sr-only">Выбрать раздел</span> </button>
-      <ul class="dropdown-menu" aria-labelledby="dropdown-company" aria-hidden="true">
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/company"> Общие сведения </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/company/management"> Команда </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/company/iso"> Система менеджмента качества </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/company/arj"> Архив новостей </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/company/contacts"> Контактная информация </a> </li>
-      </ul>
-    </li>
-    <li class="navbar-item dropdown hidden-xs-down"> <a class="navbar-dropdown-toggle career js-menu-link" id="dropdown-career" href="/ru/careers/jobs" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <span class="icon career" aria-hidden="true"></span> Карьера </a>
-      <button class="btn navbar-dropdown-toggle-split" type="button" data-toggle="dropdown"> <span class="sr-only">Выбрать раздел</span> </button>
-      <ul class="dropdown-menu" aria-labelledby="dropdown-career" aria-hidden="true">
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/careers"> Почему «Полилог»? </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/careers/jobs"> Вакансии </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/careers/internship"> Стажировка </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/careers/talents"> Конкурс талантов </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/careers/culture"> Корпоративная культура </a> </li>
-      </ul>
-    </li>
-    <li class="navbar-item dropdown hidden-xs-down"> <a class="navbar-dropdown-toggle blog js-menu-link" id="dropdown-blog" href="/ru/pr-blog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <span class="icon blog" aria-hidden="true"></span> Блог </a>
-      <button class="btn navbar-dropdown-toggle-split" type="button" data-toggle="dropdown"> <span class="sr-only">Выбрать раздел</span> </button>
-      <ul class="dropdown-menu" aria-labelledby="dropdown-blog" aria-hidden="true">
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/pr-blog"> Идеи и&nbsp;опыт </a> </li>
-        <li class="dropdown-item"> <a class="dropdown-link" href="/ru/pr-blog/help"> Энциклопедия&nbsp;PR </a> </li>
-      </ul>
-    </li>
-    <li class="navbar-cta">
-      <h3 class="navbar-cta-headline"> Нужен PR? Event? IT? <small>Составить смету?</small> </h3>
-      <button class="navbar-cta-btn" id="navbar-cta" data-target="#modal-form" data-toggle="modal"> Пишите </button>
-    </li>
-  </ul>
-</nav>
-
-<div class="modal" id="modal" role="dialog" tabindex="-1" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <button class="modal-close" data-dismiss="modal" aria-label="Закрыть" title="Закрыть"></button>
-    <div class="modal-content"> </div>
-  </div>
-</div>
-<div class="modal" id="modal-form" role="dialog" tabindex="-1" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <button class="modal-close" data-dismiss="modal" aria-label="Закрыть" title="Закрыть"></button>
-    <div class="modal-content">
-      <div class="form-wrapper">
-        <h2 class="form-headline">Обратная связь</h2>
-        <p class="form-subhead">Напишите нам или оставьте номер&nbsp;&mdash; свяжемся</p>
-        <form class="form" id="form-contact" action="https://formspree.io/mzbrbyza" method="post" accept-charset="UTF-8" enctype="multipart/form-data">
-          <div class="form-group has-icon user">
-            <label for="form-name">Ваше имя *</label>
-            <input class="form-control" id="form-name" name="name" type="text" required placeholder="Ваше имя *">
-          </div>
-          <div class="form-group has-icon email">
-            <label for="form-email">Email *</label>
-            <input class="form-control" id="form-email" name="email" type="email" required placeholder="Email *">
-          </div>
-          <div class="form-group has-icon is-phone">
-            <label for="form-phone">Опишите задачу</label>
-            <input class="form-control" id="form-phone" name="phone" type="tel" placeholder="Опишите задачу">
-          </div>
-          <div class="form-group select has-icon services">
-            <label for="form-services">Опишите задачу *</label>
-            <select class="form-control form-select" id="form-services" name="services">
-              <option value="value" selected="selected">Выберите услугу *</option>
-              <option value="Организация мероприятий">Организация мероприятий</option>
-              <option value="PR">PR-поддержка, PR-кампания</option>
-              <option value="Фандрайзинг">Фандрайзинг</option>
-              <option value="IT-решения в&nbsp;госсекторе">IT-решения в&nbsp;госсекторе</option>
-            </select>
-          </div>
-          <fieldset class="form__fieldset is-fundraising">
-            <legend>С&nbsp;этого момента поподробнее</legend>
-            <p class="fieldset-description">Для оформления заявки на&nbsp;сбор средств нам понадобится дополнительная информация.</p>
-            <div class="form-group has-icon company">
-              <label for="form-company">Компания / организация</label>
-              <input class="form-control is-optional-required" id="form-company" name="company" type="text" placeholder="Ваша компания / организация *">
-            </div>
-            <div class="form-group has-icon position">
-              <label for="form-position">Должность</label>
-              <input class="form-control is-optional-required" id="form-position" name="position" type="text" placeholder="Ваша должность *">
-            </div>
-            <div class="form-group has-icon project-group">
-              <label for="form-project-group">Проектная группа</label>
-              <textarea class="form-control form-textarea" id="form-project-group" name="project_group" cols="40" rows="4" placeholder="Проектная группа: количество человек и функционал"></textarea>
-            </div>
-            <div class="form-group has-icon money">
-              <label for="form-money">Сумма</label>
-              <input class="form-control is-optional-required" id="form-money" name="money" type="text" placeholder="Какую сумму планируете привлечь? *">
-            </div>
-            <div class="form-group has-icon terms">
-              <label for="form-terms">Сроки</label>
-              <input class="form-control is-optional-required" id="form-terms" name="terms" type="text" placeholder="Сроки реализации проекта *">
-            </div>
-            <div class="form-group is-upload">
-              <label class="form__label has-icon" for="form-upload">Презентационные материалы проекта и&nbsp;спонсорские пакеты (если есть)</label>
-              <div class="form__description">Максимальный размер файла: 21 МБ.<br>
-                Допустимые типы файлов: pdf doc docx ppt pptx xls xlsx jpg jpeg png avi mov zip.</div>
-              <div>
-                <input class="form__file" type="file" id="form-upload" name="upload" size="22">
-                <input class="form-submit" id="form-upload-button" name="form_upload_button" type="submit" value="Закачать">
+<body style="height: 100%; width: 100%">
+  <div id="root" style="height: 100%; width: 100%">
+    <div style="width: 100%; height: 100%; display: flex">
+      <div class="">
+        <div class="">
+          <div class="">
+            <div class="">
+              <div class=""></div>
+              <div class="">
+                <div class="">
+                  <div id="qa-SEARCH_BAR_INITIAL" data-tooltipmark="leftmenusearchbar" class="">
+                    <div class="">
+                      <div class="">
+                        <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg" class="">
+                        </path>
+                      </svg>
+                      <form role="search">
+                        <input autocomplete="off" class="" />
+                      </form>
+                    </div>
+                  </div>
+                </div>
+                <div id="qa-SEARCH_BAR_DROPDOWN" class="">
+                  <div class="">
+                    <div class="">
+                      <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg" class="">
+                      </path>
+                    </svg>
+                    <form role="search">
+                      <input autocomplete="off" class="" />
+                    </form>
+                  </div>
+                </div>
               </div>
             </div>
-          </fieldset>
-          <div class="form-group has-icon message">
-            <label for="form-message">Опишите задачу *</label>
-            <textarea class="form-control form-textarea" id="form-message" name="message" cols="40" rows="8" required placeholder="Опишите задачу *"></textarea>
+            <div class="">
+              <nav aria-label="Основная навигация" class="">
+                <div class="">
+                  <ul class="">
+                    <li class="">
+                      <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.182 3.297h12.835a2.15 2.15 0 010 4.301H1.182v-4.3zm1.3 1.3v1.701h11.535a.85.85 0 100-1.7H2.482z"></path>
+                        <path d="M14.358 16.81a2.175 2.175 0 00-.341-.027H1.182v4.301h12.835c.162 0 .319-.018.47-.051a5.458 5.458 0 01-.394-1.252.879.879 0 01-.076.003H2.482v-1.7h11.56a5.46 5.46 0 01.316-1.274z"></path>
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.373 10.04h12.834a2.15 2.15 0 110 4.301H3.373v-4.3zm1.3 1.3v1.701h11.534a.85.85 0 100-1.7H4.673z"></path>
+                        <path d="M17.78 15.986a.75.75 0 10-1.061 1.06l1.722 1.723-1.722 1.721a.75.75 0 001.06 1.06l1.722-1.72 1.722 1.72a.75.75 0 001.06-1.06l-1.721-1.721 1.722-1.722a.75.75 0 10-1.061-1.06l-1.722 1.72-1.722-1.72z"></path>
+                      </svg>
+                      <div class=""></span></div>
+                    </li>
+                    <li class="">
+                      <div class="">
+                        <div class="">
+                          <div class=""> <span class=""><span class="">
+                            <div class=""></div>
+                          </div>
+                        </span>
+                        <div class="">
+                          <div class="">
+                            <div class="">Vladimir Nikishin</div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8" class="">
+                            </path>
+                          </svg>
+                        </div>
+                        <div class=""></div>
+                      </div>
+                    </span> </div>
+                  </div>
+                </div>
+              </li>
+              <li class="">
+                <div id="qa-SEARCH_BAR_INITIAL" data-tooltipmark="leftmenusearchbar" class="">
+                  <div class="">
+                    <div class="">
+                      <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg" class="">
+                      </path>
+                    </svg>
+                    <form role="search">
+                      <input autocomplete="off" class="" />
+                    </form>
+                  </div>
+                </div>
+              </div>
+              <div class="">
+                <div class="">
+                  <button aria-haspopup="false" id="qa-CREATE_NOTE" class="">
+                    <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg" class="">
+                    </path>
+                  </svg>
+                  <div class="">Новая заметка</div>
+                </button>
+                <div class="">
+                  <div class=""> <span class="">
+                    <button aria-haspopup="false" class="">
+                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14" class="">
+                        <defs>
+                          <path id="38a" d="M7 5.707l3.646 3.647.708-.708L7 4.293 2.646 8.646l.708.708z"></path>
+                        </defs>
+                        <use fill="currentColor" fill-rule="nonzero" transform="matrix(1 0 0 -1 0 13.646)" xlink:href="#38a"></use>
+                      </svg>
+                    </button>
+                  </span> </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <ul class="">
+            <li>
+              <div class="">
+                <div class="">
+                  <div data-tooltipmark="shortcutsnavitem" class="">
+                    <div class="">
+                      <button id="qa-NAV_SHORTCUTS_TOGGLE_EXPAND_COLLAPSE" style="display: flex; margin-left: 2px; transform: rotateZ(0deg)">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="">
+                        </path>
+                      </svg>
+                    </button>
+                  </div>
+                  <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M19.277 11.107a20.43 20.43 0 01-1.593 1.811c-.426.456-.796.854-.948.949a.872.872 0 00-.265.796c0 .323.151 1.176.265 1.963.114.787.18 1.252.209 1.489.11.427-.038.878-.38 1.157a.853.853 0 01-.53.16 1.99 1.99 0 01-.835-.236l-2.636-1.318a1.487 1.487 0 00-.588-.19 1.527 1.527 0 00-.588.19c-.408.208-1.802.948-2.636 1.318a1.99 1.99 0 01-.835.237.853.853 0 01-.53-.161 1.128 1.128 0 01-.38-1.157c0-.237.114-.825.199-1.46.114-.797.247-1.67.275-1.992a.873.873 0 00-.228-.768 15.527 15.527 0 00-.891-.948c-1.005-1.138-1.498-1.631-1.631-1.84a1.147 1.147 0 01-.19-.996.948.948 0 01.655-.569c.636-.223 1.963-.464 1.963-.464s1.406-.183 2.057-.465a6.4 6.4 0 00.949-1.764l.227-.493c.56-1.195.816-1.735 1.442-1.782h.132a.37.37 0 01.143 0c.625.056.872.587 1.422 1.773l.237.502c.247.66.61 1.27 1.072 1.802.637.267 2.01.427 2.01.427s1.279.212 1.896.408c.315.071.576.29.702.587a1.18 1.18 0 01-.17 1.034z" fill="currentColor"></path>
+                  </svg>
+                  <span class="">Ярлыки</span> </div>
+                  <div class=""></div>
+                </div>
+              </div>
+              <div style="overflow: hidden; height: 0px">
+                <div>
+                  <div></div>
+                </div>
+              </div>
+            </li>
+            <li id="qa-NAV_ALL_NOTES" data-tooltipmark="allnotesnavitem">
+              <div class="">
+                <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M7.665 4.5h8.75c.92 0 1.667.746 1.667 1.667v8.748h-3.334a.625.625 0 00-.625.624v3.958H7.665c-.92 0-1.667-.747-1.667-1.667V6.167c0-.92.747-1.667 1.667-1.667zm7.037 4.584a.625.625 0 100-1.25H9.298a.625.625 0 100 1.25h5.404zm.625 2.918c0 .345-.28.625-.625.625H9.298a.625.625 0 010-1.25h5.404c.345 0 .625.28.625.625zm-4.363 4.158a.625.625 0 100-1.25H9.298a.625.625 0 100 1.25h1.666z" fill="currentColor"></path>
+                  <path d="M15.373 16.164h2.157l-2.107 2.693-.05.06v-2.753z" fill="currentColor"></path>
+                </svg>
+                <span class="">Все заметки</span> </div>
+              </li>
+              <li id="qa-NAV_ALL_NOTEBOOKS">
+                <div class="">
+                  <div data-tooltipmark="notebooksnavitem" class="">
+                    <div class="">
+                      <button type="button" id="qa-NAV_NOTEBOOKS_TOGGLE_EXPAND_COLLAPSE" style="display: flex; margin-left: 2px; transform: rotateZ(0deg)">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="">
+                        </path>
+                      </svg>
+                    </button>
+                  </div>
+                  <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M8.035 4.5H5.958v15h2.077v-15z" fill="currentColor"></path>
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.285 4.5v15h7.09c.92 0 1.667-.746 1.667-1.667V6.167c0-.92-.747-1.667-1.667-1.667h-7.09zm6.63 5.083a.75.75 0 01-.75.75h-3a.75.75 0 110-1.5h3a.75.75 0 01.75.75z" fill="currentColor"></path>
+                  </svg>
+                  <span class="">Блокноты</span> </div>
+                </div>
+                <div style="overflow: hidden; height: 0px">
+                  <ol>
+                  </ol>
+                </div>
+              </li>
+              <li id="qa-SHARED_WITH_ME" data-tooltipmark="sharedwithmenavitem">
+                <div class="">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M9.213 5.333h.021c2.438 0 3.386 2.129 3.078 3.975-.215 1.29-.781 2.133-1.287 2.68a.61.61 0 00-.162.496.52.52 0 00.24.38c.382.228 1.136.375 1.64.524 1.107.327 1.836.662 1.836 1.885v2.55c0 .418-.368.758-.821.758H4.696c-.453 0-.82-.34-.82-.759l-.001-2.549c0-1.223.781-1.558 1.889-1.885.504-.149 1.19-.296 1.572-.524a.52.52 0 00.24-.38.61.61 0 00-.162-.496c-.506-.547-1.058-1.385-1.273-2.675-.308-1.846.634-3.98 3.072-3.98z" fill="currentColor"></path>
+                    <path d="M20.125 16.005c0-.99-.587-1.26-1.48-1.525a11.404 11.404 0 00-.369-.1c-.348-.09-.73-.19-.954-.324a.42.42 0 01-.194-.308.494.494 0 01.13-.4c.358-.388.76-.96.96-1.795.028-.119.053-.244.075-.374.248-1.493-.512-3.215-2.478-3.215h-.017c-1.053 0-1.798.495-2.177 1.184a3.047 3.047 0 00-.363 1.58c.006.148.02.296.045.442.065.395.171.74.289 1.036.441.155.987.385 1.394.738.683.591.983 1.397.983 2.33v2.548c0 .274-.05.528-.138.76h3.473c.454 0 .82-.34.82-.76l.001-1.817z" fill="currentColor"></path>
+                  </svg>
+                  <span class="">Поделились со мной</span> </div>
+                </li>
+                <li id="qa-NAV_TAGS" data-tooltipmark="tagsnavitem" class="">
+                  <div class="">
+                    <div class="">
+                      <div class="">
+                        <button type="button" id="qa-NAV_TAGS_TOGGLE_EXPAND_COLLAPSE" style="display: flex; margin-left: 2px; transform: rotateZ(90deg)">
+                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="">
+                          </path>
+                        </svg>
+                      </button>
+                    </div>
+                    <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M6.535 9.875a1.667 1.667 0 00-.368 1.045v6.909c0 .92.746 1.666 1.666 1.666h8.334c.92 0 1.666-.746 1.666-1.666V10.92c0-.38-.13-.749-.368-1.045L13.299 4.7a1.667 1.667 0 00-2.597 0L6.535 9.875zM12 12.022a1.666 1.666 0 10.002-3.332A1.666 1.666 0 0012 12.022z" fill="currentColor"></path>
+                    </svg>
+                    <span class="">Метки</span> </div>
+                  </div>
+                  <div style="overflow: hidden; height: 90px">
+                    <div>
+                      <div class="">
+                        <div class="">
+                          <div style="overflow: visible; width: 0px">
+                            <div aria-label="list" aria-readonly="true" class="">
+                              <div class="">
+                                <div class=""> <span class="">
+                                  <div class="">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="">
+                                    </path>
+                                  </svg>
+                                </div>
+                                <svg width="14" height="14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M7 6.5a1 1 0 100-2 1 1 0 000 2z" fill="currentColor"></path>
+                                  <path fill-rule="evenodd" clip-rule="evenodd" d="M2 6.273a2 2 0 01.52-1.345L5.89 1.22a1.5 1.5 0 012.22 0l3.37 3.707A2 2 0 0112 6.273V11a2 2 0 01-2 2H4a2 2 0 01-2-2V6.273zm9 0V11a1 1 0 01-1 1H4a1 1 0 01-1-1V6.273a1 1 0 01.26-.672l3.37-3.707a.5.5 0 01.74 0L10.74 5.6a1 1 0 01.26.672z" fill="currentColor"></path>
+                                </svg>
+                              </span><span class="">☑️📅</span> </div>
+                              <div class=""> <span class="">
+                                <div class="">
+                                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="">
+                                  </path>
+                                </svg>
+                              </div>
+                              <svg width="14" height="14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M7 6.5a1 1 0 100-2 1 1 0 000 2z" fill="currentColor"></path>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M2 6.273a2 2 0 01.52-1.345L5.89 1.22a1.5 1.5 0 012.22 0l3.37 3.707A2 2 0 0112 6.273V11a2 2 0 01-2 2H4a2 2 0 01-2-2V6.273zm9 0V11a1 1 0 01-1 1H4a1 1 0 01-1-1V6.273a1 1 0 01.26-.672l3.37-3.707a.5.5 0 01.74 0L10.74 5.6a1 1 0 01.26.672z" fill="currentColor"></path>
+                              </svg>
+                            </span><span class="">Arj</span> </div>
+                            <div class=""> <span class="">
+                              <div class="">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="">
+                                </path>
+                              </svg>
+                            </div>
+                            <svg width="14" height="14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M7 6.5a1 1 0 100-2 1 1 0 000 2z" fill="currentColor"></path>
+                              <path fill-rule="evenodd" clip-rule="evenodd" d="M2 6.273a2 2 0 01.52-1.345L5.89 1.22a1.5 1.5 0 012.22 0l3.37 3.707A2 2 0 0112 6.273V11a2 2 0 01-2 2H4a2 2 0 01-2-2V6.273zm9 0V11a1 1 0 01-1 1H4a1 1 0 01-1-1V6.273a1 1 0 01.26-.672l3.37-3.707a.5.5 0 01.74 0L10.74 5.6a1 1 0 01.26.672z" fill="currentColor"></path>
+                            </svg>
+                          </span><span class="">Design</span> </div>
+                          <div class=""> <span class="">
+                            <div class="">
+                              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="">
+                              </path>
+                            </svg>
+                          </div>
+                          <svg width="14" height="14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M7 6.5a1 1 0 100-2 1 1 0 000 2z" fill="currentColor"></path>
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M2 6.273a2 2 0 01.52-1.345L5.89 1.22a1.5 1.5 0 012.22 0l3.37 3.707A2 2 0 0112 6.273V11a2 2 0 01-2 2H4a2 2 0 01-2-2V6.273zm9 0V11a1 1 0 01-1 1H4a1 1 0 01-1-1V6.273a1 1 0 01.26-.672l3.37-3.707a.5.5 0 01.74 0L10.74 5.6a1 1 0 01.26.672z" fill="currentColor"></path>
+                          </svg>
+                        </span><span class="">Development</span> </div>
+                        <div class=""> <span class="">
+                          <div class="">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="">
+                            </path>
+                          </svg>
+                        </div>
+                        <svg width="14" height="14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                          <path d="M7 6.5a1 1 0 100-2 1 1 0 000 2z" fill="currentColor"></path>
+                          <path fill-rule="evenodd" clip-rule="evenodd" d="M2 6.273a2 2 0 01.52-1.345L5.89 1.22a1.5 1.5 0 012.22 0l3.37 3.707A2 2 0 0112 6.273V11a2 2 0 01-2 2H4a2 2 0 01-2-2V6.273zm9 0V11a1 1 0 01-1 1H4a1 1 0 01-1-1V6.273a1 1 0 01.26-.672l3.37-3.707a.5.5 0 01.74 0L10.74 5.6a1 1 0 01.26.672z" fill="currentColor"></path>
+                        </svg>
+                      </span><span class="">Hard and Soft</span> </div>
+                      <div class=""> <span class="">
+                        <div class="">
+                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="">
+                          </path>
+                        </svg>
+                      </div>
+                      <svg width="14" height="14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M7 6.5a1 1 0 100-2 1 1 0 000 2z" fill="currentColor"></path>
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M2 6.273a2 2 0 01.52-1.345L5.89 1.22a1.5 1.5 0 012.22 0l3.37 3.707A2 2 0 0112 6.273V11a2 2 0 01-2 2H4a2 2 0 01-2-2V6.273zm9 0V11a1 1 0 01-1 1H4a1 1 0 01-1-1V6.273a1 1 0 01.26-.672l3.37-3.707a.5.5 0 01.74 0L10.74 5.6a1 1 0 01.26.672z" fill="currentColor"></path>
+                      </svg>
+                    </span><span class="">Marketing</span> </div>
+                    <div class=""> <span class="">
+                      <div class="">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="">
+                        </path>
+                      </svg>
+                    </div>
+                    <svg width="14" height="14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M7 6.5a1 1 0 100-2 1 1 0 000 2z" fill="currentColor"></path>
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M2 6.273a2 2 0 01.52-1.345L5.89 1.22a1.5 1.5 0 012.22 0l3.37 3.707A2 2 0 0112 6.273V11a2 2 0 01-2 2H4a2 2 0 01-2-2V6.273zm9 0V11a1 1 0 01-1 1H4a1 1 0 01-1-1V6.273a1 1 0 01.26-.672l3.37-3.707a.5.5 0 01.74 0L10.74 5.6a1 1 0 01.26.672z" fill="currentColor"></path>
+                    </svg>
+                  </span><span class="">Personal</span> </div>
+                  <div class=""> <span class="">
+                    <div class="">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="">
+                      </path>
+                    </svg>
+                  </div>
+                  <svg width="14" height="14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M7 6.5a1 1 0 100-2 1 1 0 000 2z" fill="currentColor"></path>
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M2 6.273a2 2 0 01.52-1.345L5.89 1.22a1.5 1.5 0 012.22 0l3.37 3.707A2 2 0 0112 6.273V11a2 2 0 01-2 2H4a2 2 0 01-2-2V6.273zm9 0V11a1 1 0 01-1 1H4a1 1 0 01-1-1V6.273a1 1 0 01.26-.672l3.37-3.707a.5.5 0 01.74 0L10.74 5.6a1 1 0 01.26.672z" fill="currentColor"></path>
+                  </svg>
+                </span><span class="">Pro — More</span> </div>
+              </div>
+            </div>
           </div>
-          <input name="_language" type="hidden" value="ru">
-          <input name="_cc" type="hidden" value="nickysheen@yandex.ru">
-          <input name="_subject" type="hidden" value="polylog.ru">
-          <div class="form-actions">
-            <div class="g-recaptcha" data-sitekey="6LdJ-tMUAAAAAFhu6emGk5O6ck4042vGSedCsvsr"></div>
-            <div class="form__feedback" id="form-contact-status"></div>
-            <button class="form__submit is-primary" id="form-contact-button" type="submit">Оставить заявку</button>
-            <p class="form-disclaimer"></p>
+          <div class="">
+            <div class=""></div>
           </div>
-        </form>
+          <div class=""></div>
+        </div>
       </div>
+      <div class=""></div>
     </div>
   </div>
 </div>
-
-<!--noindex-->
-<svg class="hidden-xs-up">
-  <symbol id="icon-search" viewbox="0 0 18 18">
-    <path d="M17 14.3L14.5 16.7 11 13.3 10.8 11.4C8.5 13.3 5 13.2 2.8 11 0.4 8.7 0.4 5 2.8 2.7 5.1 0.4 8.9 0.4 11.2 2.7 13.5 4.9 13.5 8.3 11.6 10.6L13.5 10.8 17 14.3 17 14.3ZM9.8 4.1C8.3 2.6 5.7 2.6 4.2 4.1 2.6 5.6 2.6 8.1 4.2 9.6 5.7 11.2 8.3 11.2 9.8 9.6 11.4 8.1 11.4 5.6 9.8 4.1L9.8 4.1Z"></path>
-  </symbol>
-</svg>
-<svg class="hidden-xs-up">
-  <symbol id="icon-phone" viewbox="0 0 18 18">
-    <path d="M9 17C4.6 17 1 13.4 1 9 1 4.6 4.6 1 9 1 13.4 1 17 4.6 17 9 17 13.4 13.4 17 9 17L9 17ZM14.6 12.6L12.6 10.6C12.3 10.3 11.7 10.3 11.3 10.6L11.3 10.6 10.6 11.4C10.2 11.7 9.1 11.1 8 10 6.9 8.9 6.3 7.7 6.6 7.4L7.4 6.7C7.7 6.3 7.7 5.7 7.4 5.4L5.4 3.4C5 3 4.4 3 4.1 3.4L3.6 3.9C2 5.4 3.1 9 6 12 9 14.9 12.6 16 14.1 14.4L14.6 13.9C15 13.6 15 13 14.6 12.6L14.6 12.6Z"></path>
-  </symbol>
-</svg>
-<svg class="hidden-xs-up">
-  <symbol id="icon-more" viewbox="0 0 18 18">
-    <path d="M3 11C4.1 11 5 10.1 5 9 5 7.9 4.1 7 3 7 1.9 7 1 7.9 1 9 1 10.1 1.9 11 3 11ZM9 11C10.1 11 11 10.1 11 9 11 7.9 10.1 7 9 7 7.9 7 7 7.9 7 9 7 10.1 7.9 11 9 11ZM15 11C16.1 11 17 10.1 17 9 17 7.9 16.1 7 15 7 13.9 7 13 7.9 13 9 13 10.1 13.9 11 15 11Z"></path>
-  </symbol>
-</svg>
-<svg class="hidden-xs-up">
-  <symbol id="icon-forward" viewbox="0 0 24 24">
-    <polygon points="15.7 13.1 11.5 17.8 10 16.5 13.7 12.4 10 8.3 11.5 7 15.7 11.7 16.4 12.3 16.4 12.4 16.4 12.5"></polygon>
-  </symbol>
-</svg>
-<svg class="hidden-xs-up">
-  <symbol id="icon-details" viewbox="0 0 16 16">
-    <ellipse class="icon-details-oval" cx="8" cy="8" rx="7.5" ry="7.5"></ellipse>
-    <path class="icon-details-plus" d="M7.5 7.5h-3v1h3v3h1v-3h3v-1h-3v-3h-1z"></path>
-  </symbol>
-</svg>
-<!--/noindex-->
+</li>
+<li id="qa-NAV_WORKCHAT">
+  <div class="">
+    <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M15.818 17.222H13.82l-2.543 2.615a.532.532 0 01-.587.12.556.556 0 01-.333-.513l.004-2.222H8.182C6.977 17.222 6 16.227 6 15v-.556c0-1.096 1.09-2.222 2.182-2.222h2.72v1.111a.556.556 0 00.547.556.543.543 0 00.387-.163l2.19-2.222a.561.561 0 000-.786l-2.19-2.222a.543.543 0 00-.596-.12.557.557 0 00-.339.513V10H8.727C7.324 10 6 11.168 6 12.222v-5C6 5.995 6.977 5 8.182 5h7.636C17.023 5 18 5.995 18 7.222V15c0 1.227-.977 2.222-2.182 2.222z" fill="currentColor"></path>
+    </svg>
+    <span class="">Work Chat</span> </div>
+  </li>
+  <li data-tooltipmark="trashnavitem">
+    <div class="">
+      <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M16.298 17.93l.494-8.846H7.208l.514 8.85c.05.88.78 1.57 1.664 1.57h5.248c.885 0 1.615-.692 1.664-1.575z" fill="currentColor"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M11.167 4.087a2.292 2.292 0 00-2.292 2.291v.205H5.75a.625.625 0 100 1.25h12.5a.625.625 0 100-1.25h-3.125v-.205a2.292 2.292 0 00-2.292-2.291h-1.666zm2.708 2.496v-.205c0-.575-.466-1.041-1.042-1.041h-1.666c-.576 0-1.042.466-1.042 1.041v.205h3.75z" fill="currentColor"></path>
+      </svg>
+      <span class="">Корзина</span> </div>
+    </li>
+    <li data-tooltipmark="upgradenavitem">
+      <div style="position: relative">
+        <button id="qa-SIDEBAR_UPGRADE_BUTTON" class="">
+          <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" class="">
+            <path d="M12 5a7 7 0 110 14 7 7 0 010-14z" fill="#FFF"></path>
+            <path d="M12 5a7 7 0 110 14 7 7 0 010-14zm-1.22 10.6c0 .18.12.32.3.38.17.06.37 0 .48-.14l3.04-3.67c.09-.1.12-.24.09-.37a.43.43 0 00-.24-.29l-1.32-.71V8.4c0-.19-.13-.32-.3-.38a.44.44 0 00-.5.14L9.3 11.83a.42.42 0 00.15.66l1.33.71v2.4z"></path>
+          </svg>
+          <span class="">Улучшить</span> </button>
+        </div>
+      </li>
+    </ul>
+    <li id="qa-NAV_POSITION_BOTTOM" class="">
+      <hr class="" />
+      <div data-tooltipmark="checklistnavitem">
+        <div class="">
+          <div class=""> <span class="">
+            <div style="position: relative">
+              <div class="">
+                <div>
+                  <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg" class="">
+                    <path d="M10.007 16.174a.75.75 0 01.75-.75h.494v-3.708h-.256a.75.75 0 010-1.5h1.006a.75.75 0 01.75.75v4.458h.483a.75.75 0 110 1.5h-2.477a.75.75 0 01-.75-.75zm.988-8.326a1 1 0 102 0 1 1 0 00-2 0z" fill="currentColor"></path>
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M12 19.5a7.5 7.5 0 100-15 7.5 7.5 0 000 15zm0 1.5a9 9 0 100-18 9 9 0 000 18z" fill="currentColor"></path>
+                  </svg>
+                </div>
+                <span class="">Нужна помощь?</span> </div>
+              </div>
+            </span> </div>
+          </div>
+        </div>
+      </li>
+      <li class="">
+        <div style="position: relative">
+          <button id="qa-NAV_FEEDBACK" class="">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24" class="">
+              <defs>
+                <path id="559a" d="M19.333 15.333a.667.667 0 01-.666-.666v-.477A7.321 7.321 0 0016.803 12h-6.47a2.333 2.333 0 000 4.667h1.334a3 3 0 003-3c0-.232-.039-.452-.092-.667h1.304c.071.323.121.655.121 1a4.667 4.667 0 01-4.667 4.667h-.666a4.667 4.667 0 110-9.334h6.112a7.312 7.312 0 001.888-2.21v-.456a.667.667 0 011.333 0v8a.667.667 0 01-.667.666zM6.091 10.667h-.758a.667.667 0 01-1.333 0V9.333a.667.667 0 011.333 0h2.122a5.694 5.694 0 00-1.364 1.334z"></path>
+              </defs>
+              <use fill="currentColor" fill-rule="nonzero" xlink:href="#559a"></use>
+            </svg>
+            <span class="">Отправить отзыв</span> </button>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <button type="button" class="">
+      <svg width="9" height="9" viewBox="0 0 9 9" fill="none" xmlns="http://www.w3.org/2000/svg" class="">
+        <path d="M8.836.97a.574.574 0 000-.803.557.557 0 00-.795 0L4.163 4.09A.567.567 0 004 4.5a.567.567 0 00.163.41l3.878 3.924c.22.221.575.221.795 0a.575.575 0 000-.805L5.5 4.5 8.836.97z" fill="currentColor"></path>
+        <path d="M4.836.97a.574.574 0 000-.803.557.557 0 00-.795 0L.163 4.09A.567.567 0 000 4.5a.567.567 0 00.163.41l3.878 3.924c.22.221.575.221.795 0a.575.575 0 000-.805L1.5 4.5 4.836.97z" fill="currentColor"></path>
+      </svg>
+    </button>
+  </nav>
+  <span>
+    <div class=""></div>
+  </div>
+</span> </div>
+<section class=""></section>
+<div class=""></div>
+</div>
+<div class="">
+  <section class="">
+    <div class="">
+      <div class="">
+        <section aria-label="Список заметок" class="">
+          <div class="">
+            <header class="">
+              <h1 id="qa-NOTES_HEADER" class="">Все заметки</h1>
+              <div class="">
+                <div class="">3028 заметок</span></div>
+                <div id="qa-NOTES_HEADER_SORT_TYPE">
+                  <div class="">
+                    <div class="">
+                      <div class=""> <span class="">
+                        <button aria-haspopup="false" class="">
+                          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M8.183 4.625a.625.625 0 00-1.25 0V17.87L5.067 16a.625.625 0 00-.884 0 .62.62 0 000 .88l2.933 2.94c.244.244.64.244.884 0l2.933-2.94a.62.62 0 000-.88.625.625 0 00-.884 0l-1.866 1.87V4.625zM11.625 5a.625.625 0 100 1.25h8.75a.625.625 0 100-1.25h-8.75zM11 9.375c0-.345.28-.625.625-.625h6.25a.625.625 0 110 1.25h-6.25A.625.625 0 0111 9.375zM11.625 12.5a.625.625 0 100 1.25h3.75a.625.625 0 100-1.25h-3.75z" fill="currentColor"></path>
+                          </svg>
+                        </button>
+                      </span> </div>
+                    </div>
+                  </div>
+                </div>
+                <div id="qa-TAG_FILTER" class="">
+                  <div class="">
+                    <div class=""> <span class="">
+                      <button aria-haspopup="false" class="">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="">
+                        </path>
+                      </svg>
+                    </button>
+                  </span> </div>
+                </div>
+              </div>
+            </div>
+          </header>
+          
+            <div class="">
+              <svg width="24" height="25" viewBox="0 0 24 25" xmlns="http://www.w3.org/2000/svg">
+                <path d="M6.488 3.302a2.75 2.75 0 00-2.75 2.75v12.5a2.75 2.75 0 002.75 2.75h6.645a5.466 5.466 0 01-.51-1.5H6.489c-.69 0-1.25-.56-1.25-1.25v-12.5c0-.69.56-1.25 1.25-1.25h9.5c.69 0 1.25.56 1.25 1.25v7.307a5.552 5.552 0 011.5-.013V6.052a2.75 2.75 0 00-2.75-2.75h-9.5z"></path>
+                <path d="M15.23 8.462a.75.75 0 01-.75.75H7.995a.75.75 0 110-1.5h6.485a.75.75 0 01.75.75zM14.48 12.962a.75.75 0 000-1.5H7.995a.75.75 0 000 1.5h6.485zM9.995 16.711a.75.75 0 000-1.5h-2a.75.75 0 000 1.5h2zM18.783 15.767a.75.75 0 10-1.5 0v2.285h-2.215a.75.75 0 000 1.5h2.215v2.215a.75.75 0 101.5 0v-2.215h2.285a.75.75 0 000-1.5h-2.285v-2.285z"></path>
+              </svg>
+              <span class="">Перетащите файлы, чтобы создать заметку с вложением в блокноте «_Inbox»</span> </div>
+              <div class="">
+                
+                  <div>
+                    
+                      <div class="">
+                        <div class="">
+                          <article id="" class="docs__item">
+                            
+                              
+                                
+                                  <h3 class="docs__title"> 
+                                    
+                                      ❤️ 👊 Техники базовых ударов, бросков и физподготовка
+                                      
+                                    
+                                  </span> </h3>
+                                  
+                                    <p class="docs__snippet">Как стать боксером за 10 уроков Кросс Джеб Хук Апперкот Лоу-кик Мае-гери Маваши-гери Удар локтем Удар коленом Базовые броски из вольной борьбы Удар головой Верт...</span></p>
+                                  
+                                
+                                <div class="">
+                                  <div class="">
+                                    <div id="f2ee5b5a-6eb2-0773-4db3-673222833822_qa-NOTES_SIDEBAR_NOTE_UPDATED" class="">19 нояб.</div>
+                                    <div class="">
+                                      <div class="">
+                                        <div class="">Единоборства</div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class=""></div>
+                              
+                            
+                            <div class="" />
+                          </div>
+                        </div>
+                      </article>
+                    
+                    <div class="">
+                      <article id="" class="docs__item">
+                        
+                          
+                            
+                              <h3 class="docs__title"> 
+                                
+                                  Техника бокса: Как бить кросс правильно – Karate.ru
+                                  
+                                
+                              </span> </h3>
+                              
+                                <p class="docs__snippet">Техника бокса: Как бить кросс правильно Кросс – это мощный удар, который следует использовать с осторожностью. В большинстве случаев это встречный удар или удар...</span></p>
+                              
+                            
+                            <div class="">
+                              <div class="">
+                                <div id="eaa211ed-16aa-4e36-b29c-d10d42a15625_qa-NOTES_SIDEBAR_NOTE_UPDATED" class="">19 нояб.</div>
+                                <div class="">
+                                  <div class="">
+                                    <div class="">Единоборства</div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class=""></div>
+                          
+                        
+                        <div class="" />
+                      </div>
+                    </div>
+                  </article>
+                
+                <div class="">
+                  <article id="" class="docs__item">
+                    
+                      
+                        
+                          <h3 class="docs__title"> 
+                            
+                              Как Бить Джеб
+                              
+                            
+                          </span> </h3>
+                          
+                            <p class="docs__snippet">Хотя джеб и не такой внушительный удар, как кросс, хук или апперкот,&nbsp;джеб более практичен, чем все остальные удары вместе взятые. Джеб может бить, толкать, отвл...</span></p>
+                          
+                        
+                        <div class="">
+                          <div class="">
+                            <div id="6d7796ae-2535-42de-8de4-761ba5e1e472_qa-NOTES_SIDEBAR_NOTE_UPDATED" class="">19 нояб.</div>
+                            <div class="">
+                              <div class="">
+                                <div class="">Единоборства</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class=""></div>
+                      
+                    
+                    <div class="" />
+                  </div>
+                </div>
+              </article>
+            
+            <div class="">
+              <article id="" class="docs__item">
+                
+                  
+                    <div class="">
+                      <h3 class="docs__title"> 
+                         <div class="" Links
+                        
+                      </h3>
+                    </span> </div>
+                    
+                      <p class="docs__snippet">The main content is not usually the first thing on a web page. Keyboard and screen reader users generally must navigate a long list of navigation links, sub-lis...</span></p>
+                    
+                  
+                  <div class="">
+                    <div class="">
+                      <div id="784b901c-25dc-4d83-9a1f-11b53b08b04c_qa-NOTES_SIDEBAR_NOTE_UPDATED" class="">17 нояб.</div>
+                      <div class="">
+                        <div class="">
+                          <div class="">Accessibility / WCAG / ARIA</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class=""></div>
+                
+              </div>
+            </div>
+          </article>
+        </div>
+        <div class="">
+          <article id="" class="docs__item">
+            
+              
+                
+                  <h3 class="docs__title"> 
+                    
+                      E-Commerce Tracking in Google Analytics - Tutorial
+                      
+                    
+                  </span> </h3>
+                  
+                    <p class="docs__snippet">What is Ecommerce Tracking in Google Analytics? Ecommerce tracking is a feature of Google Analytics through which you can track ecommerce data(like sales amount...</span></p>
+                  
+                
+                <div class="">
+                  <div class="">
+                    <div id="7e0e8872-4fd0-4733-9b86-6d0f36f5c754_qa-NOTES_SIDEBAR_NOTE_UPDATED" class="">17 нояб.</div>
+                    <div class="">
+                      <div class="">
+                        <div class="">Analytics</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class=""></div>
+              
+            
+            <div class="" />
+          </div>
+        </div>
+      </article>
+    </div>
+    <div class="">
+      <article id="" class="docs__item">
+        
+          
+            
+              <h3 class="docs__title"> 
+                
+                  Design Tokens: 10 Tips to Architect &amp; Implement Design Decisions for Everyone
+                  
+                
+              </span> </h3>
+              
+                <p class="docs__snippet">In a recent code review, my passions stirred as I walked through a Pill component’s style with a designer teammate. I could hardly contain my excitement: “Look....</span></p>
+              
+            
+            <div class="">
+              <div class="">
+                <div id="58894b76-581f-eda5-d361-3e66a06347b5_qa-NOTES_SIDEBAR_NOTE_UPDATED" class="">17 нояб.</div>
+                <div class="">
+                  <div class="">
+                    <div class="">Design systems</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class=""></div>
+          
+        
+      </div>
+    </article>
+  </div>
+  <div class="">
+    <article id="" class="docs__item">
+      
+        
+          
+            <h3 class="docs__title"> 
+              
+                Sketch Essential
+                
+              
+            </span> </h3>
+            
+              <p class="docs__snippet">1. Runner Pro Runneris probably one of the most popular plugins from Sketch. It empowers me to speed up my design and organisation processes. I won’t go into e...</span></p>
+            
+          
+          <div class="">
+            <div class="">
+              <div id="8fbfd6b2-1de3-49b4-80d8-675b7a36b6b6_qa-NOTES_SIDEBAR_NOTE_UPDATED" class="">17 нояб.</div>
+              <div class="">
+                <div class="">
+                  <div class="">Sketch</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=""></div>
+        
+      
+      <div class="" />
+    </div>
+  </div>
+</article>
+</div>
+<div class="">
+  <article id="" class="docs__item">
+    
+      
+        
+          <h3 class="docs__title"> 
+            
+              How to plan &amp; create a website or app. Not another design process
+              
+            
+          </span> </h3>
+          
+            <p class="docs__snippet">Картинку можно увеличить до размера </span></p>
+          
+        
+        <div class="">
+          <div class="">
+            <div id="181bb192-f54a-4b59-a477-9e84c0378356_qa-NOTES_SIDEBAR_NOTE_UPDATED" class="">17 нояб.</div>
+            <div class="">
+              <div class="">
+                <div class="">Project Management</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=""></div>
+      
+    
+    <div class="" />
+  </div>
+</div>
+</article>
+</div>
+<div class="">
+  <article id="" class="docs__item">
+    
+      
+        
+          <h3 class="docs__title"> 
+            
+              Overflow In CSS
+              
+            
+          </span> </h3>
+          
+            <p class="docs__snippet">In CSS, we can have control over an element when its content is too big to fit in. The property for that is overflow, which is a shorthand for overflow-xand ove...</span></p>
+          
+        
+        <div class="">
+          <div class="">
+            <div id="1a06d930-4b75-43f7-9808-e9dcb82aa0e2_qa-NOTES_SIDEBAR_NOTE_UPDATED" class="">17 нояб.</div>
+            <div class="">
+              <div class="">
+                <div class="">
+                  <div class="">Cards</div>
+                  <div class="">Modals &amp; Dialogs</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=""></div>
+        </div>
+      
+      <div class="" />
+    
+  </div>
+</article>
+</div>
+<div class="">
+  <article id="" class="docs__item">
+    
+      
+        
+          <h3 class="docs__title"> 
+            
+              Словарь моушн-дизайнера
+              
+            
+          </span> </h3>
+          
+            <p class="docs__snippet">Моушн-дизайн(от англ. motion design) – графика в движении, искусство оживления графики средствами анимации. Моушн-дизайн используется в титрах к фильмам, реклам...</span></p>
+          
+        
+        <div class="">
+          <div class="">
+            <div id="8681c75c-29dd-4857-a028-9d51662cf71b_qa-NOTES_SIDEBAR_NOTE_UPDATED" class="">17 нояб.</div>
+            <div class="">
+              <div class="">
+                <div class="">Монтаж</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=""></div>
+      
+    
+  </div>
+</article>
+</div>
+<div class="">
+  <article id="" class="docs__item">
+    
+      
+        
+          <h3 class="docs__title"> 
+            
+              SCOPE проекта
+              
+            
+          </span> </h3>
+          
+            <p class="docs__snippet">Вкратце, SCOPE проекта - это содержание проекта, т.е. концепция проекта, где должна быть описана цель проекта, шаги для её достижения, целевая аудитория. Инстру...</span></p>
+          
+        
+        <div class="">
+          <div class="">
+            <div id="dc39a5de-7b7e-4f90-b5ec-46d44828f5ae_qa-NOTES_SIDEBAR_NOTE_UPDATED" class="">17 нояб.</div>
+            <div class="">
+              <div class="">
+                <div class="">Project Management</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=""></div>
+      
+    
+    <div class="" />
+  </div>
+</div>
+</article>
+</div>
+<div class="">
+  <article id="" class="docs__item">
+    
+      
+        
+          <h3 class="docs__title"> 
+            
+              Trick: Get macOS Big Sur to work on older Macs – Archyde
+              
+            
+          </span> </h3>
+          
+            <p class="docs__snippet">Trick: Get macOS Big Sur to work on older Macs June 28, 2020by archyde Reddit has brought together numerous users who want to install Big Sur on an old Mac. App...</span></p>
+          
+        
+        <div class="">
+          <div class="">
+            <div id="0ca874f5-274d-443a-9522-592589eac919_qa-NOTES_SIDEBAR_NOTE_UPDATED" class="">15 нояб.</div>
+            <div class="">
+              <div class="">
+                <div class="">macOS</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=""></div>
+      
+    
+  </div>
+</article>
+</div>
+<div class="">
+  <article id="" class="docs__item">
+    
+      
+        
+          <h3 class="docs__title"> 
+            
+              Навигация с клавиатуры в JavaScript - Доступность
+              
+            
+          </span> </h3>
+          
+            <p class="docs__snippet">Как сделать для JavaScript-виджетов на основе span или div возможность навигации с клавиатуры. Обзор Веб-приложения часто используют JavaScript, чтобы имитирова...</span></p>
+          
+        
+        <div class="">
+          <div class="">
+            <div id="3672d6bf-7bbc-4a29-bac1-336fde4fa782_qa-NOTES_SIDEBAR_NOTE_UPDATED" class="">14 нояб.</div>
+            <div class="">
+              <div class="">
+                <div class="">Accessibility / WCAG / ARIA</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=""></div>
+      
+    
+  </div>
+</article>
+</div>
+<div class="">
+  <article id="" class="docs__item">
+    
+      
+        
+          <h3 class="docs__title"> 
+            
+              🔥 Как выбрать внешний монитор для MacBook и не пожалеть о покупке
+              
+            
+          </span> </h3>
+          
+            <p class="docs__snippet">Как выбрать внешний монитор для MacBook и не пожалеть о покупке Расскажу, почему изображение на&nbsp;внешнем мониторе MacBook бываем мелким, крупным и&nbsp;мутным. И&nbsp;как ...</span></p>
+          
+        
+        <div class="">
+          <div class="">
+            <div id="e0b76d3d-1166-4a1c-be68-47f4661b5270_qa-NOTES_SIDEBAR_NOTE_UPDATED" class="">12 нояб.</div>
+            <div class="">
+              <div class="">
+                <div class="">Macbook</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=""></div>
+      
+    
+    <div class="" />
+  </div>
+</div>
+</article>
+</div>
+<div class="">
+  <article id="" class="docs__item">
+    
+      
+        
+          <h3 class="docs__title">😎</h3>
+          
+            <p class="docs__snippet">Monica Roccafore, Anita Dark, Kim Halsey Stoya &amp; Sasha Grey https://www.porn4u2hub.com/stoya-and-sasha-grey-fucking-tommy-gunn/ Valerie De Winter https://www.x...</span></p>
+          
+        
+        <div class="">
+          <div class="">
+            <div id="e8c89899-f692-4395-9ccf-e5ca5c13382b_qa-NOTES_SIDEBAR_NOTE_UPDATED" class="">11 нояб.</div>
+            <div class="">
+              <div class="">
+                <div class="">Intimate</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=""></div>
+      
+    
+  </div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="">
+  <div class=""></div>
+</div>
+<div class=""></div>
+</div>
+</div>
+</div>
+</section>
+<span>
+  <div class=""></div>
+</div>
+</span>
+</div>
+<main class="">
+  <div class="">
+    <div class="">
+      <button aria-label="Развернуть заметку" class="">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="">
+        </path>
+      </svg>
+    </button>
+    <div class=""></div>
+    <div class="">
+      <button type="button" class=""> <span class="">
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" class="">
+        </path>
+      </svg>
+    </span><span id="qa-NOTE_PARENT_NOTEBOOK_BTN" class="">Main</span> </button>
+    <div class=""></div>
+  </div>
+</div>
+<div class="">
+  <div class="">Только вы</div>
+  <span>
+    <button id="qa-SHARE_BUTTON" data-tooltipmark="notespagesharebutton" class="">Поделиться</button>
+  </span>
+  <div role="button" aria-haspopup="menu" data-tooltipmark="noteactionsdropdown">
+    <div class="">
+      <div class=""> <span class="">
+        <button aria-haspopup="false" class="">
+          <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" id="qa-NOTE_ACTIONS" class="">
+          </path>
+        </svg>
+      </button>
+    </span> </div>
+  </div>
+</div>
+</div>
+</div>
+<div id="qa-NOTE_EDITOR" class="">
+  <div class="">
+    <div class="">Последние изменения: 19 нояб. 2020 г.</div>
+  </div>
+  <div class="">
+    <div class="">
+      <div class=""> <span id="qa-INSERT_LABEL" class="">
+        <div class="">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="">
+          </path>
+        </svg>
+        <div class="">Вставка</div>
+        <svg viewBox="0 0 8 24" xmlns="http://www.w3.org/2000/svg" class="">
+        </path>
+      </svg>
+    </div>
+  </span> </div>
+</div>
+<input id="qa-ATTACH_FILE_DIALOG_FILE_INPUT" class="" />
+</div>
+</div>
+<div class="">
+  <div class=""></div>
+  <iframe aria-label="Редактор заметки" title="Редактор заметки" id="qa-COMMON_EDITOR_IFRAME" class=""></iframe>
+  <div class=""></div>
+</div>
+</div>
+<div id="qa-NOTE_FOOTER" class="">
+  <div id="qa-REMINDER_FOOTER_DATE">
+    <div class="">
+      <div class="">
+        <div class=""> <span class="">
+          <button aria-haspopup="false" class="">
+            <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg" id="qa-CREATE_REMINDER_BTN" class="">
+            </path>
+          </svg>
+        </button>
+      </span> </div>
+    </div>
+  </div>
+</div>
+<div class="">
+  <div data-tooltipmark="notespagetooltipcreationicon">
+    <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg" id="qa-ADD_TAG_BTN" class="">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M5 10.7a2 2 0 01.442-1.255l5-6.21a2 2 0 013.116 0l5 6.21A2 2 0 0119 10.699v3.052a5.5 5.5 0 00-5.002 7.238H7a2 2 0 01-2-2V10.7zm9-.654a1.999 1.999 0 01-2 1.998 1.999 1.999 0 112-1.998z" fill="currentColor"></path>
+      <path d="M19.965 16.254a.75.75 0 00-1.5 0v2.285H16.25a.75.75 0 000 1.5h2.215v2.215a.75.75 0 001.5 0V20.04h2.285a.75.75 0 000-1.5h-2.285v-2.285z" fill="currentColor"></path>
+    </svg>
+  </div>
+  <div class="">
+    <div class=""></div>
+    <div class="">
+      <div class=""> <span>
+        <button id="qa-TAG_NAME_Единоборства" class=""> <span class="">Единоборства</span>
+          <div class="">
+            <div class=""> <span class="">
+              <svg width="14" height="14" fill="none" xmlns="http://www.w3.org/2000/svg" class="">
+              </path>
+            </svg>
+          </span> </div>
+        </div>
+      </button>
+      <span data-tooltipmark="pillinginput">
+        <div class="">
+          <input id="qa-TAG_INPUT" tabindex="0" maxlength="100" autocomplete="off" value="" style="box-sizing: content-box; width: 100%" />
+          <div class=""></div>
+        </div>
+      </span></span> </div>
+    </div>
+  </div>
+  <div class=""></div>
+</div>
+<div class="">
+  <div class="">
+    <div>
+      <div class="">Все изменения сохранены</div>
+    </div>
+  </div>
+  <div class="">
+    <div class=""> <span id="qa-INSERT_LABEL" class="">Новый редактор</div>
+    </span> </div>
+  </div>
+</div>
+</div>
+</main>
+<div class=""></div>
+</div>
+</section>
+</div>
+<div class=""></div>
+<iframe title="Информационные письма Evernote" id="qa-COMM_ENGINE_IFRAME" class=""></iframe>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contextMenuPortal"></div>
 </body>
 </html>

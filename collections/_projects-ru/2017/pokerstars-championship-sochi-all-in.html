@@ -15,7 +15,47 @@ classes: page is-projects has-dark-jumbotron
 hero: true
 date: 2017-06-16
 style: |
-  .jumbotron.base { background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('!SITE_ASSETS!/img/clients/casino-sochi/2017-06-14-poker.jpg'); background-repeat: no-repeat, no-repeat; background-size: auto 100%, 1216px auto; } @media (min-width: 768px) { .jumbotron.base { padding-top: 17.5rem; } } @media (min-width: 992px) { .jumbotron.base { background-image: url('!SITE_ASSETS!/img/clients/casino-sochi/2017-06-14-poker.jpg'), url('!SITE_ASSETS!/img/jumbotron/bg-jumbotron.svg'); background-repeat: no-repeat, repeat; background-size: 1216px 100%, auto auto; } } /* W/ gradient patch */ .section.press-tour { background-color: #040301; background-image: linear-gradient(rgba(4, 3, 1, 0), #040301), url('!SITE_ASSETS!/img/clients/casino-sochi/2017-06-14-press-tour.jpg'); background-position: center 359px, center top; background-repeat: no-repeat; background-size: 100% 120px, auto auto; padding-bottom: 6.6rem; } /* W/o gradient patch */ @media (min-width: 992px) { .section.press-tour { background-image: url('!SITE_ASSETS!/img/clients/casino-sochi/2017-06-14-press-tour.jpg'); background-position: center bottom; background-size: auto auto; } }
+  .jumbotron.base {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('!SITE_ASSETS!/img/clients/casino-sochi/2017-06-14-poker.jpg');
+    background-repeat: no-repeat, no-repeat;
+    background-size: auto 100%, 1216px auto;
+  }
+  @media (min-width: 768px) {
+    .jumbotron.base {
+      padding-top: 17.5rem;
+    }
+  }
+  @media (min-width: 992px) {
+    .jumbotron.base {
+      background-image: url('!SITE_ASSETS!/img/clients/casino-sochi/2017-06-14-poker.jpg'), url('!SITE_ASSETS!/img/jumbotron/bg-jumbotron.svg');
+      background-repeat: no-repeat, repeat;
+      background-size: 1216px 100%, auto auto;
+    }
+  }
+  .section.forty-four .row + .row {
+    margin-top: 4.8rem;
+  }
+  @media (min-width: 992px) {
+    .section.forty-four .mosaic + .col-lg-6 {
+      padding-left: 4.8rem;
+    }
+  }
+  .section.press-tour {
+    background-color: #040301;
+    background-image: linear-gradient(rgba(4, 3, 1, 0), #040301), url('!SITE_ASSETS!/img/clients/casino-sochi/2017-06-14-press-tour.jpg');
+    background-position: center 359px, center top;
+    background-repeat: no-repeat;
+    background-size: 100% 120px, auto auto;
+    padding-bottom: 6.6rem;
+  }
+  @media (min-width: 992px) {
+    .section.press-tour {
+      background-image: url('!SITE_ASSETS!/img/clients/casino-sochi/2017-06-14-press-tour.jpg');
+      background-position: center bottom;
+      background-size: auto auto;
+    }
+  }
+
 ---
 
 <section class="jumbotron base">

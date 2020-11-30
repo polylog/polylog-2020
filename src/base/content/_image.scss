@@ -52,4 +52,12 @@
   }
 } // pic-deputy
 
+// -----------------------------------------------------------------------------
+// Image in section
+// -----------------------------------------------------------------------------
 
+.section > img {
+  border-radius: $border-radius;
+  box-shadow: $box-shadow-z3;
+  margin-bottom: $size-line;
+}

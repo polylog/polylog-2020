@@ -55,14 +55,27 @@
 .sec-composite,
 .sec-illustrated-r,
 .sec-illustrated-l {
-  > img {
+  > img,
+  [role='img'] {
     display: none;
 
     @include media-breakpoint-up(lg) {
       border-radius: $border-radius + .1rem;
-      box-shadow: 0 1px 0 rgba(0, 0, 0, .32);
       display: block;
       margin-bottom: $spacer-y;
+    } // lg
+  }
+}
+
+.sec-composite,
+.sec-illustrated-r,
+.sec-illustrated-l {
+  > img:not([class]),
+  > [role='img'] {
+    @include media-breakpoint-up(lg) {
+      box-shadow:
+        0 1px 0 rgba(0, 0, 0, .12),
+        $box-shadow-z3;
     } // lg
   }
 }
@@ -80,15 +93,23 @@
 // Vertical alignment
 @include media-breakpoint-up(lg) {
   .sec-illustrated-r img,
-  .sec-illustrated-l img {
+  .sec-illustrated-l img,
+  .sec-illustrated-r [role='img'],
+  .sec-illustrated-l [role='img'] {
     position: absolute;
     top: 50%; // 1
     transform: translateY(-50%); // 1
     max-width: 38.37%;
   }
 
-  .sec-illustrated-r img { right: 4.65%; }
-  .sec-illustrated-l img { left: 4.65%; }
+  .sec-illustrated-r img,
+  .sec-illustrated-r [role='img'] {
+    right: 4.65%;
+  }
+  .sec-illustrated-l img,
+  .sec-illustrated-l [role='img'] {
+    left: 4.65%;
+  }
 }
 
 @include media-breakpoint-up(md) {
@@ -138,15 +159,15 @@
 // Blockquotes Illustrated
 // -------------------------------------
 
-blockquote.sec-illustrated-r,
-blockquote.sec-illustrated-l {
-  padding-right: 24px;
-  padding-left: 24px;
+// blockquote.sec-illustrated-r,
+// blockquote.sec-illustrated-l {
+//   padding-right: 24px;
+//   padding-left: 24px;
 
-  img {
-    display: none;
-  }
-}
+//   img {
+//     display: none;
+//   }
+// }
 
 // @include media-breakpoint-up(md) {
 //   blockquote.sec-illustrated-l {

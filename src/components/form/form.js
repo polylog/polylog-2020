@@ -5,7 +5,6 @@
  */
 
 jQuery(document).ready(($) => {
-
   const $subscriptionBtn = $('.subscription .form-submit, .webform-client-form-3601 .form-submit');
   const $disclaimerToolptip = $('.subscription .form-disclaimer, .webform-client-form-3601 .form-disclaimer');
 
@@ -19,8 +18,8 @@ jQuery(document).ready(($) => {
   $('.section-blog.page-thanks .subscription input, .section-blog.page-thanks .subscription button').prop('disabled', true);
 
   // Togle filter button
-  $('.form-select').change(function enableFilterButton(){
-    $(this).closest('form').find('.form-type-button').removeClass('disabled');  // eslint-disable-line no-invalid-this
+  $('.form-select').change(function enableFilterButton() {
+    $(this).closest('form').find('.form-type-button').removeClass('disabled'); // eslint-disable-line no-invalid-this
   });
 
   // Show disclaimer toolptip on subscription
@@ -43,28 +42,26 @@ jQuery(document).ready(($) => {
   /**
    * TOGGLE FUNDRAISING FIELDSET
    */
-  function fundraisingDetails () {
-    const $services = $('#edit-submitted-form-services');
-    const $fieldsetFundraising = $('.webform-component--fieldset-fundraising');
-    const $fundraisingRequired = $('.webform-component--fieldset-fundraising .optional-required');
+  function fundraisingDetails() {
+    const $services = $('#form-services');
+    const $fieldsetFundraising = $('.form__fieldset.is-fundraising');
+    const $fundraisingRequired = $('.form__fieldset.is-fundraising .optional-required');
 
-    if($services.val() === 'fundraising' && $fieldsetFundraising.is(':hidden')) {
-      $fundraisingRequired.prop('required',true);
+    if (($services.val() === 'Fundraising' || $services.val() === 'Фандрайзинг') && $fieldsetFundraising.is(':hidden')) {
+      $fundraisingRequired.prop('required', true);
       $fieldsetFundraising.slideDown(1000);
-    } else if ($services.val() !== 'fundraising' && $fieldsetFundraising.is(':visible')) {
+    } else if (($services.val() !== 'Fundraising' || $services.val() !== 'Фандрайзинг') && $fieldsetFundraising.is(':visible')) {
       $fundraisingRequired.removeProp('required');
       $fieldsetFundraising.slideUp(1000);
     }
   }
 
   // Hide fieldset on full page
-  $('.webform-component--fieldset-fundraising').hide();
+  $('.form__fieldset.is-fundraising').hide();
 
   // Toggle fieldset in modal
-  $('.modal-content').on('change', '#edit-submitted-form-services', fundraisingDetails);
+  // $('.modal-content').on('change', '#form-services', fundraisingDetails);
 
   // Toggle fieldset on full page
-  $('#edit-submitted-form-services').on('change', fundraisingDetails);
+  $('#form-services').on('change', fundraisingDetails);
 });
-
-

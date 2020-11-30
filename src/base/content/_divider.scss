@@ -41,11 +41,12 @@ hr.hidden {
 
 // Boxes are at the top and title at the bottom.
 .box2title {
-  margin: ($spacer-y * 3) auto 0;
+  display: none;
+  // margin: ($spacer-y * 3) auto 0;
 
-  @include media-breakpoint-up(md) {
-    margin: (3 * $spacer-y - .1rem) auto (3 * $spacer-y - .2rem);
-  } // md
+  // @include media-breakpoint-up(md) {
+  //   margin: (3 * $spacer-y - .1rem) auto (3 * $spacer-y - .2rem);
+  // } // md
 }
 
 .box2title.hidden {
@@ -56,9 +57,10 @@ hr.hidden {
 
 
 .tiles2title.hidden {
-  @include media-breakpoint-up(md) {
-    margin: (3 * $spacer-y - 1.4rem) auto 0;
-  } // md
+  display: none;
+  // @include media-breakpoint-up(md) {
+  //   margin: (3 * $spacer-y - 1.4rem) auto 0;
+  // } // md
 }
 
 // -------------------------------------
@@ -83,27 +85,30 @@ hr.hidden {
 
 // Text blocks are at the top and bottom.
 .text2title {
-  margin: ($spacer-y * 3 - .6rem) auto 0; // 1
+  display: none;
+  // margin: ($spacer-y * 3 - .6rem) auto 0; // 1
 
-  @include media-breakpoint-up(md) {
-    margin: (3 * $spacer-y - .7rem) auto (3 * $spacer-y - .2rem);
-  }
+  // @include media-breakpoint-up(md) {
+  //   margin: (3 * $spacer-y - .7rem) auto (3 * $spacer-y - .2rem);
+  // }
 }
 
 // Text blocks are at the top and bottom.
 .text2cta {
-  margin: 2.1rem auto 0;
+  display: none;
+  // margin: 2.1rem auto 0;
 
-  @include media-breakpoint-up(md) {
-    margin: 6.5rem auto .3rem;
-  }
+  // @include media-breakpoint-up(md) {
+  //   margin: 6.5rem auto .3rem;
+  // }
 }
 
 // Text blocks are at the top and bottom.
 .testimonials2cta {
-  margin: ($spacer-y * 3 - .6rem) auto 0; // 1
+  display: none;
+  // margin: ($spacer-y * 3 - .6rem) auto 0; // 1
 
-  @include media-breakpoint-up(md) {
-    margin: (2 * $spacer-y - .1rem) auto ($spacer-y + .3rem);
-  }
+  // @include media-breakpoint-up(md) {
+  //   margin: (2 * $spacer-y - .1rem) auto ($spacer-y + .3rem);
+  // }
 }

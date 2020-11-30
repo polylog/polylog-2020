@@ -36,16 +36,19 @@
   }
 }
 
-
+// button.btn.social.facebook > span.fb-like > span(dynamic) > iframe
 .btn.social.facebook {
   background: $color-facebook;
-  // background-image: linear-gradient(rgb(76, 104, 185) 22%, rgb(59, 85, 161) 78%);
-  // opacity: 1;
-  width: 102px;
+  // > span {
+  //   transform: translate(-1.4rem, .1rem);
+  // }
+}
 
-  > span {
-    transform: translate(-1.4rem, .1rem);
-  }
+.btn.social.facebook,
+.fb-like > span,
+.fb-like > span > iframe {
+  // Override facebook inline styles
+  width: 102px !important;
 }
 
 .btn.social.vk {

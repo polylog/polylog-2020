@@ -63,7 +63,6 @@
   text-align: left;
   padding: 0;
   flex-basis: auto;
-  max-width: none;
 }
 
 .form__fieldset.is-fundraising legend,
@@ -71,7 +70,8 @@
   padding: 1.3rem 0 0 32px;
 }
 
-.webform-component--fieldset-fundraising .fieldset-description {
+.webform-component--fieldset-fundraising .fieldset-description,
+.form__fieldset.is-fundraising .fieldset-description {
   padding: 0 0 1.4rem 32px;
 }
 

@@ -83,7 +83,7 @@
 
   // TODO: Vertical rhythm fine tuning
   &.compact {
-    line-height: 1;
+    line-height: (32 / 24);
     padding-bottom: 1.4rem;
   }
 

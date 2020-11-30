@@ -13,6 +13,10 @@
   width: 216px;
   max-width: 216px; // 1
   height: 252px;
+
+  + .tile.metric {
+    margin-top: ($size-line / 2);
+  }
 }
 
 

@@ -16,7 +16,62 @@ classes: page is-projects has-dark-jumbotron
 hero: true
 date: 2017-06-04
 style: |
-  .jumbotron.base { background-repeat: no-repeat; } @media (max-width: 1015px) { .jumbotron.base { background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("!SITE_ASSETS!/img/clients/sberbank/2017-08-02-jumbotron.jpg"); background-size: auto auto; } } @media (min-width: 768px) { .jumbotron.base { padding-top: 16rem; } } @media (min-width: 1016px) { .jumbotron.base { background-image: radial-gradient(circle at 1110px 50%, transparent 10%, rgba(0, 0, 0, 0.3) 30%, rgba(0, 0, 0, 0.6) 60%), linear-gradient(rgba(0, 0, 0, 0.6) 0, rgba(0, 0, 0, 0.3) 30%, transparent 100%), url("!SITE_ASSETS!/img/clients/sberbank/2017-08-02-jumbotron-lg.jpg"); background-position: left top, left top, center top; background-size: 1730px 672px, 1730px 400px, 1730px 672px; padding-top: 18.4rem; } } .section.conference { background-color: #233644; background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), linear-gradient(rgba(35, 54, 68, 0) 0, rgba(35, 54, 68, 0.5) 70%, #233644 100%), url("!SITE_ASSETS!/img/clients/sberbank/2017-08-02-decoration.jpg"); background-position: center top, center 336px, center top; background-repeat: no-repeat; background-size: auto auto, 100% 240px, auto auto; padding-bottom: 6.6rem; } @media (min-width: 1016px) { .section.conference { background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("!SITE_ASSETS!/img/clients/sberbank/2017-08-02-decoration.jpg"); background-position: center top; background-size: auto auto; } } @media (min-width: 1016px) { .section.management { border-bottom: 1px solid #dde0e4; } } .management figure.col-lg-6, .management figure.main-content.base, .management figure.main-content.second { margin-bottom: 0; } .management .section-img { margin-left: auto; }
+  .jumbotron.base {
+    background-repeat: no-repeat;
+  }
+  @media (max-width: 1015px) {
+    .jumbotron.base {
+      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('!SITE_ASSETS!/img/clients/sberbank/2017-08-02-jumbotron.jpg');
+      background-size: auto auto;
+    }
+  }
+  @media (min-width: 768px) {
+    .jumbotron.base {
+      padding-top: 16rem;
+    }
+  }
+  @media (min-width: 1016px) {
+    .jumbotron.base {
+      background-image: radial-gradient(circle at 1110px 50%, transparent 10%, rgba(0, 0, 0, 0.3) 30%, rgba(0, 0, 0, 0.6) 60%), linear-gradient(rgba(0, 0, 0, 0.6) 0, rgba(0, 0, 0, 0.3) 30%, transparent 100%), url('!SITE_ASSETS!/img/clients/sberbank/2017-08-02-jumbotron-lg.jpg');
+      background-position: left top, left top, center top;
+      background-size: 1730px 672px, 1730px 400px, 1730px 672px;
+      padding-top: 18.4rem;
+    }
+  }
+  .section.conference {
+    background-color: #233644;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), linear-gradient(rgba(35, 54, 68, 0) 0, rgba(35, 54, 68, 0.5) 70%, #233644 100%), url('!SITE_ASSETS!/img/clients/sberbank/2017-08-02-decoration.jpg');
+    background-position: center top, center 336px, center top;
+    background-repeat: no-repeat;
+    background-size: auto auto, 100% 240px, auto auto;
+    padding-bottom: 6.6rem;
+  }
+  @media (min-width: 1016px) {
+    .section.conference {
+      background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('!SITE_ASSETS!/img/clients/sberbank/2017-08-02-decoration.jpg');
+      background-position: center top;
+      background-size: auto auto;
+    }
+  }
+  @media (min-width: 1016px) {
+    .section.management {
+      border-bottom: 1px solid #dde0e4;
+      padding-bottom: 0;
+    }
+
+    .section.management h2 {
+      margin-bottom: 2.4rem;
+    }
+  }
+  .management figure.col-lg-6,
+  .management figure.main-content.base,
+  .management figure.main-content.second {
+    margin-bottom: 0;
+  }
+  .management .section-img {
+    margin-left: auto;
+  }
+
 ---
 
 <section class="jumbotron base">

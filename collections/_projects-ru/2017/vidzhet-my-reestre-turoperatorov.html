@@ -15,7 +15,42 @@ classes: page is-projects has-dark-jumbotron
 hero: true
 date: 2017-10-20
 style: |
-  .jumbotron.base { background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("!SITE_ASSETS!/img/clients/rostourism/2017-10-18-jumbotron.jpg"); background-repeat: no-repeat; } @media (min-width: 768px) { .jumbotron.base { padding-top: 20.8rem; } } @media (min-width: 1016px) { .jumbotron.base { background-image: url("!SITE_ASSETS!/img/clients/rostourism/2017-10-18-jumbotron-lg.jpg"); } } .section.final { background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("!SITE_ASSETS!/img/clients/rostourism/2017-10-18-sunset.jpg") no-repeat calc(50% + 240px) top, #100b06; margin-bottom: 2.7rem; } @media (min-width: 1016px) { .section.final { background: #100b06 url("!SITE_ASSETS!/img/clients/rostourism/2017-10-18-sunset.jpg") no-repeat center top; padding-top: 69.6rem; padding-bottom: 4.8rem; } } @media (min-width: 1016px) { .final .blockquote { margin-top: -1.2rem; padding-top: 3.6rem; } }
+  .jumbotron.base {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('!SITE_ASSETS!/img/clients/rostourism/2017-10-18-jumbotron.jpg');
+    background-repeat: no-repeat;
+  }
+  @media (min-width: 768px) {
+    .jumbotron.base {
+      padding-top: 20.8rem;
+    }
+  }
+  @media (min-width: 1016px) {
+    .jumbotron.base {
+      background-image: url('!SITE_ASSETS!/img/clients/rostourism/2017-10-18-jumbotron-lg.jpg');
+    }
+  }
+  .section.final {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('!SITE_ASSETS!/img/clients/rostourism/2017-10-18-sunset.jpg') no-repeat calc(50% + 240px) top, #100b06;
+    margin-top: 2.4rem;
+    margin-bottom: 2.7rem;
+  }
+  @media (min-width: 1016px) {
+    .section.final {
+      background: #100b06 url('!SITE_ASSETS!/img/clients/rostourism/2017-10-18-sunset.jpg') no-repeat center top;
+      padding-top: 69.6rem;
+      padding-bottom: 4.8rem;
+    }
+  }
+  @media (min-width: 1016px) {
+    .final .blockquote {
+      margin-top: -1.2rem;
+      padding-top: 3.6rem;
+    }
+  }
+  .row-like.two-lg.columns img {
+    margin-bottom: 2.4rem;
+  }
+
 ---
 
 <section class="jumbotron base">
